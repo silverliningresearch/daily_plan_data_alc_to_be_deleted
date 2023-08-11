@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "11-08-2023 21:10:51"
+        "download_time": "11-08-2023 22:15:50"
     },
     {
         "InterviewId": "15848",
@@ -29921,12 +29921,60 @@ let interview_data_raw = `[
         "AirlineCode": "Lh2446"
     },
     {
+        "InterviewId": "20405",
+        "InterviewEndDate": "2023-08-11 19:26:27",
+        "InterviewState": "Complete",
+        "Flight": "En8258",
+        "Dest": "TRN",
+        "AirlineCode": "En8258"
+    },
+    {
         "InterviewId": "20407",
         "InterviewEndDate": "2023-08-11 18:52:10",
         "InterviewState": "Complete",
         "Flight": "Lh2446",
         "Dest": "CPH",
         "AirlineCode": "Lh2446"
+    },
+    {
+        "InterviewId": "20408",
+        "InterviewEndDate": "2023-08-11 19:15:43",
+        "InterviewState": "Complete",
+        "Flight": "En8258",
+        "Dest": "TRN",
+        "AirlineCode": "En8258"
+    },
+    {
+        "InterviewId": "20409",
+        "InterviewEndDate": "2023-08-11 19:25:49",
+        "InterviewState": "Complete",
+        "Flight": "En8258",
+        "Dest": "TRN",
+        "AirlineCode": "En8258"
+    },
+    {
+        "InterviewId": "20410",
+        "InterviewEndDate": "2023-08-11 19:30:37",
+        "InterviewState": "Complete",
+        "Flight": "En8258",
+        "Dest": "TRN",
+        "AirlineCode": "En8258"
+    },
+    {
+        "InterviewId": "20411",
+        "InterviewEndDate": "2023-08-11 19:38:37",
+        "InterviewState": "Complete",
+        "Flight": "En8258",
+        "Dest": "TRN",
+        "AirlineCode": "En8258"
+    },
+    {
+        "InterviewId": "20412",
+        "InterviewEndDate": "2023-08-11 19:45:08",
+        "InterviewState": "Complete",
+        "Flight": "En8258",
+        "Dest": "TRN",
+        "AirlineCode": "En8258"
     }
 ]    
 
