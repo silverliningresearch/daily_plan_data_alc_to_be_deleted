@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "11-08-2023 19:01:06"
+        "download_time": "11-08-2023 20:05:58"
     },
     {
         "InterviewId": "15848",
@@ -29793,6 +29793,14 @@ let interview_data_raw = `[
         "AirlineCode": "Lh121"
     },
     {
+        "InterviewId": "20387",
+        "InterviewEndDate": "2023-08-11 17:05:35",
+        "InterviewState": "Complete",
+        "Flight": "Lh12152",
+        "Dest": "FRA",
+        "AirlineCode": "Lh12152"
+    },
+    {
         "InterviewId": "20388",
         "InterviewEndDate": "2023-08-11 17:00:14",
         "InterviewState": "Complete",
@@ -29807,6 +29815,54 @@ let interview_data_raw = `[
         "Flight": "Lh121",
         "Dest": "FRA",
         "AirlineCode": "Lh121"
+    },
+    {
+        "InterviewId": "20392",
+        "InterviewEndDate": "2023-08-11 17:13:08",
+        "InterviewState": "Complete",
+        "Flight": "Lh121",
+        "Dest": "FRA",
+        "AirlineCode": "Lh121"
+    },
+    {
+        "InterviewId": "20393",
+        "InterviewEndDate": "2023-08-11 17:24:37",
+        "InterviewState": "Complete",
+        "Flight": "Lh121",
+        "Dest": "FRA",
+        "AirlineCode": "Lh121"
+    },
+    {
+        "InterviewId": "20394",
+        "InterviewEndDate": "2023-08-11 17:27:59",
+        "InterviewState": "Complete",
+        "Flight": "Lh121",
+        "Dest": "FRA",
+        "AirlineCode": "Lh121"
+    },
+    {
+        "InterviewId": "20395",
+        "InterviewEndDate": "2023-08-11 17:50:00",
+        "InterviewState": "Complete",
+        "Flight": "Lh123",
+        "Dest": "FRA",
+        "AirlineCode": "Lh123"
+    },
+    {
+        "InterviewId": "20396",
+        "InterviewEndDate": "2023-08-11 17:50:52",
+        "InterviewState": "Complete",
+        "Flight": "Lh123",
+        "Dest": "FRA",
+        "AirlineCode": "Lh123"
+    },
+    {
+        "InterviewId": "20397",
+        "InterviewEndDate": "2023-08-11 17:50:23",
+        "InterviewState": "Complete",
+        "Flight": "Lh2446",
+        "Dest": "CPH",
+        "AirlineCode": "Lh2446"
     }
 ]    
 
