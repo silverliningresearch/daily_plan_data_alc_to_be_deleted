@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "12-08-2023 16:45:54"
+        "download_time": "12-08-2023 17:50:53"
     },
     {
         "InterviewId": "67210",
@@ -120254,6 +120254,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 1024",
         "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "82737",
+        "InterviewEndDate": "2023-08-12 15:38:09",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "82738",
+        "InterviewEndDate": "2023-08-12 15:38:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "82739",
+        "InterviewEndDate": "2023-08-12 15:37:52",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "82740",
+        "InterviewEndDate": "2023-08-12 15:37:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "82741",
+        "InterviewEndDate": "2023-08-12 15:37:30",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "82744",
+        "InterviewEndDate": "2023-08-12 15:47:36",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "82745",
+        "InterviewEndDate": "2023-08-12 15:47:13",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "82746",
+        "InterviewEndDate": "2023-08-12 15:49:38",
+        "InterviewState": "Complete",
+        "Flight": "FR 5248",
+        "Dest": "CAG",
         "AirlineCode": "FR"
     }
 ]    
