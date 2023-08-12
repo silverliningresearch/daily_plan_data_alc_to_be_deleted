@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G23",
-        "download_time": "12-08-2023 21:00:55"
+        "download_time": "12-08-2023 22:05:54"
     },
     {
         "aodbUniqueId": "20230812165154",
@@ -1231,6 +1231,16 @@ let MUC_Gate_Info = `[
         "Gate": "K03"
     },
     {
+        "aodbUniqueId": "20230812165096",
+        "Date": "12-08-2023",
+        "Flight": "LH 2558",
+        "Dest": "TBS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H08"
+    },
+    {
         "aodbUniqueId": "20230812164795",
         "Date": "12-08-2023",
         "Flight": "KL 1798",
@@ -1929,16 +1939,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K03"
-    },
-    {
-        "aodbUniqueId": "20230812165096",
-        "Date": "12-08-2023",
-        "Flight": "LH 2558",
-        "Dest": "TBS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H08"
     },
     {
         "aodbUniqueId": "20230812165098",
@@ -3323,7 +3323,7 @@ let MUC_Gate_Info = `[
     {
         "aodbUniqueId": "20230812165190",
         "Date": "12-08-2023",
-        "Flight": "LH 2034",
+        "Flight": "LH 2034F",
         "Dest": "DUS",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
