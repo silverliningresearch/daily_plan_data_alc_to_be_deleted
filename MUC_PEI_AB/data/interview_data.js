@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "12-08-2023 11:15:47"
+        "download_time": "12-08-2023 12:20:52"
     },
     {
         "InterviewId": "15848",
@@ -30097,6 +30097,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "20429",
+        "InterviewEndDate": "2023-08-12 09:34:13",
+        "InterviewState": "Complete",
+        "Flight": "Ca962",
+        "Dest": "PEK",
+        "AirlineCode": "Ca962"
+    },
+    {
         "InterviewId": "20430",
         "InterviewEndDate": "2023-08-12 09:12:22",
         "InterviewState": "Complete",
@@ -30105,12 +30113,148 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "20431",
+        "InterviewEndDate": "2023-08-12 09:16:54",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
         "InterviewId": "20432",
         "InterviewEndDate": "2023-08-12 09:15:31",
         "InterviewState": "Complete",
         "Flight": "LH 410",
         "Dest": "JFK",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20433",
+        "InterviewEndDate": "2023-08-12 09:19:37",
+        "InterviewState": "Complete",
+        "Flight": "EW 1786",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "20434",
+        "InterviewEndDate": "2023-08-12 09:21:21",
+        "InterviewState": "Complete",
+        "Flight": "EW 1786",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "20436",
+        "InterviewEndDate": "2023-08-12 09:18:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20438",
+        "InterviewEndDate": "2023-08-12 09:22:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20440",
+        "InterviewEndDate": "2023-08-12 09:31:50",
+        "InterviewState": "Complete",
+        "Flight": "EW 1786",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "20441",
+        "InterviewEndDate": "2023-08-12 09:34:01",
+        "InterviewState": "Complete",
+        "Flight": "Lh2476",
+        "Dest": "LHR",
+        "AirlineCode": "Lh2476"
+    },
+    {
+        "InterviewId": "20442",
+        "InterviewEndDate": "2023-08-12 09:33:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20443",
+        "InterviewEndDate": "2023-08-12 10:11:49",
+        "InterviewState": "Complete",
+        "Flight": "Lh2476",
+        "Dest": "LHR",
+        "AirlineCode": "Lh2476"
+    },
+    {
+        "InterviewId": "20446",
+        "InterviewEndDate": "2023-08-12 09:42:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20447",
+        "InterviewEndDate": "2023-08-12 09:44:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20448",
+        "InterviewEndDate": "2023-08-12 09:46:31",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "20449",
+        "InterviewEndDate": "2023-08-12 10:00:16",
+        "InterviewState": "Complete",
+        "Flight": "Lh1656",
+        "Dest": "TSR",
+        "AirlineCode": "Lh1656"
+    },
+    {
+        "InterviewId": "20450",
+        "InterviewEndDate": "2023-08-12 10:14:16",
+        "InterviewState": "Complete",
+        "Flight": "Lh1656",
+        "Dest": "TSR",
+        "AirlineCode": "Lh1656"
+    },
+    {
+        "InterviewId": "20451",
+        "InterviewEndDate": "2023-08-12 09:55:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 466",
+        "Dest": "SAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20452",
+        "InterviewEndDate": "2023-08-12 10:01:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 466",
+        "Dest": "SAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20454",
+        "InterviewEndDate": "2023-08-12 10:19:36",
+        "InterviewState": "Complete",
+        "Flight": "Tg925",
+        "Dest": "BKK",
+        "AirlineCode": "Tg925"
     }
 ]    
 
