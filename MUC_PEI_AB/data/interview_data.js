@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "12-08-2023 10:10:48"
+        "download_time": "12-08-2023 11:15:47"
     },
     {
         "InterviewId": "15848",
@@ -29999,6 +29999,118 @@ let interview_data_raw = `[
         "Flight": "BR 072",
         "Dest": "TPE",
         "AirlineCode": "BR"
+    },
+    {
+        "InterviewId": "20416",
+        "InterviewEndDate": "2023-08-12 08:15:12",
+        "InterviewState": "Complete",
+        "Flight": "Br072",
+        "Dest": "TPE",
+        "AirlineCode": "Br072"
+    },
+    {
+        "InterviewId": "20417",
+        "InterviewEndDate": "2023-08-12 08:30:59",
+        "InterviewState": "Complete",
+        "Flight": "Lh714",
+        "Dest": "HND",
+        "AirlineCode": "Lh714"
+    },
+    {
+        "InterviewId": "20418",
+        "InterviewEndDate": "2023-08-12 08:30:36",
+        "InterviewState": "Complete",
+        "Flight": "Lh714",
+        "Dest": "HND",
+        "AirlineCode": "Lh714"
+    },
+    {
+        "InterviewId": "20419",
+        "InterviewEndDate": "2023-08-12 08:35:36",
+        "InterviewState": "Complete",
+        "Flight": "Lh714",
+        "Dest": "HND",
+        "AirlineCode": "Lh714"
+    },
+    {
+        "InterviewId": "20420",
+        "InterviewEndDate": "2023-08-12 08:49:17",
+        "InterviewState": "Complete",
+        "Flight": "Lh714",
+        "Dest": "HND",
+        "AirlineCode": "Lh714"
+    },
+    {
+        "InterviewId": "20422",
+        "InterviewEndDate": "2023-08-12 08:57:17",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "20423",
+        "InterviewEndDate": "2023-08-12 09:11:06",
+        "InterviewState": "Complete",
+        "Flight": "Lh714",
+        "Dest": "HND",
+        "AirlineCode": "Lh714"
+    },
+    {
+        "InterviewId": "20424",
+        "InterviewEndDate": "2023-08-12 09:08:03",
+        "InterviewState": "Complete",
+        "Flight": "Lh714",
+        "Dest": "HND",
+        "AirlineCode": "Lh714"
+    },
+    {
+        "InterviewId": "20425",
+        "InterviewEndDate": "2023-08-12 09:09:38",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "20426",
+        "InterviewEndDate": "2023-08-12 09:08:58",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "20427",
+        "InterviewEndDate": "2023-08-12 09:05:45",
+        "InterviewState": "Complete",
+        "Flight": "EW 1994",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "20428",
+        "InterviewEndDate": "2023-08-12 09:12:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20430",
+        "InterviewEndDate": "2023-08-12 09:12:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20432",
+        "InterviewEndDate": "2023-08-12 09:15:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
     }
 ]    
 
