@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "13-08-2023 18:09:16"
+        "download_time": "13-08-2023 19:14:20"
     },
     {
         "InterviewId": "7701",
@@ -11887,6 +11887,62 @@ let interview_data_raw = `[
         "Flight": "W6 2393",
         "Dest": "LIS",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9358",
+        "InterviewEndDate": "2023-08-13 17:03:14",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9359",
+        "InterviewEndDate": "2023-08-13 17:03:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9360",
+        "InterviewEndDate": "2023-08-13 17:05:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9361",
+        "InterviewEndDate": "2023-08-13 17:01:07",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9362",
+        "InterviewEndDate": "2023-08-13 17:08:52",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9363",
+        "InterviewEndDate": "2023-08-13 17:07:16",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9364",
+        "InterviewEndDate": "2023-08-13 17:08:52",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
     }
 ]    
 

@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "13-08-2023 18:08:52"
+        "download_time": "13-08-2023 19:13:53"
     },
     {
         "InterviewId": "67210",
@@ -121585,6 +121585,14 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "82906",
+        "InterviewEndDate": "2023-08-13 16:12:34",
+        "InterviewState": "Complete",
+        "Flight": "FR 8054",
+        "Dest": "CFU",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "82907",
         "InterviewEndDate": "2023-08-13 15:52:54",
         "InterviewState": "Complete",
@@ -121654,6 +121662,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 8247",
         "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "82916",
+        "InterviewEndDate": "2023-08-13 16:24:14",
+        "InterviewState": "Complete",
+        "Flight": "FR 8054",
+        "Dest": "CFU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "82917",
+        "InterviewEndDate": "2023-08-13 16:24:23",
+        "InterviewState": "Complete",
+        "Flight": "FR 8054",
+        "Dest": "CFU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "82918",
+        "InterviewEndDate": "2023-08-13 16:24:15",
+        "InterviewState": "Complete",
+        "Flight": "FR 8054",
+        "Dest": "CFU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "82919",
+        "InterviewEndDate": "2023-08-13 16:26:02",
+        "InterviewState": "Complete",
+        "Flight": "FR 8054",
+        "Dest": "CFU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "82920",
+        "InterviewEndDate": "2023-08-13 16:26:17",
+        "InterviewState": "Complete",
+        "Flight": "FR 8054",
+        "Dest": "CFU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "82921",
+        "InterviewEndDate": "2023-08-13 16:27:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 8054",
+        "Dest": "CFU",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "82922",
+        "InterviewEndDate": "2023-08-13 16:28:30",
+        "InterviewState": "Complete",
+        "Flight": "FR 8054",
+        "Dest": "CFU",
         "AirlineCode": "FR"
     }
 ]    
