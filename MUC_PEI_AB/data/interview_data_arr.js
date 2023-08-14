@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "14-08-2023 18:27:15"
+        "download_time": "14-08-2023 19:32:09"
     },
     {
         "InterviewId": "5174",
@@ -9415,6 +9415,94 @@ let interview_data_arr_raw = `[
         "Flight": "LH 715",
         "Dest": "HND",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6589",
+        "InterviewEndDate": "2023-08-14 16:28:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 1815",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6590",
+        "InterviewEndDate": "2023-08-14 16:36:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 1815",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6591",
+        "InterviewEndDate": "2023-08-14 16:34:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 1815",
+        "Dest": "BGI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6592",
+        "InterviewEndDate": "2023-08-14 16:38:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 1815",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6593",
+        "InterviewEndDate": "2023-08-14 16:47:29",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "EDI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6594",
+        "InterviewEndDate": "2023-08-14 16:56:38",
+        "InterviewState": "Complete",
+        "Flight": "L H 114",
+        "Dest": "FRA",
+        "AirlineCode": "L"
+    },
+    {
+        "InterviewId": "6595",
+        "InterviewEndDate": "2023-08-14 17:04:04",
+        "InterviewState": "Complete",
+        "Flight": "OS 115",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "6596",
+        "InterviewEndDate": "2023-08-14 17:10:36",
+        "InterviewState": "Complete",
+        "Flight": "BT 223",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "6598",
+        "InterviewEndDate": "2023-08-14 17:14:29",
+        "InterviewState": "Complete",
+        "Flight": "OS 115",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "6599",
+        "InterviewEndDate": "2023-08-14 17:21:06",
+        "InterviewState": "Complete",
+        "Flight": "BT 223",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "6600",
+        "InterviewEndDate": "2023-08-14 17:28:50",
+        "InterviewState": "Complete",
+        "Flight": "BT 223",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
     }
 ]    
 
