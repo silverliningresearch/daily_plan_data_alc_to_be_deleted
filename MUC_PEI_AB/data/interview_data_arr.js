@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "14-08-2023 16:48:57"
+        "download_time": "14-08-2023 17:22:43"
     },
     {
         "InterviewId": "5174",
@@ -9246,6 +9246,70 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1823",
         "Dest": "SVQ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6566",
+        "InterviewEndDate": "2023-08-14 14:49:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 1823",
+        "Dest": "SVQ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6567",
+        "InterviewEndDate": "2023-08-14 14:53:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 1823",
+        "Dest": "SVQ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6568",
+        "InterviewEndDate": "2023-08-14 14:54:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 1823",
+        "Dest": "SVQ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6569",
+        "InterviewEndDate": "2023-08-14 14:56:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 1823",
+        "Dest": "SVQ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6570",
+        "InterviewEndDate": "2023-08-14 15:06:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 110",
+        "Dest": "AYT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6571",
+        "InterviewEndDate": "2023-08-14 15:06:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 110",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6572",
+        "InterviewEndDate": "2023-08-14 15:12:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 1823",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6573",
+        "InterviewEndDate": "2023-08-14 15:11:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 1009",
+        "Dest": "BRU",
         "AirlineCode": "LH"
     }
 ]    
