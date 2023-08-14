@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "14-08-2023 17:22:43"
+        "download_time": "14-08-2023 18:27:15"
     },
     {
         "InterviewId": "5174",
@@ -9310,6 +9310,110 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1009",
         "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6574",
+        "InterviewEndDate": "2023-08-14 15:22:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 501",
+        "Dest": "GIG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6575",
+        "InterviewEndDate": "2023-08-14 15:29:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 1943",
+        "Dest": "BGO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6576",
+        "InterviewEndDate": "2023-08-14 15:31:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 1943",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6577",
+        "InterviewEndDate": "2023-08-14 15:42:14",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa 719",
+        "Dest": "ICN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6578",
+        "InterviewEndDate": "2023-08-14 15:44:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 719",
+        "Dest": "ICN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6579",
+        "InterviewEndDate": "2023-08-14 15:46:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 719",
+        "Dest": "ICN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6580",
+        "InterviewEndDate": "2023-08-14 15:51:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 719",
+        "Dest": "ICN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6581",
+        "InterviewEndDate": "2023-08-14 15:55:38",
+        "InterviewState": "Complete",
+        "Flight": "LzH 719",
+        "Dest": "ICN",
+        "AirlineCode": "LzH"
+    },
+    {
+        "InterviewId": "6584",
+        "InterviewEndDate": "2023-08-14 16:06:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 715",
+        "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6585",
+        "InterviewEndDate": "2023-08-14 16:08:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 715",
+        "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6586",
+        "InterviewEndDate": "2023-08-14 16:11:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 715",
+        "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6587",
+        "InterviewEndDate": "2023-08-14 16:20:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 715",
+        "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6588",
+        "InterviewEndDate": "2023-08-14 16:20:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 715",
+        "Dest": "HND",
         "AirlineCode": "LH"
     }
 ]    
