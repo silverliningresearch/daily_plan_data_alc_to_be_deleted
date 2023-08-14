@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "14-08-2023 11:29:35"
+        "download_time": "14-08-2023 12:34:46"
     },
     {
         "InterviewId": "67210",
@@ -121899,6 +121899,86 @@ let interview_data_raw = `[
     {
         "InterviewId": "82945",
         "InterviewEndDate": "2023-08-14 09:24:36",
+        "InterviewState": "Complete",
+        "Flight": "CA  720",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "82946",
+        "InterviewEndDate": "2023-08-14 09:29:06",
+        "InterviewState": "Complete",
+        "Flight": "CA  720",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "82947",
+        "InterviewEndDate": "2023-08-14 09:30:49",
+        "InterviewState": "Complete",
+        "Flight": "CA  720",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "82948",
+        "InterviewEndDate": "2023-08-14 09:30:02",
+        "InterviewState": "Complete",
+        "Flight": "CA  720",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "82949",
+        "InterviewEndDate": "2023-08-14 09:31:31",
+        "InterviewState": "Complete",
+        "Flight": "CA  720",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "82950",
+        "InterviewEndDate": "2023-08-14 09:33:21",
+        "InterviewState": "Complete",
+        "Flight": "CA  720",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "82951",
+        "InterviewEndDate": "2023-08-14 09:37:13",
+        "InterviewState": "Complete",
+        "Flight": "CA  720",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "82952",
+        "InterviewEndDate": "2023-08-14 09:40:51",
+        "InterviewState": "Complete",
+        "Flight": "CA  720",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "82953",
+        "InterviewEndDate": "2023-08-14 09:39:52",
+        "InterviewState": "Complete",
+        "Flight": "CA  720",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "82954",
+        "InterviewEndDate": "2023-08-14 09:42:01",
+        "InterviewState": "Complete",
+        "Flight": "CA  720",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "82955",
+        "InterviewEndDate": "2023-08-14 09:43:18",
         "InterviewState": "Complete",
         "Flight": "CA  720",
         "Dest": "PEK",
