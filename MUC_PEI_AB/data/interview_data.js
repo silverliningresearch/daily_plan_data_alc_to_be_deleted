@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "14-08-2023 12:28:34"
+        "download_time": "14-08-2023 13:33:31"
     },
     {
         "InterviewId": "15848",
@@ -30751,6 +30751,62 @@ let interview_data_raw = `[
         "Flight": "X3 4282",
         "Dest": "HER",
         "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "20531",
+        "InterviewEndDate": "2023-08-14 10:32:38",
+        "InterviewState": "Complete",
+        "Flight": "X3 4282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "20532",
+        "InterviewEndDate": "2023-08-14 10:33:15",
+        "InterviewState": "Complete",
+        "Flight": "X3 4282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "20533",
+        "InterviewEndDate": "2023-08-14 10:42:50",
+        "InterviewState": "Complete",
+        "Flight": "X3 4282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "20535",
+        "InterviewEndDate": "2023-08-14 11:09:34",
+        "InterviewState": "Complete",
+        "Flight": "X3 4282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "20536",
+        "InterviewEndDate": "2023-08-14 10:57:12",
+        "InterviewState": "Complete",
+        "Flight": "X3 4282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "20537",
+        "InterviewEndDate": "2023-08-14 11:10:48",
+        "InterviewState": "Complete",
+        "Flight": "EW 9085",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "20538",
+        "InterviewEndDate": "2023-08-14 11:16:27",
+        "InterviewState": "Complete",
+        "Flight": "EW 9085",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
     }
 ]    
 
