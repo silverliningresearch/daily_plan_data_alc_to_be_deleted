@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "14-08-2023 14:40:10"
+        "download_time": "14-08-2023 15:44:59"
     },
     {
         "InterviewId": "2077",
@@ -7207,6 +7207,86 @@ let interview_data_arr_raw = `[
         "Flight": "LX - Swiss International Air Lines",
         "Dest": "ZRH",
         "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "3746",
+        "InterviewEndDate": "2023-08-14 13:10:42",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ZTH",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3747",
+        "InterviewEndDate": "2023-08-14 13:08:43",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ZTH",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3748",
+        "InterviewEndDate": "2023-08-14 13:08:57",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ZTH",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3750",
+        "InterviewEndDate": "2023-08-14 13:10:39",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ZTH",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3751",
+        "InterviewEndDate": "2023-08-14 13:08:30",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ZTH",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3752",
+        "InterviewEndDate": "2023-08-14 13:12:50",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ZTH",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3753",
+        "InterviewEndDate": "2023-08-14 13:14:50",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ZTH",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3755",
+        "InterviewEndDate": "2023-08-14 13:33:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "OTP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3758",
+        "InterviewEndDate": "2023-08-14 13:36:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "OTP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3760",
+        "InterviewEndDate": "2023-08-14 13:34:21",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "OTP",
+        "AirlineCode": "W6"
     }
 ]    
 
