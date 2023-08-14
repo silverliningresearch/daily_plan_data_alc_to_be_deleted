@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "14-08-2023 15:44:59"
+        "download_time": "14-08-2023 16:50:18"
     },
     {
         "InterviewId": "2077",
@@ -7287,6 +7287,86 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizz Air",
         "Dest": "OTP",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "3764",
+        "InterviewEndDate": "2023-08-14 14:03:24",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "3765",
+        "InterviewEndDate": "2023-08-14 14:03:49",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "3766",
+        "InterviewEndDate": "2023-08-14 14:01:22",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "3767",
+        "InterviewEndDate": "2023-08-14 14:24:16",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "3769",
+        "InterviewEndDate": "2023-08-14 14:22:35",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "3770",
+        "InterviewEndDate": "2023-08-14 14:22:39",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "3771",
+        "InterviewEndDate": "2023-08-14 14:23:10",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "CRL",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "3772",
+        "InterviewEndDate": "2023-08-14 14:21:09",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "3773",
+        "InterviewEndDate": "2023-08-14 14:18:18",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "3774",
+        "InterviewEndDate": "2023-08-14 14:29:23",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
     }
 ]    
 
