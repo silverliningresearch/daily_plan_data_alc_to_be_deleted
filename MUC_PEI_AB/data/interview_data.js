@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "14-08-2023 10:18:34"
+        "download_time": "14-08-2023 11:23:42"
     },
     {
         "InterviewId": "15848",
@@ -30655,6 +30655,62 @@ let interview_data_raw = `[
         "Flight": "UX 1516",
         "Dest": "MAD",
         "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "20518",
+        "InterviewEndDate": "2023-08-14 08:35:08",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "20519",
+        "InterviewEndDate": "2023-08-14 08:32:31",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "20520",
+        "InterviewEndDate": "2023-08-14 08:30:33",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "20521",
+        "InterviewEndDate": "2023-08-14 08:42:28",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "20522",
+        "InterviewEndDate": "2023-08-14 08:43:37",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "20523",
+        "InterviewEndDate": "2023-08-14 08:49:35",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "20524",
+        "InterviewEndDate": "2023-08-14 08:58:49",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
     }
 ]    
 
