@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "16-08-2023 14:53:30"
+        "download_time": "16-08-2023 15:58:23"
     },
     {
         "InterviewId": "6093",
@@ -24359,6 +24359,70 @@ let interview_data_raw = `[
         "Flight": "DY995",
         "Dest": "OSL",
         "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "10764",
+        "InterviewEndDate": "2023-08-16 13:21:02",
+        "InterviewState": "Complete",
+        "Flight": "FR987",
+        "Dest": "TPS",
+        "AirlineCode": "FR987"
+    },
+    {
+        "InterviewId": "10765",
+        "InterviewEndDate": "2023-08-16 13:15:46",
+        "InterviewState": "Complete",
+        "Flight": "FR987",
+        "Dest": "TPS",
+        "AirlineCode": "FR987"
+    },
+    {
+        "InterviewId": "10766",
+        "InterviewEndDate": "2023-08-16 13:13:42",
+        "InterviewState": "Complete",
+        "Flight": "FR987",
+        "Dest": "TPS",
+        "AirlineCode": "FR987"
+    },
+    {
+        "InterviewId": "10767",
+        "InterviewEndDate": "2023-08-16 13:13:39",
+        "InterviewState": "Complete",
+        "Flight": "FR987",
+        "Dest": "TPS",
+        "AirlineCode": "FR987"
+    },
+    {
+        "InterviewId": "10768",
+        "InterviewEndDate": "2023-08-16 13:17:35",
+        "InterviewState": "Complete",
+        "Flight": "FR987",
+        "Dest": "TPS",
+        "AirlineCode": "FR987"
+    },
+    {
+        "InterviewId": "10769",
+        "InterviewEndDate": "2023-08-16 13:14:57",
+        "InterviewState": "Complete",
+        "Flight": "FR987",
+        "Dest": "TPS",
+        "AirlineCode": "FR987"
+    },
+    {
+        "InterviewId": "10770",
+        "InterviewEndDate": "2023-08-16 13:10:05",
+        "InterviewState": "Complete",
+        "Flight": "FR987",
+        "Dest": "TPS",
+        "AirlineCode": "FR987"
+    },
+    {
+        "InterviewId": "10772",
+        "InterviewEndDate": "2023-08-16 13:12:14",
+        "InterviewState": "Complete",
+        "Flight": "FR987",
+        "Dest": "TPS",
+        "AirlineCode": "FR987"
     }
 ]    
 
