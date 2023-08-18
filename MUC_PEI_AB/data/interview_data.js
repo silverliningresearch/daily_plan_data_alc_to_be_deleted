@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "18-08-2023 10:11:57"
+        "download_time": "18-08-2023 11:16:56"
     },
     {
         "InterviewId": "15848",
@@ -31294,6 +31294,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2372",
         "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20612",
+        "InterviewEndDate": "2023-08-18 08:36:28",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "20613",
+        "InterviewEndDate": "2023-08-18 08:35:14",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "20615",
+        "InterviewEndDate": "2023-08-18 08:39:21",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "20616",
+        "InterviewEndDate": "2023-08-18 08:41:40",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "20617",
+        "InterviewEndDate": "2023-08-18 08:47:22",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "20618",
+        "InterviewEndDate": "2023-08-18 09:04:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 480",
+        "Dest": "DEN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20619",
+        "InterviewEndDate": "2023-08-18 08:58:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 480",
+        "Dest": "DEN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20620",
+        "InterviewEndDate": "2023-08-18 09:01:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 480",
+        "Dest": "DEN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20621",
+        "InterviewEndDate": "2023-08-18 09:00:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 480",
+        "Dest": "DEN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20622",
+        "InterviewEndDate": "2023-08-18 08:59:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 480",
+        "Dest": "DEN",
         "AirlineCode": "LH"
     }
 ]    
