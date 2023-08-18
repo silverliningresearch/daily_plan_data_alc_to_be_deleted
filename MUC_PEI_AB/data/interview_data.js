@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "18-08-2023 14:31:59"
+        "download_time": "18-08-2023 15:37:06"
     },
     {
         "InterviewId": "15848",
@@ -31659,6 +31659,46 @@ let interview_data_raw = `[
     {
         "InterviewId": "20660",
         "InterviewEndDate": "2023-08-18 12:22:14",
+        "InterviewState": "Complete",
+        "Flight": "QR 058",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "20661",
+        "InterviewEndDate": "2023-08-18 12:31:51",
+        "InterviewState": "Complete",
+        "Flight": "QR 058",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "20662",
+        "InterviewEndDate": "2023-08-18 12:47:29",
+        "InterviewState": "Complete",
+        "Flight": "QR 058",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "20663",
+        "InterviewEndDate": "2023-08-18 12:54:36",
+        "InterviewState": "Complete",
+        "Flight": "QR 058",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "20664",
+        "InterviewEndDate": "2023-08-18 12:39:51",
+        "InterviewState": "Complete",
+        "Flight": "QR 058",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "20665",
+        "InterviewEndDate": "2023-08-18 12:38:42",
         "InterviewState": "Complete",
         "Flight": "QR 058",
         "Dest": "DOH",
