@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "19-08-2023 07:53:24"
+        "download_time": "19-08-2023 08:58:21"
     },
     {
         "InterviewId": "2077",
@@ -7503,6 +7503,46 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "TRN",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3810",
+        "InterviewEndDate": "2023-08-19 06:12:49",
+        "InterviewState": "Complete",
+        "Flight": "XR - Corendon Airline",
+        "Dest": "HER",
+        "AirlineCode": "XR"
+    },
+    {
+        "InterviewId": "3811",
+        "InterviewEndDate": "2023-08-19 06:14:57",
+        "InterviewState": "Complete",
+        "Flight": "XR - Corendon Airline",
+        "Dest": "HER",
+        "AirlineCode": "XR"
+    },
+    {
+        "InterviewId": "3812",
+        "InterviewEndDate": "2023-08-19 06:51:02",
+        "InterviewState": "Complete",
+        "Flight": "XR - Corendon Airline",
+        "Dest": "HER",
+        "AirlineCode": "XR"
+    },
+    {
+        "InterviewId": "3813",
+        "InterviewEndDate": "2023-08-19 06:50:26",
+        "InterviewState": "Complete",
+        "Flight": "XR - Corendon Airline",
+        "Dest": "HER",
+        "AirlineCode": "XR"
+    },
+    {
+        "InterviewId": "3816",
+        "InterviewEndDate": "2023-08-19 06:51:07",
+        "InterviewState": "Complete",
+        "Flight": "XR - Corendon Airline",
+        "Dest": "HER",
+        "AirlineCode": "XR"
     }
 ]    
 
