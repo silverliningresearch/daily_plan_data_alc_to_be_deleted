@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "19-08-2023 12:37:07"
+        "download_time": "19-08-2023 12:56:20"
     },
     {
         "InterviewId": "15848",
@@ -806,7 +806,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "1636",
         "Dest": "IST",
-        "AirlineCode": ""
+        "AirlineCode": "16"
     },
     {
         "InterviewId": "15959",
@@ -966,7 +966,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "052",
         "Dest": "DXB",
-        "AirlineCode": ""
+        "AirlineCode": "05"
     },
     {
         "InterviewId": "15980",
@@ -1814,7 +1814,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 428",
         "Dest": "CLT",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16094",
@@ -2046,7 +2046,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 3309",
         "Dest": "CPH",
-        "AirlineCode": "D"
+        "AirlineCode": "D8"
     },
     {
         "InterviewId": "16124",
@@ -2054,7 +2054,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 3309",
         "Dest": "CPH",
-        "AirlineCode": "D"
+        "AirlineCode": "D8"
     },
     {
         "InterviewId": "16125",
@@ -2062,7 +2062,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 3309",
         "Dest": "CPH",
-        "AirlineCode": "D"
+        "AirlineCode": "D8"
     },
     {
         "InterviewId": "16126",
@@ -2118,7 +2118,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "4Y  314",
         "Dest": "FUE",
-        "AirlineCode": "Y"
+        "AirlineCode": "4Y"
     },
     {
         "InterviewId": "16134",
@@ -2126,7 +2126,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "4Y  314",
         "Dest": "FUE",
-        "AirlineCode": "Y"
+        "AirlineCode": "4Y"
     },
     {
         "InterviewId": "16135",
@@ -2134,7 +2134,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "4Y  314",
         "Dest": "FUE",
-        "AirlineCode": "Y"
+        "AirlineCode": "4Y"
     },
     {
         "InterviewId": "16136",
@@ -2142,7 +2142,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "4Y  314",
         "Dest": "FUE",
-        "AirlineCode": "Y"
+        "AirlineCode": "4Y"
     },
     {
         "InterviewId": "16137",
@@ -2150,7 +2150,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "4Y  312",
         "Dest": "TFS",
-        "AirlineCode": "Y"
+        "AirlineCode": "4Y"
     },
     {
         "InterviewId": "16138",
@@ -2158,7 +2158,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "4Y  312",
         "Dest": "TFS",
-        "AirlineCode": "Y"
+        "AirlineCode": "4Y"
     },
     {
         "InterviewId": "16139",
@@ -2166,7 +2166,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "4Y  312",
         "Dest": "TFS",
-        "AirlineCode": "Y"
+        "AirlineCode": "4Y"
     },
     {
         "InterviewId": "16140",
@@ -2174,7 +2174,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "4Y  312",
         "Dest": "TFS",
-        "AirlineCode": "Y"
+        "AirlineCode": "4Y"
     },
     {
         "InterviewId": "16141",
@@ -2182,7 +2182,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "4Y  312",
         "Dest": "TFS",
-        "AirlineCode": "Y"
+        "AirlineCode": "4Y"
     },
     {
         "InterviewId": "16142",
@@ -2766,7 +2766,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 1870",
         "Dest": "FCO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16219",
@@ -3046,7 +3046,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  503",
         "Dest": "SKG",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "16255",
@@ -3054,7 +3054,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  503",
         "Dest": "SKG",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "16256",
@@ -3062,7 +3062,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  503",
         "Dest": "SKG",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "16265",
@@ -3286,7 +3286,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "6Y 1006",
         "Dest": "HRG",
-        "AirlineCode": "Y"
+        "AirlineCode": "6Y"
     },
     {
         "InterviewId": "16297",
@@ -3294,7 +3294,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "6Y 1006",
         "Dest": "HRG",
-        "AirlineCode": "Y"
+        "AirlineCode": "6Y"
     },
     {
         "InterviewId": "16298",
@@ -3302,7 +3302,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "6Y 1006",
         "Dest": "HRG",
-        "AirlineCode": "Y"
+        "AirlineCode": "6Y"
     },
     {
         "InterviewId": "16299",
@@ -3310,7 +3310,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "6Y 1006",
         "Dest": "HRG",
-        "AirlineCode": "Y"
+        "AirlineCode": "6Y"
     },
     {
         "InterviewId": "16300",
@@ -3318,7 +3318,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "6Y 1006",
         "Dest": "HRG",
-        "AirlineCode": "Y"
+        "AirlineCode": "6Y"
     },
     {
         "InterviewId": "16301",
@@ -3326,7 +3326,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "6Y 1006",
         "Dest": "HRG",
-        "AirlineCode": "Y"
+        "AirlineCode": "6Y"
     },
     {
         "InterviewId": "16302",
@@ -3334,7 +3334,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "6Y 1006",
         "Dest": "HRG",
-        "AirlineCode": "Y"
+        "AirlineCode": "6Y"
     },
     {
         "InterviewId": "16303",
@@ -3734,7 +3734,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "9087",
         "Dest": "DUS",
-        "AirlineCode": ""
+        "AirlineCode": "90"
     },
     {
         "InterviewId": "16357",
@@ -3742,7 +3742,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "9087",
         "Dest": "DUS",
-        "AirlineCode": ""
+        "AirlineCode": "90"
     },
     {
         "InterviewId": "16358",
@@ -3926,7 +3926,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "8715",
         "Dest": "MAD",
-        "AirlineCode": ""
+        "AirlineCode": "87"
     },
     {
         "InterviewId": "16381",
@@ -4974,7 +4974,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 460",
         "Dest": "MIA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16524",
@@ -4982,7 +4982,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 460",
         "Dest": "MIA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16525",
@@ -5894,7 +5894,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "052",
         "Dest": "DXB",
-        "AirlineCode": ""
+        "AirlineCode": "05"
     },
     {
         "InterviewId": "16640",
@@ -6454,7 +6454,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 480",
         "Dest": "DEN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16720",
@@ -6494,7 +6494,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 410",
         "Dest": "JFK",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16725",
@@ -6518,7 +6518,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 452",
         "Dest": "LAX",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16728",
@@ -6534,7 +6534,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 452",
         "Dest": "LAX",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16730",
@@ -6542,7 +6542,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 452",
         "Dest": "LAX",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16731",
@@ -6750,7 +6750,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2026",
         "Dest": "DUS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16759",
@@ -6846,7 +6846,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh119",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16771",
@@ -6886,7 +6886,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2076",
         "Dest": "HAM",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16776",
@@ -6902,7 +6902,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "2076",
         "Dest": "HAM",
-        "AirlineCode": ""
+        "AirlineCode": "20"
     },
     {
         "InterviewId": "16778",
@@ -6966,7 +6966,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "16787",
@@ -6974,7 +6974,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "16788",
@@ -6982,7 +6982,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "16789",
@@ -6990,7 +6990,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "16790",
@@ -6998,7 +6998,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "16791",
@@ -7006,7 +7006,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "16792",
@@ -7014,7 +7014,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "16793",
@@ -7366,7 +7366,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 2252",
         "Dest": "LYS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16838",
@@ -7390,7 +7390,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 2252",
         "Dest": "LYS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16841",
@@ -7398,7 +7398,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 2252",
         "Dest": "LYS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16842",
@@ -7406,7 +7406,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 2252",
         "Dest": "LYS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16843",
@@ -7414,7 +7414,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 2322",
         "Dest": "LUX",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16844",
@@ -7470,7 +7470,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 2322",
         "Dest": "LUX",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16851",
@@ -7702,7 +7702,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1936",
         "Dest": "BER",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16980",
@@ -7726,7 +7726,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1936",
         "Dest": "BER",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16983",
@@ -7734,7 +7734,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1936",
         "Dest": "BER",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16984",
@@ -7742,7 +7742,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1936",
         "Dest": "BER",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "16985",
@@ -7910,7 +7910,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 1678",
         "Dest": "BUD",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17017",
@@ -7950,7 +7950,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Bt824",
         "Dest": "TLL",
-        "AirlineCode": "BT"
+        "AirlineCode": "Bt"
     },
     {
         "InterviewId": "17025",
@@ -7958,7 +7958,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Bt 824",
         "Dest": "TLL",
-        "AirlineCode": "BT"
+        "AirlineCode": "Bt"
     },
     {
         "InterviewId": "17026",
@@ -7982,7 +7982,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 103",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17029",
@@ -7990,7 +7990,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 2012",
         "Dest": "DUS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17030",
@@ -7998,7 +7998,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 2012",
         "Dest": "DUS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17031",
@@ -8014,7 +8014,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh103",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17033",
@@ -8022,7 +8022,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 103",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17034",
@@ -8030,7 +8030,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 2178",
         "Dest": "PAD",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17035",
@@ -8046,7 +8046,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 103",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17037",
@@ -8054,7 +8054,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 103",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17038",
@@ -8062,7 +8062,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2166",
         "Dest": "LEJ",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17039",
@@ -8070,7 +8070,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 2166",
         "Dest": "LEJ",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17040",
@@ -8078,7 +8078,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2124",
         "Dest": "DRS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17041",
@@ -8094,7 +8094,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2124",
         "Dest": "DRS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17043",
@@ -8102,7 +8102,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2124",
         "Dest": "DRS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17044",
@@ -8118,7 +8118,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2124",
         "Dest": "DRS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17048",
@@ -8126,7 +8126,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 2304",
         "Dest": "AMS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17050",
@@ -8134,7 +8134,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 1868",
         "Dest": "FCO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17057",
@@ -8150,7 +8150,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1624",
         "Dest": "KRK",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17059",
@@ -8174,7 +8174,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh111",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17062",
@@ -8182,7 +8182,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh111",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17063",
@@ -8190,7 +8190,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh111",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17064",
@@ -8206,7 +8206,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh111",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17066",
@@ -8214,7 +8214,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En 8204",
         "Dest": "VCE",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "17068",
@@ -8598,7 +8598,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8642",
         "Dest": "LGW",
-        "AirlineCode": "EZY"
+        "AirlineCode": "EZ"
     },
     {
         "InterviewId": "17120",
@@ -8606,7 +8606,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8642",
         "Dest": "LGW",
-        "AirlineCode": "EZY"
+        "AirlineCode": "EZ"
     },
     {
         "InterviewId": "17121",
@@ -8614,7 +8614,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8642",
         "Dest": "LGW",
-        "AirlineCode": "EZY"
+        "AirlineCode": "EZ"
     },
     {
         "InterviewId": "17122",
@@ -8622,7 +8622,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY8642",
         "Dest": "LGW",
-        "AirlineCode": "EZY"
+        "AirlineCode": "EZ"
     },
     {
         "InterviewId": "17126",
@@ -8670,7 +8670,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh 2056",
         "Dest": "HAM",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17132",
@@ -8918,7 +8918,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Ua 952",
         "Dest": "ORD",
-        "AirlineCode": "UA"
+        "AirlineCode": "Ua"
     },
     {
         "InterviewId": "17171",
@@ -10758,7 +10758,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "17433",
@@ -10766,7 +10766,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "17434",
@@ -10774,7 +10774,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "17435",
@@ -10782,7 +10782,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "17436",
@@ -10790,7 +10790,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "17439",
@@ -12190,7 +12190,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh410",
         "Dest": "JFK",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17642",
@@ -12454,7 +12454,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1868",
         "Dest": "FCO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17678",
@@ -12462,7 +12462,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1868",
         "Dest": "FCO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17679",
@@ -12470,7 +12470,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1868",
         "Dest": "FCO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17680",
@@ -12478,7 +12478,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1678",
         "Dest": "FCO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17682",
@@ -12486,7 +12486,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1868",
         "Dest": "FCO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17684",
@@ -12494,7 +12494,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1758",
         "Dest": "HER",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17685",
@@ -12502,7 +12502,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1758",
         "Dest": "HER",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17686",
@@ -12510,7 +12510,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1758",
         "Dest": "HER",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17687",
@@ -12518,7 +12518,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1758",
         "Dest": "HER",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17688",
@@ -12526,7 +12526,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1710",
         "Dest": "Lh1710",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17689",
@@ -12534,7 +12534,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2418",
         "Dest": "ARN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17690",
@@ -12542,7 +12542,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2418",
         "Dest": "ARN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17691",
@@ -12550,7 +12550,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2418",
         "Dest": "EMPTY",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17692",
@@ -12558,7 +12558,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2418",
         "Dest": "ARN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17694",
@@ -12566,7 +12566,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1754",
         "Dest": "ATH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17695",
@@ -12574,7 +12574,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1754",
         "Dest": "ATH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17696",
@@ -12582,7 +12582,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1754",
         "Dest": "ATH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17697",
@@ -12590,7 +12590,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1754",
         "Dest": "Athens",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17698",
@@ -12598,7 +12598,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1754",
         "Dest": "ATH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17699",
@@ -12606,7 +12606,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1908",
         "Dest": "CTA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17700",
@@ -12614,7 +12614,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1908",
         "Dest": "CTA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17701",
@@ -12622,7 +12622,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1908",
         "Dest": "CTA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17702",
@@ -12630,7 +12630,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1908",
         "Dest": "CTA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17703",
@@ -12638,7 +12638,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1908",
         "Dest": "CTA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17704",
@@ -12646,7 +12646,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1982",
         "Dest": "CGN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17705",
@@ -12654,7 +12654,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1982",
         "Dest": "CGN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17706",
@@ -12662,7 +12662,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1982",
         "Dest": "K\u00f6ln",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17707",
@@ -12670,7 +12670,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1870",
         "Dest": "FCO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17708",
@@ -12678,7 +12678,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1870",
         "Dest": "FCO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17709",
@@ -12686,7 +12686,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1870",
         "Dest": "FCO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17710",
@@ -12694,7 +12694,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1870",
         "Dest": "FCO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17711",
@@ -12702,7 +12702,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1870",
         "Dest": "FCO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17712",
@@ -12710,7 +12710,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2442",
         "Dest": "CPH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17713",
@@ -12718,7 +12718,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2442",
         "Dest": "CPH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17714",
@@ -12726,7 +12726,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2442",
         "Dest": "CPH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17715",
@@ -12734,7 +12734,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh244",
         "Dest": "CPH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17716",
@@ -12742,7 +12742,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2442",
         "Dest": "CPH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17717",
@@ -12766,7 +12766,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Km309",
         "Dest": "MLA",
-        "AirlineCode": "KM"
+        "AirlineCode": "Km"
     },
     {
         "InterviewId": "17720",
@@ -12790,7 +12790,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Km309",
         "Dest": "MLA",
-        "AirlineCode": "KM"
+        "AirlineCode": "Km"
     },
     {
         "InterviewId": "17723",
@@ -12822,7 +12822,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "L0354",
         "Dest": "WAW",
-        "AirlineCode": "L"
+        "AirlineCode": "L0"
     },
     {
         "InterviewId": "17729",
@@ -12838,7 +12838,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Os116",
         "Dest": "VIE",
-        "AirlineCode": "OS"
+        "AirlineCode": "Os"
     },
     {
         "InterviewId": "17732",
@@ -12854,7 +12854,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Os116",
         "Dest": "OS116",
-        "AirlineCode": "OS"
+        "AirlineCode": "Os"
     },
     {
         "InterviewId": "17736",
@@ -12862,7 +12862,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2266",
         "Dest": "MRS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17737",
@@ -12870,7 +12870,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2266",
         "Dest": "Lh2266",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17738",
@@ -12878,7 +12878,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2266",
         "Dest": "MRS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17740",
@@ -12886,7 +12886,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2266",
         "Dest": "MRS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17742",
@@ -12894,7 +12894,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2222",
         "Dest": "TLS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17755",
@@ -12902,7 +12902,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2188",
         "Dest": "BRE",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17757",
@@ -12910,7 +12910,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2188",
         "Dest": "BRE",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17758",
@@ -12918,7 +12918,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2188",
         "Dest": "BRE",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17760",
@@ -12926,7 +12926,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2188",
         "Dest": "BRE",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17761",
@@ -12934,7 +12934,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2188",
         "Dest": "BRE",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17762",
@@ -12942,7 +12942,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En8192",
         "Dest": "FLR",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "17763",
@@ -12950,7 +12950,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En8192",
         "Dest": "FLR",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "17764",
@@ -12958,7 +12958,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En8192",
         "Dest": "FLR",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "17765",
@@ -12982,7 +12982,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2144",
         "Dest": "STR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17769",
@@ -12990,7 +12990,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2144",
         "Dest": "STR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17770",
@@ -13014,7 +13014,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2144",
         "Dest": "STR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17774",
@@ -13030,7 +13030,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2452",
         "Dest": "OSL",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17776",
@@ -13038,7 +13038,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2452",
         "Dest": "OSL",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17779",
@@ -13046,7 +13046,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2428",
         "Dest": "GOT",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17780",
@@ -13054,7 +13054,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2428",
         "Dest": "GOT",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17781",
@@ -13062,7 +13062,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2428",
         "Dest": "GOT",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17782",
@@ -13070,7 +13070,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2428",
         "Dest": "GOT",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17784",
@@ -13078,7 +13078,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2228",
         "Dest": "CDG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17785",
@@ -13086,7 +13086,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2228",
         "Dest": "CDG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17786",
@@ -13094,7 +13094,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2228",
         "Dest": "CDG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17787",
@@ -13102,7 +13102,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2228",
         "Dest": "CDG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17788",
@@ -13110,7 +13110,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2228",
         "Dest": "CDG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17790",
@@ -13118,7 +13118,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2228",
         "Dest": "CDG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17791",
@@ -13126,7 +13126,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2228",
         "Dest": "CDG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17792",
@@ -13134,7 +13134,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3501",
         "Dest": "SKG",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "17793",
@@ -13142,7 +13142,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3501",
         "Dest": "SKG",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "17794",
@@ -13150,7 +13150,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3501",
         "Dest": "SKG",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "17795",
@@ -13158,7 +13158,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3501",
         "Dest": "SKG",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "17797",
@@ -13166,7 +13166,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1874",
         "Dest": "FCO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17798",
@@ -13174,7 +13174,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1874",
         "Dest": "FCO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17801",
@@ -13182,7 +13182,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1874",
         "Dest": "FCO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17811",
@@ -13190,7 +13190,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1734",
         "Dest": "BEG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17812",
@@ -13198,7 +13198,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1734",
         "Dest": "BEG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17813",
@@ -13206,7 +13206,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1734",
         "Dest": "BEG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17814",
@@ -13214,7 +13214,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1734",
         "Dest": "BEG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17816",
@@ -13222,7 +13222,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1734",
         "Dest": "BEG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17817",
@@ -13230,7 +13230,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh766",
         "Dest": "BOM",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17818",
@@ -13238,7 +13238,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh766",
         "Dest": "BOM",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17819",
@@ -13246,7 +13246,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh766",
         "Dest": "BOM",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17820",
@@ -13254,7 +13254,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh766",
         "Dest": "BOM",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17821",
@@ -13262,7 +13262,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh766",
         "Dest": "BOM",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17825",
@@ -13270,7 +13270,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh714",
         "Dest": "HND",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17826",
@@ -13278,7 +13278,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh714",
         "Dest": "HND",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17827",
@@ -13286,7 +13286,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh714",
         "Dest": "HND",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17828",
@@ -13294,7 +13294,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh714",
         "Dest": "HND",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17830",
@@ -13302,7 +13302,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh714",
         "Dest": "HND",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17831",
@@ -13326,7 +13326,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh714",
         "Dest": "HND",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17834",
@@ -13334,7 +13334,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Tg925",
         "Dest": "BKK",
-        "AirlineCode": "TG"
+        "AirlineCode": "Tg"
     },
     {
         "InterviewId": "17835",
@@ -13342,7 +13342,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Tg925",
         "Dest": "BKK",
-        "AirlineCode": "TG"
+        "AirlineCode": "Tg"
     },
     {
         "InterviewId": "17836",
@@ -13350,7 +13350,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Tg925",
         "Dest": "BKK",
-        "AirlineCode": "TG"
+        "AirlineCode": "Tg"
     },
     {
         "InterviewId": "17837",
@@ -13366,7 +13366,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2476",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17839",
@@ -13374,7 +13374,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2476",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17840",
@@ -13382,7 +13382,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2476",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17841",
@@ -13390,7 +13390,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2476",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17842",
@@ -13398,7 +13398,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2476",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17843",
@@ -13406,7 +13406,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2476",
         "Dest": "LTN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17844",
@@ -13414,7 +13414,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2476",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17845",
@@ -13422,7 +13422,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2476",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17846",
@@ -13430,7 +13430,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh718",
         "Dest": "ICN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17847",
@@ -13438,7 +13438,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh718",
         "Dest": "ICN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17848",
@@ -13446,7 +13446,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh718",
         "Dest": "ICN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17850",
@@ -13454,7 +13454,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh718",
         "Dest": "ICN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17851",
@@ -13462,7 +13462,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2478",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17853",
@@ -13478,7 +13478,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2478",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "17855",
@@ -13494,7 +13494,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6512",
         "Dest": "PMI",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "17857",
@@ -13502,7 +13502,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6512",
         "Dest": "PMI",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "17858",
@@ -13510,7 +13510,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6512",
         "Dest": "PMI",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "17859",
@@ -13518,7 +13518,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6512",
         "Dest": "PMI",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "17860",
@@ -13526,7 +13526,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6512",
         "Dest": "PMI",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "17861",
@@ -13534,7 +13534,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6512",
         "Dest": "PMI",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "17862",
@@ -13542,7 +13542,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6512",
         "Dest": "PMI",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "17863",
@@ -13550,7 +13550,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6512",
         "Dest": "PMI",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "17864",
@@ -13558,7 +13558,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6512",
         "Dest": "PMI",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "17865",
@@ -13662,7 +13662,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 433",
         "Dest": "HER",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "17878",
@@ -13670,7 +13670,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 433",
         "Dest": "HER",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "17882",
@@ -13678,7 +13678,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 433",
         "Dest": "HER",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "17884",
@@ -14278,7 +14278,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6512",
         "Dest": "PMI",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "17970",
@@ -14286,7 +14286,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6512",
         "Dest": "PMI",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "17971",
@@ -14294,7 +14294,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6512",
         "Dest": "PMI",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "17972",
@@ -14302,7 +14302,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6512",
         "Dest": "PMI",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "17977",
@@ -14310,7 +14310,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6512",
         "Dest": "PMI",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "17978",
@@ -14478,7 +14478,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lo352",
         "Dest": "WAW",
-        "AirlineCode": "LO"
+        "AirlineCode": "Lo"
     },
     {
         "InterviewId": "18001",
@@ -14494,7 +14494,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lo352",
         "Dest": "WAW",
-        "AirlineCode": "LO"
+        "AirlineCode": "Lo"
     },
     {
         "InterviewId": "18003",
@@ -14502,7 +14502,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  501",
         "Dest": "SKG",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18005",
@@ -14510,7 +14510,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  501",
         "Dest": "SKG",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18006",
@@ -14518,7 +14518,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  501",
         "Dest": "SKG",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18007",
@@ -14526,7 +14526,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2440",
         "Dest": "CPH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18008",
@@ -14534,7 +14534,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2440",
         "Dest": "CPH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18009",
@@ -14550,7 +14550,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2440",
         "Dest": "CPH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18013",
@@ -14558,7 +14558,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1812",
         "Dest": "BCN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18014",
@@ -14566,7 +14566,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1812",
         "Dest": "BCN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18015",
@@ -14574,7 +14574,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1812",
         "Dest": "BCN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18016",
@@ -14582,7 +14582,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1812",
         "Dest": "BCN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18017",
@@ -14590,7 +14590,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1812",
         "Dest": "BCN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18018",
@@ -14598,7 +14598,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2272",
         "Dest": "NCE",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18019",
@@ -14606,7 +14606,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2272",
         "Dest": "NCE",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18020",
@@ -14614,7 +14614,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2272",
         "Dest": "NCE",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18022",
@@ -14630,7 +14630,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2272",
         "Dest": "NCE",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18024",
@@ -14638,7 +14638,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2272",
         "Dest": "NCE",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18025",
@@ -14646,7 +14646,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2272",
         "Dest": "NCE",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18026",
@@ -14654,7 +14654,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2272",
         "Dest": "NCE",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18027",
@@ -14662,7 +14662,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1726",
         "Dest": "ZAG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18028",
@@ -14670,7 +14670,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1726",
         "Dest": "ZAG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18029",
@@ -14678,7 +14678,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1726",
         "Dest": "ZAG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18030",
@@ -14686,7 +14686,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1726",
         "Dest": "ZAG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18031",
@@ -14694,7 +14694,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2230",
         "Dest": "CDG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18032",
@@ -14702,7 +14702,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2230",
         "Dest": "CDG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18033",
@@ -14710,7 +14710,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2230",
         "Dest": "CDG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18034",
@@ -14718,7 +14718,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2230",
         "Dest": "CDG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18035",
@@ -14726,7 +14726,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2230",
         "Dest": "CDG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18036",
@@ -14734,7 +14734,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2230",
         "Dest": "CDG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18037",
@@ -14742,7 +14742,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2230",
         "Dest": "CDG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18038",
@@ -14750,7 +14750,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1624",
         "Dest": "KRK",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18039",
@@ -14766,7 +14766,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1624",
         "Dest": "KRK",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18041",
@@ -14774,7 +14774,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1624",
         "Dest": "KRK",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18042",
@@ -14782,7 +14782,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2288",
         "Dest": "BRU",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18044",
@@ -14790,7 +14790,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2288",
         "Dest": "BRU",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18045",
@@ -14798,7 +14798,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2288",
         "Dest": "BRU",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18046",
@@ -14806,7 +14806,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2288",
         "Dest": "BRU",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18048",
@@ -14814,7 +14814,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1878",
         "Dest": "NAP",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18049",
@@ -14822,7 +14822,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1878",
         "Dest": "NAP",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18051",
@@ -14830,7 +14830,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1878",
         "Dest": "NAP",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18052",
@@ -14838,7 +14838,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1878",
         "Dest": "NAP",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18053",
@@ -14846,7 +14846,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2878",
         "Dest": "NAP",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18054",
@@ -14854,7 +14854,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1878",
         "Dest": "NAP",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18055",
@@ -14862,7 +14862,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2134",
         "Dest": "FMO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18056",
@@ -14870,7 +14870,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2134",
         "Dest": "FMO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18057",
@@ -14878,7 +14878,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2134",
         "Dest": "FMO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18058",
@@ -14886,7 +14886,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2134",
         "Dest": "FMO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18059",
@@ -14894,7 +14894,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2316",
         "Dest": "LUX",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18060",
@@ -14902,7 +14902,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2316",
         "Dest": "LUX",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18062",
@@ -14910,7 +14910,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2316",
         "Dest": "LUX",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18063",
@@ -14918,7 +14918,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2316",
         "Dest": "LUX",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18064",
@@ -14926,7 +14926,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2316",
         "Dest": "LUX",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18065",
@@ -14974,7 +14974,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2056",
         "Dest": "HAM",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18073",
@@ -14982,7 +14982,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2056",
         "Dest": "HAM",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18074",
@@ -14990,7 +14990,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2056",
         "Dest": "HAM",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18075",
@@ -14998,7 +14998,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2056",
         "Dest": "HAM",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18076",
@@ -15006,7 +15006,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2056",
         "Dest": "HAM",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18078",
@@ -15014,7 +15014,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2058",
         "Dest": "HAM",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18079",
@@ -15022,7 +15022,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2058",
         "Dest": "HAM",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18080",
@@ -15030,7 +15030,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2058",
         "Dest": "HAM",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18081",
@@ -15038,7 +15038,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2058",
         "Dest": "HAM",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18082",
@@ -15046,7 +15046,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2058",
         "Dest": "HAM",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18083",
@@ -15054,7 +15054,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2384",
         "Dest": "GVA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18084",
@@ -15062,7 +15062,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2384",
         "Dest": "GVA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18085",
@@ -15070,7 +15070,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2384",
         "Dest": "GVA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18086",
@@ -15078,7 +15078,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2384",
         "Dest": "GVA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18087",
@@ -15086,7 +15086,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2384",
         "Dest": "GVA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18088",
@@ -15094,7 +15094,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh105",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18089",
@@ -15102,7 +15102,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh105",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18090",
@@ -15110,7 +15110,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh105",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18091",
@@ -15118,7 +15118,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh105",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18092",
@@ -15126,7 +15126,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2016",
         "Dest": "DUS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18093",
@@ -15134,7 +15134,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2016",
         "Dest": "DUS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18094",
@@ -15142,7 +15142,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2016",
         "Dest": "DUS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18095",
@@ -15150,7 +15150,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2016",
         "Dest": "DUS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18096",
@@ -15158,7 +15158,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2016",
         "Dest": "DUS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18097",
@@ -15166,7 +15166,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2016",
         "Dest": "DUS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18098",
@@ -15174,7 +15174,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh109",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18099",
@@ -15182,7 +15182,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh109",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18101",
@@ -15190,7 +15190,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh109",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18104",
@@ -15198,7 +15198,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2018",
         "Dest": "DUS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18105",
@@ -15206,7 +15206,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2516",
         "Dest": "DUB",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18107",
@@ -15262,7 +15262,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Ua031",
         "Dest": "EWR",
-        "AirlineCode": "UA"
+        "AirlineCode": "Ua"
     },
     {
         "InterviewId": "18114",
@@ -15918,7 +15918,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY2198",
         "Dest": "MAN",
-        "AirlineCode": "EZY"
+        "AirlineCode": "EZ"
     },
     {
         "InterviewId": "18207",
@@ -15926,7 +15926,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY2198",
         "Dest": "MAN",
-        "AirlineCode": "EZY"
+        "AirlineCode": "EZ"
     },
     {
         "InterviewId": "18208",
@@ -15934,7 +15934,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY2198",
         "Dest": "MAN",
-        "AirlineCode": "EZY"
+        "AirlineCode": "EZ"
     },
     {
         "InterviewId": "18209",
@@ -15942,7 +15942,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY2198",
         "Dest": "MAN",
-        "AirlineCode": "EZY"
+        "AirlineCode": "EZ"
     },
     {
         "InterviewId": "18210",
@@ -15950,7 +15950,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY2198",
         "Dest": "MAN",
-        "AirlineCode": "EZY"
+        "AirlineCode": "EZ"
     },
     {
         "InterviewId": "18211",
@@ -15958,7 +15958,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY2198",
         "Dest": "MAN",
-        "AirlineCode": "EZY"
+        "AirlineCode": "EZ"
     },
     {
         "InterviewId": "18214",
@@ -16102,7 +16102,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1704",
         "Dest": "SOF",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18235",
@@ -16110,7 +16110,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1704",
         "Dest": "SOF",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18236",
@@ -16118,7 +16118,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1704",
         "Dest": "SOF",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18237",
@@ -16126,7 +16126,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1704",
         "Dest": "SOF",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18238",
@@ -16134,7 +16134,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh414",
         "Dest": "IAD",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18239",
@@ -16142,7 +16142,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh414",
         "Dest": "IAD",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18240",
@@ -16150,7 +16150,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh414",
         "Dest": "IAD",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18241",
@@ -16158,7 +16158,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2486",
         "Dest": "LCY",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18242",
@@ -16166,7 +16166,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2486",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18243",
@@ -16174,7 +16174,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2486",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18244",
@@ -16182,7 +16182,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2486",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18245",
@@ -16190,7 +16190,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2486",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18246",
@@ -16198,7 +16198,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2486",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18247",
@@ -16206,7 +16206,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2480",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18248",
@@ -16214,7 +16214,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2480",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18249",
@@ -16222,7 +16222,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2480",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18250",
@@ -16230,7 +16230,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2480",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18251",
@@ -16238,7 +16238,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2480",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18253",
@@ -16246,7 +16246,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1660",
         "Dest": "TSR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18254",
@@ -16254,7 +16254,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1660",
         "Dest": "TSR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18255",
@@ -16262,7 +16262,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1660",
         "Dest": "TSR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18258",
@@ -16270,7 +16270,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1660",
         "Dest": "TSR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18259",
@@ -16278,7 +16278,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1714",
         "Dest": "TIA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18260",
@@ -16286,7 +16286,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1714",
         "Dest": "TIA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18262",
@@ -16294,7 +16294,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1714",
         "Dest": "TIA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18263",
@@ -16302,7 +16302,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1714",
         "Dest": "TIA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18264",
@@ -16310,7 +16310,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh586",
         "Dest": "CAI",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18265",
@@ -16318,7 +16318,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh586",
         "Dest": "CAI",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18266",
@@ -16326,7 +16326,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh586",
         "Dest": "CAI",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18267",
@@ -16334,7 +16334,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh586",
         "Dest": "CAI",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18268",
@@ -16342,7 +16342,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh586",
         "Dest": "CAI",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18269",
@@ -16350,7 +16350,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh790",
         "Dest": "SIN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18270",
@@ -16358,7 +16358,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh790",
         "Dest": "SIN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18271",
@@ -16366,7 +16366,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh790",
         "Dest": "SIN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18272",
@@ -16374,7 +16374,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh790",
         "Dest": "SIN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18273",
@@ -16382,7 +16382,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh790",
         "Dest": "SIN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18274",
@@ -16390,7 +16390,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh790",
         "Dest": "SIN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18275",
@@ -16398,7 +16398,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh790",
         "Dest": "SIN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18276",
@@ -16406,7 +16406,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh772",
         "Dest": "BKK",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18277",
@@ -16414,7 +16414,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh099",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18278",
@@ -16422,7 +16422,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh099",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18279",
@@ -16430,7 +16430,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh099",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18280",
@@ -16438,7 +16438,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh099",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18281",
@@ -16446,7 +16446,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1924",
         "Dest": "MLA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18282",
@@ -16454,7 +16454,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1924",
         "Dest": "MLA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18284",
@@ -16462,7 +16462,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1924",
         "Dest": "MLA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18285",
@@ -16470,7 +16470,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1924",
         "Dest": "MLA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18286",
@@ -16478,7 +16478,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh101",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18287",
@@ -16486,7 +16486,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh101",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18288",
@@ -16494,7 +16494,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh101",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18289",
@@ -16502,7 +16502,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh101",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18290",
@@ -16510,7 +16510,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3803",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18291",
@@ -16518,7 +16518,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3803",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18293",
@@ -16526,7 +16526,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3803",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18294",
@@ -16534,7 +16534,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2096",
         "Dest": "HAJ",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18295",
@@ -16542,7 +16542,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2096",
         "Dest": "HAJ",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18296",
@@ -16550,7 +16550,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2096",
         "Dest": "HAJ",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18297",
@@ -16582,7 +16582,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh452",
         "Dest": "LAX",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18303",
@@ -16590,7 +16590,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh452",
         "Dest": "LAX",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18304",
@@ -16598,7 +16598,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh428",
         "Dest": "CLT",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18305",
@@ -16606,7 +16606,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh428",
         "Dest": "CLT",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18306",
@@ -16614,7 +16614,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh428",
         "Dest": "CLT",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18307",
@@ -16622,7 +16622,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1942",
         "Dest": "BER",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18308",
@@ -16630,7 +16630,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1942",
         "Dest": "BER",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18309",
@@ -16638,7 +16638,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1942",
         "Dest": "BER",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18310",
@@ -16646,7 +16646,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1942",
         "Dest": "BER",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18311",
@@ -16654,7 +16654,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1942",
         "Dest": "BER",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18312",
@@ -16662,7 +16662,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En8204",
         "Dest": "VCE",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "18314",
@@ -16678,7 +16678,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En8204",
         "Dest": "VCE",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "18316",
@@ -16686,7 +16686,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2062",
         "Dest": "HAM",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18317",
@@ -16694,7 +16694,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2062",
         "Dest": "HAM",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18318",
@@ -16702,7 +16702,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2062",
         "Dest": "HAM",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18319",
@@ -16710,7 +16710,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2320",
         "Dest": "LUX",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18321",
@@ -16718,7 +16718,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2320",
         "Dest": "LUX",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18322",
@@ -17006,7 +17006,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "NMA7491",
         "Dest": "HRG",
-        "AirlineCode": "NMA"
+        "AirlineCode": "NM"
     },
     {
         "InterviewId": "18365",
@@ -17014,7 +17014,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "NMA7491",
         "Dest": "HRG",
-        "AirlineCode": "NMA"
+        "AirlineCode": "NM"
     },
     {
         "InterviewId": "18366",
@@ -17022,7 +17022,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "NMA7491",
         "Dest": "HRG",
-        "AirlineCode": "NMA"
+        "AirlineCode": "NM"
     },
     {
         "InterviewId": "18367",
@@ -17030,7 +17030,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "NMA7491",
         "Dest": "HRG",
-        "AirlineCode": "NMA"
+        "AirlineCode": "NM"
     },
     {
         "InterviewId": "18368",
@@ -17038,7 +17038,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "NMA7491",
         "Dest": "HRG",
-        "AirlineCode": "NMA"
+        "AirlineCode": "NM"
     },
     {
         "InterviewId": "18371",
@@ -17046,7 +17046,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "NMA7491",
         "Dest": "HRG",
-        "AirlineCode": "NMA"
+        "AirlineCode": "NM"
     },
     {
         "InterviewId": "18372",
@@ -17054,7 +17054,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "NMA7491",
         "Dest": "HRG",
-        "AirlineCode": "NMA"
+        "AirlineCode": "NM"
     },
     {
         "InterviewId": "18373",
@@ -17326,7 +17326,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3501",
         "Dest": "SKG",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18412",
@@ -17334,7 +17334,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3501",
         "Dest": "SKG",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18413",
@@ -17342,7 +17342,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  501",
         "Dest": "SKG",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18414",
@@ -17350,7 +17350,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  501",
         "Dest": "SKG",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18415",
@@ -17358,7 +17358,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  501",
         "Dest": "SKG",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18416",
@@ -17366,7 +17366,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1794",
         "Dest": "PMI",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18417",
@@ -17374,7 +17374,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1794",
         "Dest": "PMI",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18418",
@@ -17382,7 +17382,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1794",
         "Dest": "PMI",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18419",
@@ -17390,7 +17390,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1794",
         "Dest": "PMI",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18420",
@@ -17398,7 +17398,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1794",
         "Dest": "PMI",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18421",
@@ -17406,7 +17406,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1794",
         "Dest": "PMI",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18422",
@@ -17414,7 +17414,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1794",
         "Dest": "PMI",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18423",
@@ -17430,7 +17430,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Sn2644",
         "Dest": "BRU",
-        "AirlineCode": "SN"
+        "AirlineCode": "Sn"
     },
     {
         "InterviewId": "18425",
@@ -17438,7 +17438,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Sn2644",
         "Dest": "BRU",
-        "AirlineCode": "SN"
+        "AirlineCode": "Sn"
     },
     {
         "InterviewId": "18426",
@@ -17454,7 +17454,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Sn2644",
         "Dest": "BRU",
-        "AirlineCode": "SN"
+        "AirlineCode": "Sn"
     },
     {
         "InterviewId": "18429",
@@ -17462,7 +17462,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Sn2644",
         "Dest": "BRU",
-        "AirlineCode": "SN"
+        "AirlineCode": "Sn"
     },
     {
         "InterviewId": "18430",
@@ -17470,7 +17470,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Sn2644",
         "Dest": "BRU",
-        "AirlineCode": "SN"
+        "AirlineCode": "Sn"
     },
     {
         "InterviewId": "18431",
@@ -17478,7 +17478,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Sn2644",
         "Dest": "BRU",
-        "AirlineCode": "SN"
+        "AirlineCode": "Sn"
     },
     {
         "InterviewId": "18433",
@@ -17486,7 +17486,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2416",
         "Dest": "ARN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18434",
@@ -17494,7 +17494,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2416",
         "Dest": "ARN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18435",
@@ -17502,7 +17502,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2416",
         "Dest": "ARN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18437",
@@ -17510,7 +17510,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2418",
         "Dest": "ARN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18438",
@@ -17518,7 +17518,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2418",
         "Dest": "ARN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18440",
@@ -17526,7 +17526,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2418",
         "Dest": "ARN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18441",
@@ -17534,7 +17534,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2418",
         "Dest": "ARN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18442",
@@ -17558,7 +17558,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1774",
         "Dest": "SKG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18447",
@@ -17902,7 +17902,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6810",
         "Dest": "OLB",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "18495",
@@ -17910,7 +17910,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6810",
         "Dest": "OLB",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "18496",
@@ -17918,7 +17918,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6810",
         "Dest": "OLB",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "18497",
@@ -17926,7 +17926,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6810",
         "Dest": "OLB",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "18498",
@@ -17934,7 +17934,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6810",
         "Dest": "OLB",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "18500",
@@ -17942,7 +17942,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6522",
         "Dest": "LPA",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "18501",
@@ -17950,7 +17950,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6522",
         "Dest": "LPA",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "18502",
@@ -17958,7 +17958,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6522",
         "Dest": "LPA",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "18503",
@@ -17966,7 +17966,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6522",
         "Dest": "LPA",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "18505",
@@ -19198,7 +19198,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18687",
@@ -19206,7 +19206,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18688",
@@ -19214,7 +19214,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18691",
@@ -19262,7 +19262,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18697",
@@ -19270,7 +19270,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18698",
@@ -19278,7 +19278,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18701",
@@ -20134,7 +20134,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "1678",
         "Dest": "BUD",
-        "AirlineCode": ""
+        "AirlineCode": "16"
     },
     {
         "InterviewId": "18832",
@@ -20310,7 +20310,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18863",
@@ -20518,7 +20518,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  433",
         "Dest": "HER",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18900",
@@ -20526,7 +20526,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  433",
         "Dest": "HER",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18901",
@@ -20534,7 +20534,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  433",
         "Dest": "HER",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18902",
@@ -20542,7 +20542,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  433",
         "Dest": "HER",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18903",
@@ -20550,7 +20550,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  433",
         "Dest": "HER",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18904",
@@ -20558,7 +20558,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  433",
         "Dest": "HER",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18906",
@@ -20566,7 +20566,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3  433",
         "Dest": "HER",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "18907",
@@ -20814,7 +20814,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En8342",
         "Dest": "KRK",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "18949",
@@ -20830,7 +20830,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En8342",
         "Dest": "KRK",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "18951",
@@ -20838,7 +20838,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En8342",
         "Dest": "KRK",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "18952",
@@ -20846,7 +20846,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En8342",
         "Dest": "KRK",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "18955",
@@ -20854,7 +20854,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1870",
         "Dest": "IBZ",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "18958",
@@ -20910,7 +20910,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En8236",
         "Dest": "VCE",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "18966",
@@ -20918,7 +20918,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En8236",
         "Dest": "VCE",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "18968",
@@ -20926,7 +20926,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En8236",
         "Dest": "VCE",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "18971",
@@ -21558,7 +21558,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh428",
         "Dest": "CLT",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "19086",
@@ -21574,7 +21574,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh428",
         "Dest": "CLT",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "19088",
@@ -21590,7 +21590,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh428",
         "Dest": "CLT",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "19090",
@@ -21598,7 +21598,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh410",
         "Dest": "JFK",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "19091",
@@ -21614,7 +21614,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh410",
         "Dest": "JFK",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "19093",
@@ -21646,7 +21646,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh452",
         "Dest": "LAX",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "19098",
@@ -21654,7 +21654,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh452",
         "Dest": "LAX",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "19099",
@@ -21670,7 +21670,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh452",
         "Dest": "LAX",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "19101",
@@ -21678,7 +21678,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh428",
         "Dest": "CLT",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "19102",
@@ -21686,7 +21686,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh428",
         "Dest": "CLT",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "19107",
@@ -21694,7 +21694,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2418",
         "Dest": "ARN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "19108",
@@ -23094,7 +23094,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "19347",
@@ -23102,7 +23102,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "19348",
@@ -23110,7 +23110,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "19349",
@@ -23118,7 +23118,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "19350",
@@ -23126,7 +23126,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "19351",
@@ -23134,7 +23134,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "19352",
@@ -23142,7 +23142,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "19353",
@@ -23150,7 +23150,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "19354",
@@ -23158,7 +23158,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "19355",
@@ -23166,7 +23166,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "19356",
@@ -23174,7 +23174,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "19357",
@@ -23182,7 +23182,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "19360",
@@ -23270,7 +23270,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2516",
         "Dest": "DUB",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "19378",
@@ -23390,7 +23390,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Ua195",
         "Dest": "SFO",
-        "AirlineCode": "UA"
+        "AirlineCode": "Ua"
     },
     {
         "InterviewId": "19398",
@@ -23398,7 +23398,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Ua195",
         "Dest": "SFO",
-        "AirlineCode": "UA"
+        "AirlineCode": "Ua"
     },
     {
         "InterviewId": "19399",
@@ -23414,7 +23414,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Ua195",
         "Dest": "SFO",
-        "AirlineCode": "UA"
+        "AirlineCode": "Ua"
     },
     {
         "InterviewId": "19402",
@@ -23422,7 +23422,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Ua195",
         "Dest": "SFO",
-        "AirlineCode": "UA"
+        "AirlineCode": "Ua"
     },
     {
         "InterviewId": "19403",
@@ -23430,7 +23430,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Ua952",
         "Dest": "ORD",
-        "AirlineCode": "UA"
+        "AirlineCode": "Ua"
     },
     {
         "InterviewId": "19404",
@@ -23438,7 +23438,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Ua952",
         "Dest": "ORD",
-        "AirlineCode": "UA"
+        "AirlineCode": "Ua"
     },
     {
         "InterviewId": "19405",
@@ -23542,7 +23542,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Ua109",
         "Dest": "IAD",
-        "AirlineCode": "UA"
+        "AirlineCode": "Ua"
     },
     {
         "InterviewId": "19419",
@@ -23550,7 +23550,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Ua109",
         "Dest": "IAD",
-        "AirlineCode": "UA"
+        "AirlineCode": "Ua"
     },
     {
         "InterviewId": "19421",
@@ -23558,7 +23558,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Ua109",
         "Dest": "IAD",
-        "AirlineCode": "UA"
+        "AirlineCode": "Ua"
     },
     {
         "InterviewId": "19423",
@@ -23582,7 +23582,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Ua109",
         "Dest": "IAD",
-        "AirlineCode": "UA"
+        "AirlineCode": "Ua"
     },
     {
         "InterviewId": "19426",
@@ -24070,7 +24070,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6600",
         "Dest": "HER",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "19494",
@@ -24078,7 +24078,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6600",
         "Dest": "HER",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "19495",
@@ -24086,7 +24086,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6600",
         "Dest": "HER",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "19496",
@@ -24518,7 +24518,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 501",
         "Dest": "SKG",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "19563",
@@ -24526,7 +24526,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 501",
         "Dest": "SKG",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "19564",
@@ -24534,7 +24534,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 501",
         "Dest": "SKG",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "19565",
@@ -24542,7 +24542,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 501",
         "Dest": "SKG",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "19566",
@@ -24550,7 +24550,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 501",
         "Dest": "SKG",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "19567",
@@ -24886,7 +24886,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "19615",
@@ -24894,7 +24894,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "A3 807",
         "Dest": "ATH",
-        "AirlineCode": "A"
+        "AirlineCode": "A3"
     },
     {
         "InterviewId": "19616",
@@ -25142,7 +25142,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY2198",
         "Dest": "MAN",
-        "AirlineCode": "EZY"
+        "AirlineCode": "EZ"
     },
     {
         "InterviewId": "19656",
@@ -25150,7 +25150,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY2198",
         "Dest": "MAN",
-        "AirlineCode": "EZY"
+        "AirlineCode": "EZ"
     },
     {
         "InterviewId": "19657",
@@ -25158,7 +25158,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY2198",
         "Dest": "MAN",
-        "AirlineCode": "EZY"
+        "AirlineCode": "EZ"
     },
     {
         "InterviewId": "19658",
@@ -25166,7 +25166,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "ENT6065",
         "Dest": "PRN",
-        "AirlineCode": "ENT"
+        "AirlineCode": "EN"
     },
     {
         "InterviewId": "19659",
@@ -25174,7 +25174,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "ENT6065",
         "Dest": "PRN",
-        "AirlineCode": "ENT"
+        "AirlineCode": "EN"
     },
     {
         "InterviewId": "19660",
@@ -25182,7 +25182,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "ENT6065",
         "Dest": "PRN",
-        "AirlineCode": "ENT"
+        "AirlineCode": "EN"
     },
     {
         "InterviewId": "19661",
@@ -26182,7 +26182,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "023",
         "Dest": "DTW",
-        "AirlineCode": ""
+        "AirlineCode": "02"
     },
     {
         "InterviewId": "19816",
@@ -26222,7 +26222,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "023",
         "Dest": "DTW",
-        "AirlineCode": ""
+        "AirlineCode": "02"
     },
     {
         "InterviewId": "19821",
@@ -26606,7 +26606,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6512",
         "Dest": "PMI",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "19874",
@@ -26614,7 +26614,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6512",
         "Dest": "PMI",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "19875",
@@ -26622,7 +26622,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6512",
         "Dest": "PMI",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "19876",
@@ -26630,7 +26630,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6512",
         "Dest": "PMI",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "19877",
@@ -26638,7 +26638,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6512",
         "Dest": "PMI",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "19878",
@@ -26646,7 +26646,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "MBU6512",
         "Dest": "PMI",
-        "AirlineCode": "MBU"
+        "AirlineCode": "MB"
     },
     {
         "InterviewId": "19882",
@@ -27358,7 +27358,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Mbu6022",
         "Dest": "HRG",
-        "AirlineCode": "MBU"
+        "AirlineCode": "Mb"
     },
     {
         "InterviewId": "20001",
@@ -27366,7 +27366,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Mbu6022",
         "Dest": "HRG",
-        "AirlineCode": "MBU"
+        "AirlineCode": "Mb"
     },
     {
         "InterviewId": "20002",
@@ -27374,7 +27374,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Mbu6022",
         "Dest": "HRG",
-        "AirlineCode": "MBU"
+        "AirlineCode": "Mb"
     },
     {
         "InterviewId": "20003",
@@ -28166,7 +28166,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "2026",
         "Dest": "DUS",
-        "AirlineCode": ""
+        "AirlineCode": "20"
     },
     {
         "InterviewId": "20132",
@@ -28214,7 +28214,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Xq133",
         "Dest": "AYT",
-        "AirlineCode": "XQ"
+        "AirlineCode": "Xq"
     },
     {
         "InterviewId": "20138",
@@ -28350,7 +28350,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1960",
         "Dest": "BER",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20161",
@@ -28422,7 +28422,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2034",
         "Dest": "DUS",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20170",
@@ -28574,7 +28574,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Ek050",
         "Dest": "DXB",
-        "AirlineCode": "EK"
+        "AirlineCode": "Ek"
     },
     {
         "InterviewId": "20194",
@@ -28630,7 +28630,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "X3 4806",
         "Dest": "KGS",
-        "AirlineCode": "X"
+        "AirlineCode": "X3"
     },
     {
         "InterviewId": "20202",
@@ -28638,7 +28638,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "X3 4806",
         "Dest": "KGS",
-        "AirlineCode": "X"
+        "AirlineCode": "X3"
     },
     {
         "InterviewId": "20204",
@@ -29166,7 +29166,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "1716",
         "Dest": "SPU",
-        "AirlineCode": ""
+        "AirlineCode": "17"
     },
     {
         "InterviewId": "20279",
@@ -29214,7 +29214,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1756",
         "Dest": "ATH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20286",
@@ -29222,7 +29222,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1756",
         "Dest": "ATH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20287",
@@ -29230,7 +29230,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1756",
         "Dest": "ATH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20288",
@@ -29238,7 +29238,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1756",
         "Dest": "ATH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20291",
@@ -29246,7 +29246,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1756",
         "Dest": "ATH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20292",
@@ -29254,7 +29254,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1756",
         "Dest": "ATH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20293",
@@ -29262,7 +29262,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1756",
         "Dest": "ATH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20294",
@@ -29270,7 +29270,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1756",
         "Dest": "ATH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20295",
@@ -29278,7 +29278,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lo354",
         "Dest": "WAW",
-        "AirlineCode": "LO"
+        "AirlineCode": "Lo"
     },
     {
         "InterviewId": "20297",
@@ -29286,7 +29286,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1880",
         "Dest": "NAP",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20298",
@@ -29294,7 +29294,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En8244",
         "Dest": "BLQ",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "20299",
@@ -29302,7 +29302,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En8044",
         "Dest": "BLQ",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "20300",
@@ -29310,7 +29310,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1880",
         "Dest": "NAP",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20302",
@@ -29318,7 +29318,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1880",
         "Dest": "NAP",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20303",
@@ -29326,7 +29326,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1880",
         "Dest": "NAP",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20304",
@@ -29334,7 +29334,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1880",
         "Dest": "NAP",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20305",
@@ -29342,7 +29342,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1880",
         "Dest": "NAP",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20306",
@@ -29350,7 +29350,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1880",
         "Dest": "NAP",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20307",
@@ -29358,7 +29358,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2420",
         "Dest": "ARN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20308",
@@ -29366,7 +29366,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2420",
         "Dest": "ARN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20309",
@@ -29374,7 +29374,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2420",
         "Dest": "ARN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20310",
@@ -29382,7 +29382,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2420",
         "Dest": "ARN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20311",
@@ -29390,7 +29390,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2420",
         "Dest": "ARN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20312",
@@ -29398,7 +29398,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2276",
         "Dest": "NCE",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20313",
@@ -29406,7 +29406,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2276",
         "Dest": "NCE",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20314",
@@ -29414,7 +29414,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lu2275",
         "Dest": "NCE",
-        "AirlineCode": "LU"
+        "AirlineCode": "Lu"
     },
     {
         "InterviewId": "20315",
@@ -29422,7 +29422,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2276",
         "Dest": "NCE",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20316",
@@ -29430,7 +29430,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2276",
         "Dest": "NCE",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20317",
@@ -29438,7 +29438,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2276",
         "Dest": "NCE",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20318",
@@ -29798,7 +29798,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1984",
         "Dest": "CGN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20370",
@@ -29806,7 +29806,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1984",
         "Dest": "CGN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20371",
@@ -29814,7 +29814,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2322",
         "Dest": "LUX",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20372",
@@ -29822,7 +29822,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2322",
         "Dest": "LUX",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20374",
@@ -29830,7 +29830,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2322",
         "Dest": "LUX",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20376",
@@ -29838,7 +29838,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1988",
         "Dest": "CGN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20377",
@@ -29846,7 +29846,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1988",
         "Dest": "CGN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20378",
@@ -29854,7 +29854,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1988",
         "Dest": "CGN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20379",
@@ -29862,7 +29862,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1988",
         "Dest": "CGN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20382",
@@ -29870,7 +29870,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1646",
         "Dest": "GDN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20383",
@@ -29878,7 +29878,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh121",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20384",
@@ -29886,7 +29886,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh121",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20385",
@@ -29894,7 +29894,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh121",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20386",
@@ -29902,7 +29902,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh121",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20387",
@@ -29910,7 +29910,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh12152",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20388",
@@ -29918,7 +29918,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh121",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20390",
@@ -29926,7 +29926,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh121",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20392",
@@ -29934,7 +29934,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh121",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20393",
@@ -29942,7 +29942,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh121",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20394",
@@ -29950,7 +29950,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh121",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20395",
@@ -29958,7 +29958,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh123",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20396",
@@ -29966,7 +29966,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh123",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20397",
@@ -29974,7 +29974,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2446",
         "Dest": "CPH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20398",
@@ -29982,7 +29982,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh123",
         "Dest": "FRA",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20399",
@@ -29998,7 +29998,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2446",
         "Dest": "CPH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20401",
@@ -30006,7 +30006,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2446",
         "Dest": "CPH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20402",
@@ -30014,7 +30014,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2446",
         "Dest": "CPH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20403",
@@ -30022,7 +30022,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2446",
         "Dest": "CPH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20404",
@@ -30030,7 +30030,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2446",
         "Dest": "CPH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20405",
@@ -30038,7 +30038,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En8258",
         "Dest": "TRN",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "20407",
@@ -30046,7 +30046,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2446",
         "Dest": "CPH",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20408",
@@ -30054,7 +30054,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En8258",
         "Dest": "TRN",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "20409",
@@ -30062,7 +30062,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En8258",
         "Dest": "TRN",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "20410",
@@ -30070,7 +30070,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En8258",
         "Dest": "TRN",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "20411",
@@ -30078,7 +30078,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En8258",
         "Dest": "TRN",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "20412",
@@ -30086,7 +30086,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "En8258",
         "Dest": "TRN",
-        "AirlineCode": "EN"
+        "AirlineCode": "En"
     },
     {
         "InterviewId": "20413",
@@ -30094,7 +30094,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Br072",
         "Dest": "TPE",
-        "AirlineCode": "BR"
+        "AirlineCode": "Br"
     },
     {
         "InterviewId": "20414",
@@ -30102,7 +30102,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Br072",
         "Dest": "TPE",
-        "AirlineCode": "BR"
+        "AirlineCode": "Br"
     },
     {
         "InterviewId": "20415",
@@ -30118,7 +30118,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Br072",
         "Dest": "TPE",
-        "AirlineCode": "BR"
+        "AirlineCode": "Br"
     },
     {
         "InterviewId": "20417",
@@ -30126,7 +30126,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh714",
         "Dest": "HND",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20418",
@@ -30134,7 +30134,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh714",
         "Dest": "HND",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20419",
@@ -30142,7 +30142,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh714",
         "Dest": "HND",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20420",
@@ -30150,7 +30150,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh714",
         "Dest": "HND",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20422",
@@ -30166,7 +30166,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh714",
         "Dest": "HND",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20424",
@@ -30174,7 +30174,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh714",
         "Dest": "HND",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20425",
@@ -30214,7 +30214,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Ca962",
         "Dest": "PEK",
-        "AirlineCode": "CA"
+        "AirlineCode": "Ca"
     },
     {
         "InterviewId": "20430",
@@ -30286,7 +30286,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2476",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20442",
@@ -30302,7 +30302,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2476",
         "Dest": "LHR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20446",
@@ -30334,7 +30334,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1656",
         "Dest": "TSR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20450",
@@ -30342,7 +30342,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1656",
         "Dest": "TSR",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20451",
@@ -30366,7 +30366,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Tg925",
         "Dest": "BKK",
-        "AirlineCode": "TG"
+        "AirlineCode": "Tg"
     },
     {
         "InterviewId": "20455",
@@ -30390,7 +30390,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Tg925",
         "Dest": "BKK",
-        "AirlineCode": "TG"
+        "AirlineCode": "Tg"
     },
     {
         "InterviewId": "20458",
@@ -30398,7 +30398,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Tg925",
         "Dest": "BKK",
-        "AirlineCode": "TG"
+        "AirlineCode": "Tg"
     },
     {
         "InterviewId": "20459",
@@ -30406,7 +30406,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Tg925",
         "Dest": "BKK",
-        "AirlineCode": "TG"
+        "AirlineCode": "Tg"
     },
     {
         "InterviewId": "20460",
@@ -30422,7 +30422,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Tg925",
         "Dest": "BKK",
-        "AirlineCode": "TG"
+        "AirlineCode": "Tg"
     },
     {
         "InterviewId": "20462",
@@ -30430,7 +30430,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Tg925",
         "Dest": "BKK",
-        "AirlineCode": "TG"
+        "AirlineCode": "Tg"
     },
     {
         "InterviewId": "20463",
@@ -30462,7 +30462,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1736",
         "Dest": "BEG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20470",
@@ -30486,7 +30486,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1736",
         "Dest": "BEG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20473",
@@ -30494,7 +30494,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1652",
         "Dest": "OTP",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20474",
@@ -30502,7 +30502,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1652",
         "Dest": "OTP",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20475",
@@ -30542,7 +30542,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1736",
         "Dest": "OTP",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20480",
@@ -30830,7 +30830,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "X3 2238",
         "Dest": "LPA",
-        "AirlineCode": "X"
+        "AirlineCode": "X3"
     },
     {
         "InterviewId": "20526",
@@ -30838,7 +30838,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "X3 2238",
         "Dest": "LPA",
-        "AirlineCode": "X"
+        "AirlineCode": "X3"
     },
     {
         "InterviewId": "20527",
@@ -30846,7 +30846,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "X3 2238",
         "Dest": "LPA",
-        "AirlineCode": "X"
+        "AirlineCode": "X3"
     },
     {
         "InterviewId": "20528",
@@ -30854,7 +30854,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "X3 4282",
         "Dest": "HER",
-        "AirlineCode": "X"
+        "AirlineCode": "X3"
     },
     {
         "InterviewId": "20530",
@@ -30862,7 +30862,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "X3 4282",
         "Dest": "HER",
-        "AirlineCode": "X"
+        "AirlineCode": "X3"
     },
     {
         "InterviewId": "20531",
@@ -30870,7 +30870,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "X3 4282",
         "Dest": "HER",
-        "AirlineCode": "X"
+        "AirlineCode": "X3"
     },
     {
         "InterviewId": "20532",
@@ -30878,7 +30878,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "X3 4282",
         "Dest": "HER",
-        "AirlineCode": "X"
+        "AirlineCode": "X3"
     },
     {
         "InterviewId": "20533",
@@ -30886,7 +30886,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "X3 4282",
         "Dest": "HER",
-        "AirlineCode": "X"
+        "AirlineCode": "X3"
     },
     {
         "InterviewId": "20535",
@@ -30894,7 +30894,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "X3 4282",
         "Dest": "HER",
-        "AirlineCode": "X"
+        "AirlineCode": "X3"
     },
     {
         "InterviewId": "20536",
@@ -30902,7 +30902,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "X3 4282",
         "Dest": "HER",
-        "AirlineCode": "X"
+        "AirlineCode": "X3"
     },
     {
         "InterviewId": "20537",
@@ -30974,7 +30974,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1802",
         "Dest": "MAD",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20546",
@@ -30982,7 +30982,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1802",
         "Dest": "MAD",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20547",
@@ -30990,7 +30990,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1802",
         "Dest": "MAD",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20548",
@@ -30998,7 +30998,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2416",
         "Dest": "ARN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20550",
@@ -31006,7 +31006,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2416",
         "Dest": "ARN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20551",
@@ -31014,7 +31014,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2416",
         "Dest": "ARN",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20552",
@@ -31022,7 +31022,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1802",
         "Dest": "MAD",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20553",
@@ -31030,7 +31030,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1804",
         "Dest": "MAD",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20554",
@@ -31038,7 +31038,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1802",
         "Dest": "MAD",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20555",
@@ -31046,7 +31046,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1802",
         "Dest": "MAD",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20559",
@@ -31054,7 +31054,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2230",
         "Dest": "CDG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20560",
@@ -31062,7 +31062,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2230",
         "Dest": "CDG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20562",
@@ -31070,7 +31070,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2230",
         "Dest": "CDG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20563",
@@ -31078,7 +31078,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2230",
         "Dest": "CDG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20565",
@@ -31086,7 +31086,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1868",
         "Dest": "FCO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20566",
@@ -31094,7 +31094,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2230",
         "Dest": "CDG",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20567",
@@ -31102,7 +31102,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1868",
         "Dest": "FCO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20568",
@@ -31110,7 +31110,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh1868",
         "Dest": "FCO",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20570",
@@ -31118,7 +31118,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "Lh2194",
         "Dest": "BRE",
-        "AirlineCode": "LH"
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "20572",
