@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "19-08-2023 08:58:08"
+        "download_time": "19-08-2023 10:04:02"
     },
     {
         "InterviewId": "6093",
@@ -24719,6 +24719,70 @@ let interview_data_raw = `[
         "Flight": "PC5024",
         "Dest": "AYT",
         "AirlineCode": "PC5024"
+    },
+    {
+        "InterviewId": "10825",
+        "InterviewEndDate": "2023-08-19 07:12:45",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "10826",
+        "InterviewEndDate": "2023-08-19 07:16:24",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "10828",
+        "InterviewEndDate": "2023-08-19 07:17:22",
+        "InterviewState": "Complete",
+        "Flight": "DY993",
+        "Dest": "OSL",
+        "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "10834",
+        "InterviewEndDate": "2023-08-19 07:43:28",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "10835",
+        "InterviewEndDate": "2023-08-19 07:40:52",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "10836",
+        "InterviewEndDate": "2023-08-19 07:39:26",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "10837",
+        "InterviewEndDate": "2023-08-19 07:44:13",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
+    },
+    {
+        "InterviewId": "10838",
+        "InterviewEndDate": "2023-08-19 07:42:12",
+        "InterviewState": "Complete",
+        "Flight": "XQ575",
+        "Dest": "AYT",
+        "AirlineCode": "XQ575"
     }
 ]    
 
