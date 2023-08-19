@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "19-08-2023 04:42:24"
+        "download_time": "19-08-2023 05:47:15"
     },
     {
         "InterviewId": "67210",
@@ -123878,6 +123878,118 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2499",
         "Dest": "GYD",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "83196",
+        "InterviewEndDate": "2023-08-19 03:29:26",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "83197",
+        "InterviewEndDate": "2023-08-19 03:34:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "83198",
+        "InterviewEndDate": "2023-08-19 03:36:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "83199",
+        "InterviewEndDate": "2023-08-19 03:39:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "83200",
+        "InterviewEndDate": "2023-08-19 03:37:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "83201",
+        "InterviewEndDate": "2023-08-19 03:37:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "83202",
+        "InterviewEndDate": "2023-08-19 03:38:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "83203",
+        "InterviewEndDate": "2023-08-19 03:39:50",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "83204",
+        "InterviewEndDate": "2023-08-19 03:41:33",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "83205",
+        "InterviewEndDate": "2023-08-19 03:41:57",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "83206",
+        "InterviewEndDate": "2023-08-19 03:42:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "83207",
+        "InterviewEndDate": "2023-08-19 03:42:55",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "83208",
+        "InterviewEndDate": "2023-08-19 03:45:48",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "83209",
+        "InterviewEndDate": "2023-08-19 03:44:54",
+        "InterviewState": "Complete",
+        "Flight": "W6 2353",
+        "Dest": "CTA",
         "AirlineCode": "W6"
     }
 ]    
