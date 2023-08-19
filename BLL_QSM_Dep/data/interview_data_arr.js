@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "19-08-2023 14:23:20"
+        "download_time": "19-08-2023 15:28:17"
     },
     {
         "InterviewId": "2077",
@@ -7543,6 +7543,54 @@ let interview_data_arr_raw = `[
         "Flight": "XR - Corendon Airline",
         "Dest": "HER",
         "AirlineCode": "XR"
+    },
+    {
+        "InterviewId": "3818",
+        "InterviewEndDate": "2023-08-19 12:41:12",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VIE",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3819",
+        "InterviewEndDate": "2023-08-19 12:43:20",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BUD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3820",
+        "InterviewEndDate": "2023-08-19 12:44:09",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BUD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3827",
+        "InterviewEndDate": "2023-08-19 13:00:18",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "SMI",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "3828",
+        "InterviewEndDate": "2023-08-19 13:01:07",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "SMI",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "3829",
+        "InterviewEndDate": "2023-08-19 13:00:55",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "SMI",
+        "AirlineCode": "RC"
     }
 ]    
 
