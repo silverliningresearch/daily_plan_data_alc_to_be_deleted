@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "20-08-2023 14:12:08"
+        "download_time": "20-08-2023 15:17:13"
     },
     {
         "InterviewId": "5174",
@@ -9847,6 +9847,86 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "SPU",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6649",
+        "InterviewEndDate": "2023-08-20 12:33:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2517",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6651",
+        "InterviewEndDate": "2023-08-20 12:36:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 2517",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6652",
+        "InterviewEndDate": "2023-08-20 12:44:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 2517",
+        "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6653",
+        "InterviewEndDate": "2023-08-20 12:46:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 1651",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6654",
+        "InterviewEndDate": "2023-08-20 12:51:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 1651",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6655",
+        "InterviewEndDate": "2023-08-20 12:56:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 1651",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6656",
+        "InterviewEndDate": "2023-08-20 13:10:28",
+        "InterviewState": "Complete",
+        "Flight": "UA 760",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "6657",
+        "InterviewEndDate": "2023-08-20 13:10:15",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines 760",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "6658",
+        "InterviewEndDate": "2023-08-20 13:12:41",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines 760",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "6659",
+        "InterviewEndDate": "2023-08-20 13:15:08",
+        "InterviewState": "Complete",
+        "Flight": "UA 760",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
     }
 ]    
 
