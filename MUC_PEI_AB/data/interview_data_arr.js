@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "20-08-2023 16:22:27"
+        "download_time": "20-08-2023 17:27:18"
     },
     {
         "InterviewId": "5174",
@@ -10006,6 +10006,102 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa 1751",
         "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6671",
+        "InterviewEndDate": "2023-08-20 14:23:24",
+        "InterviewState": "Complete",
+        "Flight": "SK - SAS-Scandinavian Airlines System 2657",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "6672",
+        "InterviewEndDate": "2023-08-20 14:30:57",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair 787",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "6673",
+        "InterviewEndDate": "2023-08-20 14:39:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 2231",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6674",
+        "InterviewEndDate": "2023-08-20 14:43:18",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa 2231",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6675",
+        "InterviewEndDate": "2023-08-20 14:45:10",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa 2231",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6676",
+        "InterviewEndDate": "2023-08-20 14:48:15",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa 2231",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6678",
+        "InterviewEndDate": "2023-08-20 14:59:55",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti 8309",
+        "Dest": "OLB",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "6679",
+        "InterviewEndDate": "2023-08-20 15:02:29",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti 8309",
+        "Dest": "OLB",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "6680",
+        "InterviewEndDate": "2023-08-20 15:03:58",
+        "InterviewState": "Complete",
+        "Flight": "EN 8309",
+        "Dest": "OLB",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "6681",
+        "InterviewEndDate": "2023-08-20 15:18:47",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa 459",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6682",
+        "InterviewEndDate": "2023-08-20 15:17:31",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa 459",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6683",
+        "InterviewEndDate": "2023-08-20 15:26:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 459",
+        "Dest": "SFO",
         "AirlineCode": "LH"
     }
 ]    

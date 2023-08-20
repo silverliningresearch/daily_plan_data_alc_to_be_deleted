@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "20-08-2023 16:23:43"
+        "download_time": "20-08-2023 17:28:31"
     },
     {
         "InterviewId": "2077",
@@ -7655,6 +7655,38 @@ let interview_data_arr_raw = `[
         "Flight": "DY - Norwegian Air Schuttle",
         "Dest": "OSL",
         "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "3842",
+        "InterviewEndDate": "2023-08-20 14:28:05",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "3843",
+        "InterviewEndDate": "2023-08-20 14:24:45",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "3850",
+        "InterviewEndDate": "2023-08-20 14:58:58",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "AOK",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "3851",
+        "InterviewEndDate": "2023-08-20 14:57:09",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "AOK",
+        "AirlineCode": "RC"
     }
 ]    
 
