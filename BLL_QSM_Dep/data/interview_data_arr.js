@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "20-08-2023 15:18:25"
+        "download_time": "20-08-2023 16:23:43"
     },
     {
         "InterviewId": "2077",
@@ -7591,6 +7591,70 @@ let interview_data_arr_raw = `[
         "Flight": "RC - Atlantic Airways",
         "Dest": "SMI",
         "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "3830",
+        "InterviewEndDate": "2023-08-20 14:01:38",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "AGP",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3831",
+        "InterviewEndDate": "2023-08-20 14:02:11",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "AGP",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3832",
+        "InterviewEndDate": "2023-08-20 13:59:22",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "AGP",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3833",
+        "InterviewEndDate": "2023-08-20 13:59:55",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "AGP",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3834",
+        "InterviewEndDate": "2023-08-20 13:59:33",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "AGP",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "3835",
+        "InterviewEndDate": "2023-08-20 14:14:28",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Schuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "3836",
+        "InterviewEndDate": "2023-08-20 14:16:30",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Schuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "3839",
+        "InterviewEndDate": "2023-08-20 14:16:54",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Schuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
     }
 ]    
 

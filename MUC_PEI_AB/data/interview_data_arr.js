@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "20-08-2023 15:17:13"
+        "download_time": "20-08-2023 16:22:27"
     },
     {
         "InterviewId": "5174",
@@ -9927,6 +9927,86 @@ let interview_data_arr_raw = `[
         "Flight": "UA 760",
         "Dest": "DEN",
         "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "6660",
+        "InterviewEndDate": "2023-08-20 13:22:32",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines 760",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "6661",
+        "InterviewEndDate": "2023-08-20 13:28:36",
+        "InterviewState": "Complete",
+        "Flight": "3U - Sichuan Airlines 760",
+        "Dest": "DEN",
+        "AirlineCode": "3U"
+    },
+    {
+        "InterviewId": "6662",
+        "InterviewEndDate": "2023-08-20 13:35:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1665",
+        "Dest": "SBZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6663",
+        "InterviewEndDate": "2023-08-20 13:39:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 1657",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6664",
+        "InterviewEndDate": "2023-08-20 13:42:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 1667",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6665",
+        "InterviewEndDate": "2023-08-20 13:51:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 1751",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6667",
+        "InterviewEndDate": "2023-08-20 13:57:49",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa 1751",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6668",
+        "InterviewEndDate": "2023-08-20 14:01:36",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa 1751",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6669",
+        "InterviewEndDate": "2023-08-20 14:00:30",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa1751",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6670",
+        "InterviewEndDate": "2023-08-20 14:06:43",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa 1751",
+        "Dest": "ATH",
+        "AirlineCode": "LH"
     }
 ]    
 
