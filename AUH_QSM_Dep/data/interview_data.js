@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "22-08-2023 08:23:49"
+        "download_time": "22-08-2023 09:29:06"
     },
     {
         "InterviewId": "7333",
@@ -25138,12 +25138,120 @@ let interview_data_raw = `[
         "Terminal": "T3"
     },
     {
+        "InterviewId": "10307",
+        "InterviewEndDate": "2023-08-22 04:30:01",
+        "InterviewState": "Complete",
+        "Flight": "EY333",
+        "Dest": "JED",
+        "AirlineCode": "EY333",
+        "Terminal": "T3"
+    },
+    {
         "InterviewId": "10308",
         "InterviewEndDate": "2023-08-22 04:20:50",
         "InterviewState": "Complete",
         "Flight": "EY333",
         "Dest": "JED",
         "AirlineCode": "EY333",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10309",
+        "InterviewEndDate": "2023-08-22 04:32:55",
+        "InterviewState": "Complete",
+        "Flight": "EY653",
+        "Dest": "CAI",
+        "AirlineCode": "EY653",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "10310",
+        "InterviewEndDate": "2023-08-22 04:29:29",
+        "InterviewState": "Complete",
+        "Flight": "EY653",
+        "Dest": "CAI",
+        "AirlineCode": "EY653",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10311",
+        "InterviewEndDate": "2023-08-22 04:48:22",
+        "InterviewState": "Complete",
+        "Flight": "EY077",
+        "Dest": "AMS",
+        "AirlineCode": "EY077",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10312",
+        "InterviewEndDate": "2023-08-22 04:45:56",
+        "InterviewState": "Complete",
+        "Flight": "EY077",
+        "Dest": "AMS",
+        "AirlineCode": "EY077",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10313",
+        "InterviewEndDate": "2023-08-22 04:45:41",
+        "InterviewState": "Complete",
+        "Flight": "EY077",
+        "Dest": "AMS",
+        "AirlineCode": "EY077",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10314",
+        "InterviewEndDate": "2023-08-22 04:52:30",
+        "InterviewState": "Complete",
+        "Flight": "EY077",
+        "Dest": "AMS",
+        "AirlineCode": "EY077",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10315",
+        "InterviewEndDate": "2023-08-22 05:08:33",
+        "InterviewState": "Complete",
+        "Flight": "EY404",
+        "Dest": "BKK",
+        "AirlineCode": "EY404",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10316",
+        "InterviewEndDate": "2023-08-22 05:04:40",
+        "InterviewState": "Complete",
+        "Flight": "EY404",
+        "Dest": "BKK",
+        "AirlineCode": "EY404",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10317",
+        "InterviewEndDate": "2023-08-22 05:06:30",
+        "InterviewState": "Complete",
+        "Flight": "EY404",
+        "Dest": "BKK",
+        "AirlineCode": "EY404",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10318",
+        "InterviewEndDate": "2023-08-22 05:17:34",
+        "InterviewState": "Complete",
+        "Flight": "EY593",
+        "Dest": "TLV",
+        "AirlineCode": "EY593",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10319",
+        "InterviewEndDate": "2023-08-22 05:17:11",
+        "InterviewState": "Complete",
+        "Flight": "EY593",
+        "Dest": "TLV",
+        "AirlineCode": "EY593",
         "Terminal": "T3"
     }
 ]    
