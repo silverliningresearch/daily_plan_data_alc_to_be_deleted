@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "23-08-2023 12:38:55"
+        "download_time": "23-08-2023 13:43:49"
     },
     {
         "InterviewId": "6093",
@@ -25639,6 +25639,54 @@ let interview_data_raw = `[
         "Flight": "FR5173",
         "Dest": "STN",
         "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "11036",
+        "InterviewEndDate": "2023-08-23 10:58:50",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "11037",
+        "InterviewEndDate": "2023-08-23 10:53:58",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "11038",
+        "InterviewEndDate": "2023-08-23 10:45:48",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "11040",
+        "InterviewEndDate": "2023-08-23 11:38:46",
+        "InterviewState": "Complete",
+        "Flight": "VY1913",
+        "Dest": "PMI",
+        "AirlineCode": "VY1913"
+    },
+    {
+        "InterviewId": "11042",
+        "InterviewEndDate": "2023-08-23 11:38:12",
+        "InterviewState": "Complete",
+        "Flight": "VY1913",
+        "Dest": "PMI",
+        "AirlineCode": "VY1913"
+    },
+    {
+        "InterviewId": "11044",
+        "InterviewEndDate": "2023-08-23 11:38:22",
+        "InterviewState": "Complete",
+        "Flight": "VY1913",
+        "Dest": "PMI",
+        "AirlineCode": "VY1913"
     }
 ]    
 
