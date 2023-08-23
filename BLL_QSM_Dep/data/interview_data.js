@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "23-08-2023 16:58:40"
+        "download_time": "23-08-2023 18:03:38"
     },
     {
         "InterviewId": "6093",
@@ -25745,8 +25745,48 @@ let interview_data_raw = `[
         "AirlineCode": "WF283"
     },
     {
+        "InterviewId": "11055",
+        "InterviewEndDate": "2023-08-23 14:56:25",
+        "InterviewState": "Complete",
+        "Flight": "WF283",
+        "Dest": "BGO",
+        "AirlineCode": "WF283"
+    },
+    {
+        "InterviewId": "11056",
+        "InterviewEndDate": "2023-08-23 14:57:17",
+        "InterviewState": "Complete",
+        "Flight": "WF283",
+        "Dest": "BGO",
+        "AirlineCode": "WF283"
+    },
+    {
+        "InterviewId": "11057",
+        "InterviewEndDate": "2023-08-23 14:56:25",
+        "InterviewState": "Complete",
+        "Flight": "WF283",
+        "Dest": "BGO",
+        "AirlineCode": "WF283"
+    },
+    {
         "InterviewId": "11058",
         "InterviewEndDate": "2023-08-23 14:57:14",
+        "InterviewState": "Complete",
+        "Flight": "WF283",
+        "Dest": "BGO",
+        "AirlineCode": "WF283"
+    },
+    {
+        "InterviewId": "11059",
+        "InterviewEndDate": "2023-08-23 14:58:37",
+        "InterviewState": "Complete",
+        "Flight": "WF283",
+        "Dest": "BGO",
+        "AirlineCode": "WF283"
+    },
+    {
+        "InterviewId": "11060",
+        "InterviewEndDate": "2023-08-23 14:58:34",
         "InterviewState": "Complete",
         "Flight": "WF283",
         "Dest": "BGO",
