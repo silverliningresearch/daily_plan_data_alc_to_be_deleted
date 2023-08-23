@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "23-08-2023 08:18:48"
+        "download_time": "23-08-2023 09:24:14"
     },
     {
         "InterviewId": "6093",
@@ -25519,6 +25519,46 @@ let interview_data_raw = `[
         "Flight": "FR3761",
         "Dest": "CRL",
         "AirlineCode": "FR3761"
+    },
+    {
+        "InterviewId": "11008",
+        "InterviewEndDate": "2023-08-23 06:55:57",
+        "InterviewState": "Complete",
+        "Flight": "W64278",
+        "Dest": "TZL",
+        "AirlineCode": "W64278"
+    },
+    {
+        "InterviewId": "11009",
+        "InterviewEndDate": "2023-08-23 07:20:08",
+        "InterviewState": "Complete",
+        "Flight": "W64278",
+        "Dest": "TZL",
+        "AirlineCode": "W64278"
+    },
+    {
+        "InterviewId": "11010",
+        "InterviewEndDate": "2023-08-23 07:13:45",
+        "InterviewState": "Complete",
+        "Flight": "W64278",
+        "Dest": "TZL",
+        "AirlineCode": "W64278"
+    },
+    {
+        "InterviewId": "11011",
+        "InterviewEndDate": "2023-08-23 07:12:47",
+        "InterviewState": "Complete",
+        "Flight": "W64278",
+        "Dest": "TZL",
+        "AirlineCode": "W64278"
+    },
+    {
+        "InterviewId": "11012",
+        "InterviewEndDate": "2023-08-23 07:16:24",
+        "InterviewState": "Complete",
+        "Flight": "W64278",
+        "Dest": "TZL",
+        "AirlineCode": "W64278"
     }
 ]    
 

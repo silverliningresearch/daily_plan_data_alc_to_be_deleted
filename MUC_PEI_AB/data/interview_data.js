@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "23-08-2023 08:17:09"
+        "download_time": "23-08-2023 09:22:23"
     },
     {
         "InterviewId": "15848",
@@ -33078,6 +33078,134 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2072",
         "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20838",
+        "InterviewEndDate": "2023-08-23 06:25:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 099",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20839",
+        "InterviewEndDate": "2023-08-23 06:25:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 099",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20840",
+        "InterviewEndDate": "2023-08-23 06:24:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 099",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20841",
+        "InterviewEndDate": "2023-08-23 06:28:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 099",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20842",
+        "InterviewEndDate": "2023-08-23 06:45:00",
+        "InterviewState": "Complete",
+        "Flight": "SK 662",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "20843",
+        "InterviewEndDate": "2023-08-23 06:44:06",
+        "InterviewState": "Complete",
+        "Flight": "SK 662",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "20844",
+        "InterviewEndDate": "2023-08-23 06:47:41",
+        "InterviewState": "Complete",
+        "Flight": "SK 662",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "20845",
+        "InterviewEndDate": "2023-08-23 06:50:17",
+        "InterviewState": "Complete",
+        "Flight": "SK 662",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "20846",
+        "InterviewEndDate": "2023-08-23 06:52:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20847",
+        "InterviewEndDate": "2023-08-23 06:57:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20848",
+        "InterviewEndDate": "2023-08-23 06:57:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20849",
+        "InterviewEndDate": "2023-08-23 07:02:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20850",
+        "InterviewEndDate": "2023-08-23 07:02:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20851",
+        "InterviewEndDate": "2023-08-23 07:09:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 101",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20852",
+        "InterviewEndDate": "2023-08-23 07:10:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 101",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "20853",
+        "InterviewEndDate": "2023-08-23 07:12:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 101",
+        "Dest": "FRA",
         "AirlineCode": "LH"
     }
 ]    
