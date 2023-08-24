@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "24-08-2023 23:14:28"
+        "download_time": "25-08-2023 00:18:57"
     },
     {
         "InterviewId": "7333",
@@ -26035,6 +26035,69 @@ let interview_data_raw = `[
         "Flight": "3L424",
         "Dest": "CAI",
         "AirlineCode": "3L424",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "10415",
+        "InterviewEndDate": "2023-08-24 19:20:10",
+        "InterviewState": "Complete",
+        "Flight": "UK256",
+        "Dest": "BOM",
+        "AirlineCode": "UK256",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "10416",
+        "InterviewEndDate": "2023-08-24 19:16:25",
+        "InterviewState": "Complete",
+        "Flight": "UK256",
+        "Dest": "BOM",
+        "AirlineCode": "UK256",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "10417",
+        "InterviewEndDate": "2023-08-24 19:39:41",
+        "InterviewState": "Complete",
+        "Flight": "Ms919",
+        "Dest": "CAI",
+        "AirlineCode": "Ms919",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "10418",
+        "InterviewEndDate": "2023-08-24 19:38:02",
+        "InterviewState": "Complete",
+        "Flight": "Ms919",
+        "Dest": "CAI",
+        "AirlineCode": "Ms919",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "10419",
+        "InterviewEndDate": "2023-08-24 19:40:36",
+        "InterviewState": "Complete",
+        "Flight": "Ms919",
+        "Dest": "CAI",
+        "AirlineCode": "Ms919",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "10420",
+        "InterviewEndDate": "2023-08-24 20:03:04",
+        "InterviewState": "Complete",
+        "Flight": "3L101",
+        "Dest": "BOM",
+        "AirlineCode": "3L101",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "10421",
+        "InterviewEndDate": "2023-08-24 19:58:26",
+        "InterviewState": "Complete",
+        "Flight": "3L101",
+        "Dest": "BOM",
+        "AirlineCode": "3L101",
         "Terminal": "T1"
     }
 ]    
