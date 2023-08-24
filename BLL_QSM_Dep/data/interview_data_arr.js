@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "24-08-2023 12:28:58"
+        "download_time": "24-08-2023 13:33:58"
     },
     {
         "InterviewId": "2077",
@@ -7719,6 +7719,86 @@ let interview_data_arr_raw = `[
         "Flight": "LO - LOT",
         "Dest": "WAW",
         "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "3867",
+        "InterviewEndDate": "2023-08-24 10:40:40",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "3868",
+        "InterviewEndDate": "2023-08-24 10:48:47",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "3873",
+        "InterviewEndDate": "2023-08-24 10:48:55",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3874",
+        "InterviewEndDate": "2023-08-24 10:41:16",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3875",
+        "InterviewEndDate": "2023-08-24 10:45:02",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3876",
+        "InterviewEndDate": "2023-08-24 10:45:55",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3877",
+        "InterviewEndDate": "2023-08-24 10:56:04",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "3881",
+        "InterviewEndDate": "2023-08-24 11:10:05",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "KRK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3886",
+        "InterviewEndDate": "2023-08-24 11:02:42",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "KRK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3887",
+        "InterviewEndDate": "2023-08-24 11:07:06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "KRK",
+        "AirlineCode": "FR"
     }
 ]    
 
