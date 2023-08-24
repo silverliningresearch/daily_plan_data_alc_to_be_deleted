@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "24-08-2023 15:48:18"
+        "download_time": "24-08-2023 16:53:53"
     },
     {
         "InterviewId": "67210",
@@ -127358,6 +127358,238 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LO 2001",
         "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83639",
+        "InterviewEndDate": "2023-08-24 13:50:47",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83640",
+        "InterviewEndDate": "2023-08-24 13:52:56",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83641",
+        "InterviewEndDate": "2023-08-24 13:53:15",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83642",
+        "InterviewEndDate": "2023-08-24 13:57:47",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83643",
+        "InterviewEndDate": "2023-08-24 13:56:00",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83644",
+        "InterviewEndDate": "2023-08-24 14:00:15",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83645",
+        "InterviewEndDate": "2023-08-24 14:02:54",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83646",
+        "InterviewEndDate": "2023-08-24 14:02:51",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83647",
+        "InterviewEndDate": "2023-08-24 14:07:42",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83648",
+        "InterviewEndDate": "2023-08-24 14:04:46",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83649",
+        "InterviewEndDate": "2023-08-24 14:04:49",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83650",
+        "InterviewEndDate": "2023-08-24 14:09:37",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83651",
+        "InterviewEndDate": "2023-08-24 14:09:42",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83652",
+        "InterviewEndDate": "2023-08-24 14:10:06",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83653",
+        "InterviewEndDate": "2023-08-24 14:38:47",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83654",
+        "InterviewEndDate": "2023-08-24 14:38:24",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83655",
+        "InterviewEndDate": "2023-08-24 14:37:22",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83656",
+        "InterviewEndDate": "2023-08-24 14:41:31",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83657",
+        "InterviewEndDate": "2023-08-24 14:37:56",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83658",
+        "InterviewEndDate": "2023-08-24 14:40:01",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83659",
+        "InterviewEndDate": "2023-08-24 14:42:41",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83660",
+        "InterviewEndDate": "2023-08-24 14:44:31",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83661",
+        "InterviewEndDate": "2023-08-24 14:44:26",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83662",
+        "InterviewEndDate": "2023-08-24 14:47:00",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83663",
+        "InterviewEndDate": "2023-08-24 14:47:00",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83664",
+        "InterviewEndDate": "2023-08-24 14:45:38",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83665",
+        "InterviewEndDate": "2023-08-24 14:50:36",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83666",
+        "InterviewEndDate": "2023-08-24 14:48:35",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "83667",
+        "InterviewEndDate": "2023-08-24 14:50:34",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
         "AirlineCode": "LO"
     }
 ]    
