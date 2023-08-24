@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "24-08-2023 18:58:44"
+        "download_time": "24-08-2023 20:03:50"
     },
     {
         "InterviewId": "2077",
@@ -7887,6 +7887,62 @@ let interview_data_arr_raw = `[
         "Flight": "CAT - Global Reach Aviation",
         "Dest": "SSH",
         "AirlineCode": "CAT"
+    },
+    {
+        "InterviewId": "3921",
+        "InterviewEndDate": "2023-08-24 16:58:16",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Hava Tasimaciligi",
+        "Dest": "AYT",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "3922",
+        "InterviewEndDate": "2023-08-24 16:58:33",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Hava Tasimaciligi",
+        "Dest": "AYT",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "3926",
+        "InterviewEndDate": "2023-08-24 17:10:52",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "VIE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "3928",
+        "InterviewEndDate": "2023-08-24 17:22:59",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "3929",
+        "InterviewEndDate": "2023-08-24 17:23:22",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "3932",
+        "InterviewEndDate": "2023-08-24 17:49:06",
+        "InterviewState": "Complete",
+        "Flight": "Braaethens",
+        "Dest": "TFS",
+        "AirlineCode": "Braaethens"
+    },
+    {
+        "InterviewId": "3933",
+        "InterviewEndDate": "2023-08-24 17:51:49",
+        "InterviewState": "Complete",
+        "Flight": "Braaethens",
+        "Dest": "TFS",
+        "AirlineCode": "Braaethens"
     }
 ]    
 
