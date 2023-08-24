@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "24-08-2023 17:53:58"
+        "download_time": "24-08-2023 18:58:44"
     },
     {
         "InterviewId": "2077",
@@ -7839,6 +7839,54 @@ let interview_data_arr_raw = `[
         "Flight": "SK - Scandinavian Airlines System (SAS)",
         "Dest": "OSL",
         "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "3903",
+        "InterviewEndDate": "2023-08-24 15:55:16",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3904",
+        "InterviewEndDate": "2023-08-24 15:55:20",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3905",
+        "InterviewEndDate": "2023-08-24 15:54:38",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3906",
+        "InterviewEndDate": "2023-08-24 15:56:25",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3910",
+        "InterviewEndDate": "2023-08-24 16:33:09",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "SSH",
+        "AirlineCode": "CAT"
+    },
+    {
+        "InterviewId": "3914",
+        "InterviewEndDate": "2023-08-24 16:34:12",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "SSH",
+        "AirlineCode": "CAT"
     }
 ]    
 
