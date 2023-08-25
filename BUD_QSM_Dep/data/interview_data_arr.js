@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "25-08-2023 20:59:05"
+        "download_time": "25-08-2023 22:04:10"
     },
     {
         "InterviewId": "1224",
@@ -3479,6 +3479,86 @@ let interview_data_arr_raw = `[
         "Flight": "D8 - Norwegian Air International",
         "Dest": "ARN",
         "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "1661",
+        "InterviewEndDate": "2023-08-25 19:09:03",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1662",
+        "InterviewEndDate": "2023-08-25 19:12:59",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1663",
+        "InterviewEndDate": "2023-08-25 19:17:01",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1664",
+        "InterviewEndDate": "2023-08-25 19:20:27",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1665",
+        "InterviewEndDate": "2023-08-25 19:23:48",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1666",
+        "InterviewEndDate": "2023-08-25 19:34:11",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1667",
+        "InterviewEndDate": "2023-08-25 19:36:58",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1668",
+        "InterviewEndDate": "2023-08-25 19:39:38",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1669",
+        "InterviewEndDate": "2023-08-25 19:42:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1670",
+        "InterviewEndDate": "2023-08-25 19:46:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
     }
 ]    
 
