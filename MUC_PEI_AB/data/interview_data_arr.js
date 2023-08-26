@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "26-08-2023 11:02:20"
+        "download_time": "26-08-2023 12:07:18"
     },
     {
         "InterviewId": "5174",
@@ -10263,6 +10263,102 @@ let interview_data_arr_raw = `[
         "Flight": "",
         "Dest": "AYT",
         "AirlineCode": ""
+    },
+    {
+        "InterviewId": "6706",
+        "InterviewEndDate": "2023-08-26 09:13:35",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "6707",
+        "InterviewEndDate": "2023-08-26 09:12:27",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "6708",
+        "InterviewEndDate": "2023-08-26 09:11:40",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "6709",
+        "InterviewEndDate": "2023-08-26 09:14:23",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "6710",
+        "InterviewEndDate": "2023-08-26 09:22:25",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6711",
+        "InterviewEndDate": "2023-08-26 09:20:21",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6712",
+        "InterviewEndDate": "2023-08-26 09:20:04",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6713",
+        "InterviewEndDate": "2023-08-26 09:21:58",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "6715",
+        "InterviewEndDate": "2023-08-26 09:29:30",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "6716",
+        "InterviewEndDate": "2023-08-26 09:30:17",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "6717",
+        "InterviewEndDate": "2023-08-26 09:31:09",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "6718",
+        "InterviewEndDate": "2023-08-26 09:28:22",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
     }
 ]    
 
