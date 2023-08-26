@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "26-08-2023 21:54:03"
+        "download_time": "26-08-2023 22:58:56"
     },
     {
         "InterviewId": "1224",
@@ -3559,6 +3559,86 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizz Air",
         "Dest": "EIN",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1671",
+        "InterviewEndDate": "2023-08-26 20:12:16",
+        "InterviewState": "Complete",
+        "Flight": "FZ - FlyDubai",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "1672",
+        "InterviewEndDate": "2023-08-26 20:16:16",
+        "InterviewState": "Complete",
+        "Flight": "FZ - FlyDubai",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "1673",
+        "InterviewEndDate": "2023-08-26 20:20:28",
+        "InterviewState": "Complete",
+        "Flight": "FZ - FlyDubai",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "1674",
+        "InterviewEndDate": "2023-08-26 20:24:07",
+        "InterviewState": "Complete",
+        "Flight": "FZ - FlyDubai",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "1675",
+        "InterviewEndDate": "2023-08-26 20:29:01",
+        "InterviewState": "Complete",
+        "Flight": "FZ - FlyDubai",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "1676",
+        "InterviewEndDate": "2023-08-26 20:32:07",
+        "InterviewState": "Complete",
+        "Flight": "FZ - FlyDubai",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "1677",
+        "InterviewEndDate": "2023-08-26 20:37:06",
+        "InterviewState": "Complete",
+        "Flight": "FZ - FlyDubai",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "1678",
+        "InterviewEndDate": "2023-08-26 20:43:31",
+        "InterviewState": "Complete",
+        "Flight": "OS - Austrian Airlines",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "1679",
+        "InterviewEndDate": "2023-08-26 20:46:27",
+        "InterviewState": "Complete",
+        "Flight": "OS - Austrian Airlines",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "1680",
+        "InterviewEndDate": "2023-08-26 20:51:10",
+        "InterviewState": "Complete",
+        "Flight": "OS - Austrian Airlines",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
     }
 ]    
 
