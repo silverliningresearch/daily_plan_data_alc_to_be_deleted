@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "27-08-2023 14:08:24"
+        "download_time": "27-08-2023 15:13:24"
     },
     {
         "InterviewId": "6093",
@@ -26775,6 +26775,46 @@ let interview_data_raw = `[
         "Flight": "DY995",
         "Dest": "OSL",
         "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "11252",
+        "InterviewEndDate": "2023-08-27 12:31:25",
+        "InterviewState": "Complete",
+        "Flight": "FR4211",
+        "Dest": "VNO",
+        "AirlineCode": "FR4211"
+    },
+    {
+        "InterviewId": "11253",
+        "InterviewEndDate": "2023-08-27 12:35:40",
+        "InterviewState": "Complete",
+        "Flight": "FR4211",
+        "Dest": "VNO",
+        "AirlineCode": "FR4211"
+    },
+    {
+        "InterviewId": "11254",
+        "InterviewEndDate": "2023-08-27 12:40:25",
+        "InterviewState": "Complete",
+        "Flight": "FR4211",
+        "Dest": "VNO",
+        "AirlineCode": "FR4211"
+    },
+    {
+        "InterviewId": "11255",
+        "InterviewEndDate": "2023-08-27 12:30:23",
+        "InterviewState": "Complete",
+        "Flight": "FR4211",
+        "Dest": "VNO",
+        "AirlineCode": "FR4211"
+    },
+    {
+        "InterviewId": "11260",
+        "InterviewEndDate": "2023-08-27 13:00:42",
+        "InterviewState": "Complete",
+        "Flight": "CAT333",
+        "Dest": "CHQ",
+        "AirlineCode": "CAT333"
     }
 ]    
 
