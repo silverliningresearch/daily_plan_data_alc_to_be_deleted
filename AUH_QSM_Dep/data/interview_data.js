@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "28-08-2023 00:53:44"
+        "download_time": "28-08-2023 01:58:47"
     },
     {
         "InterviewId": "7333",
@@ -26711,6 +26711,69 @@ let interview_data_raw = `[
         "Dest": "MAA",
         "AirlineCode": "3L141",
         "Terminal": "T1"
+    },
+    {
+        "InterviewId": "10490",
+        "InterviewEndDate": "2023-08-27 21:04:03",
+        "InterviewState": "Complete",
+        "Flight": "EY602",
+        "Dest": "JNB",
+        "AirlineCode": "EY602",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10491",
+        "InterviewEndDate": "2023-08-27 21:10:10",
+        "InterviewState": "Complete",
+        "Flight": "EY315",
+        "Dest": "RUH",
+        "AirlineCode": "EY315",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10492",
+        "InterviewEndDate": "2023-08-27 21:13:04",
+        "InterviewState": "Complete",
+        "Flight": "EY315",
+        "Dest": "RUH",
+        "AirlineCode": "EY315",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10493",
+        "InterviewEndDate": "2023-08-27 21:26:49",
+        "InterviewState": "Complete",
+        "Flight": "EY045",
+        "Dest": "DUB",
+        "AirlineCode": "EY045",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10494",
+        "InterviewEndDate": "2023-08-27 21:32:34",
+        "InterviewState": "Complete",
+        "Flight": "EY045",
+        "Dest": "DUB",
+        "AirlineCode": "EY045",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10495",
+        "InterviewEndDate": "2023-08-27 21:41:52",
+        "InterviewState": "Complete",
+        "Flight": "EY305",
+        "Dest": "KWI",
+        "AirlineCode": "EY305",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10496",
+        "InterviewEndDate": "2023-08-27 21:57:08",
+        "InterviewState": "Complete",
+        "Flight": "EY085",
+        "Dest": "FCO",
+        "AirlineCode": "EY085",
+        "Terminal": "T3"
     }
 ]    
 
