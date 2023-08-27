@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "27-08-2023 16:18:21"
+        "download_time": "27-08-2023 17:23:32"
     },
     {
         "InterviewId": "6093",
@@ -26871,6 +26871,70 @@ let interview_data_raw = `[
         "Flight": "CAT333",
         "Dest": "CHQ",
         "AirlineCode": "CAT333"
+    },
+    {
+        "InterviewId": "11267",
+        "InterviewEndDate": "2023-08-27 14:20:12",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "11268",
+        "InterviewEndDate": "2023-08-27 14:21:15",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "11269",
+        "InterviewEndDate": "2023-08-27 14:18:24",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "11270",
+        "InterviewEndDate": "2023-08-27 14:23:44",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "11271",
+        "InterviewEndDate": "2023-08-27 14:34:56",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "11272",
+        "InterviewEndDate": "2023-08-27 14:28:20",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "11273",
+        "InterviewEndDate": "2023-08-27 14:19:53",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
+    },
+    {
+        "InterviewId": "11274",
+        "InterviewEndDate": "2023-08-27 14:21:06",
+        "InterviewState": "Complete",
+        "Flight": "JTD539",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD539"
     }
 ]    
 
