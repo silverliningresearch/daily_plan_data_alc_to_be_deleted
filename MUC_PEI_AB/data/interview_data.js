@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "28-08-2023 11:47:11"
+        "download_time": "28-08-2023 12:52:08"
     },
     {
         "InterviewId": "15848",
@@ -34727,6 +34727,86 @@ let interview_data_raw = `[
         "Flight": "KL 1794",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "21063",
+        "InterviewEndDate": "2023-08-28 09:56:27",
+        "InterviewState": "Complete",
+        "Flight": "X3 2238",
+        "Dest": "LPA",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "21064",
+        "InterviewEndDate": "2023-08-28 09:54:24",
+        "InterviewState": "Complete",
+        "Flight": "X3 2238",
+        "Dest": "LPA",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "21066",
+        "InterviewEndDate": "2023-08-28 09:59:03",
+        "InterviewState": "Complete",
+        "Flight": "X3 2238",
+        "Dest": "LPA",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "21067",
+        "InterviewEndDate": "2023-08-28 09:54:38",
+        "InterviewState": "Complete",
+        "Flight": "X3 2238",
+        "Dest": "LPA",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "21068",
+        "InterviewEndDate": "2023-08-28 10:01:11",
+        "InterviewState": "Complete",
+        "Flight": "X3 2238",
+        "Dest": "LPA",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "21069",
+        "InterviewEndDate": "2023-08-28 10:17:32",
+        "InterviewState": "Complete",
+        "Flight": "VY 3841",
+        "Dest": "PMI",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "21070",
+        "InterviewEndDate": "2023-08-28 10:22:17",
+        "InterviewState": "Complete",
+        "Flight": "VY 3841",
+        "Dest": "PMI",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "21071",
+        "InterviewEndDate": "2023-08-28 10:20:53",
+        "InterviewState": "Complete",
+        "Flight": "VY 3841",
+        "Dest": "PMI",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "21072",
+        "InterviewEndDate": "2023-08-28 10:19:33",
+        "InterviewState": "Complete",
+        "Flight": "VY 3841",
+        "Dest": "PMI",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "21073",
+        "InterviewEndDate": "2023-08-28 10:21:45",
+        "InterviewState": "Complete",
+        "Flight": "VY 3841",
+        "Dest": "PMI",
+        "AirlineCode": "VY"
     }
 ]    
 
