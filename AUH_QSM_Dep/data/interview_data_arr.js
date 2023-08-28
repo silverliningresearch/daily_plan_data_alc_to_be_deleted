@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "28-08-2023 19:19:58"
+        "download_time": "28-08-2023 20:25:05"
     },
     {
         "InterviewId": "4226",
@@ -12842,6 +12842,96 @@ let interview_data_arr_raw = `[
         "Dest": "KHI",
         "AirlineCode": "EY",
         "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5712",
+        "InterviewEndDate": "2023-08-28 15:28:14",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "BOM",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5713",
+        "InterviewEndDate": "2023-08-28 15:33:34",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "BOM",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5714",
+        "InterviewEndDate": "2023-08-28 15:35:44",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "BOM",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5715",
+        "InterviewEndDate": "2023-08-28 15:40:16",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "CMN",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5716",
+        "InterviewEndDate": "2023-08-28 15:44:07",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "CMN",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5717",
+        "InterviewEndDate": "2023-08-28 15:56:08",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "CDG",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5718",
+        "InterviewEndDate": "2023-08-28 16:03:06",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "KHI",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5719",
+        "InterviewEndDate": "2023-08-28 16:09:53",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "LHR",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5720",
+        "InterviewEndDate": "2023-08-28 16:15:02",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "BAH",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5721",
+        "InterviewEndDate": "2023-08-28 16:23:49",
+        "InterviewState": "Complete",
+        "Flight": "IX - Air India Express",
+        "Dest": "TRV",
+        "AirlineCode": "IX",
+        "Terminal": "T1"
     }
 ]    
 
