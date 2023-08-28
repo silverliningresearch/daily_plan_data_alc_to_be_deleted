@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "28-08-2023 13:59:35"
+        "download_time": "28-08-2023 15:04:45"
     },
     {
         "InterviewId": "1224",
@@ -3735,6 +3735,70 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM Royal Dutch Airlines",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "1693",
+        "InterviewEndDate": "2023-08-28 12:01:09",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1694",
+        "InterviewEndDate": "2023-08-28 12:04:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1695",
+        "InterviewEndDate": "2023-08-28 12:06:46",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1696",
+        "InterviewEndDate": "2023-08-28 12:10:38",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1697",
+        "InterviewEndDate": "2023-08-28 12:15:13",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1698",
+        "InterviewEndDate": "2023-08-28 12:18:36",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1699",
+        "InterviewEndDate": "2023-08-28 12:29:02",
+        "InterviewState": "Complete",
+        "Flight": "D8 - Norwegian Air International",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "1700",
+        "InterviewEndDate": "2023-08-28 12:35:46",
+        "InterviewState": "Complete",
+        "Flight": "D8 - Norwegian Air International",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
     }
 ]    
 
