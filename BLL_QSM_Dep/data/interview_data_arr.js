@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "29-08-2023 08:24:07"
+        "download_time": "29-08-2023 09:29:16"
     },
     {
         "InterviewId": "2077",
@@ -8015,6 +8015,94 @@ let interview_data_arr_raw = `[
         "Flight": "VY - Vueling Airlines",
         "Dest": "PMI",
         "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "3960",
+        "InterviewEndDate": "2023-08-29 06:48:33",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "3961",
+        "InterviewEndDate": "2023-08-29 06:53:35",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "3963",
+        "InterviewEndDate": "2023-08-29 06:51:11",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "3966",
+        "InterviewEndDate": "2023-08-29 07:24:33",
+        "InterviewState": "Complete",
+        "Flight": "XQ - G\u00fcnes Ekspres Havacilik (SunExpress)",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "3968",
+        "InterviewEndDate": "2023-08-29 07:06:20",
+        "InterviewState": "Complete",
+        "Flight": "XQ - G\u00fcnes Ekspres Havacilik (SunExpress)",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "3969",
+        "InterviewEndDate": "2023-08-29 07:05:17",
+        "InterviewState": "Complete",
+        "Flight": "XQ - G\u00fcnes Ekspres Havacilik (SunExpress)",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "3970",
+        "InterviewEndDate": "2023-08-29 07:23:57",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BUD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3971",
+        "InterviewEndDate": "2023-08-29 07:20:25",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BUD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3972",
+        "InterviewEndDate": "2023-08-29 07:21:27",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BUD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3973",
+        "InterviewEndDate": "2023-08-29 07:18:48",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BUD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3974",
+        "InterviewEndDate": "2023-08-29 07:25:47",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BUD",
+        "AirlineCode": "FR"
     }
 ]    
 

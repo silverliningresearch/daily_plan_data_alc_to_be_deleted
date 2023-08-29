@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "29-08-2023 08:22:18"
+        "download_time": "29-08-2023 09:27:15"
     },
     {
         "InterviewId": "15848",
@@ -35681,6 +35681,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "21201",
+        "InterviewEndDate": "2023-08-29 06:30:11",
+        "InterviewState": "Complete",
+        "Flight": "436",
+        "Dest": "ORD",
+        "AirlineCode": "43"
+    },
+    {
         "InterviewId": "21202",
         "InterviewEndDate": "2023-08-29 06:20:49",
         "InterviewState": "Complete",
@@ -35694,6 +35702,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1702",
         "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21204",
+        "InterviewEndDate": "2023-08-29 06:26:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 2508",
+        "Dest": "BHX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21205",
+        "InterviewEndDate": "2023-08-29 06:28:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 2508",
+        "Dest": "BHX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21206",
+        "InterviewEndDate": "2023-08-29 06:31:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 2508",
+        "Dest": "BHX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21207",
+        "InterviewEndDate": "2023-08-29 06:32:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 2508",
+        "Dest": "BHX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21208",
+        "InterviewEndDate": "2023-08-29 06:37:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 2508",
+        "Dest": "BHX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21209",
+        "InterviewEndDate": "2023-08-29 06:41:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 2508",
+        "Dest": "BHX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21211",
+        "InterviewEndDate": "2023-08-29 07:06:29",
+        "InterviewState": "Complete",
+        "Flight": "LH  766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21212",
+        "InterviewEndDate": "2023-08-29 07:02:44",
+        "InterviewState": "Complete",
+        "Flight": "LH  766",
+        "Dest": "BOM",
         "AirlineCode": "LH"
     }
 ]    
