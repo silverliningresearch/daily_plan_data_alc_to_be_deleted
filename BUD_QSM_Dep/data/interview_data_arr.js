@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "29-08-2023 12:44:43"
+        "download_time": "29-08-2023 13:49:52"
     },
     {
         "InterviewId": "1224",
@@ -3799,6 +3799,38 @@ let interview_data_arr_raw = `[
         "Flight": "D8 - Norwegian Air International",
         "Dest": "CPH",
         "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "1701",
+        "InterviewEndDate": "2023-08-29 11:09:08",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Shuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "1702",
+        "InterviewEndDate": "2023-08-29 11:30:50",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1703",
+        "InterviewEndDate": "2023-08-29 11:35:31",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1705",
+        "InterviewEndDate": "2023-08-29 11:44:36",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
     }
 ]    
 
