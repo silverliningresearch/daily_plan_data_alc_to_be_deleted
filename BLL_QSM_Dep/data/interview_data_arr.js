@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "29-08-2023 10:34:17"
+        "download_time": "29-08-2023 11:39:21"
     },
     {
         "InterviewId": "2077",
@@ -8137,6 +8137,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "SK"
     },
     {
+        "InterviewId": "3992",
+        "InterviewEndDate": "2023-08-29 08:37:59",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "3993",
         "InterviewEndDate": "2023-08-29 08:31:11",
         "InterviewState": "Complete",
@@ -8151,6 +8159,54 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "OPO",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3996",
+        "InterviewEndDate": "2023-08-29 08:52:34",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VNO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4001",
+        "InterviewEndDate": "2023-08-29 09:15:03",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4002",
+        "InterviewEndDate": "2023-08-29 09:13:09",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4003",
+        "InterviewEndDate": "2023-08-29 09:14:29",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "VNO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4006",
+        "InterviewEndDate": "2023-08-29 09:14:03",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4014",
+        "InterviewEndDate": "2023-08-29 09:24:03",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
