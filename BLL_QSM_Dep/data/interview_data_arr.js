@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "29-08-2023 09:29:16"
+        "download_time": "29-08-2023 10:34:17"
     },
     {
         "InterviewId": "2077",
@@ -8102,6 +8102,54 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
         "Dest": "BUD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3978",
+        "InterviewEndDate": "2023-08-29 07:41:05",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3982",
+        "InterviewEndDate": "2023-08-29 07:45:52",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "3984",
+        "InterviewEndDate": "2023-08-29 08:05:01",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "3985",
+        "InterviewEndDate": "2023-08-29 08:06:25",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "3993",
+        "InterviewEndDate": "2023-08-29 08:31:11",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "OPO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "3994",
+        "InterviewEndDate": "2023-08-29 08:30:04",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "OPO",
         "AirlineCode": "FR"
     }
 ]    
