@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "30-08-2023 15:47:24"
+        "download_time": "30-08-2023 16:52:41"
     },
     {
         "InterviewId": "5174",
@@ -10359,6 +10359,30 @@ let interview_data_arr_raw = `[
         "Flight": "EW - Eurowings",
         "Dest": "PMI",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "6720",
+        "InterviewEndDate": "2023-08-30 14:31:29",
+        "InterviewState": "Complete",
+        "Flight": "Bug",
+        "Dest": "BOJ",
+        "AirlineCode": "Bug"
+    },
+    {
+        "InterviewId": "6721",
+        "InterviewEndDate": "2023-08-30 14:31:23",
+        "InterviewState": "Complete",
+        "Flight": "Bug",
+        "Dest": "BOJ",
+        "AirlineCode": "Bug"
+    },
+    {
+        "InterviewId": "6722",
+        "InterviewEndDate": "2023-08-30 14:40:32",
+        "InterviewState": "Complete",
+        "Flight": "BUC. European Air Charter",
+        "Dest": "BOJ",
+        "AirlineCode": "BUC."
     }
 ]    
 
