@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "30-08-2023 17:57:33"
+        "download_time": "30-08-2023 19:02:32"
     },
     {
         "InterviewId": "5174",
@@ -10447,6 +10447,62 @@ let interview_data_arr_raw = `[
         "Flight": "EC - Easyjet",
         "Dest": "EDI",
         "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "6731",
+        "InterviewEndDate": "2023-08-30 16:10:18",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "6732",
+        "InterviewEndDate": "2023-08-30 16:10:09",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "6733",
+        "InterviewEndDate": "2023-08-30 15:58:51",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "6734",
+        "InterviewEndDate": "2023-08-30 16:25:41",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "6735",
+        "InterviewEndDate": "2023-08-30 16:32:22",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "6736",
+        "InterviewEndDate": "2023-08-30 16:50:35",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "6737",
+        "InterviewEndDate": "2023-08-30 16:50:41",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
     }
 ]    
 
