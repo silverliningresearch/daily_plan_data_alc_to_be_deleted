@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "30-08-2023 15:46:19"
+        "download_time": "30-08-2023 16:51:07"
     },
     {
         "InterviewId": "4226",
@@ -13498,6 +13498,42 @@ let interview_data_arr_raw = `[
         "Flight": "5W - Wizz Air",
         "Dest": "TLV",
         "AirlineCode": "5W",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "5786",
+        "InterviewEndDate": "2023-08-30 11:53:43",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "5787",
+        "InterviewEndDate": "2023-08-30 11:57:52",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "5788",
+        "InterviewEndDate": "2023-08-30 12:02:45",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "5789",
+        "InterviewEndDate": "2023-08-30 12:14:48",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
         "Terminal": "T1"
     }
 ]    
