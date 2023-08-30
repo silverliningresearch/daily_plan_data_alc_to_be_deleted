@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "30-08-2023 16:52:41"
+        "download_time": "30-08-2023 17:57:33"
     },
     {
         "InterviewId": "5174",
@@ -10383,6 +10383,70 @@ let interview_data_arr_raw = `[
         "Flight": "BUC. European Air Charter",
         "Dest": "BOJ",
         "AirlineCode": "BUC."
+    },
+    {
+        "InterviewId": "6723",
+        "InterviewEndDate": "2023-08-30 15:02:53",
+        "InterviewState": "Complete",
+        "Flight": "Marabu",
+        "Dest": "HER",
+        "AirlineCode": "Marabu"
+    },
+    {
+        "InterviewId": "6724",
+        "InterviewEndDate": "2023-08-30 15:09:14",
+        "InterviewState": "Complete",
+        "Flight": "Marabu",
+        "Dest": "HER",
+        "AirlineCode": "Marabu"
+    },
+    {
+        "InterviewId": "6725",
+        "InterviewEndDate": "2023-08-30 15:09:21",
+        "InterviewState": "Complete",
+        "Flight": "Marabu",
+        "Dest": "HER",
+        "AirlineCode": "Marabu"
+    },
+    {
+        "InterviewId": "6726",
+        "InterviewEndDate": "2023-08-30 15:17:14",
+        "InterviewState": "Complete",
+        "Flight": "Marabu",
+        "Dest": "HER",
+        "AirlineCode": "Marabu"
+    },
+    {
+        "InterviewId": "6727",
+        "InterviewEndDate": "2023-08-30 15:17:26",
+        "InterviewState": "Complete",
+        "Flight": "Marabu",
+        "Dest": "HER",
+        "AirlineCode": "Marabu"
+    },
+    {
+        "InterviewId": "6728",
+        "InterviewEndDate": "2023-08-30 15:31:12",
+        "InterviewState": "Complete",
+        "Flight": "EC - Easyjet",
+        "Dest": "EDI",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "6729",
+        "InterviewEndDate": "2023-08-30 15:45:30",
+        "InterviewState": "Complete",
+        "Flight": "EC - Easyjet",
+        "Dest": "EDI",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "6730",
+        "InterviewEndDate": "2023-08-30 15:44:58",
+        "InterviewState": "Complete",
+        "Flight": "EC - Easyjet",
+        "Dest": "EDI",
+        "AirlineCode": "EC"
     }
 ]    
 
