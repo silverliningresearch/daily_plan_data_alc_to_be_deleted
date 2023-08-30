@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C05",
-        "download_time": "30-08-2023 22:17:09"
+        "download_time": "30-08-2023 23:22:42"
     },
     {
         "aodbUniqueId": "20230830215457",
@@ -2371,6 +2371,16 @@ let MUC_Gate_Info = `[
         "Gate": "G43"
     },
     {
+        "aodbUniqueId": "20230830216208",
+        "Date": "30-08-2023",
+        "Flight": "LH 1634",
+        "Dest": "WRO",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G81"
+    },
+    {
         "aodbUniqueId": "20230830216375",
         "Date": "30-08-2023",
         "Flight": "LH 2140",
@@ -3259,16 +3269,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L04"
-    },
-    {
-        "aodbUniqueId": "20230830216208",
-        "Date": "30-08-2023",
-        "Flight": "LH 1634",
-        "Dest": "WRO",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G81"
     },
     {
         "aodbUniqueId": "20230830216210",
