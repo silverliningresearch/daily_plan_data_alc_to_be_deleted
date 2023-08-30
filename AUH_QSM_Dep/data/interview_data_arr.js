@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "30-08-2023 09:15:07"
+        "download_time": "30-08-2023 10:20:26"
     },
     {
         "InterviewId": "4226",
@@ -13305,6 +13305,42 @@ let interview_data_arr_raw = `[
     {
         "InterviewId": "5764",
         "InterviewEndDate": "2023-08-30 04:33:38",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "CCJ",
+        "AirlineCode": "3L",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "5765",
+        "InterviewEndDate": "2023-08-30 05:29:42",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "BAH",
+        "AirlineCode": "5W",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "5766",
+        "InterviewEndDate": "2023-08-30 05:34:26",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "BAH",
+        "AirlineCode": "5W",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "5767",
+        "InterviewEndDate": "2023-08-30 05:46:00",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "BAH",
+        "AirlineCode": "5W",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "5768",
+        "InterviewEndDate": "2023-08-30 05:54:56",
         "InterviewState": "Complete",
         "Flight": "3L - Air Arabia Abu Dhabi",
         "Dest": "CCJ",
