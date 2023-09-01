@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "01-09-2023 17:39:10"
+        "download_time": "01-09-2023 18:44:03"
     },
     {
         "InterviewId": "2077",
@@ -8279,6 +8279,78 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "GDN",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4044",
+        "InterviewEndDate": "2023-09-01 15:53:04",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4047",
+        "InterviewEndDate": "2023-09-01 15:56:14",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4048",
+        "InterviewEndDate": "2023-09-01 15:50:58",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4049",
+        "InterviewEndDate": "2023-09-01 15:54:24",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4050",
+        "InterviewEndDate": "2023-09-01 15:57:57",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4052",
+        "InterviewEndDate": "2023-09-01 16:01:23",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4053",
+        "InterviewEndDate": "2023-09-01 16:25:40",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "4055",
+        "InterviewEndDate": "2023-09-01 16:19:25",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "4063",
+        "InterviewEndDate": "2023-09-01 16:32:54",
+        "InterviewState": "Complete",
+        "Flight": "SN - Brussels Airlines",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
     }
 ]    
 
