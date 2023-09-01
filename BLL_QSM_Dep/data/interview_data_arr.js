@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "01-09-2023 18:44:03"
+        "download_time": "01-09-2023 19:48:58"
     },
     {
         "InterviewId": "2077",
@@ -8345,12 +8345,76 @@ let interview_data_arr_raw = `[
         "AirlineCode": "SN"
     },
     {
+        "InterviewId": "4061",
+        "InterviewEndDate": "2023-09-01 16:54:04",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "4062",
+        "InterviewEndDate": "2023-09-01 16:56:10",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
         "InterviewId": "4063",
         "InterviewEndDate": "2023-09-01 16:32:54",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
         "Dest": "BRU",
         "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "4064",
+        "InterviewEndDate": "2023-09-01 17:23:30",
+        "InterviewState": "Complete",
+        "Flight": "LO - LOT",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "4068",
+        "InterviewEndDate": "2023-09-01 17:17:47",
+        "InterviewState": "Complete",
+        "Flight": "LO - LOT",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "4070",
+        "InterviewEndDate": "2023-09-01 17:32:56",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4071",
+        "InterviewEndDate": "2023-09-01 17:31:35",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4073",
+        "InterviewEndDate": "2023-09-01 17:29:13",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ACE",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "4078",
+        "InterviewEndDate": "2023-09-01 17:48:16",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PMI",
+        "AirlineCode": "FR"
     }
 ]    
 
