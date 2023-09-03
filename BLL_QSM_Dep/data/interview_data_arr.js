@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "03-09-2023 14:04:06"
+        "download_time": "03-09-2023 15:09:08"
     },
     {
         "InterviewId": "2077",
@@ -8463,6 +8463,78 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizz Air",
         "Dest": "OTP",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "4106",
+        "InterviewEndDate": "2023-09-03 12:13:38",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4107",
+        "InterviewEndDate": "2023-09-03 12:12:19",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4112",
+        "InterviewEndDate": "2023-09-03 12:37:29",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "CHQ",
+        "AirlineCode": "CAT"
+    },
+    {
+        "InterviewId": "4114",
+        "InterviewEndDate": "2023-09-03 12:36:09",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "CHQ",
+        "AirlineCode": "CAT"
+    },
+    {
+        "InterviewId": "4115",
+        "InterviewEndDate": "2023-09-03 12:40:18",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "CHQ",
+        "AirlineCode": "CAT"
+    },
+    {
+        "InterviewId": "4116",
+        "InterviewEndDate": "2023-09-03 12:44:09",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "CHQ",
+        "AirlineCode": "CAT"
+    },
+    {
+        "InterviewId": "4117",
+        "InterviewEndDate": "2023-09-03 12:48:58",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "CHQ",
+        "AirlineCode": "CAT"
+    },
+    {
+        "InterviewId": "4118",
+        "InterviewEndDate": "2023-09-03 12:56:45",
+        "InterviewState": "Complete",
+        "Flight": "DX - DAT",
+        "Dest": "RNN",
+        "AirlineCode": "DX"
+    },
+    {
+        "InterviewId": "4119",
+        "InterviewEndDate": "2023-09-03 13:01:50",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
     }
 ]    
 
