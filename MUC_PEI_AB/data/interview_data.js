@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "04-09-2023 16:02:21"
+        "download_time": "04-09-2023 17:07:32"
     },
     {
         "InterviewId": "15848",
@@ -36999,6 +36999,70 @@ let interview_data_raw = `[
         "Flight": "LH 2274",
         "Dest": "NCE",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21386",
+        "InterviewEndDate": "2023-09-04 14:04:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 2430",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21387",
+        "InterviewEndDate": "2023-09-04 14:07:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 2430",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21388",
+        "InterviewEndDate": "2023-09-04 14:03:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 2430",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21389",
+        "InterviewEndDate": "2023-09-04 14:04:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 2430",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21390",
+        "InterviewEndDate": "2023-09-04 14:06:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 2430",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21392",
+        "InterviewEndDate": "2023-09-04 14:47:26",
+        "InterviewState": "Complete",
+        "Flight": "8362",
+        "Dest": "ORY",
+        "AirlineCode": "83"
+    },
+    {
+        "InterviewId": "21394",
+        "InterviewEndDate": "2023-09-04 14:50:26",
+        "InterviewState": "Complete",
+        "Flight": "8362",
+        "Dest": "ORY",
+        "AirlineCode": "83"
+    },
+    {
+        "InterviewId": "21395",
+        "InterviewEndDate": "2023-09-04 14:49:33",
+        "InterviewState": "Complete",
+        "Flight": "8362",
+        "Dest": "ORY",
+        "AirlineCode": "83"
     }
 ]    
 
