@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "04-09-2023 17:07:32"
+        "download_time": "04-09-2023 18:12:22"
     },
     {
         "InterviewId": "15848",
@@ -37063,6 +37063,174 @@ let interview_data_raw = `[
         "Flight": "8362",
         "Dest": "ORY",
         "AirlineCode": "83"
+    },
+    {
+        "InterviewId": "21396",
+        "InterviewEndDate": "2023-09-04 15:10:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21397",
+        "InterviewEndDate": "2023-09-04 15:09:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21398",
+        "InterviewEndDate": "2023-09-04 15:16:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21399",
+        "InterviewEndDate": "2023-09-04 15:15:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21400",
+        "InterviewEndDate": "2023-09-04 15:16:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 2236",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21401",
+        "InterviewEndDate": "2023-09-04 15:27:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21402",
+        "InterviewEndDate": "2023-09-04 15:19:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21403",
+        "InterviewEndDate": "2023-09-04 15:24:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21404",
+        "InterviewEndDate": "2023-09-04 15:18:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21405",
+        "InterviewEndDate": "2023-09-04 15:18:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21406",
+        "InterviewEndDate": "2023-09-04 15:48:17",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "21407",
+        "InterviewEndDate": "2023-09-04 15:34:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21409",
+        "InterviewEndDate": "2023-09-04 15:36:34",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "21410",
+        "InterviewEndDate": "2023-09-04 15:51:38",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "21411",
+        "InterviewEndDate": "2023-09-04 15:32:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 2444",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21412",
+        "InterviewEndDate": "2023-09-04 15:39:37",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "21413",
+        "InterviewEndDate": "2023-09-04 15:53:28",
+        "InterviewState": "Complete",
+        "Flight": "EN 8236",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "21414",
+        "InterviewEndDate": "2023-09-04 15:34:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 2444",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21416",
+        "InterviewEndDate": "2023-09-04 16:06:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 2444",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21419",
+        "InterviewEndDate": "2023-09-04 16:01:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 2444",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21424",
+        "InterviewEndDate": "2023-09-04 16:10:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 2444",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
     }
 ]    
 
