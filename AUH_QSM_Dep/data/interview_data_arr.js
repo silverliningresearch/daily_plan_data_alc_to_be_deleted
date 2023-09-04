@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "04-09-2023 20:21:31"
+        "download_time": "04-09-2023 21:26:19"
     },
     {
         "InterviewId": "4226",
@@ -14039,6 +14039,60 @@ let interview_data_arr_raw = `[
         "Dest": "CCJ",
         "AirlineCode": "3L",
         "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5851",
+        "InterviewEndDate": "2023-09-04 16:30:30",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "BOM",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5852",
+        "InterviewEndDate": "2023-09-04 16:32:52",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "BOM",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5853",
+        "InterviewEndDate": "2023-09-04 16:40:32",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "VIE",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5854",
+        "InterviewEndDate": "2023-09-04 16:45:24",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "VIE",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5855",
+        "InterviewEndDate": "2023-09-04 16:56:13",
+        "InterviewState": "Complete",
+        "Flight": "IX - Air India Express",
+        "Dest": "TRV",
+        "AirlineCode": "IX",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "5856",
+        "InterviewEndDate": "2023-09-04 17:01:30",
+        "InterviewState": "Complete",
+        "Flight": "IX - Air India Express",
+        "Dest": "TRV",
+        "AirlineCode": "IX",
+        "Terminal": "T1"
     }
 ]    
 
