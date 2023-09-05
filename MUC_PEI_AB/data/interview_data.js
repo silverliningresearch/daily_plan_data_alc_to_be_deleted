@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "05-09-2023 12:37:23"
+        "download_time": "05-09-2023 13:42:27"
     },
     {
         "InterviewId": "15848",
@@ -37711,6 +37711,118 @@ let interview_data_raw = `[
         "Flight": "LH 1938",
         "Dest": "BER",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21486",
+        "InterviewEndDate": "2023-09-05 10:52:25",
+        "InterviewState": "Complete",
+        "Flight": "CA 962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "21487",
+        "InterviewEndDate": "2023-09-05 10:54:05",
+        "InterviewState": "Complete",
+        "Flight": "CA 962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "21488",
+        "InterviewEndDate": "2023-09-05 10:57:46",
+        "InterviewState": "Complete",
+        "Flight": "CA 962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "21489",
+        "InterviewEndDate": "2023-09-05 10:52:06",
+        "InterviewState": "Complete",
+        "Flight": "CA 962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "21490",
+        "InterviewEndDate": "2023-09-05 10:57:51",
+        "InterviewState": "Complete",
+        "Flight": "CA 962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "21491",
+        "InterviewEndDate": "2023-09-05 11:02:04",
+        "InterviewState": "Complete",
+        "Flight": "CA 962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "21492",
+        "InterviewEndDate": "2023-09-05 11:07:15",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "21493",
+        "InterviewEndDate": "2023-09-05 11:09:07",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "21494",
+        "InterviewEndDate": "2023-09-05 11:08:09",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "21495",
+        "InterviewEndDate": "2023-09-05 11:22:06",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "21496",
+        "InterviewEndDate": "2023-09-05 11:16:29",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "21497",
+        "InterviewEndDate": "2023-09-05 11:21:39",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "21499",
+        "InterviewEndDate": "2023-09-05 11:21:39",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "21501",
+        "InterviewEndDate": "2023-09-05 11:22:45",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
     }
 ]    
 
