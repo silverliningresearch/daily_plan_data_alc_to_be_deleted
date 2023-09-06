@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "06-09-2023 07:02:36"
+        "download_time": "06-09-2023 08:07:43"
     },
     {
         "InterviewId": "5174",
@@ -10903,6 +10903,78 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "BCN",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6792",
+        "InterviewEndDate": "2023-09-06 05:48:03",
+        "InterviewState": "Complete",
+        "Flight": "AA - American Airlines",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "6793",
+        "InterviewEndDate": "2023-09-06 05:49:35",
+        "InterviewState": "Complete",
+        "Flight": "AA - American Airlines",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "6794",
+        "InterviewEndDate": "2023-09-06 05:51:55",
+        "InterviewState": "Complete",
+        "Flight": "AA - American Airlines",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "6795",
+        "InterviewEndDate": "2023-09-06 05:53:55",
+        "InterviewState": "Complete",
+        "Flight": "AA - American Airlines",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "6796",
+        "InterviewEndDate": "2023-09-06 05:55:30",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "6797",
+        "InterviewEndDate": "2023-09-06 05:56:46",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "6798",
+        "InterviewEndDate": "2023-09-06 05:58:43",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "6799",
+        "InterviewEndDate": "2023-09-06 06:00:38",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "6800",
+        "InterviewEndDate": "2023-09-06 06:02:31",
+        "InterviewState": "Complete",
+        "Flight": "AA - American Airlines",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
     }
 ]    
 
