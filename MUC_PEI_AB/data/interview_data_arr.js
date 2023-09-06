@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "06-09-2023 13:33:26"
+        "download_time": "06-09-2023 14:37:52"
     },
     {
         "InterviewId": "5174",
@@ -10975,6 +10975,110 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "6801",
+        "InterviewEndDate": "2023-09-06 12:09:42",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6802",
+        "InterviewEndDate": "2023-09-06 12:07:49",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6803",
+        "InterviewEndDate": "2023-09-06 12:09:15",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6804",
+        "InterviewEndDate": "2023-09-06 12:09:38",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6805",
+        "InterviewEndDate": "2023-09-06 12:10:00",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6806",
+        "InterviewEndDate": "2023-09-06 12:14:02",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "6807",
+        "InterviewEndDate": "2023-09-06 12:16:21",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "6808",
+        "InterviewEndDate": "2023-09-06 12:15:52",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "6810",
+        "InterviewEndDate": "2023-09-06 12:31:51",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6811",
+        "InterviewEndDate": "2023-09-06 12:30:05",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6812",
+        "InterviewEndDate": "2023-09-06 12:31:18",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6813",
+        "InterviewEndDate": "2023-09-06 12:33:39",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6814",
+        "InterviewEndDate": "2023-09-06 12:34:42",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
     }
 ]    
 
