@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "06-09-2023 08:07:18"
+        "download_time": "06-09-2023 09:12:21"
     },
     {
         "InterviewId": "15848",
@@ -38005,6 +38005,70 @@ let interview_data_raw = `[
         "InterviewEndDate": "2023-09-05 17:37:00",
         "InterviewState": "Complete",
         "Flight": "EW 9093",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "21526",
+        "InterviewEndDate": "2023-09-06 06:10:23",
+        "InterviewState": "Complete",
+        "Flight": "EW 081",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "21527",
+        "InterviewEndDate": "2023-09-06 06:19:53",
+        "InterviewState": "Complete",
+        "Flight": "EW 081",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "21528",
+        "InterviewEndDate": "2023-09-06 06:21:02",
+        "InterviewState": "Complete",
+        "Flight": "EW 081",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "21529",
+        "InterviewEndDate": "2023-09-06 06:25:29",
+        "InterviewState": "Complete",
+        "Flight": "EW 081",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "21530",
+        "InterviewEndDate": "2023-09-06 06:25:32",
+        "InterviewState": "Complete",
+        "Flight": "EW 081",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "21531",
+        "InterviewEndDate": "2023-09-06 06:24:56",
+        "InterviewState": "Complete",
+        "Flight": "EW 9083",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "21532",
+        "InterviewEndDate": "2023-09-06 06:23:06",
+        "InterviewState": "Complete",
+        "Flight": "EW 9083",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "21534",
+        "InterviewEndDate": "2023-09-06 06:27:23",
+        "InterviewState": "Complete",
+        "Flight": "EW 9083",
         "Dest": "DUS",
         "AirlineCode": "EW"
     }
