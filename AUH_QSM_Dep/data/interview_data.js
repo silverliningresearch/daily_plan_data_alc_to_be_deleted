@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "08-09-2023 09:54:55"
+        "download_time": "08-09-2023 11:00:17"
     },
     {
         "InterviewId": "7333",
@@ -28367,6 +28367,69 @@ let interview_data_raw = `[
         "Dest": "MEL",
         "AirlineCode": "EY462",
         "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10682",
+        "InterviewEndDate": "2023-09-08 06:02:18",
+        "InterviewState": "Complete",
+        "Flight": "EY462",
+        "Dest": "MEL",
+        "AirlineCode": "EY462",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10683",
+        "InterviewEndDate": "2023-09-08 06:23:07",
+        "InterviewState": "Complete",
+        "Flight": "3L361",
+        "Dest": "SAW",
+        "AirlineCode": "3L361",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "10684",
+        "InterviewEndDate": "2023-09-08 06:31:44",
+        "InterviewState": "Complete",
+        "Flight": "3L361",
+        "Dest": "SAW",
+        "AirlineCode": "3L361",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "10685",
+        "InterviewEndDate": "2023-09-08 06:30:58",
+        "InterviewState": "Complete",
+        "Flight": "3L361",
+        "Dest": "SAW",
+        "AirlineCode": "3L361",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "10686",
+        "InterviewEndDate": "2023-09-08 06:50:28",
+        "InterviewState": "Complete",
+        "Flight": "QR1045",
+        "Dest": "DOH",
+        "AirlineCode": "QR1045",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "10687",
+        "InterviewEndDate": "2023-09-08 06:44:40",
+        "InterviewState": "Complete",
+        "Flight": "QR1045",
+        "Dest": "DOH",
+        "AirlineCode": "QR1045",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "10688",
+        "InterviewEndDate": "2023-09-08 06:50:33",
+        "InterviewState": "Complete",
+        "Flight": "QR1045",
+        "Dest": "DOH",
+        "AirlineCode": "QR1045",
+        "Terminal": "T1"
     }
 ]    
 
