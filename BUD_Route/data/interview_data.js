@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "08-09-2023 13:19:21"
+        "download_time": "08-09-2023 14:24:34"
     },
     {
         "InterviewId": "67210",
@@ -135443,6 +135443,94 @@ let interview_data_raw = `[
     {
         "InterviewId": "84687",
         "InterviewEndDate": "2023-09-08 11:17:32",
+        "InterviewState": "Complete",
+        "Flight": "FR 4247",
+        "Dest": "BOH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84688",
+        "InterviewEndDate": "2023-09-08 11:25:26",
+        "InterviewState": "Complete",
+        "Flight": "FR 4247",
+        "Dest": "BOH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84689",
+        "InterviewEndDate": "2023-09-08 11:21:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 4247",
+        "Dest": "BOH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84690",
+        "InterviewEndDate": "2023-09-08 11:21:09",
+        "InterviewState": "Complete",
+        "Flight": "FR 4247",
+        "Dest": "BOH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84691",
+        "InterviewEndDate": "2023-09-08 11:22:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 4247",
+        "Dest": "BOH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84693",
+        "InterviewEndDate": "2023-09-08 11:24:18",
+        "InterviewState": "Complete",
+        "Flight": "FR 4247",
+        "Dest": "BOH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84694",
+        "InterviewEndDate": "2023-09-08 11:30:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 4247",
+        "Dest": "BOH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84695",
+        "InterviewEndDate": "2023-09-08 11:28:12",
+        "InterviewState": "Complete",
+        "Flight": "FR 4247",
+        "Dest": "BOH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84696",
+        "InterviewEndDate": "2023-09-08 11:31:58",
+        "InterviewState": "Complete",
+        "Flight": "FR 4247",
+        "Dest": "BOH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84697",
+        "InterviewEndDate": "2023-09-08 11:29:41",
+        "InterviewState": "Complete",
+        "Flight": "FR 4247",
+        "Dest": "BOH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84698",
+        "InterviewEndDate": "2023-09-08 11:33:59",
+        "InterviewState": "Complete",
+        "Flight": "FR 4247",
+        "Dest": "BOH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84699",
+        "InterviewEndDate": "2023-09-08 11:30:21",
         "InterviewState": "Complete",
         "Flight": "FR 4247",
         "Dest": "BOH",

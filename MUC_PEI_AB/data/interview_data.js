@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "08-09-2023 13:12:23"
+        "download_time": "08-09-2023 14:17:23"
     },
     {
         "InterviewId": "15848",
@@ -39038,6 +39038,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 428",
         "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21678",
+        "InterviewEndDate": "2023-09-08 11:18:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 1758",
+        "Dest": "HER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21679",
+        "InterviewEndDate": "2023-09-08 11:21:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 1758",
+        "Dest": "HER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21681",
+        "InterviewEndDate": "2023-09-08 11:26:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 476",
+        "Dest": "YVR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21685",
+        "InterviewEndDate": "2023-09-08 11:47:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 2476",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21686",
+        "InterviewEndDate": "2023-09-08 11:59:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1794",
+        "Dest": "PMI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21687",
+        "InterviewEndDate": "2023-09-08 12:03:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 1794",
+        "Dest": "PMI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21688",
+        "InterviewEndDate": "2023-09-08 12:02:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 1910",
+        "Dest": "OLB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21689",
+        "InterviewEndDate": "2023-09-08 12:00:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1794",
+        "Dest": "PMI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21693",
+        "InterviewEndDate": "2023-09-08 12:12:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 1794",
+        "Dest": "PMI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21694",
+        "InterviewEndDate": "2023-09-08 12:10:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 1794",
+        "Dest": "PMI",
         "AirlineCode": "LH"
     }
 ]    
