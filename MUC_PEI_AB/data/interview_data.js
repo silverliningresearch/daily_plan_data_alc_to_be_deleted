@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "09-09-2023 08:42:13"
+        "download_time": "09-09-2023 09:46:59"
     },
     {
         "InterviewId": "15848",
@@ -39193,6 +39193,14 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "21706",
+        "InterviewEndDate": "2023-09-09 06:46:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 436",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "21707",
         "InterviewEndDate": "2023-09-09 06:34:26",
         "InterviewState": "Complete",
@@ -39215,6 +39223,102 @@ let interview_data_raw = `[
         "Flight": "LH 436",
         "Dest": "ORD",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21710",
+        "InterviewEndDate": "2023-09-09 07:03:46",
+        "InterviewState": "Complete",
+        "Flight": "LO 352",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "21711",
+        "InterviewEndDate": "2023-09-09 07:05:20",
+        "InterviewState": "Complete",
+        "Flight": "LO 352",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "21712",
+        "InterviewEndDate": "2023-09-09 07:07:43",
+        "InterviewState": "Complete",
+        "Flight": "LO 352",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "21713",
+        "InterviewEndDate": "2023-09-09 07:09:49",
+        "InterviewState": "Complete",
+        "Flight": "LO 352",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "21714",
+        "InterviewEndDate": "2023-09-09 07:11:41",
+        "InterviewState": "Complete",
+        "Flight": "OU 4439",
+        "Dest": "SPU",
+        "AirlineCode": "OU"
+    },
+    {
+        "InterviewId": "21715",
+        "InterviewEndDate": "2023-09-09 07:09:22",
+        "InterviewState": "Complete",
+        "Flight": "OU 4439",
+        "Dest": "SPU",
+        "AirlineCode": "OU"
+    },
+    {
+        "InterviewId": "21716",
+        "InterviewEndDate": "2023-09-09 07:11:23",
+        "InterviewState": "Complete",
+        "Flight": "OU 4439",
+        "Dest": "SPU",
+        "AirlineCode": "OU"
+    },
+    {
+        "InterviewId": "21717",
+        "InterviewEndDate": "2023-09-09 07:23:43",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "21718",
+        "InterviewEndDate": "2023-09-09 07:27:48",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "21719",
+        "InterviewEndDate": "2023-09-09 07:32:08",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "21720",
+        "InterviewEndDate": "2023-09-09 07:35:54",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "21721",
+        "InterviewEndDate": "2023-09-09 07:33:56",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
     }
 ]    
 
