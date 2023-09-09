@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "09-09-2023 12:03:38"
+        "download_time": "09-09-2023 13:09:04"
     },
     {
         "InterviewId": "67210",
@@ -135726,6 +135726,278 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2387",
         "Dest": "ALC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84727",
+        "InterviewEndDate": "2023-09-09 10:07:15",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84728",
+        "InterviewEndDate": "2023-09-09 10:06:28",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84729",
+        "InterviewEndDate": "2023-09-09 10:09:00",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84730",
+        "InterviewEndDate": "2023-09-09 10:10:09",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84731",
+        "InterviewEndDate": "2023-09-09 10:12:34",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84732",
+        "InterviewEndDate": "2023-09-09 10:14:34",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84733",
+        "InterviewEndDate": "2023-09-09 10:18:46",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84734",
+        "InterviewEndDate": "2023-09-09 10:19:11",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84735",
+        "InterviewEndDate": "2023-09-09 10:16:28",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84737",
+        "InterviewEndDate": "2023-09-09 10:36:32",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84739",
+        "InterviewEndDate": "2023-09-09 10:36:56",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84740",
+        "InterviewEndDate": "2023-09-09 10:40:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84741",
+        "InterviewEndDate": "2023-09-09 10:38:33",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84742",
+        "InterviewEndDate": "2023-09-09 10:40:37",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84743",
+        "InterviewEndDate": "2023-09-09 10:41:00",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84744",
+        "InterviewEndDate": "2023-09-09 10:41:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84745",
+        "InterviewEndDate": "2023-09-09 10:42:43",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84746",
+        "InterviewEndDate": "2023-09-09 10:43:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84747",
+        "InterviewEndDate": "2023-09-09 10:43:57",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84748",
+        "InterviewEndDate": "2023-09-09 10:46:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84749",
+        "InterviewEndDate": "2023-09-09 10:47:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84750",
+        "InterviewEndDate": "2023-09-09 10:46:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84751",
+        "InterviewEndDate": "2023-09-09 10:49:09",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84752",
+        "InterviewEndDate": "2023-09-09 10:48:22",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84753",
+        "InterviewEndDate": "2023-09-09 10:48:28",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84754",
+        "InterviewEndDate": "2023-09-09 10:49:57",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84755",
+        "InterviewEndDate": "2023-09-09 10:51:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84756",
+        "InterviewEndDate": "2023-09-09 10:50:36",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84757",
+        "InterviewEndDate": "2023-09-09 10:50:57",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84758",
+        "InterviewEndDate": "2023-09-09 10:52:01",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84759",
+        "InterviewEndDate": "2023-09-09 10:54:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84760",
+        "InterviewEndDate": "2023-09-09 10:52:58",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84761",
+        "InterviewEndDate": "2023-09-09 10:55:59",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "84762",
+        "InterviewEndDate": "2023-09-09 10:58:38",
+        "InterviewState": "Complete",
+        "Flight": "W6 2233",
+        "Dest": "TIA",
         "AirlineCode": "W6"
     }
 ]    
