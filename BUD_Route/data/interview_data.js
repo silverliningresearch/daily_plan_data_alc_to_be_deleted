@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "09-09-2023 18:33:36"
+        "download_time": "09-09-2023 19:38:37"
     },
     {
         "InterviewId": "67210",
@@ -137249,8 +137249,24 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "84928",
+        "InterviewEndDate": "2023-09-09 16:33:37",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "84929",
         "InterviewEndDate": "2023-09-09 16:30:28",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84930",
+        "InterviewEndDate": "2023-09-09 16:33:31",
         "InterviewState": "Complete",
         "Flight": "FR 7604",
         "Dest": "ARN",
@@ -137263,6 +137279,134 @@ let interview_data_raw = `[
         "Flight": "FR 7604",
         "Dest": "ARN",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84932",
+        "InterviewEndDate": "2023-09-09 16:35:22",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84933",
+        "InterviewEndDate": "2023-09-09 16:34:13",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84934",
+        "InterviewEndDate": "2023-09-09 16:36:45",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84935",
+        "InterviewEndDate": "2023-09-09 16:39:43",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84936",
+        "InterviewEndDate": "2023-09-09 16:43:09",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84937",
+        "InterviewEndDate": "2023-09-09 16:41:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "84938",
+        "InterviewEndDate": "2023-09-09 17:28:04",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "84939",
+        "InterviewEndDate": "2023-09-09 17:27:39",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "84940",
+        "InterviewEndDate": "2023-09-09 17:31:59",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "84941",
+        "InterviewEndDate": "2023-09-09 17:36:25",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "84942",
+        "InterviewEndDate": "2023-09-09 17:31:39",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "84943",
+        "InterviewEndDate": "2023-09-09 17:33:24",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "84944",
+        "InterviewEndDate": "2023-09-09 17:35:29",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "84945",
+        "InterviewEndDate": "2023-09-09 17:38:03",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "84946",
+        "InterviewEndDate": "2023-09-09 17:36:59",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "84947",
+        "InterviewEndDate": "2023-09-09 17:36:23",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
     }
 ]    
 
