@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "10-09-2023 19:20:06"
+        "download_time": "10-09-2023 20:25:04"
     },
     {
         "InterviewId": "7333",
@@ -28558,6 +28558,15 @@ let interview_data_raw = `[
         "Terminal": "T1"
     },
     {
+        "InterviewId": "10703",
+        "InterviewEndDate": "2023-09-10 15:30:22",
+        "InterviewState": "Complete",
+        "Flight": "ME419",
+        "Dest": "BEY",
+        "AirlineCode": "ME419",
+        "Terminal": "T1"
+    },
+    {
         "InterviewId": "10704",
         "InterviewEndDate": "2023-09-09 20:10:55",
         "InterviewState": "Complete",
@@ -28699,6 +28708,51 @@ let interview_data_raw = `[
         "Flight": "MS915",
         "Dest": "CAI",
         "AirlineCode": "MS915",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "10720",
+        "InterviewEndDate": "2023-09-10 15:41:09",
+        "InterviewState": "Complete",
+        "Flight": "IX538",
+        "Dest": "TRV",
+        "AirlineCode": "IX538",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "10721",
+        "InterviewEndDate": "2023-09-10 15:43:48",
+        "InterviewState": "Complete",
+        "Flight": "IX538",
+        "Dest": "TRV",
+        "AirlineCode": "IX538",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "10722",
+        "InterviewEndDate": "2023-09-10 15:57:57",
+        "InterviewState": "Complete",
+        "Flight": "5W7037",
+        "Dest": "MCT",
+        "AirlineCode": "5W7037",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "10723",
+        "InterviewEndDate": "2023-09-10 16:05:03",
+        "InterviewState": "Complete",
+        "Flight": "5W7037",
+        "Dest": "MCT",
+        "AirlineCode": "5W7037",
+        "Terminal": "T4"
+    },
+    {
+        "InterviewId": "10724",
+        "InterviewEndDate": "2023-09-10 16:06:26",
+        "InterviewState": "Complete",
+        "Flight": "5W7037",
+        "Dest": "MCT",
+        "AirlineCode": "5W7037",
         "Terminal": "T1"
     }
 ]    
