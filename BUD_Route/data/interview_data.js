@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "11-09-2023 07:24:16"
+        "download_time": "11-09-2023 08:29:40"
     },
     {
         "InterviewId": "67210",
@@ -138287,6 +138287,54 @@ let interview_data_raw = `[
         "Flight": "W6 2211",
         "Dest": "LPL",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85077",
+        "InterviewEndDate": "2023-09-11 06:24:31",
+        "InterviewState": "Complete",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "85078",
+        "InterviewEndDate": "2023-09-11 06:25:11",
+        "InterviewState": "Complete",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "85079",
+        "InterviewEndDate": "2023-09-11 06:25:06",
+        "InterviewState": "Complete",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "85080",
+        "InterviewEndDate": "2023-09-11 06:28:31",
+        "InterviewState": "Complete",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "85081",
+        "InterviewEndDate": "2023-09-11 06:28:41",
+        "InterviewState": "Complete",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "85082",
+        "InterviewEndDate": "2023-09-11 06:29:09",
+        "InterviewState": "Complete",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
     }
 ]    
 
