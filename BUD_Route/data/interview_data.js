@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "11-09-2023 14:59:48"
+        "download_time": "11-09-2023 16:05:13"
     },
     {
         "InterviewId": "67210",
@@ -138801,8 +138801,104 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
+        "InterviewId": "85145",
+        "InterviewEndDate": "2023-09-11 13:01:38",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85146",
+        "InterviewEndDate": "2023-09-11 13:02:16",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
         "InterviewId": "85148",
         "InterviewEndDate": "2023-09-11 12:58:00",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85149",
+        "InterviewEndDate": "2023-09-11 13:09:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85150",
+        "InterviewEndDate": "2023-09-11 13:15:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85151",
+        "InterviewEndDate": "2023-09-11 13:06:40",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85152",
+        "InterviewEndDate": "2023-09-11 13:06:43",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85154",
+        "InterviewEndDate": "2023-09-11 13:06:49",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85155",
+        "InterviewEndDate": "2023-09-11 13:12:00",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85156",
+        "InterviewEndDate": "2023-09-11 13:13:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85157",
+        "InterviewEndDate": "2023-09-11 13:10:59",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85158",
+        "InterviewEndDate": "2023-09-11 13:10:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85159",
+        "InterviewEndDate": "2023-09-11 13:12:06",
         "InterviewState": "Complete",
         "Flight": "W6 2327",
         "Dest": "TLV",

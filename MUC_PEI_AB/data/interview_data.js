@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "11-09-2023 14:52:32"
+        "download_time": "11-09-2023 15:57:26"
     },
     {
         "InterviewId": "15848",
@@ -39543,6 +39543,94 @@ let interview_data_raw = `[
         "Flight": "MBU6112",
         "Dest": "AOK",
         "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "21765",
+        "InterviewEndDate": "2023-09-11 12:52:40",
+        "InterviewState": "Complete",
+        "Flight": "EW 9089",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "21766",
+        "InterviewEndDate": "2023-09-11 12:57:54",
+        "InterviewState": "Complete",
+        "Flight": "EW 9089",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "21767",
+        "InterviewEndDate": "2023-09-11 12:58:43",
+        "InterviewState": "Complete",
+        "Flight": "EW 9089",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "21768",
+        "InterviewEndDate": "2023-09-11 13:01:38",
+        "InterviewState": "Complete",
+        "Flight": "EW 9089",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "21769",
+        "InterviewEndDate": "2023-09-11 13:17:32",
+        "InterviewState": "Complete",
+        "Flight": "MBU6842",
+        "Dest": "SUF",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "21770",
+        "InterviewEndDate": "2023-09-11 13:18:15",
+        "InterviewState": "Complete",
+        "Flight": "MBU6842",
+        "Dest": "SUF",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "21771",
+        "InterviewEndDate": "2023-09-11 13:18:41",
+        "InterviewState": "Complete",
+        "Flight": "MBU6842",
+        "Dest": "SUF",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "21772",
+        "InterviewEndDate": "2023-09-11 13:33:05",
+        "InterviewState": "Complete",
+        "Flight": "MBU6842",
+        "Dest": "SUF",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "21773",
+        "InterviewEndDate": "2023-09-11 13:33:18",
+        "InterviewState": "Complete",
+        "Flight": "MBU6842",
+        "Dest": "SUF",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "21774",
+        "InterviewEndDate": "2023-09-11 13:28:35",
+        "InterviewState": "Complete",
+        "Flight": "MBU6842",
+        "Dest": "SUF",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "21776",
+        "InterviewEndDate": "2023-09-11 13:56:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 1948",
+        "Dest": "BER",
+        "AirlineCode": "LH"
     }
 ]    
 
