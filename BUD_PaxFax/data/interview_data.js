@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "11-09-2023 13:55:12"
+        "download_time": "11-09-2023 15:00:22"
     },
     {
         "InterviewId": "7701",
@@ -13695,6 +13695,70 @@ let interview_data_raw = `[
         "Flight": "FR 2855",
         "Dest": "ZTH",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9621",
+        "InterviewEndDate": "2023-09-11 12:32:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9622",
+        "InterviewEndDate": "2023-09-11 12:49:07",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9623",
+        "InterviewEndDate": "2023-09-11 12:43:15",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9624",
+        "InterviewEndDate": "2023-09-11 12:35:00",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9625",
+        "InterviewEndDate": "2023-09-11 12:40:40",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9627",
+        "InterviewEndDate": "2023-09-11 12:54:57",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9628",
+        "InterviewEndDate": "2023-09-11 12:55:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9629",
+        "InterviewEndDate": "2023-09-11 12:56:07",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
     }
 ]    
 
