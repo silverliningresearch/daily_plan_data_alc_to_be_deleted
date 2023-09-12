@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "12-09-2023 14:49:54"
+        "download_time": "12-09-2023 15:54:18"
     },
     {
         "InterviewId": "67210",
@@ -139763,6 +139763,62 @@ let interview_data_raw = `[
     {
         "InterviewId": "85270",
         "InterviewEndDate": "2023-09-12 12:39:11",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85271",
+        "InterviewEndDate": "2023-09-12 12:52:22",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85272",
+        "InterviewEndDate": "2023-09-12 12:55:43",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85273",
+        "InterviewEndDate": "2023-09-12 12:55:39",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85274",
+        "InterviewEndDate": "2023-09-12 12:54:43",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85275",
+        "InterviewEndDate": "2023-09-12 12:54:40",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85276",
+        "InterviewEndDate": "2023-09-12 13:01:29",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85277",
+        "InterviewEndDate": "2023-09-12 13:01:47",
         "InterviewState": "Complete",
         "Flight": "JU  153",
         "Dest": "BEG",
