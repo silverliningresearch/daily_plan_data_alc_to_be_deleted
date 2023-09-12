@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "12-09-2023 08:11:10"
+        "download_time": "12-09-2023 09:20:34"
     },
     {
         "InterviewId": "7333",
@@ -28969,6 +28969,69 @@ let interview_data_raw = `[
         "Flight": "EY371",
         "Dest": "BAH",
         "AirlineCode": "EY371",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10751",
+        "InterviewEndDate": "2023-09-12 04:10:49",
+        "InterviewState": "Complete",
+        "Flight": "EY097",
+        "Dest": "IST",
+        "AirlineCode": "EY097",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10752",
+        "InterviewEndDate": "2023-09-12 04:29:08",
+        "InterviewState": "Complete",
+        "Flight": "EY210",
+        "Dest": "DEL",
+        "AirlineCode": "EY210",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10753",
+        "InterviewEndDate": "2023-09-12 04:35:25",
+        "InterviewState": "Complete",
+        "Flight": "EY210",
+        "Dest": "DEL",
+        "AirlineCode": "EY210",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10754",
+        "InterviewEndDate": "2023-09-12 04:52:53",
+        "InterviewState": "Complete",
+        "Flight": "EY240",
+        "Dest": "DAC",
+        "AirlineCode": "EY240",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10755",
+        "InterviewEndDate": "2023-09-12 04:56:08",
+        "InterviewState": "Complete",
+        "Flight": "EY240",
+        "Dest": "DAC",
+        "AirlineCode": "EY240",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10756",
+        "InterviewEndDate": "2023-09-12 05:14:49",
+        "InterviewState": "Complete",
+        "Flight": "EY450",
+        "Dest": "SYD",
+        "AirlineCode": "EY450",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10757",
+        "InterviewEndDate": "2023-09-12 05:12:50",
+        "InterviewState": "Complete",
+        "Flight": "EY450",
+        "Dest": "SYD",
+        "AirlineCode": "EY450",
         "Terminal": "T3"
     }
 ]    
