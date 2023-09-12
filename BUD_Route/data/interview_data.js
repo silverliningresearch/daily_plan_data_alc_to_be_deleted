@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "12-09-2023 13:45:14"
+        "download_time": "12-09-2023 14:49:54"
     },
     {
         "InterviewId": "67210",
@@ -139505,6 +139505,30 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "85237",
+        "InterviewEndDate": "2023-09-12 12:10:16",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "85238",
+        "InterviewEndDate": "2023-09-12 12:04:25",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "85239",
+        "InterviewEndDate": "2023-09-12 11:54:28",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
         "InterviewId": "85240",
         "InterviewEndDate": "2023-09-12 11:39:37",
         "InterviewState": "Complete",
@@ -139535,6 +139559,214 @@ let interview_data_raw = `[
         "Flight": "FR  839",
         "Dest": "TLV",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "85244",
+        "InterviewEndDate": "2023-09-12 12:05:50",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85245",
+        "InterviewEndDate": "2023-09-12 12:24:44",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85246",
+        "InterviewEndDate": "2023-09-12 12:07:19",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85247",
+        "InterviewEndDate": "2023-09-12 12:20:56",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85248",
+        "InterviewEndDate": "2023-09-12 12:13:41",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85249",
+        "InterviewEndDate": "2023-09-12 12:04:26",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "85250",
+        "InterviewEndDate": "2023-09-12 12:08:02",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "85251",
+        "InterviewEndDate": "2023-09-12 12:08:13",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "85252",
+        "InterviewEndDate": "2023-09-12 12:10:04",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "85253",
+        "InterviewEndDate": "2023-09-12 12:14:07",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "85254",
+        "InterviewEndDate": "2023-09-12 12:18:14",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "85255",
+        "InterviewEndDate": "2023-09-12 12:18:38",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "85256",
+        "InterviewEndDate": "2023-09-12 12:18:01",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85257",
+        "InterviewEndDate": "2023-09-12 12:20:46",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85258",
+        "InterviewEndDate": "2023-09-12 12:21:09",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "85259",
+        "InterviewEndDate": "2023-09-12 12:20:26",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85260",
+        "InterviewEndDate": "2023-09-12 12:20:26",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "85261",
+        "InterviewEndDate": "2023-09-12 12:28:34",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "85262",
+        "InterviewEndDate": "2023-09-12 12:21:29",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85264",
+        "InterviewEndDate": "2023-09-12 12:25:54",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85265",
+        "InterviewEndDate": "2023-09-12 12:29:29",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85266",
+        "InterviewEndDate": "2023-09-12 12:34:03",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85267",
+        "InterviewEndDate": "2023-09-12 12:38:05",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85268",
+        "InterviewEndDate": "2023-09-12 12:37:21",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85269",
+        "InterviewEndDate": "2023-09-12 12:36:56",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "85270",
+        "InterviewEndDate": "2023-09-12 12:39:11",
+        "InterviewState": "Complete",
+        "Flight": "JU  153",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
     }
 ]    
 
