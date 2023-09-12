@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "12-09-2023 17:02:10"
+        "download_time": "12-09-2023 18:04:58"
     },
     {
         "InterviewId": "67210",
@@ -139935,6 +139935,190 @@ let interview_data_raw = `[
         "Flight": "LH 1679",
         "Dest": "MUC",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "85292",
+        "InterviewEndDate": "2023-09-12 15:00:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 1679",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "85293",
+        "InterviewEndDate": "2023-09-12 15:01:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 1679",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "85294",
+        "InterviewEndDate": "2023-09-12 15:04:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 1679",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "85295",
+        "InterviewEndDate": "2023-09-12 15:21:12",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "85296",
+        "InterviewEndDate": "2023-09-12 15:21:18",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "85297",
+        "InterviewEndDate": "2023-09-12 15:21:05",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "85298",
+        "InterviewEndDate": "2023-09-12 15:45:18",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "85299",
+        "InterviewEndDate": "2023-09-12 15:36:26",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "85300",
+        "InterviewEndDate": "2023-09-12 15:36:12",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "85301",
+        "InterviewEndDate": "2023-09-12 15:34:48",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "85302",
+        "InterviewEndDate": "2023-09-12 15:32:23",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "85303",
+        "InterviewEndDate": "2023-09-12 15:46:39",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "85304",
+        "InterviewEndDate": "2023-09-12 15:47:33",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "85305",
+        "InterviewEndDate": "2023-09-12 15:45:33",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "85306",
+        "InterviewEndDate": "2023-09-12 15:48:19",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "85307",
+        "InterviewEndDate": "2023-09-12 15:49:42",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "85308",
+        "InterviewEndDate": "2023-09-12 15:50:08",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "85309",
+        "InterviewEndDate": "2023-09-12 15:54:26",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "85310",
+        "InterviewEndDate": "2023-09-12 15:54:26",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "85312",
+        "InterviewEndDate": "2023-09-12 16:01:25",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "85313",
+        "InterviewEndDate": "2023-09-12 15:56:37",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "85314",
+        "InterviewEndDate": "2023-09-12 16:00:04",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "85316",
+        "InterviewEndDate": "2023-09-12 16:00:00",
+        "InterviewState": "Complete",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
     }
 ]    
 
