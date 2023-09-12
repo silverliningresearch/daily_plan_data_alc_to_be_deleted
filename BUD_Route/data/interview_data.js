@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "12-09-2023 09:24:58"
+        "download_time": "12-09-2023 10:30:00"
     },
     {
         "InterviewId": "67210",
@@ -138902,6 +138902,166 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2327",
         "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85161",
+        "InterviewEndDate": "2023-09-12 07:59:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85162",
+        "InterviewEndDate": "2023-09-12 07:59:15",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85163",
+        "InterviewEndDate": "2023-09-12 07:56:00",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85164",
+        "InterviewEndDate": "2023-09-12 07:59:00",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85165",
+        "InterviewEndDate": "2023-09-12 08:00:26",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85166",
+        "InterviewEndDate": "2023-09-12 08:13:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85167",
+        "InterviewEndDate": "2023-09-12 08:05:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85168",
+        "InterviewEndDate": "2023-09-12 08:05:16",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85169",
+        "InterviewEndDate": "2023-09-12 08:06:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85170",
+        "InterviewEndDate": "2023-09-12 08:08:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85171",
+        "InterviewEndDate": "2023-09-12 08:12:54",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85172",
+        "InterviewEndDate": "2023-09-12 08:13:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85173",
+        "InterviewEndDate": "2023-09-12 08:13:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85174",
+        "InterviewEndDate": "2023-09-12 08:19:19",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85175",
+        "InterviewEndDate": "2023-09-12 08:19:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85176",
+        "InterviewEndDate": "2023-09-12 08:20:12",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85177",
+        "InterviewEndDate": "2023-09-12 08:23:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85178",
+        "InterviewEndDate": "2023-09-12 08:23:55",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85179",
+        "InterviewEndDate": "2023-09-12 08:24:09",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85180",
+        "InterviewEndDate": "2023-09-12 08:25:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
         "AirlineCode": "W6"
     }
 ]    
