@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "14-09-2023 01:20:04"
+        "download_time": "14-09-2023 02:24:47"
     },
     {
         "InterviewId": "7333",
@@ -29159,6 +29159,69 @@ let interview_data_raw = `[
         "Dest": "COK",
         "AirlineCode": "IX420",
         "Terminal": "T1"
+    },
+    {
+        "InterviewId": "10772",
+        "InterviewEndDate": "2023-09-13 21:22:30",
+        "InterviewState": "Complete",
+        "Flight": "EY031",
+        "Dest": "CDG",
+        "AirlineCode": "EY031",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10773",
+        "InterviewEndDate": "2023-09-13 21:26:49",
+        "InterviewState": "Complete",
+        "Flight": "EY031",
+        "Dest": "CDG",
+        "AirlineCode": "EY031",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10774",
+        "InterviewEndDate": "2023-09-13 21:45:55",
+        "InterviewState": "Complete",
+        "Flight": "EY045",
+        "Dest": "DUB",
+        "AirlineCode": "EY045",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10775",
+        "InterviewEndDate": "2023-09-13 21:48:46",
+        "InterviewState": "Complete",
+        "Flight": "EY045",
+        "Dest": "DUB",
+        "AirlineCode": "EY045",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10776",
+        "InterviewEndDate": "2023-09-13 22:02:38",
+        "InterviewState": "Complete",
+        "Flight": "EY057",
+        "Dest": "BRU",
+        "AirlineCode": "EY057",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10777",
+        "InterviewEndDate": "2023-09-13 22:05:27",
+        "InterviewState": "Complete",
+        "Flight": "EY057",
+        "Dest": "BRU",
+        "AirlineCode": "EY057",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10778",
+        "InterviewEndDate": "2023-09-13 22:09:37",
+        "InterviewState": "Complete",
+        "Flight": "EY057",
+        "Dest": "BRU",
+        "AirlineCode": "EY057",
+        "Terminal": "T3"
     }
 ]    
 
