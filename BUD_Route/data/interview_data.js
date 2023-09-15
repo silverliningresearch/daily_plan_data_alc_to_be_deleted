@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "15-09-2023 18:39:21"
+        "download_time": "15-09-2023 19:43:59"
     },
     {
         "InterviewId": "67210",
@@ -141511,6 +141511,182 @@ let interview_data_raw = `[
         "Flight": "AY 1256",
         "Dest": "HEL",
         "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "85496",
+        "InterviewEndDate": "2023-09-15 16:59:52",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85497",
+        "InterviewEndDate": "2023-09-15 17:01:58",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85498",
+        "InterviewEndDate": "2023-09-15 17:01:56",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85499",
+        "InterviewEndDate": "2023-09-15 17:06:36",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85500",
+        "InterviewEndDate": "2023-09-15 17:10:38",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85501",
+        "InterviewEndDate": "2023-09-15 17:36:15",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85502",
+        "InterviewEndDate": "2023-09-15 17:10:35",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85503",
+        "InterviewEndDate": "2023-09-15 17:11:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85504",
+        "InterviewEndDate": "2023-09-15 17:11:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85505",
+        "InterviewEndDate": "2023-09-15 17:13:48",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85506",
+        "InterviewEndDate": "2023-09-15 17:35:35",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "85507",
+        "InterviewEndDate": "2023-09-15 17:36:37",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "85508",
+        "InterviewEndDate": "2023-09-15 17:36:34",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "85509",
+        "InterviewEndDate": "2023-09-15 17:39:25",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "85510",
+        "InterviewEndDate": "2023-09-15 17:36:45",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "85511",
+        "InterviewEndDate": "2023-09-15 17:38:10",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "85512",
+        "InterviewEndDate": "2023-09-15 17:40:53",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "85513",
+        "InterviewEndDate": "2023-09-15 17:41:14",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "85514",
+        "InterviewEndDate": "2023-09-15 17:40:09",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "85515",
+        "InterviewEndDate": "2023-09-15 17:43:12",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "85517",
+        "InterviewEndDate": "2023-09-15 17:42:38",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
+    },
+    {
+        "InterviewId": "85518",
+        "InterviewEndDate": "2023-09-15 17:42:31",
+        "InterviewState": "Complete",
+        "Flight": "LS  432",
+        "Dest": "LBA",
+        "AirlineCode": "LS"
     }
 ]    
 
