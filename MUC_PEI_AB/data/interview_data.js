@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "16-09-2023 14:02:13"
+        "download_time": "16-09-2023 15:07:18"
     },
     {
         "InterviewId": "15848",
@@ -40239,6 +40239,70 @@ let interview_data_raw = `[
         "Flight": "MBU6598",
         "Dest": "CHQ",
         "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "21865",
+        "InterviewEndDate": "2023-09-16 12:22:34",
+        "InterviewState": "Complete",
+        "Flight": "EN 8220",
+        "Dest": "AMS",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "21866",
+        "InterviewEndDate": "2023-09-16 12:21:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 2306",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21867",
+        "InterviewEndDate": "2023-09-16 12:33:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 2306",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21868",
+        "InterviewEndDate": "2023-09-16 12:32:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 2306",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21869",
+        "InterviewEndDate": "2023-09-16 12:36:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 2306",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21870",
+        "InterviewEndDate": "2023-09-16 12:46:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 2100",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21873",
+        "InterviewEndDate": "2023-09-16 12:55:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 2100",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21874",
+        "InterviewEndDate": "2023-09-16 13:04:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 2100",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
     }
 ]    
 

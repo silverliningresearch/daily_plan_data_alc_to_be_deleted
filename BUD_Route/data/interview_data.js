@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "16-09-2023 14:08:37"
+        "download_time": "16-09-2023 15:13:43"
     },
     {
         "InterviewId": "67210",
@@ -142425,6 +142425,14 @@ let interview_data_raw = `[
         "AirlineCode": "LX"
     },
     {
+        "InterviewId": "85616",
+        "InterviewEndDate": "2023-09-16 12:09:21",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
         "InterviewId": "85617",
         "InterviewEndDate": "2023-09-16 12:06:18",
         "InterviewState": "Complete",
@@ -142439,6 +142447,422 @@ let interview_data_raw = `[
         "Flight": "LX 2255",
         "Dest": "ZRH",
         "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "85619",
+        "InterviewEndDate": "2023-09-16 12:12:03",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "85620",
+        "InterviewEndDate": "2023-09-16 12:40:39",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85621",
+        "InterviewEndDate": "2023-09-16 12:26:12",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85622",
+        "InterviewEndDate": "2023-09-16 12:27:54",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85623",
+        "InterviewEndDate": "2023-09-16 12:43:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85624",
+        "InterviewEndDate": "2023-09-16 12:25:02",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85625",
+        "InterviewEndDate": "2023-09-16 12:43:45",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85626",
+        "InterviewEndDate": "2023-09-16 12:24:22",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85627",
+        "InterviewEndDate": "2023-09-16 12:38:26",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85628",
+        "InterviewEndDate": "2023-09-16 12:36:22",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85629",
+        "InterviewEndDate": "2023-09-16 12:23:06",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85630",
+        "InterviewEndDate": "2023-09-16 12:27:12",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85631",
+        "InterviewEndDate": "2023-09-16 12:27:40",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85632",
+        "InterviewEndDate": "2023-09-16 12:29:43",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85633",
+        "InterviewEndDate": "2023-09-16 12:34:12",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85634",
+        "InterviewEndDate": "2023-09-16 12:30:15",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85635",
+        "InterviewEndDate": "2023-09-16 12:29:48",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85636",
+        "InterviewEndDate": "2023-09-16 12:33:50",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85637",
+        "InterviewEndDate": "2023-09-16 12:36:26",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85638",
+        "InterviewEndDate": "2023-09-16 12:38:24",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85640",
+        "InterviewEndDate": "2023-09-16 12:37:08",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85641",
+        "InterviewEndDate": "2023-09-16 12:38:59",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85642",
+        "InterviewEndDate": "2023-09-16 12:38:15",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85643",
+        "InterviewEndDate": "2023-09-16 12:45:14",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85644",
+        "InterviewEndDate": "2023-09-16 12:42:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85645",
+        "InterviewEndDate": "2023-09-16 12:45:30",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85646",
+        "InterviewEndDate": "2023-09-16 12:41:48",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85647",
+        "InterviewEndDate": "2023-09-16 12:42:37",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85648",
+        "InterviewEndDate": "2023-09-16 12:44:55",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85649",
+        "InterviewEndDate": "2023-09-16 12:44:34",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85650",
+        "InterviewEndDate": "2023-09-16 12:46:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85651",
+        "InterviewEndDate": "2023-09-16 12:47:04",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85652",
+        "InterviewEndDate": "2023-09-16 12:54:32",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85654",
+        "InterviewEndDate": "2023-09-16 12:50:48",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85655",
+        "InterviewEndDate": "2023-09-16 12:50:54",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85656",
+        "InterviewEndDate": "2023-09-16 12:51:38",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85657",
+        "InterviewEndDate": "2023-09-16 12:51:00",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85658",
+        "InterviewEndDate": "2023-09-16 12:51:28",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85659",
+        "InterviewEndDate": "2023-09-16 12:51:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85660",
+        "InterviewEndDate": "2023-09-16 12:49:23",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85661",
+        "InterviewEndDate": "2023-09-16 12:53:17",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "85663",
+        "InterviewEndDate": "2023-09-16 12:57:37",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85664",
+        "InterviewEndDate": "2023-09-16 12:57:39",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85665",
+        "InterviewEndDate": "2023-09-16 12:59:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85666",
+        "InterviewEndDate": "2023-09-16 12:58:35",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85667",
+        "InterviewEndDate": "2023-09-16 13:04:38",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85668",
+        "InterviewEndDate": "2023-09-16 13:01:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85669",
+        "InterviewEndDate": "2023-09-16 13:01:00",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85670",
+        "InterviewEndDate": "2023-09-16 13:02:46",
+        "InterviewState": "Complete",
+        "Flight": "W6 2327",
+        "Dest": "TLV",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "85671",
+        "InterviewEndDate": "2023-09-16 13:11:59",
+        "InterviewState": "Complete",
+        "Flight": "EK  112",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "85675",
+        "InterviewEndDate": "2023-09-16 13:11:52",
+        "InterviewState": "Complete",
+        "Flight": "EK  112",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "85679",
+        "InterviewEndDate": "2023-09-16 13:10:43",
+        "InterviewState": "Complete",
+        "Flight": "QR  200",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
     }
 ]    
 
