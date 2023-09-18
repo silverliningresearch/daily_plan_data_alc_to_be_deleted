@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "18-09-2023 17:05:38"
+        "download_time": "18-09-2023 18:10:31"
     },
     {
         "InterviewId": "7701",
@@ -14129,6 +14129,14 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
+        "InterviewId": "9682",
+        "InterviewEndDate": "2023-09-18 15:03:20",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
         "InterviewId": "9683",
         "InterviewEndDate": "2023-09-18 15:04:47",
         "InterviewState": "Complete",
@@ -14137,8 +14145,56 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
+        "InterviewId": "9684",
+        "InterviewEndDate": "2023-09-18 15:06:25",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
         "InterviewId": "9685",
         "InterviewEndDate": "2023-09-18 15:03:17",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "9686",
+        "InterviewEndDate": "2023-09-18 15:10:34",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "9687",
+        "InterviewEndDate": "2023-09-18 15:12:01",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "9688",
+        "InterviewEndDate": "2023-09-18 15:07:25",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "9689",
+        "InterviewEndDate": "2023-09-18 15:10:23",
+        "InterviewState": "Complete",
+        "Flight": "BA  875",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "9691",
+        "InterviewEndDate": "2023-09-18 15:19:29",
         "InterviewState": "Complete",
         "Flight": "BA  875",
         "Dest": "LHR",
