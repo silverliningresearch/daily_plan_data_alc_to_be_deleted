@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "18-09-2023 13:52:11"
+        "download_time": "18-09-2023 14:54:33"
     },
     {
         "InterviewId": "67210",
@@ -144615,6 +144615,278 @@ let interview_data_raw = `[
         "Flight": "FR  839",
         "Dest": "TLV",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "85904",
+        "InterviewEndDate": "2023-09-18 12:01:06",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "85905",
+        "InterviewEndDate": "2023-09-18 12:04:57",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "85906",
+        "InterviewEndDate": "2023-09-18 12:04:50",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "85907",
+        "InterviewEndDate": "2023-09-18 12:04:53",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "85908",
+        "InterviewEndDate": "2023-09-18 12:42:50",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "85909",
+        "InterviewEndDate": "2023-09-18 12:33:06",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "85910",
+        "InterviewEndDate": "2023-09-18 12:36:05",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "85911",
+        "InterviewEndDate": "2023-09-18 12:36:19",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "85912",
+        "InterviewEndDate": "2023-09-18 12:08:45",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "85913",
+        "InterviewEndDate": "2023-09-18 12:09:46",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "85914",
+        "InterviewEndDate": "2023-09-18 12:11:10",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "85915",
+        "InterviewEndDate": "2023-09-18 12:16:15",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "85916",
+        "InterviewEndDate": "2023-09-18 12:16:18",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "85917",
+        "InterviewEndDate": "2023-09-18 12:17:51",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "85918",
+        "InterviewEndDate": "2023-09-18 12:17:30",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "85919",
+        "InterviewEndDate": "2023-09-18 12:20:36",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "85920",
+        "InterviewEndDate": "2023-09-18 12:24:10",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "85921",
+        "InterviewEndDate": "2023-09-18 12:24:09",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "85922",
+        "InterviewEndDate": "2023-09-18 12:26:13",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "85923",
+        "InterviewEndDate": "2023-09-18 12:27:41",
+        "InterviewState": "Complete",
+        "Flight": "LG 5808",
+        "Dest": "LUX",
+        "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "85924",
+        "InterviewEndDate": "2023-09-18 12:43:21",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "85925",
+        "InterviewEndDate": "2023-09-18 12:41:41",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "85926",
+        "InterviewEndDate": "2023-09-18 12:39:47",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "85927",
+        "InterviewEndDate": "2023-09-18 12:43:28",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "85928",
+        "InterviewEndDate": "2023-09-18 12:44:33",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "85929",
+        "InterviewEndDate": "2023-09-18 12:45:25",
+        "InterviewState": "Complete",
+        "Flight": "EK  112",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "85930",
+        "InterviewEndDate": "2023-09-18 12:46:17",
+        "InterviewState": "Complete",
+        "Flight": "EK  112",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "85932",
+        "InterviewEndDate": "2023-09-18 12:49:48",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "85933",
+        "InterviewEndDate": "2023-09-18 12:48:52",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "85934",
+        "InterviewEndDate": "2023-09-18 12:48:05",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "85935",
+        "InterviewEndDate": "2023-09-18 12:51:17",
+        "InterviewState": "Complete",
+        "Flight": "EK  112",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "85937",
+        "InterviewEndDate": "2023-09-18 12:50:18",
+        "InterviewState": "Complete",
+        "Flight": "EK  112",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "85938",
+        "InterviewEndDate": "2023-09-18 12:50:08",
+        "InterviewState": "Complete",
+        "Flight": "EK  112",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "85939",
+        "InterviewEndDate": "2023-09-18 12:51:55",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
     }
 ]    
 
