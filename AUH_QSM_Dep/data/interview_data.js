@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "18-09-2023 07:10:12"
+        "download_time": "18-09-2023 08:15:21"
     },
     {
         "InterviewId": "7333",
@@ -29914,6 +29914,69 @@ let interview_data_raw = `[
         "Flight": "EY301",
         "Dest": "KWI",
         "AirlineCode": "EY301",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10857",
+        "InterviewEndDate": "2023-09-18 03:19:29",
+        "InterviewState": "Complete",
+        "Flight": "EY393",
+        "Dest": "DOH",
+        "AirlineCode": "EY393",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10858",
+        "InterviewEndDate": "2023-09-18 03:29:05",
+        "InterviewState": "Complete",
+        "Flight": "EY535",
+        "Dest": "BEY",
+        "AirlineCode": "EY535",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10859",
+        "InterviewEndDate": "2023-09-18 03:24:48",
+        "InterviewState": "Complete",
+        "Flight": "EY535",
+        "Dest": "BEY",
+        "AirlineCode": "EY535",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10860",
+        "InterviewEndDate": "2023-09-18 03:38:16",
+        "InterviewState": "Complete",
+        "Flight": "EY371",
+        "Dest": "BAH",
+        "AirlineCode": "EY371",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10861",
+        "InterviewEndDate": "2023-09-18 03:36:44",
+        "InterviewState": "Complete",
+        "Flight": "EY371",
+        "Dest": "BAH",
+        "AirlineCode": "EY371",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10863",
+        "InterviewEndDate": "2023-09-18 03:51:02",
+        "InterviewState": "Complete",
+        "Flight": "EY382",
+        "Dest": "MCT",
+        "AirlineCode": "EY382",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10864",
+        "InterviewEndDate": "2023-09-18 03:59:01",
+        "InterviewState": "Complete",
+        "Flight": "EY382",
+        "Dest": "MCT",
+        "AirlineCode": "EY382",
         "Terminal": "T3"
     }
 ]    
