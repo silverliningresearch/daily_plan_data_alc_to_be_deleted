@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "18-09-2023 12:36:54"
+        "download_time": "18-09-2023 13:41:45"
     },
     {
         "InterviewId": "4226",
@@ -14822,6 +14822,42 @@ let interview_data_arr_raw = `[
         "Dest": "IST",
         "AirlineCode": "EY",
         "Terminal": "T3"
+    },
+    {
+        "InterviewId": "5940",
+        "InterviewEndDate": "2023-09-18 08:55:35",
+        "InterviewState": "Complete",
+        "Flight": "IX - Air India Express",
+        "Dest": "CNN",
+        "AirlineCode": "IX",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "5941",
+        "InterviewEndDate": "2023-09-18 09:02:39",
+        "InterviewState": "Complete",
+        "Flight": "IX - Air India Express",
+        "Dest": "CNN",
+        "AirlineCode": "IX",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "5942",
+        "InterviewEndDate": "2023-09-18 09:09:36",
+        "InterviewState": "Complete",
+        "Flight": "IX - Air India Express",
+        "Dest": "CNN",
+        "AirlineCode": "IX",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "5943",
+        "InterviewEndDate": "2023-09-18 09:12:18",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "AMM",
+        "AirlineCode": "5W",
+        "Terminal": "T1"
     }
 ]    
 
