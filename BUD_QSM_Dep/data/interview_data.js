@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "19-09-2023 13:34:54"
+        "download_time": "19-09-2023 14:40:01"
     },
     {
         "InterviewId": "3965",
@@ -13113,8 +13113,64 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
+        "InterviewId": "5677",
+        "InterviewEndDate": "2023-09-19 11:41:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1339",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5678",
+        "InterviewEndDate": "2023-09-19 11:35:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 1339",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "5679",
-        "InterviewEndDate": "2023-09-19 11:33:40",
+        "InterviewEndDate": "2023-09-19 11:33:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 1339",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5680",
+        "InterviewEndDate": "2023-09-19 11:52:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 1339",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5681",
+        "InterviewEndDate": "2023-09-19 11:46:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1339",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5682",
+        "InterviewEndDate": "2023-09-19 11:48:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 1339",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5683",
+        "InterviewEndDate": "2023-09-19 11:49:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 1339",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "5684",
+        "InterviewEndDate": "2023-09-19 12:07:47",
         "InterviewState": "Complete",
         "Flight": "LH 1339",
         "Dest": "FRA",

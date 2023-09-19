@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "19-09-2023 13:32:50"
+        "download_time": "19-09-2023 14:37:58"
     },
     {
         "InterviewId": "5174",
@@ -11559,6 +11559,110 @@ let interview_data_arr_raw = `[
         "Flight": "FI - Icelandair",
         "Dest": "KEF",
         "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "6882",
+        "InterviewEndDate": "2023-09-19 11:36:41",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "6883",
+        "InterviewEndDate": "2023-09-19 11:41:05",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6884",
+        "InterviewEndDate": "2023-09-19 11:47:43",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6885",
+        "InterviewEndDate": "2023-09-19 11:53:08",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "6886",
+        "InterviewEndDate": "2023-09-19 11:54:02",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "6887",
+        "InterviewEndDate": "2023-09-19 11:52:58",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6888",
+        "InterviewEndDate": "2023-09-19 11:59:40",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "6889",
+        "InterviewEndDate": "2023-09-19 12:00:12",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "6890",
+        "InterviewEndDate": "2023-09-19 12:01:42",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6892",
+        "InterviewEndDate": "2023-09-19 12:06:19",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6893",
+        "InterviewEndDate": "2023-09-19 12:08:29",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6894",
+        "InterviewEndDate": "2023-09-19 12:10:59",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6895",
+        "InterviewEndDate": "2023-09-19 12:13:41",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
     }
 ]    
 
