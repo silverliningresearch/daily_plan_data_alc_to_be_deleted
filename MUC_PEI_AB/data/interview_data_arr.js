@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "19-09-2023 14:37:58"
+        "download_time": "19-09-2023 15:42:48"
     },
     {
         "InterviewId": "5174",
@@ -11618,7 +11618,7 @@ let interview_data_arr_raw = `[
     },
     {
         "InterviewId": "6889",
-        "InterviewEndDate": "2023-09-19 12:00:12",
+        "InterviewEndDate": "2023-09-19 12:53:14",
         "InterviewState": "Complete",
         "Flight": "QR - Qatar Airways",
         "Dest": "DOH",
@@ -11662,6 +11662,118 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6896",
+        "InterviewEndDate": "2023-09-19 12:47:56",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MEX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6897",
+        "InterviewEndDate": "2023-09-19 13:05:14",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "6898",
+        "InterviewEndDate": "2023-09-19 12:57:04",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MEX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6899",
+        "InterviewEndDate": "2023-09-19 13:04:46",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "6900",
+        "InterviewEndDate": "2023-09-19 13:01:17",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "6901",
+        "InterviewEndDate": "2023-09-19 13:07:25",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "VLC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6903",
+        "InterviewEndDate": "2023-09-19 13:04:35",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "6904",
+        "InterviewEndDate": "2023-09-19 13:10:43",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "6905",
+        "InterviewEndDate": "2023-09-19 13:10:01",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "6906",
+        "InterviewEndDate": "2023-09-19 13:16:01",
+        "InterviewState": "Complete",
+        "Flight": "OS - Austrian Airlines",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "6907",
+        "InterviewEndDate": "2023-09-19 13:18:00",
+        "InterviewState": "Complete",
+        "Flight": "SK - SAS-Scandinavian Airlines System",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "6908",
+        "InterviewEndDate": "2023-09-19 13:19:17",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "6909",
+        "InterviewEndDate": "2023-09-19 13:17:46",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "6911",
+        "InterviewEndDate": "2023-09-19 13:34:59",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "GDN",
         "AirlineCode": "LH"
     }
 ]    
