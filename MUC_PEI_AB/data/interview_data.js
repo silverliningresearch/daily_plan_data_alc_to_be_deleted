@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "19-09-2023 11:22:38"
+        "download_time": "19-09-2023 12:27:25"
     },
     {
         "InterviewId": "15848",
@@ -40350,6 +40350,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2102",
         "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21883",
+        "InterviewEndDate": "2023-09-19 09:36:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21884",
+        "InterviewEndDate": "2023-09-19 09:38:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21885",
+        "InterviewEndDate": "2023-09-19 09:39:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21886",
+        "InterviewEndDate": "2023-09-19 09:40:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21887",
+        "InterviewEndDate": "2023-09-19 09:54:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21888",
+        "InterviewEndDate": "2023-09-19 09:46:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21889",
+        "InterviewEndDate": "2023-09-19 09:45:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21890",
+        "InterviewEndDate": "2023-09-19 09:58:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21892",
+        "InterviewEndDate": "2023-09-19 09:59:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
         "AirlineCode": "LH"
     }
 ]    
