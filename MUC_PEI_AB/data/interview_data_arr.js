@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "19-09-2023 15:42:48"
+        "download_time": "19-09-2023 16:47:52"
     },
     {
         "InterviewId": "5174",
@@ -11775,6 +11775,46 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "GDN",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6912",
+        "InterviewEndDate": "2023-09-19 14:18:08",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "6913",
+        "InterviewEndDate": "2023-09-19 13:47:09",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CPH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6914",
+        "InterviewEndDate": "2023-09-19 13:54:17",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "NAP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6915",
+        "InterviewEndDate": "2023-09-19 14:21:47",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "6916",
+        "InterviewEndDate": "2023-09-19 14:24:04",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
     }
 ]    
 
