@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "19-09-2023 12:27:51"
+        "download_time": "19-09-2023 13:32:50"
     },
     {
         "InterviewId": "5174",
@@ -11407,6 +11407,158 @@ let interview_data_arr_raw = `[
         "Flight": "TK - Turkish Airlines",
         "Dest": "AYT",
         "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "6862",
+        "InterviewEndDate": "2023-09-19 10:32:13",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "6863",
+        "InterviewEndDate": "2023-09-19 10:33:39",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "6864",
+        "InterviewEndDate": "2023-09-19 10:38:41",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "YYZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6865",
+        "InterviewEndDate": "2023-09-19 10:42:23",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LUX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6866",
+        "InterviewEndDate": "2023-09-19 10:46:41",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6867",
+        "InterviewEndDate": "2023-09-19 10:52:30",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "HER",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "6868",
+        "InterviewEndDate": "2023-09-19 10:50:04",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "HER",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "6869",
+        "InterviewEndDate": "2023-09-19 10:57:01",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "HER",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "6870",
+        "InterviewEndDate": "2023-09-19 10:58:44",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "HER",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "6871",
+        "InterviewEndDate": "2023-09-19 11:00:36",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6872",
+        "InterviewEndDate": "2023-09-19 11:02:25",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "HER",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "6873",
+        "InterviewEndDate": "2023-09-19 11:04:06",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "HER",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "6874",
+        "InterviewEndDate": "2023-09-19 11:07:22",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6875",
+        "InterviewEndDate": "2023-09-19 11:10:42",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6876",
+        "InterviewEndDate": "2023-09-19 11:12:35",
+        "InterviewState": "Complete",
+        "Flight": "FI - Icelandair",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "6878",
+        "InterviewEndDate": "2023-09-19 11:13:59",
+        "InterviewState": "Complete",
+        "Flight": "FI - Icelandair",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "6879",
+        "InterviewEndDate": "2023-09-19 11:14:02",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6880",
+        "InterviewEndDate": "2023-09-19 11:17:10",
+        "InterviewState": "Complete",
+        "Flight": "FI - Icelandair",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "6881",
+        "InterviewEndDate": "2023-09-19 11:18:26",
+        "InterviewState": "Complete",
+        "Flight": "FI - Icelandair",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
     }
 ]    
 

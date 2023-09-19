@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "19-09-2023 12:27:25"
+        "download_time": "19-09-2023 13:32:25"
     },
     {
         "InterviewId": "15848",
@@ -40422,6 +40422,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 410",
         "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21894",
+        "InterviewEndDate": "2023-09-19 10:55:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 476",
+        "Dest": "YVR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21895",
+        "InterviewEndDate": "2023-09-19 10:45:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 476",
+        "Dest": "YVR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21896",
+        "InterviewEndDate": "2023-09-19 10:41:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 476",
+        "Dest": "YVR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21897",
+        "InterviewEndDate": "2023-09-19 10:33:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 476",
+        "Dest": "YVR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21898",
+        "InterviewEndDate": "2023-09-19 10:45:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 494",
+        "Dest": "YYZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21899",
+        "InterviewEndDate": "2023-09-19 10:51:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 494",
+        "Dest": "YYZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21900",
+        "InterviewEndDate": "2023-09-19 11:03:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 494",
+        "Dest": "YYZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21901",
+        "InterviewEndDate": "2023-09-19 10:55:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 494",
+        "Dest": "YYZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21903",
+        "InterviewEndDate": "2023-09-19 11:13:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 494",
+        "Dest": "YYZ",
         "AirlineCode": "LH"
     }
 ]    
