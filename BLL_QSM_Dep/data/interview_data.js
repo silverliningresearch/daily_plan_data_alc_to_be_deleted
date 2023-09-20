@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "20-09-2023 13:24:15"
+        "download_time": "20-09-2023 14:29:08"
     },
     {
         "InterviewId": "6093",
@@ -27255,6 +27255,94 @@ let interview_data_raw = `[
         "Flight": "KL1344",
         "Dest": "AMS",
         "AirlineCode": "KL1344"
+    },
+    {
+        "InterviewId": "11378",
+        "InterviewEndDate": "2023-09-20 11:45:06",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "11380",
+        "InterviewEndDate": "2023-09-20 11:40:21",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "11381",
+        "InterviewEndDate": "2023-09-20 11:55:57",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "11382",
+        "InterviewEndDate": "2023-09-20 11:31:55",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "11383",
+        "InterviewEndDate": "2023-09-20 11:50:12",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "11384",
+        "InterviewEndDate": "2023-09-20 11:37:27",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "11385",
+        "InterviewEndDate": "2023-09-20 11:36:00",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "11386",
+        "InterviewEndDate": "2023-09-20 11:46:57",
+        "InterviewState": "Complete",
+        "Flight": "BT148",
+        "Dest": "RIX",
+        "AirlineCode": "BT148"
+    },
+    {
+        "InterviewId": "11389",
+        "InterviewEndDate": "2023-09-20 12:24:32",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "11391",
+        "InterviewEndDate": "2023-09-20 12:23:55",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "11396",
+        "InterviewEndDate": "2023-09-20 12:24:21",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
     }
 ]    
 
