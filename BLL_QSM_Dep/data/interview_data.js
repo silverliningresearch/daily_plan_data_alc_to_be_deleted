@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "20-09-2023 14:29:08"
+        "download_time": "20-09-2023 15:34:14"
     },
     {
         "InterviewId": "6093",
@@ -27321,6 +27321,14 @@ let interview_data_raw = `[
         "AirlineCode": "BT148"
     },
     {
+        "InterviewId": "11388",
+        "InterviewEndDate": "2023-09-20 12:31:00",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
         "InterviewId": "11389",
         "InterviewEndDate": "2023-09-20 12:24:32",
         "InterviewState": "Complete",
@@ -27337,12 +27345,68 @@ let interview_data_raw = `[
         "AirlineCode": "LH839"
     },
     {
+        "InterviewId": "11392",
+        "InterviewEndDate": "2023-09-20 12:31:53",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "11395",
+        "InterviewEndDate": "2023-09-20 12:30:10",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
         "InterviewId": "11396",
         "InterviewEndDate": "2023-09-20 12:24:21",
         "InterviewState": "Complete",
         "Flight": "LH839",
         "Dest": "FRA",
         "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "11397",
+        "InterviewEndDate": "2023-09-20 13:16:18",
+        "InterviewState": "Complete",
+        "Flight": "FR987",
+        "Dest": "TPS",
+        "AirlineCode": "FR987"
+    },
+    {
+        "InterviewId": "11398",
+        "InterviewEndDate": "2023-09-20 13:14:13",
+        "InterviewState": "Complete",
+        "Flight": "FR987",
+        "Dest": "TPS",
+        "AirlineCode": "FR987"
+    },
+    {
+        "InterviewId": "11399",
+        "InterviewEndDate": "2023-09-20 13:13:37",
+        "InterviewState": "Complete",
+        "Flight": "FR987",
+        "Dest": "TPS",
+        "AirlineCode": "FR987"
+    },
+    {
+        "InterviewId": "11400",
+        "InterviewEndDate": "2023-09-20 13:15:21",
+        "InterviewState": "Complete",
+        "Flight": "FR987",
+        "Dest": "TPS",
+        "AirlineCode": "FR987"
+    },
+    {
+        "InterviewId": "11401",
+        "InterviewEndDate": "2023-09-20 13:12:49",
+        "InterviewState": "Complete",
+        "Flight": "FR987",
+        "Dest": "TPS",
+        "AirlineCode": "FR987"
     }
 ]    
 

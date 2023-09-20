@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "20-09-2023 14:27:25"
+        "download_time": "20-09-2023 15:32:27"
     },
     {
         "InterviewId": "15848",
@@ -40897,11 +40897,139 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "21964",
+        "InterviewEndDate": "2023-09-20 12:30:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 2306",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "21965",
         "InterviewEndDate": "2023-09-20 12:23:44",
         "InterviewState": "Complete",
         "Flight": "LH 2306",
         "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21966",
+        "InterviewEndDate": "2023-09-20 12:26:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2306",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21967",
+        "InterviewEndDate": "2023-09-20 12:43:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 1652",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21968",
+        "InterviewEndDate": "2023-09-20 12:45:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 1652",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21969",
+        "InterviewEndDate": "2023-09-20 12:46:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 1652",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21970",
+        "InterviewEndDate": "2023-09-20 12:51:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 1652",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21971",
+        "InterviewEndDate": "2023-09-20 13:12:12",
+        "InterviewState": "Complete",
+        "Flight": "UA 761",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "21972",
+        "InterviewEndDate": "2023-09-20 13:10:45",
+        "InterviewState": "Complete",
+        "Flight": "UA 761",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "21973",
+        "InterviewEndDate": "2023-09-20 13:13:53",
+        "InterviewState": "Complete",
+        "Flight": "UA 761",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "21974",
+        "InterviewEndDate": "2023-09-20 13:14:41",
+        "InterviewState": "Complete",
+        "Flight": "UA 761",
+        "Dest": "DEN",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "21975",
+        "InterviewEndDate": "2023-09-20 13:19:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 1632",
+        "Dest": "WRO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21976",
+        "InterviewEndDate": "2023-09-20 13:25:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 1632",
+        "Dest": "WRO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21979",
+        "InterviewEndDate": "2023-09-20 13:24:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 1632",
+        "Dest": "WRO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21981",
+        "InterviewEndDate": "2023-09-20 13:25:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 414",
+        "Dest": "IAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21982",
+        "InterviewEndDate": "2023-09-20 13:27:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 414",
+        "Dest": "IAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "21983",
+        "InterviewEndDate": "2023-09-20 13:30:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 414",
+        "Dest": "IAD",
         "AirlineCode": "LH"
     }
 ]    
