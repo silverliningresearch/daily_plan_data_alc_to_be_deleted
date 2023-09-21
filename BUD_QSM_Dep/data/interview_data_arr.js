@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "21-09-2023 20:50:03"
+        "download_time": "21-09-2023 21:54:54"
     },
     {
         "InterviewId": "1224",
@@ -4039,6 +4039,62 @@ let interview_data_arr_raw = `[
         "Flight": "EW - Eurowings",
         "Dest": "DUS",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "1732",
+        "InterviewEndDate": "2023-09-21 19:09:33",
+        "InterviewState": "Complete",
+        "Flight": "7O - Travel Service",
+        "Dest": "ZTH",
+        "AirlineCode": "7O"
+    },
+    {
+        "InterviewId": "1733",
+        "InterviewEndDate": "2023-09-21 19:13:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "JTR",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1734",
+        "InterviewEndDate": "2023-09-21 19:16:50",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "JTR",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1735",
+        "InterviewEndDate": "2023-09-21 19:22:07",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "JTR",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1736",
+        "InterviewEndDate": "2023-09-21 19:26:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "JTR",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1737",
+        "InterviewEndDate": "2023-09-21 19:30:35",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "JMK",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1738",
+        "InterviewEndDate": "2023-09-21 19:32:45",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "JTR",
+        "AirlineCode": "W6"
     }
 ]    
 
