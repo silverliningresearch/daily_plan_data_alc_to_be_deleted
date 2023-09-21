@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "21-09-2023 15:23:10"
+        "download_time": "21-09-2023 16:28:00"
     },
     {
         "InterviewId": "5174",
@@ -12271,6 +12271,86 @@ let interview_data_arr_raw = `[
         "Flight": "SV - Saudi Arabian Airlines",
         "Dest": "JED",
         "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "6979",
+        "InterviewEndDate": "2023-09-21 13:23:12",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "JED",
+        "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "6980",
+        "InterviewEndDate": "2023-09-21 13:24:22",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "JED",
+        "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "6981",
+        "InterviewEndDate": "2023-09-21 13:27:34",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "JED",
+        "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "6982",
+        "InterviewEndDate": "2023-09-21 14:03:09",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "IST",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "6983",
+        "InterviewEndDate": "2023-09-21 14:04:47",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "IST",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "6984",
+        "InterviewEndDate": "2023-09-21 14:06:39",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "IST",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "6985",
+        "InterviewEndDate": "2023-09-21 14:07:19",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "IST",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "6986",
+        "InterviewEndDate": "2023-09-21 14:09:45",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "IST",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "6987",
+        "InterviewEndDate": "2023-09-21 14:14:35",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "IST",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "6988",
+        "InterviewEndDate": "2023-09-21 14:15:29",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "IST",
+        "AirlineCode": "PC"
     }
 ]    
 
