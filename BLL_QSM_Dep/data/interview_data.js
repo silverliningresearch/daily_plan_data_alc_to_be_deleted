@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "21-09-2023 17:34:16"
+        "download_time": "21-09-2023 18:39:20"
     },
     {
         "InterviewId": "6093",
@@ -27434,7 +27434,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "11406",
-        "InterviewEndDate": "2023-09-20 13:55:18",
+        "InterviewEndDate": "2023-09-21 16:11:53",
         "InterviewState": "Complete",
         "Flight": "SK1498",
         "Dest": "ARN",
@@ -27487,6 +27487,54 @@ let interview_data_raw = `[
         "Flight": "SK1498",
         "Dest": "ARN",
         "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "11421",
+        "InterviewEndDate": "2023-09-21 16:30:13",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "11422",
+        "InterviewEndDate": "2023-09-21 16:31:34",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "11423",
+        "InterviewEndDate": "2023-09-21 16:28:33",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "11424",
+        "InterviewEndDate": "2023-09-21 16:29:11",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "11427",
+        "InterviewEndDate": "2023-09-21 16:32:34",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "11428",
+        "InterviewEndDate": "2023-09-21 16:26:34",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
     }
 ]    
 
