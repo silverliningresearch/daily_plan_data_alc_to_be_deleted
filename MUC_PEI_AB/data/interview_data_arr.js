@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "21-09-2023 14:18:00"
+        "download_time": "21-09-2023 15:23:10"
     },
     {
         "InterviewId": "5174",
@@ -12207,6 +12207,70 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "MAN",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "6971",
+        "InterviewEndDate": "2023-09-21 12:35:58",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "6972",
+        "InterviewEndDate": "2023-09-21 12:34:50",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "6973",
+        "InterviewEndDate": "2023-09-21 12:55:53",
+        "InterviewState": "Complete",
+        "Flight": "TI - Tailwind Airlines",
+        "Dest": "AYT",
+        "AirlineCode": "TI"
+    },
+    {
+        "InterviewId": "6974",
+        "InterviewEndDate": "2023-09-21 12:55:55",
+        "InterviewState": "Complete",
+        "Flight": "TI - Tailwind Airlines",
+        "Dest": "AYT",
+        "AirlineCode": "TI"
+    },
+    {
+        "InterviewId": "6975",
+        "InterviewEndDate": "2023-09-21 13:00:56",
+        "InterviewState": "Complete",
+        "Flight": "TI - Tailwind Airlines",
+        "Dest": "AYT",
+        "AirlineCode": "TI"
+    },
+    {
+        "InterviewId": "6976",
+        "InterviewEndDate": "2023-09-21 13:02:08",
+        "InterviewState": "Complete",
+        "Flight": "TI - Tailwind Airlines",
+        "Dest": "AYT",
+        "AirlineCode": "TI"
+    },
+    {
+        "InterviewId": "6977",
+        "InterviewEndDate": "2023-09-21 13:17:55",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "JED",
+        "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "6978",
+        "InterviewEndDate": "2023-09-21 13:19:52",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "JED",
+        "AirlineCode": "SV"
     }
 ]    
 
