@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "22-09-2023 07:37:54"
+        "download_time": "22-09-2023 08:42:57"
     },
     {
         "InterviewId": "5174",
@@ -12543,6 +12543,78 @@ let interview_data_arr_raw = `[
         "Flight": "EY - ETIHAD Airways",
         "Dest": "AUH",
         "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "7015",
+        "InterviewEndDate": "2023-09-22 06:18:50",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7016",
+        "InterviewEndDate": "2023-09-22 06:20:43",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7017",
+        "InterviewEndDate": "2023-09-22 06:20:47",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7018",
+        "InterviewEndDate": "2023-09-22 06:23:26",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7019",
+        "InterviewEndDate": "2023-09-22 06:25:19",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7020",
+        "InterviewEndDate": "2023-09-22 06:32:04",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7021",
+        "InterviewEndDate": "2023-09-22 06:34:00",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7022",
+        "InterviewEndDate": "2023-09-22 06:33:12",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7023",
+        "InterviewEndDate": "2023-09-22 06:37:35",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
     }
 ]    
 
