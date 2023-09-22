@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "22-09-2023 08:44:14"
+        "download_time": "22-09-2023 09:48:55"
     },
     {
         "InterviewId": "6093",
@@ -27753,12 +27753,148 @@ let interview_data_raw = `[
         "AirlineCode": "BA807"
     },
     {
+        "InterviewId": "11469",
+        "InterviewEndDate": "2023-09-22 06:46:59",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "11470",
+        "InterviewEndDate": "2023-09-22 06:51:29",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "11472",
+        "InterviewEndDate": "2023-09-22 06:48:41",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "11473",
+        "InterviewEndDate": "2023-09-22 06:53:19",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
         "InterviewId": "11474",
         "InterviewEndDate": "2023-09-22 06:43:52",
         "InterviewState": "Complete",
         "Flight": "SK1904",
         "Dest": "OSL",
         "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "11475",
+        "InterviewEndDate": "2023-09-22 06:52:25",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "11476",
+        "InterviewEndDate": "2023-09-22 06:53:42",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "11478",
+        "InterviewEndDate": "2023-09-22 06:57:57",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "11481",
+        "InterviewEndDate": "2023-09-22 07:04:17",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "11482",
+        "InterviewEndDate": "2023-09-22 07:32:32",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "11483",
+        "InterviewEndDate": "2023-09-22 07:30:44",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "11484",
+        "InterviewEndDate": "2023-09-22 07:39:17",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "11485",
+        "InterviewEndDate": "2023-09-22 07:34:09",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "11486",
+        "InterviewEndDate": "2023-09-22 07:37:32",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "11487",
+        "InterviewEndDate": "2023-09-22 07:35:43",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "11488",
+        "InterviewEndDate": "2023-09-22 07:43:35",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "11489",
+        "InterviewEndDate": "2023-09-22 07:43:10",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
+    },
+    {
+        "InterviewId": "11491",
+        "InterviewEndDate": "2023-09-22 07:46:06",
+        "InterviewState": "Complete",
+        "Flight": "KL1342",
+        "Dest": "AMS",
+        "AirlineCode": "KL1342"
     }
 ]    
 

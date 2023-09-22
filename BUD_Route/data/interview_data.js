@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "22-09-2023 08:49:59"
+        "download_time": "22-09-2023 09:55:56"
     },
     {
         "InterviewId": "67210",
@@ -147793,6 +147793,14 @@ let interview_data_raw = `[
         "AirlineCode": "LX"
     },
     {
+        "InterviewId": "86333",
+        "InterviewEndDate": "2023-09-22 06:49:48",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
         "InterviewId": "86334",
         "InterviewEndDate": "2023-09-22 06:47:14",
         "InterviewState": "Complete",
@@ -147815,6 +147823,238 @@ let interview_data_raw = `[
         "Flight": "LX 2251",
         "Dest": "ZRH",
         "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "86337",
+        "InterviewEndDate": "2023-09-22 07:05:24",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "86338",
+        "InterviewEndDate": "2023-09-22 06:53:51",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "86339",
+        "InterviewEndDate": "2023-09-22 06:59:14",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "86340",
+        "InterviewEndDate": "2023-09-22 06:58:18",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "86341",
+        "InterviewEndDate": "2023-09-22 07:09:11",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "86342",
+        "InterviewEndDate": "2023-09-22 07:05:24",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "86343",
+        "InterviewEndDate": "2023-09-22 07:12:01",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "86344",
+        "InterviewEndDate": "2023-09-22 07:09:51",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "86345",
+        "InterviewEndDate": "2023-09-22 07:10:33",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "86346",
+        "InterviewEndDate": "2023-09-22 07:21:30",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "86347",
+        "InterviewEndDate": "2023-09-22 07:20:04",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "86348",
+        "InterviewEndDate": "2023-09-22 07:21:32",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "86349",
+        "InterviewEndDate": "2023-09-22 07:21:21",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "86350",
+        "InterviewEndDate": "2023-09-22 07:22:02",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "86351",
+        "InterviewEndDate": "2023-09-22 07:30:12",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "86352",
+        "InterviewEndDate": "2023-09-22 07:26:46",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "86353",
+        "InterviewEndDate": "2023-09-22 07:33:48",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "86354",
+        "InterviewEndDate": "2023-09-22 07:44:16",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "86355",
+        "InterviewEndDate": "2023-09-22 07:31:23",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "86356",
+        "InterviewEndDate": "2023-09-22 07:36:46",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "86357",
+        "InterviewEndDate": "2023-09-22 07:34:39",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "86358",
+        "InterviewEndDate": "2023-09-22 07:46:15",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "86359",
+        "InterviewEndDate": "2023-09-22 07:40:40",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "86360",
+        "InterviewEndDate": "2023-09-22 07:44:29",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "86361",
+        "InterviewEndDate": "2023-09-22 07:47:23",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "86362",
+        "InterviewEndDate": "2023-09-22 07:49:19",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "86363",
+        "InterviewEndDate": "2023-09-22 07:49:16",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "86364",
+        "InterviewEndDate": "2023-09-22 07:50:37",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "86365",
+        "InterviewEndDate": "2023-09-22 07:51:20",
+        "InterviewState": "Complete",
+        "Flight": "QR  202",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
     }
 ]    
 

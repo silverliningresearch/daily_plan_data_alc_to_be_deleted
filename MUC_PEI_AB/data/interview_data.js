@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "22-09-2023 08:42:30"
+        "download_time": "22-09-2023 09:47:09"
     },
     {
         "InterviewId": "15848",
@@ -41974,6 +41974,102 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 436",
         "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22118",
+        "InterviewEndDate": "2023-09-22 06:46:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 436",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22119",
+        "InterviewEndDate": "2023-09-22 07:05:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 2056",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22120",
+        "InterviewEndDate": "2023-09-22 07:09:06",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "22121",
+        "InterviewEndDate": "2023-09-22 07:10:28",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "22122",
+        "InterviewEndDate": "2023-09-22 07:18:23",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "22123",
+        "InterviewEndDate": "2023-09-22 07:22:09",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "22124",
+        "InterviewEndDate": "2023-09-22 07:19:37",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "22125",
+        "InterviewEndDate": "2023-09-22 07:21:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 2056",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22126",
+        "InterviewEndDate": "2023-09-22 07:33:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 2056",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22127",
+        "InterviewEndDate": "2023-09-22 07:28:19",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "22128",
+        "InterviewEndDate": "2023-09-22 07:27:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 2056",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22129",
+        "InterviewEndDate": "2023-09-22 07:37:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 2056",
+        "Dest": "HAM",
         "AirlineCode": "LH"
     }
 ]    
