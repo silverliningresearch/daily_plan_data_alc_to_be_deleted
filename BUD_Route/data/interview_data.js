@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "22-09-2023 14:15:37"
+        "download_time": "22-09-2023 15:20:22"
     },
     {
         "InterviewId": "67210",
@@ -148427,6 +148427,62 @@ let interview_data_raw = `[
     {
         "InterviewId": "86413",
         "InterviewEndDate": "2023-09-22 12:09:52",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "86414",
+        "InterviewEndDate": "2023-09-22 12:18:45",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "86415",
+        "InterviewEndDate": "2023-09-22 12:18:44",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "86416",
+        "InterviewEndDate": "2023-09-22 12:16:53",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "86417",
+        "InterviewEndDate": "2023-09-22 12:16:57",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "86418",
+        "InterviewEndDate": "2023-09-22 12:18:42",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "86419",
+        "InterviewEndDate": "2023-09-22 12:20:49",
+        "InterviewState": "Complete",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewId": "86420",
+        "InterviewEndDate": "2023-09-22 12:20:52",
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
