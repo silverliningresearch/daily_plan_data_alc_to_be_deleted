@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "22-09-2023 17:23:13"
+        "download_time": "22-09-2023 18:27:59"
     },
     {
         "InterviewId": "5174",
@@ -12671,6 +12671,46 @@ let interview_data_arr_raw = `[
         "Flight": "DE - Condor Flugdienst",
         "Dest": "TFS",
         "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "7031",
+        "InterviewEndDate": "2023-09-22 15:25:45",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DTM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7032",
+        "InterviewEndDate": "2023-09-22 15:48:31",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "7033",
+        "InterviewEndDate": "2023-09-22 16:03:40",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "7034",
+        "InterviewEndDate": "2023-09-22 16:03:43",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "7035",
+        "InterviewEndDate": "2023-09-22 16:14:12",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
