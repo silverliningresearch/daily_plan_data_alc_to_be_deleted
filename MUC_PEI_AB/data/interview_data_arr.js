@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "22-09-2023 18:27:59"
+        "download_time": "22-09-2023 19:32:56"
     },
     {
         "InterviewId": "5174",
@@ -12711,6 +12711,54 @@ let interview_data_arr_raw = `[
         "Flight": "AF - Air France",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "7036",
+        "InterviewEndDate": "2023-09-22 16:39:40",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7037",
+        "InterviewEndDate": "2023-09-22 16:39:38",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7038",
+        "InterviewEndDate": "2023-09-22 17:01:35",
+        "InterviewState": "Complete",
+        "Flight": "EC - Easyjet",
+        "Dest": "MXP",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "7039",
+        "InterviewEndDate": "2023-09-22 17:01:34",
+        "InterviewState": "Complete",
+        "Flight": "EC - Easyjet",
+        "Dest": "MXP",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "7040",
+        "InterviewEndDate": "2023-09-22 17:12:55",
+        "InterviewState": "Complete",
+        "Flight": "6I - L\u00fcbeck Air",
+        "Dest": "LBC",
+        "AirlineCode": "6I"
+    },
+    {
+        "InterviewId": "7041",
+        "InterviewEndDate": "2023-09-22 17:28:38",
+        "InterviewState": "Complete",
+        "Flight": "IB - Iberia",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
     }
 ]    
 
