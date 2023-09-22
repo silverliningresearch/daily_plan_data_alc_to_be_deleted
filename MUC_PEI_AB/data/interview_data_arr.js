@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "22-09-2023 16:17:57"
+        "download_time": "22-09-2023 17:23:13"
     },
     {
         "InterviewId": "5174",
@@ -12615,6 +12615,62 @@ let interview_data_arr_raw = `[
         "Flight": "EW - Eurowings",
         "Dest": "CGN",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7024",
+        "InterviewEndDate": "2023-09-22 14:40:12",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7025",
+        "InterviewEndDate": "2023-09-22 14:48:37",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7026",
+        "InterviewEndDate": "2023-09-22 14:48:31",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7027",
+        "InterviewEndDate": "2023-09-22 14:54:38",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7028",
+        "InterviewEndDate": "2023-09-22 15:15:30",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "TFS",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "7029",
+        "InterviewEndDate": "2023-09-22 15:15:38",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "TFS",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "7030",
+        "InterviewEndDate": "2023-09-22 15:21:22",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "TFS",
+        "AirlineCode": "DE"
     }
 ]    
 
