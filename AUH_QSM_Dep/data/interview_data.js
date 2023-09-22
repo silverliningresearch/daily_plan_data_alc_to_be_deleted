@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "23-09-2023 00:55:42"
+        "download_time": "23-09-2023 02:00:42"
     },
     {
         "InterviewId": "7333",
@@ -30653,6 +30653,60 @@ let interview_data_raw = `[
         "Dest": "AMD",
         "AirlineCode": "3L111",
         "Terminal": "T1"
+    },
+    {
+        "InterviewId": "10939",
+        "InterviewEndDate": "2023-09-22 21:06:21",
+        "InterviewState": "Complete",
+        "Flight": "EY051",
+        "Dest": "GVA",
+        "AirlineCode": "EY051",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10940",
+        "InterviewEndDate": "2023-09-22 21:04:16",
+        "InterviewState": "Complete",
+        "Flight": "EY051",
+        "Dest": "GVA",
+        "AirlineCode": "EY051",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10941",
+        "InterviewEndDate": "2023-09-22 21:37:18",
+        "InterviewState": "Complete",
+        "Flight": "EY151",
+        "Dest": "ORD",
+        "AirlineCode": "EY151",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10942",
+        "InterviewEndDate": "2023-09-22 21:45:33",
+        "InterviewState": "Complete",
+        "Flight": "EY151",
+        "Dest": "ORD",
+        "AirlineCode": "EY151",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10943",
+        "InterviewEndDate": "2023-09-22 21:51:35",
+        "InterviewState": "Complete",
+        "Flight": "EY151",
+        "Dest": "ORD",
+        "AirlineCode": "EY151",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "10944",
+        "InterviewEndDate": "2023-09-22 21:55:50",
+        "InterviewState": "Complete",
+        "Flight": "EY151",
+        "Dest": "ORD",
+        "AirlineCode": "EY151",
+        "Terminal": "T3"
     }
 ]    
 
