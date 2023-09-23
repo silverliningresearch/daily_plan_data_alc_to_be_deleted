@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "23-09-2023 10:42:52"
+        "download_time": "23-09-2023 11:47:47"
     },
     {
         "InterviewId": "5174",
@@ -12791,6 +12791,46 @@ let interview_data_arr_raw = `[
         "Flight": "AF - Air France",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "7046",
+        "InterviewEndDate": "2023-09-23 09:22:38",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "ORY",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "7047",
+        "InterviewEndDate": "2023-09-23 09:25:59",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "ORY",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "7048",
+        "InterviewEndDate": "2023-09-23 09:22:01",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "ORY",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "7049",
+        "InterviewEndDate": "2023-09-23 09:25:20",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "ORY",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "7050",
+        "InterviewEndDate": "2023-09-23 09:27:47",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "ORY",
+        "AirlineCode": "EN"
     }
 ]    
 
