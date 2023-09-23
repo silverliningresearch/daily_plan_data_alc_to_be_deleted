@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "23-09-2023 11:47:22"
+        "download_time": "23-09-2023 12:52:22"
     },
     {
         "InterviewId": "15848",
@@ -42423,6 +42423,94 @@ let interview_data_raw = `[
         "Flight": "LH 428",
         "Dest": "CLT",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22176",
+        "InterviewEndDate": "2023-09-23 09:54:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22177",
+        "InterviewEndDate": "2023-09-23 09:52:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22178",
+        "InterviewEndDate": "2023-09-23 09:57:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22179",
+        "InterviewEndDate": "2023-09-23 10:15:16",
+        "InterviewState": "Complete",
+        "Flight": "LH 1846",
+        "Dest": "IBZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22180",
+        "InterviewEndDate": "2023-09-23 10:16:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 1846",
+        "Dest": "IBZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22181",
+        "InterviewEndDate": "2023-09-23 10:19:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 1846",
+        "Dest": "IBZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22182",
+        "InterviewEndDate": "2023-09-23 10:27:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 1846",
+        "Dest": "IBZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22183",
+        "InterviewEndDate": "2023-09-23 10:26:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 1846",
+        "Dest": "IBZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22184",
+        "InterviewEndDate": "2023-09-23 10:51:15",
+        "InterviewState": "Complete",
+        "Flight": "EN 8210",
+        "Dest": "VRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "22185",
+        "InterviewEndDate": "2023-09-23 10:42:16",
+        "InterviewState": "Complete",
+        "Flight": "EN 8210",
+        "Dest": "VRN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "22187",
+        "InterviewEndDate": "2023-09-23 10:49:33",
+        "InterviewState": "Complete",
+        "Flight": "EN 8210",
+        "Dest": "VRN",
+        "AirlineCode": "EN"
     }
 ]    
 
