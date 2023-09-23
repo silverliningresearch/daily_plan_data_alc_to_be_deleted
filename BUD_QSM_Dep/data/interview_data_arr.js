@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "23-09-2023 18:19:44"
+        "download_time": "23-09-2023 19:25:55"
     },
     {
         "InterviewId": "1224",
@@ -4182,6 +4182,78 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 - Wizz Air",
         "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1750",
+        "InterviewEndDate": "2023-09-23 16:20:27",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1751",
+        "InterviewEndDate": "2023-09-23 16:24:36",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "1752",
+        "InterviewEndDate": "2023-09-23 16:28:32",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CAG",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1753",
+        "InterviewEndDate": "2023-09-23 16:42:04",
+        "InterviewState": "Complete",
+        "Flight": "KE - Korean Air",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "1754",
+        "InterviewEndDate": "2023-09-23 16:47:19",
+        "InterviewState": "Complete",
+        "Flight": "KE - Korean Air",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "1755",
+        "InterviewEndDate": "2023-09-23 16:50:52",
+        "InterviewState": "Complete",
+        "Flight": "KE - Korean Air",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "1756",
+        "InterviewEndDate": "2023-09-23 16:55:44",
+        "InterviewState": "Complete",
+        "Flight": "KE - Korean Air",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "1757",
+        "InterviewEndDate": "2023-09-23 17:01:42",
+        "InterviewState": "Complete",
+        "Flight": "KE - Korean Air",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "1758",
+        "InterviewEndDate": "2023-09-23 17:05:59",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "LTN",
         "AirlineCode": "W6"
     }
 ]    
