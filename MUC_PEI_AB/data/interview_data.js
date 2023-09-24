@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "24-09-2023 11:37:24"
+        "download_time": "24-09-2023 12:42:22"
     },
     {
         "InterviewId": "15848",
@@ -43287,6 +43287,102 @@ let interview_data_raw = `[
         "Flight": "LH 714",
         "Dest": "HND",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22291",
+        "InterviewEndDate": "2023-09-24 09:47:02",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "22292",
+        "InterviewEndDate": "2023-09-24 09:45:29",
+        "InterviewState": "Complete",
+        "Flight": "X3 2238",
+        "Dest": "LPA",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "22293",
+        "InterviewEndDate": "2023-09-24 09:48:10",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "22294",
+        "InterviewEndDate": "2023-09-24 09:44:09",
+        "InterviewState": "Complete",
+        "Flight": "X3 2238",
+        "Dest": "LPA",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "22295",
+        "InterviewEndDate": "2023-09-24 09:50:55",
+        "InterviewState": "Complete",
+        "Flight": "X3 2238",
+        "Dest": "LPA",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "22297",
+        "InterviewEndDate": "2023-09-24 09:47:22",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "22298",
+        "InterviewEndDate": "2023-09-24 10:01:33",
+        "InterviewState": "Complete",
+        "Flight": "X3 2238",
+        "Dest": "LPA",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "22299",
+        "InterviewEndDate": "2023-09-24 09:53:21",
+        "InterviewState": "Complete",
+        "Flight": "X3 2238",
+        "Dest": "LPA",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "22300",
+        "InterviewEndDate": "2023-09-24 10:10:58",
+        "InterviewState": "Complete",
+        "Flight": "X3 2844",
+        "Dest": "ACE",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "22301",
+        "InterviewEndDate": "2023-09-24 10:11:30",
+        "InterviewState": "Complete",
+        "Flight": "X3 2844",
+        "Dest": "ACE",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "22302",
+        "InterviewEndDate": "2023-09-24 10:10:27",
+        "InterviewState": "Complete",
+        "Flight": "X3 2238",
+        "Dest": "LPA",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "22303",
+        "InterviewEndDate": "2023-09-24 10:35:56",
+        "InterviewState": "Complete",
+        "Flight": "X3 2844",
+        "Dest": "ACE",
+        "AirlineCode": "X3"
     }
 ]    
 
