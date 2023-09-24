@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "24-09-2023 10:34:53"
+        "download_time": "24-09-2023 11:17:56"
     },
     {
         "InterviewId": "1224",
@@ -126,7 +126,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 - Norwegian Air International",
         "Dest": "ARN",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "1239",
@@ -134,7 +134,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 - Norwegian Air International",
         "Dest": "ARN",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "1240",
@@ -142,7 +142,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 - Norwegian Air International",
         "Dest": "ARN",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "1241",
@@ -150,7 +150,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 - Norwegian Air International",
         "Dest": "ARN",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "1242",
@@ -158,7 +158,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 - Norwegian Air International",
         "Dest": "ARN",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "1243",
@@ -166,7 +166,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 - Norwegian Air International",
         "Dest": "ARN",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "1244",
@@ -174,7 +174,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 - Norwegian Air International",
         "Dest": "ARN",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "1245",
@@ -310,7 +310,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZS - Easyjet Switzerland",
         "Dest": "BSL",
-        "AirlineCode": "EZS"
+        "AirlineCode": "EC"
     },
     {
         "InterviewId": "1262",
@@ -318,7 +318,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZS - Easyjet Switzerland",
         "Dest": "BSL",
-        "AirlineCode": "EZS"
+        "AirlineCode": "EC"
     },
     {
         "InterviewId": "1263",
@@ -326,7 +326,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY - EasyJet",
         "Dest": "BSL",
-        "AirlineCode": "EZY"
+        "AirlineCode": "EC"
     },
     {
         "InterviewId": "1264",
@@ -1502,7 +1502,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZS - Easyjet Switzerland",
         "Dest": "GVA",
-        "AirlineCode": "EZS"
+        "AirlineCode": "EC"
     },
     {
         "InterviewId": "1411",
@@ -1510,7 +1510,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZS - Easyjet Switzerland",
         "Dest": "GVA",
-        "AirlineCode": "EZS"
+        "AirlineCode": "EC"
     },
     {
         "InterviewId": "1412",
@@ -1518,7 +1518,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY - EasyJet",
         "Dest": "GVA",
-        "AirlineCode": "EZY"
+        "AirlineCode": "EC"
     },
     {
         "InterviewId": "1413",
@@ -1526,7 +1526,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZS - Easyjet Switzerland",
         "Dest": "GVA",
-        "AirlineCode": "EZS"
+        "AirlineCode": "EC"
     },
     {
         "InterviewId": "1414",
@@ -1534,7 +1534,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZS - Easyjet Switzerland",
         "Dest": "GVA",
-        "AirlineCode": "EZS"
+        "AirlineCode": "EC"
     },
     {
         "InterviewId": "1415",
@@ -2806,7 +2806,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZS - Easyjet Switzerland",
         "Dest": "GVA",
-        "AirlineCode": "EZS"
+        "AirlineCode": "EC"
     },
     {
         "InterviewId": "1574",
@@ -2814,7 +2814,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZS - Easyjet Switzerland",
         "Dest": "BSL",
-        "AirlineCode": "EZS"
+        "AirlineCode": "EC"
     },
     {
         "InterviewId": "1575",
@@ -2822,7 +2822,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY - EasyJet",
         "Dest": "LGW",
-        "AirlineCode": "EZY"
+        "AirlineCode": "EC"
     },
     {
         "InterviewId": "1576",
@@ -2830,7 +2830,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY - EasyJet",
         "Dest": "LGW",
-        "AirlineCode": "EZY"
+        "AirlineCode": "EC"
     },
     {
         "InterviewId": "1577",
@@ -2838,7 +2838,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY - EasyJet",
         "Dest": "LGW",
-        "AirlineCode": "EZY"
+        "AirlineCode": "EC"
     },
     {
         "InterviewId": "1578",
@@ -2846,7 +2846,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "EZY - EasyJet",
         "Dest": "LGW",
-        "AirlineCode": "EZY"
+        "AirlineCode": "EC"
     },
     {
         "InterviewId": "1579",
@@ -3470,7 +3470,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 - Norwegian Air International",
         "Dest": "ARN",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "1660",
@@ -3478,7 +3478,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 - Norwegian Air International",
         "Dest": "ARN",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "1661",
@@ -3790,7 +3790,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 - Norwegian Air International",
         "Dest": "CPH",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "1700",
@@ -3798,7 +3798,7 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 - Norwegian Air International",
         "Dest": "CPH",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "1701",
