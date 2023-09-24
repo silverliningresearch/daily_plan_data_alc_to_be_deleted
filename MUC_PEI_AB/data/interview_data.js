@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "24-09-2023 09:27:34"
+        "download_time": "24-09-2023 10:32:23"
     },
     {
         "InterviewId": "15848",
@@ -42999,6 +42999,190 @@ let interview_data_raw = `[
         "Flight": "LH 101",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22254",
+        "InterviewEndDate": "2023-09-24 07:44:22",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "22255",
+        "InterviewEndDate": "2023-09-24 07:43:02",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "22256",
+        "InterviewEndDate": "2023-09-24 07:44:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22257",
+        "InterviewEndDate": "2023-09-24 07:45:47",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "22258",
+        "InterviewEndDate": "2023-09-24 07:43:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22259",
+        "InterviewEndDate": "2023-09-24 07:43:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22260",
+        "InterviewEndDate": "2023-09-24 07:57:00",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "22261",
+        "InterviewEndDate": "2023-09-24 07:52:04",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "22262",
+        "InterviewEndDate": "2023-09-24 08:06:48",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "22263",
+        "InterviewEndDate": "2023-09-24 07:56:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22264",
+        "InterviewEndDate": "2023-09-24 07:58:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22265",
+        "InterviewEndDate": "2023-09-24 08:22:48",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "22266",
+        "InterviewEndDate": "2023-09-24 08:12:28",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "22267",
+        "InterviewEndDate": "2023-09-24 08:15:01",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "22268",
+        "InterviewEndDate": "2023-09-24 08:14:40",
+        "InterviewState": "Complete",
+        "Flight": "C3 2204",
+        "Dest": "PRN",
+        "AirlineCode": "C3"
+    },
+    {
+        "InterviewId": "22269",
+        "InterviewEndDate": "2023-09-24 08:17:18",
+        "InterviewState": "Complete",
+        "Flight": "C3 2204",
+        "Dest": "PRN",
+        "AirlineCode": "C3"
+    },
+    {
+        "InterviewId": "22270",
+        "InterviewEndDate": "2023-09-24 08:19:28",
+        "InterviewState": "Complete",
+        "Flight": "C3 2204",
+        "Dest": "PRN",
+        "AirlineCode": "C3"
+    },
+    {
+        "InterviewId": "22271",
+        "InterviewEndDate": "2023-09-24 08:21:01",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "22272",
+        "InterviewEndDate": "2023-09-24 08:22:54",
+        "InterviewState": "Complete",
+        "Flight": "EI 353",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "22273",
+        "InterviewEndDate": "2023-09-24 08:28:47",
+        "InterviewState": "Complete",
+        "Flight": "EI 353",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "22274",
+        "InterviewEndDate": "2023-09-24 08:29:47",
+        "InterviewState": "Complete",
+        "Flight": "EI 353",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "22275",
+        "InterviewEndDate": "2023-09-24 08:26:57",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "22278",
+        "InterviewEndDate": "2023-09-24 08:31:25",
+        "InterviewState": "Complete",
+        "Flight": "EI 353",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
     }
 ]    
 
