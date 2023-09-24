@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "24-09-2023 21:24:27"
+        "download_time": "24-09-2023 22:29:09"
     },
     {
         "InterviewId": "6093",
@@ -28263,6 +28263,70 @@ let interview_data_raw = `[
         "Flight": "FR9752",
         "Dest": "VIE",
         "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "11550",
+        "InterviewEndDate": "2023-09-24 19:37:11",
+        "InterviewState": "Complete",
+        "Flight": "DY997",
+        "Dest": "OSL",
+        "AirlineCode": "DY997"
+    },
+    {
+        "InterviewId": "11551",
+        "InterviewEndDate": "2023-09-24 19:43:37",
+        "InterviewState": "Complete",
+        "Flight": "DY997",
+        "Dest": "OSL",
+        "AirlineCode": "DY997"
+    },
+    {
+        "InterviewId": "11552",
+        "InterviewEndDate": "2023-09-24 19:45:30",
+        "InterviewState": "Complete",
+        "Flight": "DY997",
+        "Dest": "OSL",
+        "AirlineCode": "DY997"
+    },
+    {
+        "InterviewId": "11553",
+        "InterviewEndDate": "2023-09-24 19:45:57",
+        "InterviewState": "Complete",
+        "Flight": "DY997",
+        "Dest": "OSL",
+        "AirlineCode": "DY997"
+    },
+    {
+        "InterviewId": "11554",
+        "InterviewEndDate": "2023-09-24 19:34:52",
+        "InterviewState": "Complete",
+        "Flight": "DY997",
+        "Dest": "OSL",
+        "AirlineCode": "DY997"
+    },
+    {
+        "InterviewId": "11555",
+        "InterviewEndDate": "2023-09-24 19:44:47",
+        "InterviewState": "Complete",
+        "Flight": "DY997",
+        "Dest": "OSL",
+        "AirlineCode": "DY997"
+    },
+    {
+        "InterviewId": "11556",
+        "InterviewEndDate": "2023-09-24 19:44:46",
+        "InterviewState": "Complete",
+        "Flight": "DY997",
+        "Dest": "OSL",
+        "AirlineCode": "DY997"
+    },
+    {
+        "InterviewId": "11557",
+        "InterviewEndDate": "2023-09-24 19:47:36",
+        "InterviewState": "Complete",
+        "Flight": "DY997",
+        "Dest": "OSL",
+        "AirlineCode": "DY997"
     }
 ]    
 
