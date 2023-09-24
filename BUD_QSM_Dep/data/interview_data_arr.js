@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "24-09-2023 13:49:49"
+        "download_time": "24-09-2023 14:54:57"
     },
     {
         "InterviewId": "1224",
@@ -4255,6 +4255,62 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizz Air",
         "Dest": "LTN",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1759",
+        "InterviewEndDate": "2023-09-24 12:12:56",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "1760",
+        "InterviewEndDate": "2023-09-24 12:16:25",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "1761",
+        "InterviewEndDate": "2023-09-24 12:21:10",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "1762",
+        "InterviewEndDate": "2023-09-24 12:26:14",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1763",
+        "InterviewEndDate": "2023-09-24 12:37:10",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "1764",
+        "InterviewEndDate": "2023-09-24 12:43:13",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "1765",
+        "InterviewEndDate": "2023-09-24 12:46:55",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
     }
 ]    
 
