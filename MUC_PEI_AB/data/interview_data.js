@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "24-09-2023 12:42:22"
+        "download_time": "24-09-2023 13:47:23"
     },
     {
         "InterviewId": "15848",
@@ -43383,6 +43383,94 @@ let interview_data_raw = `[
         "Flight": "X3 2844",
         "Dest": "ACE",
         "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "22304",
+        "InterviewEndDate": "2023-09-24 10:45:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 2304",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22305",
+        "InterviewEndDate": "2023-09-24 10:46:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 2304",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22306",
+        "InterviewEndDate": "2023-09-24 10:50:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 2304",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22307",
+        "InterviewEndDate": "2023-09-24 11:02:18",
+        "InterviewState": "Complete",
+        "Flight": "MBU6024",
+        "Dest": "AGP",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "22308",
+        "InterviewEndDate": "2023-09-24 10:57:38",
+        "InterviewState": "Complete",
+        "Flight": "MBU6024",
+        "Dest": "AGP",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "22310",
+        "InterviewEndDate": "2023-09-24 10:57:28",
+        "InterviewState": "Complete",
+        "Flight": "MBU6024",
+        "Dest": "AGP",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "22312",
+        "InterviewEndDate": "2023-09-24 11:18:28",
+        "InterviewState": "Complete",
+        "Flight": "OU 4439",
+        "Dest": "SPU",
+        "AirlineCode": "OU"
+    },
+    {
+        "InterviewId": "22313",
+        "InterviewEndDate": "2023-09-24 11:25:42",
+        "InterviewState": "Complete",
+        "Flight": "MBU6024",
+        "Dest": "AGP",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "22314",
+        "InterviewEndDate": "2023-09-24 11:15:35",
+        "InterviewState": "Complete",
+        "Flight": "OU 4439",
+        "Dest": "SPU",
+        "AirlineCode": "OU"
+    },
+    {
+        "InterviewId": "22315",
+        "InterviewEndDate": "2023-09-24 11:14:13",
+        "InterviewState": "Complete",
+        "Flight": "OU 4439",
+        "Dest": "SPU",
+        "AirlineCode": "OU"
+    },
+    {
+        "InterviewId": "22316",
+        "InterviewEndDate": "2023-09-24 11:30:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 2232",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
     }
 ]    
 
