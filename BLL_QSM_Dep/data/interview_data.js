@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "25-09-2023 12:34:28"
+        "download_time": "25-09-2023 13:39:37"
     },
     {
         "InterviewId": "6093",
@@ -28697,6 +28697,14 @@ let interview_data_raw = `[
         "AirlineCode": "FR3685"
     },
     {
+        "InterviewId": "11611",
+        "InterviewEndDate": "2023-09-25 10:59:19",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
         "InterviewId": "11612",
         "InterviewEndDate": "2023-09-25 10:25:27",
         "InterviewState": "Complete",
@@ -28719,6 +28727,46 @@ let interview_data_raw = `[
         "Flight": "FR3685",
         "Dest": "KRK",
         "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "11615",
+        "InterviewEndDate": "2023-09-25 10:35:45",
+        "InterviewState": "Complete",
+        "Flight": "FR3685",
+        "Dest": "KRK",
+        "AirlineCode": "FR3685"
+    },
+    {
+        "InterviewId": "11618",
+        "InterviewEndDate": "2023-09-25 11:27:32",
+        "InterviewState": "Complete",
+        "Flight": "FR9926",
+        "Dest": "AHO",
+        "AirlineCode": "FR9926"
+    },
+    {
+        "InterviewId": "11621",
+        "InterviewEndDate": "2023-09-25 11:28:29",
+        "InterviewState": "Complete",
+        "Flight": "FR9926",
+        "Dest": "AHO",
+        "AirlineCode": "FR9926"
+    },
+    {
+        "InterviewId": "11622",
+        "InterviewEndDate": "2023-09-25 11:22:28",
+        "InterviewState": "Complete",
+        "Flight": "FR9926",
+        "Dest": "AHO",
+        "AirlineCode": "FR9926"
+    },
+    {
+        "InterviewId": "11623",
+        "InterviewEndDate": "2023-09-25 11:24:23",
+        "InterviewState": "Complete",
+        "Flight": "FR9926",
+        "Dest": "AHO",
+        "AirlineCode": "FR9926"
     }
 ]    
 
