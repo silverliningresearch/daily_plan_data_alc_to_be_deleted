@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "25-09-2023 08:14:21"
+        "download_time": "25-09-2023 09:19:27"
     },
     {
         "InterviewId": "6093",
@@ -28327,6 +28327,102 @@ let interview_data_raw = `[
         "Flight": "DY997",
         "Dest": "OSL",
         "AirlineCode": "DY997"
+    },
+    {
+        "InterviewId": "11559",
+        "InterviewEndDate": "2023-09-25 06:52:33",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "11560",
+        "InterviewEndDate": "2023-09-25 06:52:50",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "11561",
+        "InterviewEndDate": "2023-09-25 06:48:54",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "11562",
+        "InterviewEndDate": "2023-09-25 06:50:34",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "11563",
+        "InterviewEndDate": "2023-09-25 06:50:03",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "11564",
+        "InterviewEndDate": "2023-09-25 06:43:31",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "11565",
+        "InterviewEndDate": "2023-09-25 06:55:58",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "11566",
+        "InterviewEndDate": "2023-09-25 06:59:34",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "11575",
+        "InterviewEndDate": "2023-09-25 07:17:52",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
+    },
+    {
+        "InterviewId": "11576",
+        "InterviewEndDate": "2023-09-25 07:15:49",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
+    },
+    {
+        "InterviewId": "11578",
+        "InterviewEndDate": "2023-09-25 07:18:45",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
+    },
+    {
+        "InterviewId": "11579",
+        "InterviewEndDate": "2023-09-25 07:16:16",
+        "InterviewState": "Complete",
+        "Flight": "FR989",
+        "Dest": "BRI",
+        "AirlineCode": "FR989"
     }
 ]    
 
