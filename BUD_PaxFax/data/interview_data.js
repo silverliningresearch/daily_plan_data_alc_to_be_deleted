@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "25-09-2023 09:21:33"
+        "download_time": "25-09-2023 10:27:03"
     },
     {
         "InterviewId": "7701",
@@ -14534,6 +14534,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR  197",
         "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9740",
+        "InterviewEndDate": "2023-09-25 07:30:22",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9741",
+        "InterviewEndDate": "2023-09-25 07:24:46",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9742",
+        "InterviewEndDate": "2023-09-25 07:26:40",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9743",
+        "InterviewEndDate": "2023-09-25 07:19:17",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9744",
+        "InterviewEndDate": "2023-09-25 07:23:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9745",
+        "InterviewEndDate": "2023-09-25 07:27:54",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9746",
+        "InterviewEndDate": "2023-09-25 07:30:48",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9747",
+        "InterviewEndDate": "2023-09-25 07:26:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "9748",
+        "InterviewEndDate": "2023-09-25 07:29:20",
+        "InterviewState": "Complete",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
         "AirlineCode": "FR"
     }
 ]    
