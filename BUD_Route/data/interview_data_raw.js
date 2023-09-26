@@ -147760,14 +147760,6 @@
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "86327",
-        "InterviewEndDate": "2023-09-22 05:18:21",
-        "InterviewState": "Complete",
-        "Flight": "FR 2301",
-        "Dest": "VLC",
-        "AirlineCode": "FR"
-    },
-    {
         "InterviewId": "86328",
         "InterviewEndDate": "2023-09-19 18:09:00",
         "InterviewState": "Complete",
@@ -147778,6 +147770,14 @@
     {
         "InterviewId": "86329",
         "InterviewEndDate": "2023-09-19 18:10:26",
+        "InterviewState": "Complete",
+        "Flight": "FR 2301",
+        "Dest": "VLC",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "86327",
+        "InterviewEndDate": "2023-09-22 05:18:21",
         "InterviewState": "Complete",
         "Flight": "FR 2301",
         "Dest": "VLC",
