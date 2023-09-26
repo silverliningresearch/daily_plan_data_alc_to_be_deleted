@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "26-09-2023 17:51:16"
+        "download_time": "26-09-2023 18:56:07"
     },
     {
         "InterviewId": "7701",
@@ -14742,6 +14742,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2207",
         "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9769",
+        "InterviewEndDate": "2023-09-26 16:13:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9770",
+        "InterviewEndDate": "2023-09-26 16:15:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9771",
+        "InterviewEndDate": "2023-09-26 16:16:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9772",
+        "InterviewEndDate": "2023-09-26 16:18:25",
+        "InterviewState": "Complete",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9774",
+        "InterviewEndDate": "2023-09-26 16:23:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9775",
+        "InterviewEndDate": "2023-09-26 16:27:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9777",
+        "InterviewEndDate": "2023-09-26 16:31:18",
+        "InterviewState": "Complete",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9779",
+        "InterviewEndDate": "2023-09-26 16:33:59",
+        "InterviewState": "Complete",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9781",
+        "InterviewEndDate": "2023-09-26 16:38:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
         "AirlineCode": "W6"
     }
 ]    
