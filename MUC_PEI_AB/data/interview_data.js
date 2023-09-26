@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "26-09-2023 18:52:29"
+        "download_time": "26-09-2023 19:57:32"
     },
     {
         "InterviewId": "15848",
@@ -43502,6 +43502,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2482",
         "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22323",
+        "InterviewEndDate": "2023-09-26 16:55:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 2482",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22325",
+        "InterviewEndDate": "2023-09-26 16:59:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 2482",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22326",
+        "InterviewEndDate": "2023-09-26 17:22:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 1706",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22327",
+        "InterviewEndDate": "2023-09-26 17:23:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 1706",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22328",
+        "InterviewEndDate": "2023-09-26 17:26:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 1706",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22329",
+        "InterviewEndDate": "2023-09-26 17:28:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 1706",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22330",
+        "InterviewEndDate": "2023-09-26 17:42:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 1706",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22331",
+        "InterviewEndDate": "2023-09-26 17:32:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 1706",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22332",
+        "InterviewEndDate": "2023-09-26 17:41:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 1706",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22333",
+        "InterviewEndDate": "2023-09-26 17:50:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 1706",
+        "Dest": "SOF",
         "AirlineCode": "LH"
     }
 ]    
