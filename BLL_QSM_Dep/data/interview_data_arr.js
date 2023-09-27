@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "27-09-2023 10:05:02"
+        "download_time": "27-09-2023 11:10:07"
     },
     {
         "InterviewId": "2077",
@@ -8783,6 +8783,94 @@ let interview_data_arr_raw = `[
         "Flight": "GQ - Sky Express",
         "Dest": "HER",
         "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "4202",
+        "InterviewEndDate": "2023-09-27 08:29:10",
+        "InterviewState": "Complete",
+        "Flight": "Sas",
+        "Dest": "ARN",
+        "AirlineCode": "Sas"
+    },
+    {
+        "InterviewId": "4203",
+        "InterviewEndDate": "2023-09-27 08:32:02",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "4204",
+        "InterviewEndDate": "2023-09-27 08:31:04",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "4206",
+        "InterviewEndDate": "2023-09-27 08:28:40",
+        "InterviewState": "Complete",
+        "Flight": "Sas",
+        "Dest": "ARN",
+        "AirlineCode": "Sas"
+    },
+    {
+        "InterviewId": "4207",
+        "InterviewEndDate": "2023-09-27 08:31:25",
+        "InterviewState": "Complete",
+        "Flight": "Sas",
+        "Dest": "ARN",
+        "AirlineCode": "Sas"
+    },
+    {
+        "InterviewId": "4208",
+        "InterviewEndDate": "2023-09-27 08:32:52",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "4209",
+        "InterviewEndDate": "2023-09-27 08:58:10",
+        "InterviewState": "Complete",
+        "Flight": "Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "Ryanair"
+    },
+    {
+        "InterviewId": "4211",
+        "InterviewEndDate": "2023-09-27 08:50:41",
+        "InterviewState": "Complete",
+        "Flight": "Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "Ryanair"
+    },
+    {
+        "InterviewId": "4212",
+        "InterviewEndDate": "2023-09-27 08:55:04",
+        "InterviewState": "Complete",
+        "Flight": "Ryaair",
+        "Dest": "DUB",
+        "AirlineCode": "Ryaair"
+    },
+    {
+        "InterviewId": "4213",
+        "InterviewEndDate": "2023-09-27 08:50:05",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4214",
+        "InterviewEndDate": "2023-09-27 08:53:41",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
     }
 ]    
 
