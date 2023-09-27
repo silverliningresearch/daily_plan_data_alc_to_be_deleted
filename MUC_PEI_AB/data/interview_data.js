@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "27-09-2023 19:47:30"
+        "download_time": "27-09-2023 20:52:41"
     },
     {
         "InterviewId": "15848",
@@ -43857,6 +43857,14 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
+        "InterviewId": "22374",
+        "InterviewEndDate": "2023-09-27 18:14:19",
+        "InterviewState": "Complete",
+        "Flight": "KL 1800",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
         "InterviewId": "22375",
         "InterviewEndDate": "2023-09-27 17:37:18",
         "InterviewState": "Complete",
@@ -43879,6 +43887,62 @@ let interview_data_raw = `[
         "Flight": "AF 1023",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "22378",
+        "InterviewEndDate": "2023-09-27 17:57:51",
+        "InterviewState": "Complete",
+        "Flight": "AF 1023",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "22380",
+        "InterviewEndDate": "2023-09-27 18:15:44",
+        "InterviewState": "Complete",
+        "Flight": "MBU6468",
+        "Dest": "HER",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "22381",
+        "InterviewEndDate": "2023-09-27 18:05:32",
+        "InterviewState": "Complete",
+        "Flight": "MBU6468",
+        "Dest": "HER",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "22382",
+        "InterviewEndDate": "2023-09-27 18:17:13",
+        "InterviewState": "Complete",
+        "Flight": "MBU6468",
+        "Dest": "HER",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "22383",
+        "InterviewEndDate": "2023-09-27 18:51:36",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "22384",
+        "InterviewEndDate": "2023-09-27 18:51:27",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "22386",
+        "InterviewEndDate": "2023-09-27 18:49:22",
+        "InterviewState": "Complete",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
     }
 ]    
 
