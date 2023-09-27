@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "27-09-2023 08:59:45"
+        "download_time": "27-09-2023 10:05:02"
     },
     {
         "InterviewId": "2077",
@@ -8617,12 +8617,172 @@ let interview_data_arr_raw = `[
         "AirlineCode": "Sas"
     },
     {
+        "InterviewId": "4174",
+        "InterviewEndDate": "2023-09-27 07:09:41",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4175",
+        "InterviewEndDate": "2023-09-27 07:10:27",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4176",
+        "InterviewEndDate": "2023-09-27 07:11:01",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "4177",
         "InterviewEndDate": "2023-09-27 06:43:32",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
         "Dest": "OSL",
         "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "4178",
+        "InterviewEndDate": "2023-09-27 07:11:50",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4179",
+        "InterviewEndDate": "2023-09-27 07:11:08",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4180",
+        "InterviewEndDate": "2023-09-27 07:10:37",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "PSA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4183",
+        "InterviewEndDate": "2023-09-27 07:26:03",
+        "InterviewState": "Complete",
+        "Flight": "Sunexpress",
+        "Dest": "AYT",
+        "AirlineCode": "Sunexpress"
+    },
+    {
+        "InterviewId": "4185",
+        "InterviewEndDate": "2023-09-27 07:29:59",
+        "InterviewState": "Complete",
+        "Flight": "SunEkspres",
+        "Dest": "AYT",
+        "AirlineCode": "SunEkspres"
+    },
+    {
+        "InterviewId": "4186",
+        "InterviewEndDate": "2023-09-27 07:23:05",
+        "InterviewState": "Complete",
+        "Flight": "Sunexpres",
+        "Dest": "AYT",
+        "AirlineCode": "Sunexpres"
+    },
+    {
+        "InterviewId": "4189",
+        "InterviewEndDate": "2023-09-27 07:54:36",
+        "InterviewState": "Complete",
+        "Flight": "GQ - Sky Express",
+        "Dest": "HER",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "4190",
+        "InterviewEndDate": "2023-09-27 07:30:16",
+        "InterviewState": "Complete",
+        "Flight": "Sunexpress",
+        "Dest": "ALC",
+        "AirlineCode": "Sunexpress"
+    },
+    {
+        "InterviewId": "4191",
+        "InterviewEndDate": "2023-09-27 07:32:22",
+        "InterviewState": "Complete",
+        "Flight": "Sun express",
+        "Dest": "AYT",
+        "AirlineCode": "Sun"
+    },
+    {
+        "InterviewId": "4192",
+        "InterviewEndDate": "2023-09-27 07:32:55",
+        "InterviewState": "Complete",
+        "Flight": "XQ - G\u00fcnes Ekspres Havacilik (SunExpress)",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "4194",
+        "InterviewEndDate": "2023-09-27 07:40:51",
+        "InterviewState": "Complete",
+        "Flight": "Delta",
+        "Dest": "AMS",
+        "AirlineCode": "Delta"
+    },
+    {
+        "InterviewId": "4195",
+        "InterviewEndDate": "2023-09-27 07:36:20",
+        "InterviewState": "Complete",
+        "Flight": "Klm",
+        "Dest": "AMS",
+        "AirlineCode": "Klm"
+    },
+    {
+        "InterviewId": "4197",
+        "InterviewEndDate": "2023-09-27 07:57:06",
+        "InterviewState": "Complete",
+        "Flight": "Flyexpress",
+        "Dest": "HER",
+        "AirlineCode": "Flyexpress"
+    },
+    {
+        "InterviewId": "4198",
+        "InterviewEndDate": "2023-09-27 07:55:59",
+        "InterviewState": "Complete",
+        "Flight": "GQ - Sky Express",
+        "Dest": "HER",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "4199",
+        "InterviewEndDate": "2023-09-27 07:54:29",
+        "InterviewState": "Complete",
+        "Flight": "Skyekspress",
+        "Dest": "HER",
+        "AirlineCode": "Skyekspress"
+    },
+    {
+        "InterviewId": "4200",
+        "InterviewEndDate": "2023-09-27 07:46:01",
+        "InterviewState": "Complete",
+        "Flight": "Delta",
+        "Dest": "AMS",
+        "AirlineCode": "Delta"
+    },
+    {
+        "InterviewId": "4201",
+        "InterviewEndDate": "2023-09-27 07:54:42",
+        "InterviewState": "Complete",
+        "Flight": "GQ - Sky Express",
+        "Dest": "HER",
+        "AirlineCode": "GQ"
     }
 ]    
 
