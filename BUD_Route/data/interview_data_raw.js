@@ -151702,5 +151702,21 @@
         "Flight": "AF 1495",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "86865",
+        "InterviewEndDate": "2023-09-28 17:24:42",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "86866",
+        "InterviewEndDate": "2023-09-28 17:26:58",
+        "InterviewState": "Complete",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
     }
 ]

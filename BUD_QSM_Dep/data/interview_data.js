@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "28-09-2023 18:35:20"
+        "download_time": "28-09-2023 19:40:05"
     },
     {
         "InterviewId": "3965",
@@ -14247,6 +14247,94 @@ let interview_data_raw = `[
         "Flight": "W6 2225",
         "Dest": "EDI",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "5841",
+        "InterviewEndDate": "2023-09-28 16:46:11",
+        "InterviewState": "Complete",
+        "Flight": "EZY8736",
+        "Dest": "LGW",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "5842",
+        "InterviewEndDate": "2023-09-28 16:48:22",
+        "InterviewState": "Complete",
+        "Flight": "EZY8736",
+        "Dest": "LGW",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "5843",
+        "InterviewEndDate": "2023-09-28 16:43:41",
+        "InterviewState": "Complete",
+        "Flight": "EZY8736",
+        "Dest": "LGW",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "5844",
+        "InterviewEndDate": "2023-09-28 16:45:23",
+        "InterviewState": "Complete",
+        "Flight": "EZY8736",
+        "Dest": "LGW",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "5845",
+        "InterviewEndDate": "2023-09-28 16:52:27",
+        "InterviewState": "Complete",
+        "Flight": "EZY8736",
+        "Dest": "LGW",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "5846",
+        "InterviewEndDate": "2023-09-28 16:54:23",
+        "InterviewState": "Complete",
+        "Flight": "EZY8736",
+        "Dest": "LGW",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "5847",
+        "InterviewEndDate": "2023-09-28 17:02:09",
+        "InterviewState": "Complete",
+        "Flight": "EZY8736",
+        "Dest": "LGW",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "5848",
+        "InterviewEndDate": "2023-09-28 16:59:21",
+        "InterviewState": "Complete",
+        "Flight": "EZY8736",
+        "Dest": "LGW",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "5849",
+        "InterviewEndDate": "2023-09-28 17:12:05",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "5850",
+        "InterviewEndDate": "2023-09-28 17:13:59",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
+    },
+    {
+        "InterviewId": "5851",
+        "InterviewEndDate": "2023-09-28 17:20:03",
+        "InterviewState": "Complete",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE"
     }
 ]    
 
