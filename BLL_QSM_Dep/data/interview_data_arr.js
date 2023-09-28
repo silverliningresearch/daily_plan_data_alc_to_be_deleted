@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "28-09-2023 08:49:41"
+        "download_time": "28-09-2023 09:55:02"
     },
     {
         "InterviewId": "2077",
@@ -9007,6 +9007,70 @@ let interview_data_arr_raw = `[
         "Flight": "VY - Vueling Airlines",
         "Dest": "PMI",
         "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "4267",
+        "InterviewEndDate": "2023-09-28 07:07:45",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "4270",
+        "InterviewEndDate": "2023-09-28 07:03:47",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "4271",
+        "InterviewEndDate": "2023-09-28 07:02:50",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "4276",
+        "InterviewEndDate": "2023-09-28 07:15:13",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "TSF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4280",
+        "InterviewEndDate": "2023-09-28 07:31:32",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4281",
+        "InterviewEndDate": "2023-09-28 07:33:47",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MAD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4285",
+        "InterviewEndDate": "2023-09-28 07:43:19",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4286",
+        "InterviewEndDate": "2023-09-28 07:49:07",
+        "InterviewState": "Complete",
+        "Flight": "LO - LOT",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
     }
 ]    
 
