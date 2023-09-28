@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "28-09-2023 14:16:23"
+        "download_time": "28-09-2023 15:21:27"
     },
     {
         "InterviewId": "7701",
@@ -14969,8 +14969,72 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
+        "InterviewId": "9808",
+        "InterviewEndDate": "2023-09-28 12:43:24",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "9809",
+        "InterviewEndDate": "2023-09-28 12:45:34",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "9810",
+        "InterviewEndDate": "2023-09-28 12:39:54",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
         "InterviewId": "9811",
         "InterviewEndDate": "2023-09-28 12:07:28",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "9812",
+        "InterviewEndDate": "2023-09-28 12:35:26",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "9813",
+        "InterviewEndDate": "2023-09-28 12:49:07",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "9815",
+        "InterviewEndDate": "2023-09-28 12:47:18",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "9816",
+        "InterviewEndDate": "2023-09-28 12:49:29",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "9819",
+        "InterviewEndDate": "2023-09-28 13:01:00",
         "InterviewState": "Complete",
         "Flight": "LX 2255",
         "Dest": "ZRH",
