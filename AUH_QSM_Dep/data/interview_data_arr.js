@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "28-09-2023 13:02:53"
+        "download_time": "28-09-2023 14:07:52"
     },
     {
         "InterviewId": "4226",
@@ -15695,6 +15695,60 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "EY",
         "Terminal": "T3"
+    },
+    {
+        "InterviewId": "6038",
+        "InterviewEndDate": "2023-09-28 09:07:21",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "MCT",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "6039",
+        "InterviewEndDate": "2023-09-28 09:13:43",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "BAH",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "6040",
+        "InterviewEndDate": "2023-09-28 09:22:57",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "DMM",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "6041",
+        "InterviewEndDate": "2023-09-28 09:30:01",
+        "InterviewState": "Complete",
+        "Flight": "IX - Air India Express",
+        "Dest": "CNN",
+        "AirlineCode": "IX",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "6042",
+        "InterviewEndDate": "2023-09-28 09:36:52",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "LYP",
+        "AirlineCode": "3L",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "6044",
+        "InterviewEndDate": "2023-09-28 09:46:35",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "EVN",
+        "AirlineCode": "5W",
+        "Terminal": "T1"
     }
 ]    
 
