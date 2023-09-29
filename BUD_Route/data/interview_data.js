@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "29-09-2023 17:20:41"
+        "download_time": "29-09-2023 18:25:50"
     },
     {
         "InterviewId": "67210",
@@ -148406,7 +148406,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "86411",
@@ -148414,7 +148414,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "86412",
@@ -148422,7 +148422,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "86413",
@@ -148430,7 +148430,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "86414",
@@ -148438,7 +148438,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "86415",
@@ -148446,7 +148446,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "86416",
@@ -148454,7 +148454,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "86417",
@@ -148462,7 +148462,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "86418",
@@ -148470,7 +148470,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "86419",
@@ -148478,7 +148478,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "86420",
@@ -148486,7 +148486,7 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "D8"
+        "AirlineCode": "DY"
     },
     {
         "InterviewId": "86421",

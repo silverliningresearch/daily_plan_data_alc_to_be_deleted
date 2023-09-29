@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "29-09-2023 17:19:26"
+        "download_time": "29-09-2023 18:24:39"
     },
     {
         "InterviewId": "6093",
@@ -29431,6 +29431,62 @@ let interview_data_raw = `[
         "Flight": "BA8247",
         "Dest": "MAN",
         "AirlineCode": "BA8247"
+    },
+    {
+        "InterviewId": "11764",
+        "InterviewEndDate": "2023-09-29 15:59:05",
+        "InterviewState": "Complete",
+        "Flight": "FR3719",
+        "Dest": "FCO",
+        "AirlineCode": "FR3719"
+    },
+    {
+        "InterviewId": "11765",
+        "InterviewEndDate": "2023-09-29 16:11:46",
+        "InterviewState": "Complete",
+        "Flight": "FR3719",
+        "Dest": "FCO",
+        "AirlineCode": "FR3719"
+    },
+    {
+        "InterviewId": "11766",
+        "InterviewEndDate": "2023-09-29 16:06:04",
+        "InterviewState": "Complete",
+        "Flight": "FR3719",
+        "Dest": "FCO",
+        "AirlineCode": "FR3719"
+    },
+    {
+        "InterviewId": "11767",
+        "InterviewEndDate": "2023-09-29 16:04:50",
+        "InterviewState": "Complete",
+        "Flight": "FR3719",
+        "Dest": "FCO",
+        "AirlineCode": "FR3719"
+    },
+    {
+        "InterviewId": "11768",
+        "InterviewEndDate": "2023-09-29 15:58:34",
+        "InterviewState": "Complete",
+        "Flight": "FR3719",
+        "Dest": "FCO",
+        "AirlineCode": "FR3719"
+    },
+    {
+        "InterviewId": "11769",
+        "InterviewEndDate": "2023-09-29 16:00:54",
+        "InterviewState": "Complete",
+        "Flight": "FR3719",
+        "Dest": "FCO",
+        "AirlineCode": "FR3719"
+    },
+    {
+        "InterviewId": "11770",
+        "InterviewEndDate": "2023-09-29 16:04:14",
+        "InterviewState": "Complete",
+        "Flight": "FR3719",
+        "Dest": "FCO",
+        "AirlineCode": "FR3719"
     }
 ]    
 
