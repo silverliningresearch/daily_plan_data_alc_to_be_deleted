@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "29-09-2023 16:14:32"
+        "download_time": "29-09-2023 17:19:26"
     },
     {
         "InterviewId": "6093",
@@ -29361,6 +29361,14 @@ let interview_data_raw = `[
         "AirlineCode": "JTD561"
     },
     {
+        "InterviewId": "11747",
+        "InterviewEndDate": "2023-09-29 14:16:14",
+        "InterviewState": "Complete",
+        "Flight": "JTD561",
+        "Dest": "CHQ",
+        "AirlineCode": "JTD561"
+    },
+    {
         "InterviewId": "11748",
         "InterviewEndDate": "2023-09-29 14:12:35",
         "InterviewState": "Complete",
@@ -29383,6 +29391,46 @@ let interview_data_raw = `[
         "Flight": "JTD561",
         "Dest": "CHQ",
         "AirlineCode": "JTD561"
+    },
+    {
+        "InterviewId": "11753",
+        "InterviewEndDate": "2023-09-29 14:39:31",
+        "InterviewState": "Complete",
+        "Flight": "BA8247",
+        "Dest": "MAN",
+        "AirlineCode": "BA8247"
+    },
+    {
+        "InterviewId": "11754",
+        "InterviewEndDate": "2023-09-29 14:41:21",
+        "InterviewState": "Complete",
+        "Flight": "BA8247",
+        "Dest": "MAN",
+        "AirlineCode": "BA8247"
+    },
+    {
+        "InterviewId": "11755",
+        "InterviewEndDate": "2023-09-29 14:43:42",
+        "InterviewState": "Complete",
+        "Flight": "BA8247",
+        "Dest": "MAN",
+        "AirlineCode": "BA8247"
+    },
+    {
+        "InterviewId": "11757",
+        "InterviewEndDate": "2023-09-29 14:39:25",
+        "InterviewState": "Complete",
+        "Flight": "BA8247",
+        "Dest": "MAN",
+        "AirlineCode": "BA8247"
+    },
+    {
+        "InterviewId": "11758",
+        "InterviewEndDate": "2023-09-29 14:35:28",
+        "InterviewState": "Complete",
+        "Flight": "BA8247",
+        "Dest": "MAN",
+        "AirlineCode": "BA8247"
     }
 ]    
 

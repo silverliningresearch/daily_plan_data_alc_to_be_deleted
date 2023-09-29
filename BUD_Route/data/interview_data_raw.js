@@ -148405,7 +148405,7 @@
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "DY"
+        "AirlineCode": "D8"
     },
     {
         "InterviewId": "86411",
@@ -148413,7 +148413,7 @@
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "DY"
+        "AirlineCode": "D8"
     },
     {
         "InterviewId": "86412",
@@ -148421,7 +148421,7 @@
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "DY"
+        "AirlineCode": "D8"
     },
     {
         "InterviewId": "86413",
@@ -148429,7 +148429,7 @@
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "DY"
+        "AirlineCode": "D8"
     },
     {
         "InterviewId": "86414",
@@ -148437,7 +148437,7 @@
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "DY"
+        "AirlineCode": "D8"
     },
     {
         "InterviewId": "86415",
@@ -148445,7 +148445,7 @@
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "DY"
+        "AirlineCode": "D8"
     },
     {
         "InterviewId": "86416",
@@ -148453,7 +148453,7 @@
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "DY"
+        "AirlineCode": "D8"
     },
     {
         "InterviewId": "86417",
@@ -148461,7 +148461,7 @@
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "DY"
+        "AirlineCode": "D8"
     },
     {
         "InterviewId": "86418",
@@ -148469,7 +148469,7 @@
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "DY"
+        "AirlineCode": "D8"
     },
     {
         "InterviewId": "86419",
@@ -148477,7 +148477,7 @@
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "DY"
+        "AirlineCode": "D8"
     },
     {
         "InterviewId": "86420",
@@ -148485,7 +148485,7 @@
         "InterviewState": "Complete",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "DY"
+        "AirlineCode": "D8"
     },
     {
         "InterviewId": "86421",
