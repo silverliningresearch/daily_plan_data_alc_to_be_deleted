@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "30-09-2023 12:47:06"
+        "download_time": "30-09-2023 13:52:29"
     },
     {
         "InterviewId": "15848",
@@ -44103,6 +44103,78 @@ let interview_data_raw = `[
         "Flight": "X3 4282",
         "Dest": "HER",
         "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "22408",
+        "InterviewEndDate": "2023-09-30 10:53:40",
+        "InterviewState": "Complete",
+        "Flight": "X3 4282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "22409",
+        "InterviewEndDate": "2023-09-30 10:59:18",
+        "InterviewState": "Complete",
+        "Flight": "X3 4282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "22410",
+        "InterviewEndDate": "2023-09-30 10:55:59",
+        "InterviewState": "Complete",
+        "Flight": "X3 4282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "22411",
+        "InterviewEndDate": "2023-09-30 11:15:12",
+        "InterviewState": "Complete",
+        "Flight": "FI 533",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "22412",
+        "InterviewEndDate": "2023-09-30 11:15:16",
+        "InterviewState": "Complete",
+        "Flight": "FI 533",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "22413",
+        "InterviewEndDate": "2023-09-30 11:51:05",
+        "InterviewState": "Complete",
+        "Flight": "DE 1596",
+        "Dest": "CFU",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "22414",
+        "InterviewEndDate": "2023-09-30 11:49:48",
+        "InterviewState": "Complete",
+        "Flight": "DE 1596",
+        "Dest": "CFU",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "22415",
+        "InterviewEndDate": "2023-09-30 11:34:35",
+        "InterviewState": "Complete",
+        "Flight": "DE 1596",
+        "Dest": "CFU",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "22416",
+        "InterviewEndDate": "2023-09-30 11:51:58",
+        "InterviewState": "Complete",
+        "Flight": "DE 1596",
+        "Dest": "CFU",
+        "AirlineCode": "DE"
     }
 ]    
 
