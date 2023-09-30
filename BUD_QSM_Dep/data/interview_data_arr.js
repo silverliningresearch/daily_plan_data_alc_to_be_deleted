@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "30-09-2023 10:40:19"
+        "download_time": "30-09-2023 11:45:05"
     },
     {
         "InterviewId": "1224",
@@ -4711,6 +4711,86 @@ let interview_data_arr_raw = `[
         "Flight": "QS - SmartWings",
         "Dest": "AYT",
         "AirlineCode": "QS"
+    },
+    {
+        "InterviewId": "1816",
+        "InterviewEndDate": "2023-09-30 08:48:47",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1817",
+        "InterviewEndDate": "2023-09-30 08:56:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1818",
+        "InterviewEndDate": "2023-09-30 09:00:08",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "1819",
+        "InterviewEndDate": "2023-09-30 09:02:55",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "1820",
+        "InterviewEndDate": "2023-09-30 09:07:17",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1821",
+        "InterviewEndDate": "2023-09-30 09:14:41",
+        "InterviewState": "Complete",
+        "Flight": "OS - Austrian Airlines",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "1822",
+        "InterviewEndDate": "2023-09-30 09:18:58",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "1823",
+        "InterviewEndDate": "2023-09-30 09:21:58",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "1824",
+        "InterviewEndDate": "2023-09-30 09:34:47",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "1825",
+        "InterviewEndDate": "2023-09-30 09:40:18",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
