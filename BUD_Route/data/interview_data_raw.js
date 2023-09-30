@@ -152736,8 +152736,32 @@
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "87003",
+        "InterviewEndDate": "2023-09-30 13:00:56",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "87004",
         "InterviewEndDate": "2023-09-30 12:52:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87006",
+        "InterviewEndDate": "2023-09-30 13:02:40",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87007",
+        "InterviewEndDate": "2023-09-30 13:02:54",
         "InterviewState": "Complete",
         "Flight": "FR 7432",
         "Dest": "BOJ",
