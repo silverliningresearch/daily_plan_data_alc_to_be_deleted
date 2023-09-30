@@ -152552,8 +152552,24 @@
         "AirlineCode": "BT"
     },
     {
+        "InterviewId": "86979",
+        "InterviewEndDate": "2023-09-30 11:56:51",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
         "InterviewId": "86980",
         "InterviewEndDate": "2023-09-30 11:48:14",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "86981",
+        "InterviewEndDate": "2023-09-30 11:55:37",
         "InterviewState": "Complete",
         "Flight": "BT  492",
         "Dest": "RIX",
@@ -152566,5 +152582,165 @@
         "Flight": "BT  492",
         "Dest": "RIX",
         "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "86983",
+        "InterviewEndDate": "2023-09-30 12:03:00",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "86984",
+        "InterviewEndDate": "2023-09-30 11:55:16",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "86985",
+        "InterviewEndDate": "2023-09-30 11:59:54",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "86986",
+        "InterviewEndDate": "2023-09-30 12:10:25",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "86987",
+        "InterviewEndDate": "2023-09-30 12:05:12",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "86988",
+        "InterviewEndDate": "2023-09-30 12:06:45",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "86989",
+        "InterviewEndDate": "2023-09-30 12:06:03",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "86990",
+        "InterviewEndDate": "2023-09-30 12:12:32",
+        "InterviewState": "Complete",
+        "Flight": "BT  492",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "86991",
+        "InterviewEndDate": "2023-09-30 12:18:39",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "86992",
+        "InterviewEndDate": "2023-09-30 12:21:01",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "86993",
+        "InterviewEndDate": "2023-09-30 12:22:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "86994",
+        "InterviewEndDate": "2023-09-30 12:20:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "86995",
+        "InterviewEndDate": "2023-09-30 12:49:07",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "86996",
+        "InterviewEndDate": "2023-09-30 12:24:32",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "86998",
+        "InterviewEndDate": "2023-09-30 12:48:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "86999",
+        "InterviewEndDate": "2023-09-30 12:25:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "87000",
+        "InterviewEndDate": "2023-09-30 12:41:00",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87001",
+        "InterviewEndDate": "2023-09-30 12:39:02",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87002",
+        "InterviewEndDate": "2023-09-30 12:48:18",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87004",
+        "InterviewEndDate": "2023-09-30 12:52:29",
+        "InterviewState": "Complete",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR"
     }
 ]

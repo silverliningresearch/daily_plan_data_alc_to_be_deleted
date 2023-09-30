@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "30-09-2023 13:55:55"
+        "download_time": "30-09-2023 15:00:59"
     },
     {
         "InterviewId": "7701",
@@ -15262,6 +15262,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2397",
         "Dest": "FNC",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9850",
+        "InterviewEndDate": "2023-09-30 12:14:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9851",
+        "InterviewEndDate": "2023-09-30 12:07:26",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9852",
+        "InterviewEndDate": "2023-09-30 12:02:25",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9853",
+        "InterviewEndDate": "2023-09-30 11:59:54",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9854",
+        "InterviewEndDate": "2023-09-30 12:11:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9855",
+        "InterviewEndDate": "2023-09-30 12:08:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9856",
+        "InterviewEndDate": "2023-09-30 12:15:33",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
         "AirlineCode": "W6"
     }
 ]    
