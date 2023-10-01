@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "01-10-2023 18:04:24"
+        "download_time": "01-10-2023 19:09:25"
     },
     {
         "InterviewId": "6093",
@@ -29537,6 +29537,54 @@ let interview_data_raw = `[
         "AirlineCode": "TK1488"
     },
     {
+        "InterviewId": "11778",
+        "InterviewEndDate": "2023-10-01 16:05:52",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "11779",
+        "InterviewEndDate": "2023-10-01 16:08:17",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "11780",
+        "InterviewEndDate": "2023-10-01 16:08:05",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "11781",
+        "InterviewEndDate": "2023-10-01 16:09:31",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "11782",
+        "InterviewEndDate": "2023-10-01 16:07:20",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "11784",
+        "InterviewEndDate": "2023-10-01 16:05:21",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
         "InterviewId": "11786",
         "InterviewEndDate": "2023-10-01 15:51:09",
         "InterviewState": "Complete",
@@ -29551,6 +29599,110 @@ let interview_data_raw = `[
         "Flight": "GQ6403",
         "Dest": "RHO",
         "AirlineCode": "GQ6403"
+    },
+    {
+        "InterviewId": "11790",
+        "InterviewEndDate": "2023-10-01 16:10:54",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "11791",
+        "InterviewEndDate": "2023-10-01 16:10:30",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "11792",
+        "InterviewEndDate": "2023-10-01 16:15:25",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "11793",
+        "InterviewEndDate": "2023-10-01 16:15:47",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "11794",
+        "InterviewEndDate": "2023-10-01 16:48:16",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "11797",
+        "InterviewEndDate": "2023-10-01 16:41:05",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "11798",
+        "InterviewEndDate": "2023-10-01 16:42:39",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "11800",
+        "InterviewEndDate": "2023-10-01 16:52:57",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "11801",
+        "InterviewEndDate": "2023-10-01 16:49:00",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "11802",
+        "InterviewEndDate": "2023-10-01 16:48:02",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "11803",
+        "InterviewEndDate": "2023-10-01 16:43:41",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "11806",
+        "InterviewEndDate": "2023-10-01 17:02:03",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "11807",
+        "InterviewEndDate": "2023-10-01 17:00:51",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
     }
 ]    
 
