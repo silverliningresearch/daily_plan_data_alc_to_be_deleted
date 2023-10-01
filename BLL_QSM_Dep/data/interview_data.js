@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "01-10-2023 20:14:24"
+        "download_time": "01-10-2023 21:19:28"
     },
     {
         "InterviewId": "6093",
@@ -29775,6 +29775,62 @@ let interview_data_raw = `[
         "Flight": "FR5173",
         "Dest": "STN",
         "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "11818",
+        "InterviewEndDate": "2023-10-01 18:36:08",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "11819",
+        "InterviewEndDate": "2023-10-01 18:34:24",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "11821",
+        "InterviewEndDate": "2023-10-01 18:34:25",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "11823",
+        "InterviewEndDate": "2023-10-01 18:34:39",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "11824",
+        "InterviewEndDate": "2023-10-01 18:34:12",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "11825",
+        "InterviewEndDate": "2023-10-01 18:31:57",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
+    },
+    {
+        "InterviewId": "11826",
+        "InterviewEndDate": "2023-10-01 18:34:26",
+        "InterviewState": "Complete",
+        "Flight": "FR9752",
+        "Dest": "VIE",
+        "AirlineCode": "FR9752"
     }
 ]    
 
