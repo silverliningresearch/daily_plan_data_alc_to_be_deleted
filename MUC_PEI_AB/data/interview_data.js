@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "02-10-2023 20:02:49"
+        "download_time": "02-10-2023 21:07:46"
     },
     {
         "InterviewId": "15848",
@@ -44457,11 +44457,67 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "22455",
+        "InterviewEndDate": "2023-10-02 18:04:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 2034",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "22456",
         "InterviewEndDate": "2023-10-02 17:54:49",
         "InterviewState": "Complete",
         "Flight": "LH 2034",
         "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22457",
+        "InterviewEndDate": "2023-10-02 18:33:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 2078",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22458",
+        "InterviewEndDate": "2023-10-02 18:26:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 2078",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22459",
+        "InterviewEndDate": "2023-10-02 18:31:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 2078",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22460",
+        "InterviewEndDate": "2023-10-02 18:28:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 2078",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22462",
+        "InterviewEndDate": "2023-10-02 18:35:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 2078",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22463",
+        "InterviewEndDate": "2023-10-02 18:50:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 2078",
+        "Dest": "HAM",
         "AirlineCode": "LH"
     }
 ]    
