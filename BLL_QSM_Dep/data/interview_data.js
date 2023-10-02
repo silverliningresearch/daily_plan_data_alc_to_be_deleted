@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "02-10-2023 18:59:37"
+        "download_time": "02-10-2023 20:04:53"
     },
     {
         "InterviewId": "6093",
@@ -29951,6 +29951,86 @@ let interview_data_raw = `[
         "Flight": "KL1348",
         "Dest": "AMS",
         "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "11855",
+        "InterviewEndDate": "2023-10-02 17:07:21",
+        "InterviewState": "Complete",
+        "Flight": "RC471",
+        "Dest": "FAE",
+        "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "11856",
+        "InterviewEndDate": "2023-10-02 17:07:13",
+        "InterviewState": "Complete",
+        "Flight": "RC471",
+        "Dest": "FAE",
+        "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "11857",
+        "InterviewEndDate": "2023-10-02 17:14:38",
+        "InterviewState": "Complete",
+        "Flight": "RC471",
+        "Dest": "FAE",
+        "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "11858",
+        "InterviewEndDate": "2023-10-02 17:07:00",
+        "InterviewState": "Complete",
+        "Flight": "RC471",
+        "Dest": "FAE",
+        "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "11859",
+        "InterviewEndDate": "2023-10-02 17:04:28",
+        "InterviewState": "Complete",
+        "Flight": "RC471",
+        "Dest": "FAE",
+        "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "11860",
+        "InterviewEndDate": "2023-10-02 17:26:36",
+        "InterviewState": "Complete",
+        "Flight": "FR5253",
+        "Dest": "BER",
+        "AirlineCode": "FR5253"
+    },
+    {
+        "InterviewId": "11861",
+        "InterviewEndDate": "2023-10-02 17:27:11",
+        "InterviewState": "Complete",
+        "Flight": "FR5253",
+        "Dest": "BER",
+        "AirlineCode": "FR5253"
+    },
+    {
+        "InterviewId": "11863",
+        "InterviewEndDate": "2023-10-02 17:29:06",
+        "InterviewState": "Complete",
+        "Flight": "FR5253",
+        "Dest": "BER",
+        "AirlineCode": "FR5253"
+    },
+    {
+        "InterviewId": "11864",
+        "InterviewEndDate": "2023-10-02 17:27:12",
+        "InterviewState": "Complete",
+        "Flight": "FR5253",
+        "Dest": "BER",
+        "AirlineCode": "FR5253"
+    },
+    {
+        "InterviewId": "11865",
+        "InterviewEndDate": "2023-10-02 17:32:47",
+        "InterviewState": "Complete",
+        "Flight": "FR5253",
+        "Dest": "BER",
+        "AirlineCode": "FR5253"
     }
 ]    
 
