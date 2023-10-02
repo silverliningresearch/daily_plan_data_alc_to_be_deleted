@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "02-10-2023 14:41:05"
+        "download_time": "02-10-2023 15:45:04"
     },
     {
         "InterviewId": "2077",
@@ -9079,6 +9079,78 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4296",
+        "InterviewEndDate": "2023-10-02 13:03:52",
+        "InterviewState": "Complete",
+        "Flight": "WF - Widereoe's Flyveselskab",
+        "Dest": "BGO",
+        "AirlineCode": "WF"
+    },
+    {
+        "InterviewId": "4297",
+        "InterviewEndDate": "2023-10-02 13:04:05",
+        "InterviewState": "Complete",
+        "Flight": "WF - Widereoe's Flyveselskab",
+        "Dest": "BGO",
+        "AirlineCode": "WF"
+    },
+    {
+        "InterviewId": "4298",
+        "InterviewEndDate": "2023-10-02 13:06:50",
+        "InterviewState": "Complete",
+        "Flight": "WF - Widereoe's Flyveselskab",
+        "Dest": "BGO",
+        "AirlineCode": "WF"
+    },
+    {
+        "InterviewId": "4300",
+        "InterviewEndDate": "2023-10-02 13:29:02",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4301",
+        "InterviewEndDate": "2023-10-02 13:11:13",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ZTH",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "4302",
+        "InterviewEndDate": "2023-10-02 13:13:09",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ZTH",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "4303",
+        "InterviewEndDate": "2023-10-02 13:12:24",
+        "InterviewState": "Complete",
+        "Flight": "Jtd",
+        "Dest": "ZTH",
+        "AirlineCode": "Jtd"
+    },
+    {
+        "InterviewId": "4306",
+        "InterviewEndDate": "2023-10-02 13:30:20",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "AYT",
+        "AirlineCode": "CAT"
+    },
+    {
+        "InterviewId": "4308",
+        "InterviewEndDate": "2023-10-02 13:28:11",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
     }
 ]    
 
