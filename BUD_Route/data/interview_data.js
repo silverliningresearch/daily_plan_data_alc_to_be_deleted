@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "02-10-2023 07:07:59"
+        "download_time": "02-10-2023 08:10:55"
     },
     {
         "InterviewId": "67210",
@@ -155094,6 +155094,278 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR  605",
         "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87318",
+        "InterviewEndDate": "2023-10-02 05:08:32",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87319",
+        "InterviewEndDate": "2023-10-02 05:13:00",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87320",
+        "InterviewEndDate": "2023-10-02 05:12:15",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87321",
+        "InterviewEndDate": "2023-10-02 05:16:39",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87322",
+        "InterviewEndDate": "2023-10-02 05:16:36",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87323",
+        "InterviewEndDate": "2023-10-02 05:23:35",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87324",
+        "InterviewEndDate": "2023-10-02 05:21:51",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87325",
+        "InterviewEndDate": "2023-10-02 05:23:58",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87326",
+        "InterviewEndDate": "2023-10-02 05:27:00",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87327",
+        "InterviewEndDate": "2023-10-02 05:27:14",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87328",
+        "InterviewEndDate": "2023-10-02 05:29:58",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87329",
+        "InterviewEndDate": "2023-10-02 05:30:49",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87330",
+        "InterviewEndDate": "2023-10-02 05:33:16",
+        "InterviewState": "Complete",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87331",
+        "InterviewEndDate": "2023-10-02 05:54:30",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87332",
+        "InterviewEndDate": "2023-10-02 05:55:59",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87333",
+        "InterviewEndDate": "2023-10-02 05:56:28",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87334",
+        "InterviewEndDate": "2023-10-02 05:52:00",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87335",
+        "InterviewEndDate": "2023-10-02 05:52:02",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87336",
+        "InterviewEndDate": "2023-10-02 05:57:07",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87337",
+        "InterviewEndDate": "2023-10-02 06:03:55",
+        "InterviewState": "Complete",
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "87338",
+        "InterviewEndDate": "2023-10-02 05:58:39",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87339",
+        "InterviewEndDate": "2023-10-02 06:06:30",
+        "InterviewState": "Complete",
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "87340",
+        "InterviewEndDate": "2023-10-02 05:59:43",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87341",
+        "InterviewEndDate": "2023-10-02 06:02:19",
+        "InterviewState": "Complete",
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "87342",
+        "InterviewEndDate": "2023-10-02 06:01:37",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87343",
+        "InterviewEndDate": "2023-10-02 06:02:06",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87344",
+        "InterviewEndDate": "2023-10-02 06:05:00",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87345",
+        "InterviewEndDate": "2023-10-02 06:05:10",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87346",
+        "InterviewEndDate": "2023-10-02 06:04:16",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87347",
+        "InterviewEndDate": "2023-10-02 06:06:37",
+        "InterviewState": "Complete",
+        "Flight": "EW  789",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "87348",
+        "InterviewEndDate": "2023-10-02 06:07:37",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87349",
+        "InterviewEndDate": "2023-10-02 06:08:33",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87351",
+        "InterviewEndDate": "2023-10-02 06:09:45",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87352",
+        "InterviewEndDate": "2023-10-02 06:10:40",
+        "InterviewState": "Complete",
+        "Flight": "FR  197",
+        "Dest": "BER",
         "AirlineCode": "FR"
     }
 ]    
