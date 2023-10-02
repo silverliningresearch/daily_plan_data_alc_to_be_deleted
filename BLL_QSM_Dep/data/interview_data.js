@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "02-10-2023 17:54:55"
+        "download_time": "02-10-2023 18:59:37"
     },
     {
         "InterviewId": "6093",
@@ -29871,6 +29871,86 @@ let interview_data_raw = `[
         "Flight": "BA8247",
         "Dest": "MAN",
         "AirlineCode": "BA8247"
+    },
+    {
+        "InterviewId": "11836",
+        "InterviewEndDate": "2023-10-02 16:24:07",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "11837",
+        "InterviewEndDate": "2023-10-02 16:23:10",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "11839",
+        "InterviewEndDate": "2023-10-02 16:19:20",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "11840",
+        "InterviewEndDate": "2023-10-02 16:29:40",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "11841",
+        "InterviewEndDate": "2023-10-02 16:05:08",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "11842",
+        "InterviewEndDate": "2023-10-02 16:01:44",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "11843",
+        "InterviewEndDate": "2023-10-02 15:58:19",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "11844",
+        "InterviewEndDate": "2023-10-02 15:58:35",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "11845",
+        "InterviewEndDate": "2023-10-02 16:05:29",
+        "InterviewState": "Complete",
+        "Flight": "FR8744",
+        "Dest": "BUD",
+        "AirlineCode": "FR8744"
+    },
+    {
+        "InterviewId": "11846",
+        "InterviewEndDate": "2023-10-02 16:19:45",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
     }
 ]    
 
