@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2297",
         "Dest": "RUH",
         "AirlineCode": "W6",
-        "download_time": "02-10-2023 04:55:44"
+        "download_time": "02-10-2023 06:00:36"
     },
     {
         "InterviewId": "67210",
@@ -154543,6 +154543,286 @@ let interview_data_raw = `[
         "Flight": "EZS1218",
         "Dest": "BSL",
         "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "87243",
+        "InterviewEndDate": "2023-10-02 03:02:54",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87244",
+        "InterviewEndDate": "2023-10-02 03:02:06",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87245",
+        "InterviewEndDate": "2023-10-02 03:01:51",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87246",
+        "InterviewEndDate": "2023-10-02 03:04:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87247",
+        "InterviewEndDate": "2023-10-02 03:05:38",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87248",
+        "InterviewEndDate": "2023-10-02 03:07:21",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87249",
+        "InterviewEndDate": "2023-10-02 03:06:53",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87250",
+        "InterviewEndDate": "2023-10-02 03:08:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87251",
+        "InterviewEndDate": "2023-10-02 03:09:59",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87252",
+        "InterviewEndDate": "2023-10-02 03:09:58",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87253",
+        "InterviewEndDate": "2023-10-02 03:14:58",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87254",
+        "InterviewEndDate": "2023-10-02 03:12:18",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87255",
+        "InterviewEndDate": "2023-10-02 03:15:40",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87256",
+        "InterviewEndDate": "2023-10-02 03:17:19",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87257",
+        "InterviewEndDate": "2023-10-02 03:18:20",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87258",
+        "InterviewEndDate": "2023-10-02 03:17:49",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87259",
+        "InterviewEndDate": "2023-10-02 03:20:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87260",
+        "InterviewEndDate": "2023-10-02 03:19:30",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87261",
+        "InterviewEndDate": "2023-10-02 03:22:49",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87262",
+        "InterviewEndDate": "2023-10-02 03:21:00",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87263",
+        "InterviewEndDate": "2023-10-02 03:26:41",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87264",
+        "InterviewEndDate": "2023-10-02 03:27:36",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87265",
+        "InterviewEndDate": "2023-10-02 03:28:40",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87266",
+        "InterviewEndDate": "2023-10-02 03:27:59",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87267",
+        "InterviewEndDate": "2023-10-02 03:30:25",
+        "InterviewState": "Complete",
+        "Flight": "FR 5570",
+        "Dest": "SOF",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87269",
+        "InterviewEndDate": "2023-10-02 03:52:58",
+        "InterviewState": "Complete",
+        "Flight": "W6 2441",
+        "Dest": "ATH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "87271",
+        "InterviewEndDate": "2023-10-02 03:47:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87272",
+        "InterviewEndDate": "2023-10-02 03:51:45",
+        "InterviewState": "Complete",
+        "Flight": "W6 2441",
+        "Dest": "ATH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "87273",
+        "InterviewEndDate": "2023-10-02 03:47:39",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87274",
+        "InterviewEndDate": "2023-10-02 03:47:30",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87275",
+        "InterviewEndDate": "2023-10-02 03:51:49",
+        "InterviewState": "Complete",
+        "Flight": "W6 2441",
+        "Dest": "ATH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "87276",
+        "InterviewEndDate": "2023-10-02 03:50:03",
+        "InterviewState": "Complete",
+        "Flight": "W6 2441",
+        "Dest": "ATH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "87278",
+        "InterviewEndDate": "2023-10-02 03:51:34",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87279",
+        "InterviewEndDate": "2023-10-02 03:52:25",
+        "InterviewState": "Complete",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "87280",
+        "InterviewEndDate": "2023-10-02 03:53:24",
+        "InterviewState": "Complete",
+        "Flight": "W6 2441",
+        "Dest": "ATH",
+        "AirlineCode": "W6"
     }
 ]    
 
