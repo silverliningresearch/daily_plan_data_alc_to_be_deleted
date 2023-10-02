@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "02-10-2023 15:45:04"
+        "download_time": "02-10-2023 16:50:09"
     },
     {
         "InterviewId": "2077",
@@ -9137,6 +9137,22 @@ let interview_data_arr_raw = `[
         "AirlineCode": "Jtd"
     },
     {
+        "InterviewId": "4304",
+        "InterviewEndDate": "2023-10-02 13:45:22",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "AYT",
+        "AirlineCode": "CAT"
+    },
+    {
+        "InterviewId": "4305",
+        "InterviewEndDate": "2023-10-02 13:44:43",
+        "InterviewState": "Complete",
+        "Flight": "CAT - Global Reach Aviation",
+        "Dest": "AYT",
+        "AirlineCode": "CAT"
+    },
+    {
         "InterviewId": "4306",
         "InterviewEndDate": "2023-10-02 13:30:20",
         "InterviewState": "Complete",
@@ -9145,12 +9161,68 @@ let interview_data_arr_raw = `[
         "AirlineCode": "CAT"
     },
     {
+        "InterviewId": "4307",
+        "InterviewEndDate": "2023-10-02 13:44:40",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BRI",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "4308",
         "InterviewEndDate": "2023-10-02 13:28:11",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
         "Dest": "BRI",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4309",
+        "InterviewEndDate": "2023-10-02 13:50:00",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "4310",
+        "InterviewEndDate": "2023-10-02 13:49:36",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "4311",
+        "InterviewEndDate": "2023-10-02 13:51:21",
+        "InterviewState": "Complete",
+        "Flight": "Sk",
+        "Dest": "OSL",
+        "AirlineCode": "Sk"
+    },
+    {
+        "InterviewId": "4312",
+        "InterviewEndDate": "2023-10-02 14:13:42",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Schuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4313",
+        "InterviewEndDate": "2023-10-02 14:14:17",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Schuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4314",
+        "InterviewEndDate": "2023-10-02 14:14:11",
+        "InterviewState": "Complete",
+        "Flight": "Dy",
+        "Dest": "OSL",
+        "AirlineCode": "Dy"
     }
 ]    
 
