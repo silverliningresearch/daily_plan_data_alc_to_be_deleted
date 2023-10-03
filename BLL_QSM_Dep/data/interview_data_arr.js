@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "03-10-2023 12:20:14"
+        "download_time": "03-10-2023 13:25:21"
     },
     {
         "InterviewId": "2077",
@@ -9223,6 +9223,78 @@ let interview_data_arr_raw = `[
         "Flight": "Dy",
         "Dest": "OSL",
         "AirlineCode": "Dy"
+    },
+    {
+        "InterviewId": "4322",
+        "InterviewEndDate": "2023-10-03 10:39:53",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4323",
+        "InterviewEndDate": "2023-10-03 10:40:19",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4324",
+        "InterviewEndDate": "2023-10-03 10:39:50",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4325",
+        "InterviewEndDate": "2023-10-03 10:40:41",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4326",
+        "InterviewEndDate": "2023-10-03 10:42:08",
+        "InterviewState": "Complete",
+        "Flight": "Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "Lufthansa"
+    },
+    {
+        "InterviewId": "4327",
+        "InterviewEndDate": "2023-10-03 10:44:54",
+        "InterviewState": "Complete",
+        "Flight": "Klm",
+        "Dest": "MUC",
+        "AirlineCode": "Klm"
+    },
+    {
+        "InterviewId": "4328",
+        "InterviewEndDate": "2023-10-03 10:43:59",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4329",
+        "InterviewEndDate": "2023-10-03 10:41:53",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4343",
+        "InterviewEndDate": "2023-10-03 11:09:49",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
     }
 ]    
 
