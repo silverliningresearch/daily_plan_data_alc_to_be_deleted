@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "04-10-2023 18:37:54"
+        "download_time": "04-10-2023 19:42:40"
     },
     {
         "InterviewId": "15848",
@@ -44553,11 +44553,83 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "22469",
+        "InterviewEndDate": "2023-10-04 16:37:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 119",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "22470",
         "InterviewEndDate": "2023-10-04 16:33:10",
         "InterviewState": "Complete",
         "Flight": "LH 119",
         "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22471",
+        "InterviewEndDate": "2023-10-04 16:48:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 2030",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22472",
+        "InterviewEndDate": "2023-10-04 16:46:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 2030",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22474",
+        "InterviewEndDate": "2023-10-04 17:05:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 2030",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22475",
+        "InterviewEndDate": "2023-10-04 16:56:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2030",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22477",
+        "InterviewEndDate": "2023-10-04 17:18:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 2482",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22478",
+        "InterviewEndDate": "2023-10-04 17:26:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 2482",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22481",
+        "InterviewEndDate": "2023-10-04 17:29:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 1706",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22482",
+        "InterviewEndDate": "2023-10-04 17:41:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 1706",
+        "Dest": "SOF",
         "AirlineCode": "LH"
     }
 ]    
