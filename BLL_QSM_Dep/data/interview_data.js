@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "04-10-2023 09:59:42"
+        "download_time": "04-10-2023 11:04:59"
     },
     {
         "InterviewId": "6093",
@@ -30503,6 +30503,86 @@ let interview_data_raw = `[
         "Flight": "LH839",
         "Dest": "FRA",
         "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "11963",
+        "InterviewEndDate": "2023-10-04 08:43:45",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "11964",
+        "InterviewEndDate": "2023-10-04 08:42:45",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "11965",
+        "InterviewEndDate": "2023-10-04 08:44:29",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "11966",
+        "InterviewEndDate": "2023-10-04 08:46:21",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "11967",
+        "InterviewEndDate": "2023-10-04 08:52:53",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "11968",
+        "InterviewEndDate": "2023-10-04 08:42:04",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "11969",
+        "InterviewEndDate": "2023-10-04 08:47:46",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "11970",
+        "InterviewEndDate": "2023-10-04 08:47:17",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "11971",
+        "InterviewEndDate": "2023-10-04 08:53:51",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "11972",
+        "InterviewEndDate": "2023-10-04 08:54:14",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
     }
 ]    
 
