@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "05-10-2023 13:07:26"
+        "download_time": "05-10-2023 14:12:56"
     },
     {
         "InterviewId": "7701",
@@ -15567,6 +15567,54 @@ let interview_data_raw = `[
         "Flight": "W6 2263",
         "Dest": "NCE",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "9891",
+        "InterviewEndDate": "2023-10-05 11:07:11",
+        "InterviewState": "Complete",
+        "Flight": "EZY8734",
+        "Dest": "LGW",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "9892",
+        "InterviewEndDate": "2023-10-05 11:07:25",
+        "InterviewState": "Complete",
+        "Flight": "EZY8734",
+        "Dest": "LGW",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "9893",
+        "InterviewEndDate": "2023-10-05 11:13:52",
+        "InterviewState": "Complete",
+        "Flight": "EZY8734",
+        "Dest": "LGW",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "9895",
+        "InterviewEndDate": "2023-10-05 11:47:42",
+        "InterviewState": "Complete",
+        "Flight": "TK 7747",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "9896",
+        "InterviewEndDate": "2023-10-05 11:52:11",
+        "InterviewState": "Complete",
+        "Flight": "TK 7747",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "9897",
+        "InterviewEndDate": "2023-10-05 12:00:45",
+        "InterviewState": "Complete",
+        "Flight": "TK 7747",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
     }
 ]    
 
