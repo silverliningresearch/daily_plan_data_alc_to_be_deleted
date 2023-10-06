@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "06-10-2023 17:13:11"
+        "download_time": "06-10-2023 18:18:03"
     },
     {
         "InterviewId": "5174",
@@ -13463,6 +13463,46 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "LHR",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7135",
+        "InterviewEndDate": "2023-10-06 15:20:32",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7136",
+        "InterviewEndDate": "2023-10-06 15:22:17",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7137",
+        "InterviewEndDate": "2023-10-06 15:34:05",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7138",
+        "InterviewEndDate": "2023-10-06 15:48:52",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BIO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7140",
+        "InterviewEndDate": "2023-10-06 16:06:19",
+        "InterviewState": "Complete",
+        "Flight": "SK - SAS-Scandinavian Airlines System",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
     }
 ]    
 
