@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "06-10-2023 18:18:03"
+        "download_time": "06-10-2023 19:23:50"
     },
     {
         "InterviewId": "5174",
@@ -13503,6 +13503,62 @@ let interview_data_arr_raw = `[
         "Flight": "SK - SAS-Scandinavian Airlines System",
         "Dest": "CPH",
         "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "7141",
+        "InterviewEndDate": "2023-10-06 16:27:19",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ICN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7142",
+        "InterviewEndDate": "2023-10-06 16:30:23",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "ICN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7143",
+        "InterviewEndDate": "2023-10-06 16:50:04",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7144",
+        "InterviewEndDate": "2023-10-06 16:57:34",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "STR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7145",
+        "InterviewEndDate": "2023-10-06 17:11:22",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BUD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7146",
+        "InterviewEndDate": "2023-10-06 17:22:49",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "7147",
+        "InterviewEndDate": "2023-10-06 17:21:50",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
     }
 ]    
 
