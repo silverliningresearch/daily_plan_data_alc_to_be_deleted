@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "07-10-2023 11:37:52"
+        "download_time": "07-10-2023 12:42:51"
     },
     {
         "InterviewId": "5174",
@@ -13615,6 +13615,62 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "NAP",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7158",
+        "InterviewEndDate": "2023-10-07 10:36:35",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "7159",
+        "InterviewEndDate": "2023-10-07 10:27:39",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "7160",
+        "InterviewEndDate": "2023-10-07 10:24:45",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "7161",
+        "InterviewEndDate": "2023-10-07 10:31:47",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "7162",
+        "InterviewEndDate": "2023-10-07 10:32:53",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "7163",
+        "InterviewEndDate": "2023-10-07 10:39:46",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "7164",
+        "InterviewEndDate": "2023-10-07 10:41:01",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
     }
 ]    
 
