@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "07-10-2023 10:32:27"
+        "download_time": "07-10-2023 11:37:27"
     },
     {
         "InterviewId": "15848",
@@ -45439,6 +45439,54 @@ let interview_data_raw = `[
         "Flight": "DL 023",
         "Dest": "DTW",
         "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "22601",
+        "InterviewEndDate": "2023-10-07 08:59:01",
+        "InterviewState": "Complete",
+        "Flight": "PC 1020",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "22602",
+        "InterviewEndDate": "2023-10-07 09:09:49",
+        "InterviewState": "Complete",
+        "Flight": "PC 1020",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "22604",
+        "InterviewEndDate": "2023-10-07 09:08:16",
+        "InterviewState": "Complete",
+        "Flight": "MBU6022",
+        "Dest": "HRG",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "22605",
+        "InterviewEndDate": "2023-10-07 09:12:11",
+        "InterviewState": "Complete",
+        "Flight": "MBU6022",
+        "Dest": "HRG",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "22606",
+        "InterviewEndDate": "2023-10-07 09:13:03",
+        "InterviewState": "Complete",
+        "Flight": "MBU6022",
+        "Dest": "HRG",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "22610",
+        "InterviewEndDate": "2023-10-07 09:35:25",
+        "InterviewState": "Complete",
+        "Flight": "PC 1020",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
     }
 ]    
 
