@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "07-10-2023 09:27:29"
+        "download_time": "07-10-2023 10:32:27"
     },
     {
         "InterviewId": "15848",
@@ -45382,6 +45382,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "DL 131",
         "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "22587",
+        "InterviewEndDate": "2023-10-07 07:27:39",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "22588",
+        "InterviewEndDate": "2023-10-07 07:52:24",
+        "InterviewState": "Complete",
+        "Flight": "EZY8638",
+        "Dest": "LGW",
+        "AirlineCode": "EZ"
+    },
+    {
+        "InterviewId": "22589",
+        "InterviewEndDate": "2023-10-07 07:52:05",
+        "InterviewState": "Complete",
+        "Flight": "EZY8638",
+        "Dest": "LGW",
+        "AirlineCode": "EZ"
+    },
+    {
+        "InterviewId": "22590",
+        "InterviewEndDate": "2023-10-07 07:46:13",
+        "InterviewState": "Complete",
+        "Flight": "EZY8638",
+        "Dest": "LGW",
+        "AirlineCode": "EZ"
+    },
+    {
+        "InterviewId": "22591",
+        "InterviewEndDate": "2023-10-07 08:18:22",
+        "InterviewState": "Complete",
+        "Flight": "DL 023",
+        "Dest": "DTW",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "22592",
+        "InterviewEndDate": "2023-10-07 08:17:31",
+        "InterviewState": "Complete",
+        "Flight": "DL 023",
+        "Dest": "DTW",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "22593",
+        "InterviewEndDate": "2023-10-07 08:15:24",
+        "InterviewState": "Complete",
+        "Flight": "DL 023",
+        "Dest": "DTW",
         "AirlineCode": "DL"
     }
 ]    
