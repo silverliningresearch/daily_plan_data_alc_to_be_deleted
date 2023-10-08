@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "08-10-2023 08:12:56"
+        "download_time": "08-10-2023 09:17:53"
     },
     {
         "InterviewId": "5174",
@@ -13727,6 +13727,86 @@ let interview_data_arr_raw = `[
         "Flight": "XQ - Sun Express",
         "Dest": "AYT",
         "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "7176",
+        "InterviewEndDate": "2023-10-08 06:17:27",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "EMPTY",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7177",
+        "InterviewEndDate": "2023-10-08 06:19:35",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "TBS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7178",
+        "InterviewEndDate": "2023-10-08 06:19:40",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "TBS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7179",
+        "InterviewEndDate": "2023-10-08 06:27:26",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7180",
+        "InterviewEndDate": "2023-10-08 06:27:04",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7181",
+        "InterviewEndDate": "2023-10-08 06:28:34",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7182",
+        "InterviewEndDate": "2023-10-08 06:35:48",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "7183",
+        "InterviewEndDate": "2023-10-08 06:39:29",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "7185",
+        "InterviewEndDate": "2023-10-08 06:41:14",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "7186",
+        "InterviewEndDate": "2023-10-08 06:44:31",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
     }
 ]    
 
