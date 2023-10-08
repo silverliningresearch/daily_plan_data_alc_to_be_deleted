@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "08-10-2023 18:57:08"
+        "download_time": "08-10-2023 20:01:59"
     },
     {
         "InterviewId": "7333",
@@ -32920,6 +32920,69 @@ let interview_data_raw = `[
         "Flight": "EY286",
         "Dest": "AMD",
         "AirlineCode": "EY286",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11195",
+        "InterviewEndDate": "2023-10-08 15:15:53",
+        "InterviewState": "Complete",
+        "Flight": "EY309",
+        "Dest": "KWI",
+        "AirlineCode": "EY309",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11196",
+        "InterviewEndDate": "2023-10-08 15:27:18",
+        "InterviewState": "Complete",
+        "Flight": "EY388",
+        "Dest": "MCT",
+        "AirlineCode": "EY388",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11197",
+        "InterviewEndDate": "2023-10-08 15:32:03",
+        "InterviewState": "Complete",
+        "Flight": "EY268",
+        "Dest": "MAA",
+        "AirlineCode": "EY268",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11198",
+        "InterviewEndDate": "2023-10-08 15:32:55",
+        "InterviewState": "Complete",
+        "Flight": "EY241",
+        "Dest": "LHE",
+        "AirlineCode": "EY241",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11199",
+        "InterviewEndDate": "2023-10-08 15:40:26",
+        "InterviewState": "Complete",
+        "Flight": "EY280",
+        "Dest": "COK",
+        "AirlineCode": "EY280",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11200",
+        "InterviewEndDate": "2023-10-08 15:53:47",
+        "InterviewState": "Complete",
+        "Flight": "EY856",
+        "Dest": "ICN",
+        "AirlineCode": "EY856",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11201",
+        "InterviewEndDate": "2023-10-08 15:56:59",
+        "InterviewState": "Complete",
+        "Flight": "EY274",
+        "Dest": "HYD",
+        "AirlineCode": "EY274",
         "Terminal": "T3"
     }
 ]    
