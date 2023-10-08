@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "08-10-2023 09:17:27"
+        "download_time": "08-10-2023 10:22:31"
     },
     {
         "InterviewId": "15848",
@@ -45495,6 +45495,70 @@ let interview_data_raw = `[
         "Flight": "PC 1020",
         "Dest": "SAW",
         "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "22611",
+        "InterviewEndDate": "2023-10-08 07:49:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22612",
+        "InterviewEndDate": "2023-10-08 07:39:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22613",
+        "InterviewEndDate": "2023-10-08 07:47:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22614",
+        "InterviewEndDate": "2023-10-08 07:47:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22615",
+        "InterviewEndDate": "2023-10-08 07:53:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22617",
+        "InterviewEndDate": "2023-10-08 08:07:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 1748",
+        "Dest": "RHO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22618",
+        "InterviewEndDate": "2023-10-08 08:07:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 1748",
+        "Dest": "RHO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22619",
+        "InterviewEndDate": "2023-10-08 08:02:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 1748",
+        "Dest": "RHO",
+        "AirlineCode": "LH"
     }
 ]    
 
