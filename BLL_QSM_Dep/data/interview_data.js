@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "09-10-2023 16:44:41"
+        "download_time": "09-10-2023 17:49:29"
     },
     {
         "InterviewId": "6093",
@@ -30823,6 +30823,134 @@ let interview_data_raw = `[
         "Flight": "VY1913",
         "Dest": "PMI",
         "AirlineCode": "VY1913"
+    },
+    {
+        "InterviewId": "12017",
+        "InterviewEndDate": "2023-10-09 13:32:23",
+        "InterviewState": "Complete",
+        "Flight": "W43212",
+        "Dest": "OTP",
+        "AirlineCode": "W43212"
+    },
+    {
+        "InterviewId": "12018",
+        "InterviewEndDate": "2023-10-09 13:33:51",
+        "InterviewState": "Complete",
+        "Flight": "W43212",
+        "Dest": "OTP",
+        "AirlineCode": "W43212"
+    },
+    {
+        "InterviewId": "12019",
+        "InterviewEndDate": "2023-10-09 13:33:02",
+        "InterviewState": "Complete",
+        "Flight": "W43212",
+        "Dest": "OTP",
+        "AirlineCode": "W43212"
+    },
+    {
+        "InterviewId": "12027",
+        "InterviewEndDate": "2023-10-09 13:59:00",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "12029",
+        "InterviewEndDate": "2023-10-09 14:00:37",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "12031",
+        "InterviewEndDate": "2023-10-09 13:58:49",
+        "InterviewState": "Complete",
+        "Flight": "DY995",
+        "Dest": "OSL",
+        "AirlineCode": "DY995"
+    },
+    {
+        "InterviewId": "12034",
+        "InterviewEndDate": "2023-10-09 14:51:04",
+        "InterviewState": "Complete",
+        "Flight": "SN2252",
+        "Dest": "BRU",
+        "AirlineCode": "SN2252"
+    },
+    {
+        "InterviewId": "12035",
+        "InterviewEndDate": "2023-10-09 14:54:23",
+        "InterviewState": "Complete",
+        "Flight": "SN2252",
+        "Dest": "BRU",
+        "AirlineCode": "SN2252"
+    },
+    {
+        "InterviewId": "12036",
+        "InterviewEndDate": "2023-10-09 15:01:28",
+        "InterviewState": "Complete",
+        "Flight": "SN2252",
+        "Dest": "BRU",
+        "AirlineCode": "SN2252"
+    },
+    {
+        "InterviewId": "12037",
+        "InterviewEndDate": "2023-10-09 14:55:54",
+        "InterviewState": "Complete",
+        "Flight": "SN2252",
+        "Dest": "BRU",
+        "AirlineCode": "SN2252"
+    },
+    {
+        "InterviewId": "12038",
+        "InterviewEndDate": "2023-10-09 14:54:49",
+        "InterviewState": "Complete",
+        "Flight": "SN2252",
+        "Dest": "BRU",
+        "AirlineCode": "SN2252"
+    },
+    {
+        "InterviewId": "12039",
+        "InterviewEndDate": "2023-10-09 15:25:15",
+        "InterviewState": "Complete",
+        "Flight": "FR2321",
+        "Dest": "EDI",
+        "AirlineCode": "FR2321"
+    },
+    {
+        "InterviewId": "12040",
+        "InterviewEndDate": "2023-10-09 15:24:32",
+        "InterviewState": "Complete",
+        "Flight": "FR2321",
+        "Dest": "EDI",
+        "AirlineCode": "FR2321"
+    },
+    {
+        "InterviewId": "12041",
+        "InterviewEndDate": "2023-10-09 15:35:29",
+        "InterviewState": "Complete",
+        "Flight": "FR2321",
+        "Dest": "EDI",
+        "AirlineCode": "FR2321"
+    },
+    {
+        "InterviewId": "12042",
+        "InterviewEndDate": "2023-10-09 15:24:47",
+        "InterviewState": "Complete",
+        "Flight": "FR2321",
+        "Dest": "EDI",
+        "AirlineCode": "FR2321"
+    },
+    {
+        "InterviewId": "12043",
+        "InterviewEndDate": "2023-10-09 15:26:56",
+        "InterviewState": "Complete",
+        "Flight": "FR2321",
+        "Dest": "EDI",
+        "AirlineCode": "FR2321"
     }
 ]    
 
