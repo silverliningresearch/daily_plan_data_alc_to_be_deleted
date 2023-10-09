@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "09-10-2023 08:02:44"
+        "download_time": "09-10-2023 09:07:46"
     },
     {
         "InterviewId": "15848",
@@ -45817,11 +45817,75 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "22655",
+        "InterviewEndDate": "2023-10-09 06:00:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 2500",
+        "Dest": "MAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22656",
+        "InterviewEndDate": "2023-10-09 06:09:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 2500",
+        "Dest": "MAN",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "22657",
         "InterviewEndDate": "2023-10-09 06:00:27",
         "InterviewState": "Complete",
         "Flight": "LH 2500",
         "Dest": "MAN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22658",
+        "InterviewEndDate": "2023-10-09 06:28:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 436",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22659",
+        "InterviewEndDate": "2023-10-09 06:32:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 436",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22660",
+        "InterviewEndDate": "2023-10-09 06:31:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 436",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22661",
+        "InterviewEndDate": "2023-10-09 06:37:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 436",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22662",
+        "InterviewEndDate": "2023-10-09 06:38:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 436",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22663",
+        "InterviewEndDate": "2023-10-09 06:39:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 436",
+        "Dest": "ORD",
         "AirlineCode": "LH"
     }
 ]    
