@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "09-10-2023 19:59:48"
+        "download_time": "09-10-2023 21:04:48"
     },
     {
         "InterviewId": "2077",
@@ -9439,6 +9439,46 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4375",
+        "InterviewEndDate": "2023-10-09 18:38:19",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "ALC",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4376",
+        "InterviewEndDate": "2023-10-09 18:38:25",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "ALC",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4377",
+        "InterviewEndDate": "2023-10-09 18:36:27",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "ALC",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4379",
+        "InterviewEndDate": "2023-10-09 18:37:55",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "ALC",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4380",
+        "InterviewEndDate": "2023-10-09 18:36:06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "ALC",
+        "AirlineCode": "FR"
     }
 ]    
 
