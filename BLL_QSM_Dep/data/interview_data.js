@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "09-10-2023 17:49:29"
+        "download_time": "09-10-2023 18:54:24"
     },
     {
         "InterviewId": "6093",
@@ -30951,6 +30951,78 @@ let interview_data_raw = `[
         "Flight": "FR2321",
         "Dest": "EDI",
         "AirlineCode": "FR2321"
+    },
+    {
+        "InterviewId": "12050",
+        "InterviewEndDate": "2023-10-09 15:58:23",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "12051",
+        "InterviewEndDate": "2023-10-09 15:59:09",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "12052",
+        "InterviewEndDate": "2023-10-09 15:57:54",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "12053",
+        "InterviewEndDate": "2023-10-09 15:56:35",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "12054",
+        "InterviewEndDate": "2023-10-09 15:55:35",
+        "InterviewState": "Complete",
+        "Flight": "KL1348",
+        "Dest": "AMS",
+        "AirlineCode": "KL1348"
+    },
+    {
+        "InterviewId": "12055",
+        "InterviewEndDate": "2023-10-09 16:46:52",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "12057",
+        "InterviewEndDate": "2023-10-09 16:45:37",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "12058",
+        "InterviewEndDate": "2023-10-09 16:44:51",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "12059",
+        "InterviewEndDate": "2023-10-09 16:46:48",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
     }
 ]    
 
