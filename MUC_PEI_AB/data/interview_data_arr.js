@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "10-10-2023 07:53:17"
+        "download_time": "10-10-2023 08:58:13"
     },
     {
         "InterviewId": "5174",
@@ -14119,6 +14119,54 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "SOF",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7230",
+        "InterviewEndDate": "2023-10-10 06:45:25",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "7231",
+        "InterviewEndDate": "2023-10-10 06:45:27",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "7232",
+        "InterviewEndDate": "2023-10-10 06:47:48",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "7233",
+        "InterviewEndDate": "2023-10-10 06:54:44",
+        "InterviewState": "Complete",
+        "Flight": "UNITED AIRLINES",
+        "Dest": "IAD",
+        "AirlineCode": "UNITED"
+    },
+    {
+        "InterviewId": "7234",
+        "InterviewEndDate": "2023-10-10 06:54:11",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "7235",
+        "InterviewEndDate": "2023-10-10 06:53:04",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
     }
 ]    
 
