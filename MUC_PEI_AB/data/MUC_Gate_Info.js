@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G24",
-        "download_time": "10-10-2023 17:37:53"
+        "download_time": "10-10-2023 18:42:42"
     },
     {
         "aodbUniqueId": "20231010339054",
@@ -351,6 +351,26 @@ let MUC_Gate_Info = `[
         "Gate": "D15"
     },
     {
+        "aodbUniqueId": "20231010339066",
+        "Date": "10-10-2023",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D03"
+    },
+    {
+        "aodbUniqueId": "20231010339334",
+        "Date": "10-10-2023",
+        "Flight": "LH 2072",
+        "Dest": "HAM",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G10"
+    },
+    {
         "aodbUniqueId": "20231010339242",
         "Date": "10-10-2023",
         "Flight": "LH 2138",
@@ -391,6 +411,16 @@ let MUC_Gate_Info = `[
         "Gate": "G27"
     },
     {
+        "aodbUniqueId": "20231010339132",
+        "Date": "10-10-2023",
+        "Flight": "KL 1798",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D22"
+    },
+    {
         "aodbUniqueId": "20231010339037",
         "Date": "10-10-2023",
         "Flight": "EN 8734",
@@ -399,6 +429,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G22"
+    },
+    {
+        "aodbUniqueId": "20231010340348",
+        "Date": "10-10-2023",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D22"
     },
     {
         "aodbUniqueId": "20231010338675",
@@ -1431,16 +1471,6 @@ let MUC_Gate_Info = `[
         "Gate": "D15"
     },
     {
-        "aodbUniqueId": "20231010339066",
-        "Date": "10-10-2023",
-        "Flight": "EW 7177",
-        "Dest": "HAM",
-        "AirlineCode": "EW",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D03"
-    },
-    {
         "aodbUniqueId": "20231010339068",
         "Date": "10-10-2023",
         "Flight": "EW 9083",
@@ -1504,16 +1534,6 @@ let MUC_Gate_Info = `[
         "aodbUniqueId": "20231010339130",
         "Date": "10-10-2023",
         "Flight": "KL 1796",
-        "Dest": "AMS",
-        "AirlineCode": "KL",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D22"
-    },
-    {
-        "aodbUniqueId": "20231010339132",
-        "Date": "10-10-2023",
-        "Flight": "KL 1798",
         "Dest": "AMS",
         "AirlineCode": "KL",
         "terminalIdentifier": "1",
@@ -1881,16 +1901,6 @@ let MUC_Gate_Info = `[
         "Gate": "H24"
     },
     {
-        "aodbUniqueId": "20231010339334",
-        "Date": "10-10-2023",
-        "Flight": "LH 2072",
-        "Dest": "HAM",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G10"
-    },
-    {
         "aodbUniqueId": "20231010339336",
         "Date": "10-10-2023",
         "Flight": "LH 1780",
@@ -2121,6 +2131,26 @@ let MUC_Gate_Info = `[
         "Gate": "G63"
     },
     {
+        "aodbUniqueId": "20231010339625",
+        "Date": "10-10-2023",
+        "Flight": "LH 2026",
+        "Dest": "DUS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G24"
+    },
+    {
+        "aodbUniqueId": "20231010339924",
+        "Date": "10-10-2023",
+        "Flight": "OU 4433",
+        "Dest": "DBV",
+        "AirlineCode": "OU",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G36"
+    },
+    {
         "aodbUniqueId": "20231010339589",
         "Date": "10-10-2023",
         "Flight": "LH 1664",
@@ -2299,16 +2329,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G23"
-    },
-    {
-        "aodbUniqueId": "20231010339924",
-        "Date": "10-10-2023",
-        "Flight": "OU 4433",
-        "Dest": "DBV",
-        "AirlineCode": "OU",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G36"
     },
     {
         "aodbUniqueId": "20231010339926",
@@ -2621,16 +2641,6 @@ let MUC_Gate_Info = `[
         "Gate": "G30"
     },
     {
-        "aodbUniqueId": "20231010339625",
-        "Date": "10-10-2023",
-        "Flight": "LH 2026",
-        "Dest": "DUS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G24"
-    },
-    {
         "aodbUniqueId": "20231010339627",
         "Date": "10-10-2023",
         "Flight": "LH 2200",
@@ -2899,6 +2909,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K07"
+    },
+    {
+        "aodbUniqueId": "20231010339561",
+        "Date": "10-10-2023",
+        "Flight": "LH 2102",
+        "Dest": "HAJ",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K18"
     },
     {
         "aodbUniqueId": "20231010339400",
@@ -3761,16 +3781,6 @@ let MUC_Gate_Info = `[
         "Gate": "K30"
     },
     {
-        "aodbUniqueId": "20231010339561",
-        "Date": "10-10-2023",
-        "Flight": "LH 2102",
-        "Dest": "HAJ",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K18"
-    },
-    {
         "aodbUniqueId": "20231010339563",
         "Date": "10-10-2023",
         "Flight": "LH 2182",
@@ -4054,16 +4064,6 @@ let MUC_Gate_Info = `[
         "aodbUniqueId": "20231010340346",
         "Date": "10-10-2023",
         "Flight": "VY 1813",
-        "Dest": "BCN",
-        "AirlineCode": "VY",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D22"
-    },
-    {
-        "aodbUniqueId": "20231010340348",
-        "Date": "10-10-2023",
-        "Flight": "VY 1817",
         "Dest": "BCN",
         "AirlineCode": "VY",
         "terminalIdentifier": "1",
