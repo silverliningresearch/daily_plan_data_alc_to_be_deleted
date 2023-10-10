@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "10-10-2023 19:48:15"
+        "download_time": "10-10-2023 20:53:07"
     },
     {
         "InterviewId": "5174",
@@ -14217,6 +14217,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "7245",
+        "InterviewEndDate": "2023-10-10 18:09:54",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "7246",
         "InterviewEndDate": "2023-10-10 16:53:50",
         "InterviewState": "Complete",
@@ -14249,6 +14257,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "7251",
+        "InterviewEndDate": "2023-10-10 17:58:45",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SPU",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "7252",
         "InterviewEndDate": "2023-10-10 17:09:03",
         "InterviewState": "Complete",
@@ -14271,6 +14287,14 @@ let interview_data_arr_raw = `[
         "Flight": "EN - AirDolomiti",
         "Dest": "LIN",
         "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "7257",
+        "InterviewEndDate": "2023-10-10 18:37:32",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "VNO",
+        "AirlineCode": "BT"
     }
 ]    
 
