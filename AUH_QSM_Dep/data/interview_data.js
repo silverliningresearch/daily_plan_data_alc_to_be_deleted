@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "11-10-2023 23:52:03"
+        "download_time": "12-10-2023 00:57:21"
     },
     {
         "InterviewId": "7333",
@@ -33433,6 +33433,51 @@ let interview_data_raw = `[
         "Flight": "5W7021",
         "Dest": "KWI",
         "AirlineCode": "5W7021",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "11255",
+        "InterviewEndDate": "2023-10-11 20:06:53",
+        "InterviewState": "Complete",
+        "Flight": "3L111",
+        "Dest": "AMD",
+        "AirlineCode": "3L111",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "11256",
+        "InterviewEndDate": "2023-10-11 20:03:53",
+        "InterviewState": "Complete",
+        "Flight": "3L111",
+        "Dest": "AMD",
+        "AirlineCode": "3L111",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "11257",
+        "InterviewEndDate": "2023-10-11 20:09:45",
+        "InterviewState": "Complete",
+        "Flight": "3L111",
+        "Dest": "AMD",
+        "AirlineCode": "3L111",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "11258",
+        "InterviewEndDate": "2023-10-11 20:28:08",
+        "InterviewState": "Complete",
+        "Flight": "TK869",
+        "Dest": "IST",
+        "AirlineCode": "TK869",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "11259",
+        "InterviewEndDate": "2023-10-11 20:25:28",
+        "InterviewState": "Complete",
+        "Flight": "TK869",
+        "Dest": "IST",
+        "AirlineCode": "TK869",
         "Terminal": "T1"
     }
 ]    
