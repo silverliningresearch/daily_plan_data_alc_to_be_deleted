@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "12-10-2023 16:13:14"
+        "download_time": "12-10-2023 17:18:17"
     },
     {
         "InterviewId": "5174",
@@ -14471,6 +14471,54 @@ let interview_data_arr_raw = `[
         "Flight": "Air Dolomiti",
         "Dest": "ORY",
         "AirlineCode": "Air"
+    },
+    {
+        "InterviewId": "7282",
+        "InterviewEndDate": "2023-10-12 14:33:38",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "FNC",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "7283",
+        "InterviewEndDate": "2023-10-12 14:33:19",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "FNC",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "7284",
+        "InterviewEndDate": "2023-10-12 14:37:38",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "FNC",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "7285",
+        "InterviewEndDate": "2023-10-12 15:00:50",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7286",
+        "InterviewEndDate": "2023-10-12 15:00:41",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7287",
+        "InterviewEndDate": "2023-10-12 15:13:57",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
     }
 ]    
 
