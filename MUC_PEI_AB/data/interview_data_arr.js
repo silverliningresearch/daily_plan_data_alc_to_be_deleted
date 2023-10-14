@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "14-10-2023 09:23:06"
+        "download_time": "14-10-2023 10:28:04"
     },
     {
         "InterviewId": "5174",
@@ -14847,6 +14847,94 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "ARN",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7330",
+        "InterviewEndDate": "2023-10-14 07:25:33",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7331",
+        "InterviewEndDate": "2023-10-14 07:27:01",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7332",
+        "InterviewEndDate": "2023-10-14 07:31:43",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7333",
+        "InterviewEndDate": "2023-10-14 07:32:18",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7336",
+        "InterviewEndDate": "2023-10-14 07:51:11",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "HER",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "7337",
+        "InterviewEndDate": "2023-10-14 07:54:44",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "HER",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "7338",
+        "InterviewEndDate": "2023-10-14 07:51:17",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "HER",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "7339",
+        "InterviewEndDate": "2023-10-14 07:58:53",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "HER",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "7340",
+        "InterviewEndDate": "2023-10-14 08:25:06",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "7341",
+        "InterviewEndDate": "2023-10-14 08:21:19",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "7342",
+        "InterviewEndDate": "2023-10-14 08:23:27",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
     }
 ]    
 
