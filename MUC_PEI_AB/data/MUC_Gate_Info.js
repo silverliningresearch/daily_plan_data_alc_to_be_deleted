@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K14",
-        "download_time": "14-10-2023 02:52:36"
+        "download_time": "14-10-2023 03:57:32"
     },
     {
         "aodbUniqueId": "20231014350829",
@@ -3387,8 +3387,8 @@ let MUC_Gate_Info = `[
         "Dest": "HRG",
         "AirlineCode": "MBU",
         "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C02"
+        "GateArea": "T1B",
+        "Gate": "B09"
     },
     {
         "aodbUniqueId": "20231014352929",
