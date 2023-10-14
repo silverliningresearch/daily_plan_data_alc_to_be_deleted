@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "14-10-2023 13:46:18"
+        "download_time": "14-10-2023 14:51:26"
     },
     {
         "InterviewId": "7701",
@@ -16359,6 +16359,70 @@ let interview_data_raw = `[
         "Flight": "FR 3110",
         "Dest": "PMI",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10011",
+        "InterviewEndDate": "2023-10-14 12:01:49",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "10012",
+        "InterviewEndDate": "2023-10-14 12:05:31",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "10013",
+        "InterviewEndDate": "2023-10-14 12:06:49",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "10014",
+        "InterviewEndDate": "2023-10-14 12:15:07",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "10015",
+        "InterviewEndDate": "2023-10-14 12:15:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "10016",
+        "InterviewEndDate": "2023-10-14 12:15:56",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "10017",
+        "InterviewEndDate": "2023-10-14 12:19:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "10019",
+        "InterviewEndDate": "2023-10-14 12:48:15",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
     }
 ]    
 

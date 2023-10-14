@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "14-10-2023 13:45:01"
+        "download_time": "14-10-2023 14:50:05"
     },
     {
         "InterviewId": "3965",
@@ -15503,6 +15503,86 @@ let interview_data_raw = `[
         "Flight": "TK 1034",
         "Dest": "IST",
         "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "6010",
+        "InterviewEndDate": "2023-10-14 12:05:25",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "6011",
+        "InterviewEndDate": "2023-10-14 11:55:55",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "6012",
+        "InterviewEndDate": "2023-10-14 11:58:00",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6013",
+        "InterviewEndDate": "2023-10-14 11:57:18",
+        "InterviewState": "Complete",
+        "Flight": "MS  752",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "6014",
+        "InterviewEndDate": "2023-10-14 12:06:36",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6015",
+        "InterviewEndDate": "2023-10-14 12:06:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6016",
+        "InterviewEndDate": "2023-10-14 12:08:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 2361",
+        "Dest": "BRI",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6017",
+        "InterviewEndDate": "2023-10-14 12:45:07",
+        "InterviewState": "Complete",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "6018",
+        "InterviewEndDate": "2023-10-14 12:37:39",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "6019",
+        "InterviewEndDate": "2023-10-14 12:41:41",
+        "InterviewState": "Complete",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO"
     }
 ]    
 
