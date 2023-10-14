@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "14-10-2023 11:32:29"
+        "download_time": "14-10-2023 12:37:37"
     },
     {
         "InterviewId": "15848",
@@ -47806,6 +47806,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1690",
         "Dest": "PRG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22947",
+        "InterviewEndDate": "2023-10-14 09:37:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 1814",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22948",
+        "InterviewEndDate": "2023-10-14 09:39:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 1814",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22949",
+        "InterviewEndDate": "2023-10-14 09:39:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1814",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22950",
+        "InterviewEndDate": "2023-10-14 09:54:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 1846",
+        "Dest": "IBZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22951",
+        "InterviewEndDate": "2023-10-14 09:57:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 1846",
+        "Dest": "IBZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22952",
+        "InterviewEndDate": "2023-10-14 09:58:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 1846",
+        "Dest": "IBZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22953",
+        "InterviewEndDate": "2023-10-14 10:07:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 1846",
+        "Dest": "IBZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22954",
+        "InterviewEndDate": "2023-10-14 10:10:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 1846",
+        "Dest": "IBZ",
         "AirlineCode": "LH"
     }
 ]    
