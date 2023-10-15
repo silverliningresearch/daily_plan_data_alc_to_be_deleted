@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "15-10-2023 08:07:32"
+        "download_time": "15-10-2023 09:12:30"
     },
     {
         "InterviewId": "15848",
@@ -48095,6 +48095,70 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22986",
+        "InterviewEndDate": "2023-10-15 06:11:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 436",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22987",
+        "InterviewEndDate": "2023-10-15 06:22:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 436",
+        "Dest": "ORD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22989",
+        "InterviewEndDate": "2023-10-15 06:41:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 2428",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22990",
+        "InterviewEndDate": "2023-10-15 06:40:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 2428",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22991",
+        "InterviewEndDate": "2023-10-15 06:43:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 2428",
+        "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "22992",
+        "InterviewEndDate": "2023-10-15 06:56:59",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "22993",
+        "InterviewEndDate": "2023-10-15 07:01:25",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "22994",
+        "InterviewEndDate": "2023-10-15 07:06:43",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
     }
 ]    
 
