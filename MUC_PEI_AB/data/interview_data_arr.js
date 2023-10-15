@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "15-10-2023 09:12:56"
+        "download_time": "15-10-2023 10:17:58"
     },
     {
         "InterviewId": "5174",
@@ -14959,6 +14959,102 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "BOS",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7346",
+        "InterviewEndDate": "2023-10-15 07:36:40",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "7347",
+        "InterviewEndDate": "2023-10-15 07:21:17",
+        "InterviewState": "Complete",
+        "Flight": "EY - ETIHAD Airways",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "7348",
+        "InterviewEndDate": "2023-10-15 07:35:39",
+        "InterviewState": "Complete",
+        "Flight": "Turkish Airline",
+        "Dest": "IST",
+        "AirlineCode": "Turkish"
+    },
+    {
+        "InterviewId": "7349",
+        "InterviewEndDate": "2023-10-15 07:33:21",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "7350",
+        "InterviewEndDate": "2023-10-15 07:31:16",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "7354",
+        "InterviewEndDate": "2023-10-15 07:45:48",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "7355",
+        "InterviewEndDate": "2023-10-15 07:39:34",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "7356",
+        "InterviewEndDate": "2023-10-15 07:45:07",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "7357",
+        "InterviewEndDate": "2023-10-15 07:53:20",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "7358",
+        "InterviewEndDate": "2023-10-15 07:51:59",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "7359",
+        "InterviewEndDate": "2023-10-15 07:52:18",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "7361",
+        "InterviewEndDate": "2023-10-15 08:00:19",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
     }
 ]    
 
