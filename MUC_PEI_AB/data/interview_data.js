@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "15-10-2023 11:22:39"
+        "download_time": "15-10-2023 12:27:30"
     },
     {
         "InterviewId": "15848",
@@ -48303,6 +48303,86 @@ let interview_data_raw = `[
         "Flight": "LH 428",
         "Dest": "CLT",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23015",
+        "InterviewEndDate": "2023-10-15 09:23:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23016",
+        "InterviewEndDate": "2023-10-15 09:28:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23017",
+        "InterviewEndDate": "2023-10-15 09:48:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 1908",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23018",
+        "InterviewEndDate": "2023-10-15 09:51:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 1908",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23019",
+        "InterviewEndDate": "2023-10-15 09:53:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 1908",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23020",
+        "InterviewEndDate": "2023-10-15 10:07:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 1764",
+        "Dest": "JTR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23021",
+        "InterviewEndDate": "2023-10-15 10:06:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 1764",
+        "Dest": "JTR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23023",
+        "InterviewEndDate": "2023-10-15 10:26:58",
+        "InterviewState": "Complete",
+        "Flight": "XQ  131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "23024",
+        "InterviewEndDate": "2023-10-15 10:23:34",
+        "InterviewState": "Complete",
+        "Flight": "XQ  131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "23026",
+        "InterviewEndDate": "2023-10-15 10:27:04",
+        "InterviewState": "Complete",
+        "Flight": "XQ  131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
     }
 ]    
 
