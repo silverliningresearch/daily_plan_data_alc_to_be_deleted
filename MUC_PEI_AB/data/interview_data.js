@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "16-10-2023 16:37:56"
+        "download_time": "16-10-2023 17:42:46"
     },
     {
         "InterviewId": "15848",
@@ -49022,6 +49022,110 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1870",
         "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23124",
+        "InterviewEndDate": "2023-10-16 15:30:34",
+        "InterviewState": "Complete",
+        "Flight": "A3  807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "23126",
+        "InterviewEndDate": "2023-10-16 14:42:15",
+        "InterviewState": "Complete",
+        "Flight": "EN 8286",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "23128",
+        "InterviewEndDate": "2023-10-16 14:43:43",
+        "InterviewState": "Complete",
+        "Flight": "EN 8286",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "23129",
+        "InterviewEndDate": "2023-10-16 14:43:19",
+        "InterviewState": "Complete",
+        "Flight": "EN 8286",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "23130",
+        "InterviewEndDate": "2023-10-16 15:33:23",
+        "InterviewState": "Complete",
+        "Flight": "A3  807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "23137",
+        "InterviewEndDate": "2023-10-16 15:36:52",
+        "InterviewState": "Complete",
+        "Flight": "A3  807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "23138",
+        "InterviewEndDate": "2023-10-16 15:29:38",
+        "InterviewState": "Complete",
+        "Flight": "A3  807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "23139",
+        "InterviewEndDate": "2023-10-16 15:26:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2140",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23140",
+        "InterviewEndDate": "2023-10-16 15:30:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 2140",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23142",
+        "InterviewEndDate": "2023-10-16 15:38:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 2140",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23143",
+        "InterviewEndDate": "2023-10-16 15:34:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 2140",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23145",
+        "InterviewEndDate": "2023-10-16 15:39:33",
+        "InterviewState": "Complete",
+        "Flight": "A3  807",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "23146",
+        "InterviewEndDate": "2023-10-16 15:38:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 2372",
+        "Dest": "ZRH",
         "AirlineCode": "LH"
     }
 ]    
