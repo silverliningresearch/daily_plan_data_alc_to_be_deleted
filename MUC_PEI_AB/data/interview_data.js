@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "16-10-2023 07:57:33"
+        "download_time": "16-10-2023 09:02:51"
     },
     {
         "InterviewId": "15848",
@@ -48535,6 +48535,78 @@ let interview_data_raw = `[
         "Flight": "EK  050",
         "Dest": "DXB",
         "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "23048",
+        "InterviewEndDate": "2023-10-16 06:10:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 099",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23049",
+        "InterviewEndDate": "2023-10-16 06:12:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 099",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23050",
+        "InterviewEndDate": "2023-10-16 06:14:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 099",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23052",
+        "InterviewEndDate": "2023-10-16 06:33:27",
+        "InterviewState": "Complete",
+        "Flight": "SK 662",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "23053",
+        "InterviewEndDate": "2023-10-16 06:36:57",
+        "InterviewState": "Complete",
+        "Flight": "SK 662",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "23054",
+        "InterviewEndDate": "2023-10-16 06:39:20",
+        "InterviewState": "Complete",
+        "Flight": "SK 662",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "23055",
+        "InterviewEndDate": "2023-10-16 06:58:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 101",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23056",
+        "InterviewEndDate": "2023-10-16 06:59:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 101",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23057",
+        "InterviewEndDate": "2023-10-16 07:00:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 101",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
     }
 ]    
 
