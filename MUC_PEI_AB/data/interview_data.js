@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "16-10-2023 15:32:47"
+        "download_time": "16-10-2023 16:37:56"
     },
     {
         "InterviewId": "15848",
@@ -48950,6 +48950,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2344",
         "Dest": "GRZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23108",
+        "InterviewEndDate": "2023-10-16 13:32:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 2344",
+        "Dest": "GRZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23109",
+        "InterviewEndDate": "2023-10-16 13:39:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 2344",
+        "Dest": "GRZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23110",
+        "InterviewEndDate": "2023-10-16 13:47:16",
+        "InterviewState": "Complete",
+        "Flight": "SN 2646",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "23113",
+        "InterviewEndDate": "2023-10-16 14:03:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 1870",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23114",
+        "InterviewEndDate": "2023-10-16 14:03:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 1870",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23116",
+        "InterviewEndDate": "2023-10-16 14:05:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 1870",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23117",
+        "InterviewEndDate": "2023-10-16 14:06:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 1870",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23119",
+        "InterviewEndDate": "2023-10-16 14:12:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 1870",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23122",
+        "InterviewEndDate": "2023-10-16 14:19:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 1870",
+        "Dest": "FCO",
         "AirlineCode": "LH"
     }
 ]    
