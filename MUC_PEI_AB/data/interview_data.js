@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "16-10-2023 19:52:46"
+        "download_time": "16-10-2023 20:57:40"
     },
     {
         "InterviewId": "15848",
@@ -49463,6 +49463,78 @@ let interview_data_raw = `[
         "Flight": "LH 2456",
         "Dest": "OSL",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23192",
+        "InterviewEndDate": "2023-10-16 18:06:09",
+        "InterviewState": "Complete",
+        "Flight": "8244",
+        "Dest": "BLQ",
+        "AirlineCode": "82"
+    },
+    {
+        "InterviewId": "23193",
+        "InterviewEndDate": "2023-10-16 18:14:09",
+        "InterviewState": "Complete",
+        "Flight": "EN 8244",
+        "Dest": "BLQ",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "23195",
+        "InterviewEndDate": "2023-10-16 18:35:31",
+        "InterviewState": "Complete",
+        "Flight": "LX 1111",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "23196",
+        "InterviewEndDate": "2023-10-16 18:06:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 1904",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23197",
+        "InterviewEndDate": "2023-10-16 18:07:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 1904",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23198",
+        "InterviewEndDate": "2023-10-16 18:12:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 1904",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23199",
+        "InterviewEndDate": "2023-10-16 18:18:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 1904",
+        "Dest": "CTA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23200",
+        "InterviewEndDate": "2023-10-16 18:18:58",
+        "InterviewState": "Complete",
+        "Flight": "EN 8244",
+        "Dest": "BLQ",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "23201",
+        "InterviewEndDate": "2023-10-16 18:34:25",
+        "InterviewState": "Complete",
+        "Flight": "LX 1111",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
     }
 ]    
 

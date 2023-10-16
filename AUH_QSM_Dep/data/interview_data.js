@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "16-10-2023 21:57:40"
+        "download_time": "16-10-2023 23:02:51"
     },
     {
         "InterviewId": "7333",
@@ -33923,7 +33923,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "11310",
-        "InterviewEndDate": "2023-10-15 11:43:31",
+        "InterviewEndDate": "2023-10-16 18:07:49",
         "InterviewState": "Complete",
         "Flight": "5w7199",
         "Dest": "MED",
@@ -34117,6 +34117,60 @@ let interview_data_raw = `[
         "Flight": "3L125",
         "Dest": "COK",
         "AirlineCode": "3L125",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "11333",
+        "InterviewEndDate": "2023-10-16 18:00:09",
+        "InterviewState": "Complete",
+        "Flight": "GF547",
+        "Dest": "BAH",
+        "AirlineCode": "GF547",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "11334",
+        "InterviewEndDate": "2023-10-16 18:03:38",
+        "InterviewState": "Complete",
+        "Flight": "GF547",
+        "Dest": "BAH",
+        "AirlineCode": "GF547",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "11335",
+        "InterviewEndDate": "2023-10-16 18:13:28",
+        "InterviewState": "Complete",
+        "Flight": "GF547",
+        "Dest": "BAH",
+        "AirlineCode": "GF547",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "11336",
+        "InterviewEndDate": "2023-10-16 18:14:13",
+        "InterviewState": "Complete",
+        "Flight": "GF547",
+        "Dest": "BAH",
+        "AirlineCode": "GF547",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "11337",
+        "InterviewEndDate": "2023-10-16 18:33:30",
+        "InterviewState": "Complete",
+        "Flight": "GF547",
+        "Dest": "BAH",
+        "AirlineCode": "GF547",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "11339",
+        "InterviewEndDate": "2023-10-16 18:41:45",
+        "InterviewState": "Complete",
+        "Flight": "GF547",
+        "Dest": "BAH",
+        "AirlineCode": "GF547",
         "Terminal": "T1"
     }
 ]    
