@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "17-10-2023 08:54:53"
+        "download_time": "17-10-2023 09:59:46"
     },
     {
         "InterviewId": "6093",
@@ -31263,6 +31263,86 @@ let interview_data_raw = `[
         "Flight": "DY997",
         "Dest": "OSL",
         "AirlineCode": "DY997"
+    },
+    {
+        "InterviewId": "12131",
+        "InterviewEndDate": "2023-10-17 07:40:59",
+        "InterviewState": "Complete",
+        "Flight": "CD813",
+        "Dest": "RHO",
+        "AirlineCode": "CD813"
+    },
+    {
+        "InterviewId": "12133",
+        "InterviewEndDate": "2023-10-17 07:39:48",
+        "InterviewState": "Complete",
+        "Flight": "CD813",
+        "Dest": "RHO",
+        "AirlineCode": "CD813"
+    },
+    {
+        "InterviewId": "12135",
+        "InterviewEndDate": "2023-10-17 07:51:46",
+        "InterviewState": "Complete",
+        "Flight": "CD813",
+        "Dest": "RHO",
+        "AirlineCode": "CD813"
+    },
+    {
+        "InterviewId": "12136",
+        "InterviewEndDate": "2023-10-17 07:47:06",
+        "InterviewState": "Complete",
+        "Flight": "CD813",
+        "Dest": "RHO",
+        "AirlineCode": "CD813"
+    },
+    {
+        "InterviewId": "12137",
+        "InterviewEndDate": "2023-10-17 07:44:53",
+        "InterviewState": "Complete",
+        "Flight": "CD813",
+        "Dest": "RHO",
+        "AirlineCode": "CD813"
+    },
+    {
+        "InterviewId": "12138",
+        "InterviewEndDate": "2023-10-17 07:44:55",
+        "InterviewState": "Complete",
+        "Flight": "CD813",
+        "Dest": "RHO",
+        "AirlineCode": "CD813"
+    },
+    {
+        "InterviewId": "12139",
+        "InterviewEndDate": "2023-10-17 07:41:07",
+        "InterviewState": "Complete",
+        "Flight": "LO466",
+        "Dest": "WAW",
+        "AirlineCode": "LO466"
+    },
+    {
+        "InterviewId": "12140",
+        "InterviewEndDate": "2023-10-17 07:46:05",
+        "InterviewState": "Complete",
+        "Flight": "CD813",
+        "Dest": "RHO",
+        "AirlineCode": "CD813"
+    },
+    {
+        "InterviewId": "12141",
+        "InterviewEndDate": "2023-10-17 07:51:21",
+        "InterviewState": "Complete",
+        "Flight": "CD813",
+        "Dest": "RHO",
+        "AirlineCode": "CD813"
+    },
+    {
+        "InterviewId": "12143",
+        "InterviewEndDate": "2023-10-17 07:54:19",
+        "InterviewState": "Complete",
+        "Flight": "CD813",
+        "Dest": "RHO",
+        "AirlineCode": "CD813"
     }
 ]    
 
