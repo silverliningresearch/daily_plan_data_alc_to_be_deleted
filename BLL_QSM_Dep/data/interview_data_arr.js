@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "17-10-2023 13:15:12"
+        "download_time": "17-10-2023 14:20:30"
     },
     {
         "InterviewId": "2077",
@@ -9537,8 +9537,48 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "4399",
+        "InterviewEndDate": "2023-10-17 11:18:22",
+        "InterviewState": "Complete",
+        "Flight": "Eyan",
+        "Dest": "EDI",
+        "AirlineCode": "Eyan"
+    },
+    {
+        "InterviewId": "4400",
+        "InterviewEndDate": "2023-10-17 11:17:49",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4401",
+        "InterviewEndDate": "2023-10-17 11:52:41",
+        "InterviewState": "Complete",
+        "Flight": "Ryanair",
+        "Dest": "MUC",
+        "AirlineCode": "Ryanair"
+    },
+    {
+        "InterviewId": "4402",
+        "InterviewEndDate": "2023-10-17 11:17:14",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "4403",
         "InterviewEndDate": "2023-10-17 11:13:40",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4404",
+        "InterviewEndDate": "2023-10-17 11:13:56",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
         "Dest": "EDI",
@@ -9551,6 +9591,70 @@ let interview_data_arr_raw = `[
         "Flight": "Ryan Air",
         "Dest": "EDI",
         "AirlineCode": "Ryan"
+    },
+    {
+        "InterviewId": "4406",
+        "InterviewEndDate": "2023-10-17 11:16:51",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4407",
+        "InterviewEndDate": "2023-10-17 12:04:17",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4408",
+        "InterviewEndDate": "2023-10-17 12:06:39",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4409",
+        "InterviewEndDate": "2023-10-17 12:03:29",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4410",
+        "InterviewEndDate": "2023-10-17 12:02:42",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4411",
+        "InterviewEndDate": "2023-10-17 11:59:21",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4412",
+        "InterviewEndDate": "2023-10-17 12:01:00",
+        "InterviewState": "Complete",
+        "Flight": "Frankfurt",
+        "Dest": "FRA",
+        "AirlineCode": "Frankfurt"
+    },
+    {
+        "InterviewId": "4413",
+        "InterviewEndDate": "2023-10-17 12:02:50",
+        "InterviewState": "Complete",
+        "Flight": "Loft hanza",
+        "Dest": "FRA",
+        "AirlineCode": "Loft"
     }
 ]    
 
