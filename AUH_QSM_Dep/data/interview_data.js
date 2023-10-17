@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "17-10-2023 05:33:53"
+        "download_time": "17-10-2023 06:37:20"
     },
     {
         "InterviewId": "7333",
@@ -34174,12 +34174,57 @@ let interview_data_raw = `[
         "Terminal": "T1"
     },
     {
+        "InterviewId": "11340",
+        "InterviewEndDate": "2023-10-17 01:38:05",
+        "InterviewState": "Complete",
+        "Flight": "5W7029",
+        "Dest": "BAH",
+        "AirlineCode": "5W7029",
+        "Terminal": "T1"
+    },
+    {
         "InterviewId": "11341",
         "InterviewEndDate": "2023-10-17 01:33:29",
         "InterviewState": "Complete",
         "Flight": "5W7029",
         "Dest": "BAH",
         "AirlineCode": "5W7029",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "11342",
+        "InterviewEndDate": "2023-10-17 01:45:04",
+        "InterviewState": "Complete",
+        "Flight": "5W7029",
+        "Dest": "BAH",
+        "AirlineCode": "5W7029",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "11343",
+        "InterviewEndDate": "2023-10-17 01:57:57",
+        "InterviewState": "Complete",
+        "Flight": "5W7125",
+        "Dest": "MED",
+        "AirlineCode": "5W7125",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "11344",
+        "InterviewEndDate": "2023-10-17 02:17:10",
+        "InterviewState": "Complete",
+        "Flight": "5W7037",
+        "Dest": "MCT",
+        "AirlineCode": "5W7037",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "11345",
+        "InterviewEndDate": "2023-10-17 02:18:53",
+        "InterviewState": "Complete",
+        "Flight": "5W7037",
+        "Dest": "MCT",
+        "AirlineCode": "5W7037",
         "Terminal": "T1"
     }
 ]    
