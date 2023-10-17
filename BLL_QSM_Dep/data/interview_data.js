@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "17-10-2023 11:05:06"
+        "download_time": "17-10-2023 12:09:58"
     },
     {
         "InterviewId": "6093",
@@ -31431,6 +31431,86 @@ let interview_data_raw = `[
         "Flight": "FR5134",
         "Dest": "DUB",
         "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "12162",
+        "InterviewEndDate": "2023-10-17 09:29:03",
+        "InterviewState": "Complete",
+        "Flight": "VY1917",
+        "Dest": "AGP",
+        "AirlineCode": "VY1917"
+    },
+    {
+        "InterviewId": "12163",
+        "InterviewEndDate": "2023-10-17 09:33:30",
+        "InterviewState": "Complete",
+        "Flight": "VY1917",
+        "Dest": "AGP",
+        "AirlineCode": "VY1917"
+    },
+    {
+        "InterviewId": "12165",
+        "InterviewEndDate": "2023-10-17 09:32:36",
+        "InterviewState": "Complete",
+        "Flight": "VY1917",
+        "Dest": "AGP",
+        "AirlineCode": "VY1917"
+    },
+    {
+        "InterviewId": "12166",
+        "InterviewEndDate": "2023-10-17 09:28:52",
+        "InterviewState": "Complete",
+        "Flight": "VY1917",
+        "Dest": "AGP",
+        "AirlineCode": "VY1917"
+    },
+    {
+        "InterviewId": "12167",
+        "InterviewEndDate": "2023-10-17 09:25:17",
+        "InterviewState": "Complete",
+        "Flight": "VY1917",
+        "Dest": "AGP",
+        "AirlineCode": "VY1917"
+    },
+    {
+        "InterviewId": "12168",
+        "InterviewEndDate": "2023-10-17 09:29:33",
+        "InterviewState": "Complete",
+        "Flight": "VY1917",
+        "Dest": "AGP",
+        "AirlineCode": "VY1917"
+    },
+    {
+        "InterviewId": "12169",
+        "InterviewEndDate": "2023-10-17 09:27:23",
+        "InterviewState": "Complete",
+        "Flight": "VY1917",
+        "Dest": "AGP",
+        "AirlineCode": "VY1917"
+    },
+    {
+        "InterviewId": "12170",
+        "InterviewEndDate": "2023-10-17 09:27:23",
+        "InterviewState": "Complete",
+        "Flight": "VY1917",
+        "Dest": "AGP",
+        "AirlineCode": "VY1917"
+    },
+    {
+        "InterviewId": "12171",
+        "InterviewEndDate": "2023-10-17 09:31:10",
+        "InterviewState": "Complete",
+        "Flight": "VY1917",
+        "Dest": "AGP",
+        "AirlineCode": "VY1917"
+    },
+    {
+        "InterviewId": "12172",
+        "InterviewEndDate": "2023-10-17 09:38:02",
+        "InterviewState": "Complete",
+        "Flight": "VY1917",
+        "Dest": "AGP",
+        "AirlineCode": "VY1917"
     }
 ]    
 
