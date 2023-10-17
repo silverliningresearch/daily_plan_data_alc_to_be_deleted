@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "17-10-2023 19:42:42"
+        "download_time": "17-10-2023 20:47:43"
     },
     {
         "InterviewId": "15848",
@@ -49631,6 +49631,70 @@ let interview_data_raw = `[
         "Flight": "EN 8244",
         "Dest": "BLQ",
         "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "23218",
+        "InterviewEndDate": "2023-10-17 17:47:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 1994",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23219",
+        "InterviewEndDate": "2023-10-17 17:48:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 1994",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23220",
+        "InterviewEndDate": "2023-10-17 18:43:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 1994",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23221",
+        "InterviewEndDate": "2023-10-17 17:50:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1994",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23222",
+        "InterviewEndDate": "2023-10-17 18:21:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 2106",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23223",
+        "InterviewEndDate": "2023-10-17 18:22:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 2106",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23225",
+        "InterviewEndDate": "2023-10-17 18:41:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 1640",
+        "Dest": "POZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23226",
+        "InterviewEndDate": "2023-10-17 18:39:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 1634",
+        "Dest": "WRO",
+        "AirlineCode": "LH"
     }
 ]    
 
