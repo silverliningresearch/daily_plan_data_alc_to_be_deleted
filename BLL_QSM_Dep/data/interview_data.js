@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "17-10-2023 09:59:46"
+        "download_time": "17-10-2023 11:05:06"
     },
     {
         "InterviewId": "6093",
@@ -31343,6 +31343,94 @@ let interview_data_raw = `[
         "Flight": "CD813",
         "Dest": "RHO",
         "AirlineCode": "CD813"
+    },
+    {
+        "InterviewId": "12151",
+        "InterviewEndDate": "2023-10-17 08:22:25",
+        "InterviewState": "Complete",
+        "Flight": "FR991",
+        "Dest": "OPO",
+        "AirlineCode": "FR991"
+    },
+    {
+        "InterviewId": "12152",
+        "InterviewEndDate": "2023-10-17 08:49:52",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "12153",
+        "InterviewEndDate": "2023-10-17 08:48:10",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "12154",
+        "InterviewEndDate": "2023-10-17 08:51:27",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "12155",
+        "InterviewEndDate": "2023-10-17 08:41:46",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "12156",
+        "InterviewEndDate": "2023-10-17 08:50:19",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "12157",
+        "InterviewEndDate": "2023-10-17 08:47:24",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "12158",
+        "InterviewEndDate": "2023-10-17 08:47:01",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "12159",
+        "InterviewEndDate": "2023-10-17 08:42:40",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "12160",
+        "InterviewEndDate": "2023-10-17 08:57:07",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "12161",
+        "InterviewEndDate": "2023-10-17 08:52:20",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
     }
 ]    
 
