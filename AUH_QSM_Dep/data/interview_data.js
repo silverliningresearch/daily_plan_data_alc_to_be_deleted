@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "18-10-2023 21:37:27"
+        "download_time": "18-10-2023 22:42:42"
     },
     {
         "InterviewId": "7333",
@@ -34372,6 +34372,15 @@ let interview_data_raw = `[
         "Terminal": "T3"
     },
     {
+        "InterviewId": "11363",
+        "InterviewEndDate": "2023-10-18 18:09:48",
+        "InterviewState": "Complete",
+        "Flight": "EY430",
+        "Dest": "BKK",
+        "AirlineCode": "EY430",
+        "Terminal": "T3"
+    },
+    {
         "InterviewId": "11364",
         "InterviewEndDate": "2023-10-18 01:38:54",
         "InterviewState": "Complete",
@@ -34441,6 +34450,60 @@ let interview_data_raw = `[
         "Flight": "EY472",
         "Dest": "CGK",
         "AirlineCode": "EY472",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11372",
+        "InterviewEndDate": "2023-10-18 17:43:01",
+        "InterviewState": "Complete",
+        "Flight": "EY241",
+        "Dest": "LHE",
+        "AirlineCode": "EY241",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11373",
+        "InterviewEndDate": "2023-10-18 18:06:02",
+        "InterviewState": "Complete",
+        "Flight": "EY430",
+        "Dest": "BKK",
+        "AirlineCode": "EY430",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11374",
+        "InterviewEndDate": "2023-10-18 18:08:40",
+        "InterviewState": "Complete",
+        "Flight": "EY430",
+        "Dest": "BKK",
+        "AirlineCode": "EY430",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11375",
+        "InterviewEndDate": "2023-10-18 18:26:05",
+        "InterviewState": "Complete",
+        "Flight": "EY418",
+        "Dest": "KUL",
+        "AirlineCode": "EY418",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11376",
+        "InterviewEndDate": "2023-10-18 18:24:32",
+        "InterviewState": "Complete",
+        "Flight": "EY418",
+        "Dest": "KUL",
+        "AirlineCode": "EY418",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11377",
+        "InterviewEndDate": "2023-10-18 18:24:44",
+        "InterviewState": "Complete",
+        "Flight": "EY418",
+        "Dest": "KUL",
+        "AirlineCode": "EY418",
         "Terminal": "T3"
     }
 ]    
