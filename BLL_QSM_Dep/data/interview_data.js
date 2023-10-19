@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "19-10-2023 06:24:42"
+        "download_time": "19-10-2023 07:29:24"
     },
     {
         "InterviewId": "6093",
@@ -31511,6 +31511,70 @@ let interview_data_raw = `[
         "Flight": "VY1917",
         "Dest": "AGP",
         "AirlineCode": "VY1917"
+    },
+    {
+        "InterviewId": "12180",
+        "InterviewEndDate": "2023-10-19 04:29:17",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "12181",
+        "InterviewEndDate": "2023-10-19 04:30:58",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "12182",
+        "InterviewEndDate": "2023-10-19 04:34:27",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "12183",
+        "InterviewEndDate": "2023-10-19 04:27:24",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "12184",
+        "InterviewEndDate": "2023-10-19 04:25:13",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "12185",
+        "InterviewEndDate": "2023-10-19 04:30:15",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "12186",
+        "InterviewEndDate": "2023-10-19 04:26:29",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "12188",
+        "InterviewEndDate": "2023-10-19 04:34:21",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
     }
 ]    
 
