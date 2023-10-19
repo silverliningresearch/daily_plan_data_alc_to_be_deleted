@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "19-10-2023 14:00:02"
+        "download_time": "19-10-2023 15:05:14"
     },
     {
         "InterviewId": "2077",
@@ -9751,6 +9751,54 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "CRL",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4435",
+        "InterviewEndDate": "2023-10-19 12:16:22",
+        "InterviewState": "Complete",
+        "Flight": "Airbaltic",
+        "Dest": "RIX",
+        "AirlineCode": "Airbaltic"
+    },
+    {
+        "InterviewId": "4437",
+        "InterviewEndDate": "2023-10-19 12:17:57",
+        "InterviewState": "Complete",
+        "Flight": "Airbaltic",
+        "Dest": "RIX",
+        "AirlineCode": "Airbaltic"
+    },
+    {
+        "InterviewId": "4438",
+        "InterviewEndDate": "2023-10-19 12:14:32",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "4439",
+        "InterviewEndDate": "2023-10-19 12:18:50",
+        "InterviewState": "Complete",
+        "Flight": "AirBaltic",
+        "Dest": "RIX",
+        "AirlineCode": "AirBaltic"
+    },
+    {
+        "InterviewId": "4440",
+        "InterviewEndDate": "2023-10-19 12:19:14",
+        "InterviewState": "Complete",
+        "Flight": "Airbaltik",
+        "Dest": "RIX",
+        "AirlineCode": "Airbaltik"
+    },
+    {
+        "InterviewId": "4442",
+        "InterviewEndDate": "2023-10-19 12:20:50",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
     }
 ]    
 
