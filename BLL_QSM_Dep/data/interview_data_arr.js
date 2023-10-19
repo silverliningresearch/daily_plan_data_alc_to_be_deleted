@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "19-10-2023 12:54:55"
+        "download_time": "19-10-2023 14:00:02"
     },
     {
         "InterviewId": "2077",
@@ -9673,6 +9673,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "4417",
+        "InterviewEndDate": "2023-10-19 10:55:36",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "4418",
         "InterviewEndDate": "2023-10-19 10:52:17",
         "InterviewState": "Complete",
@@ -9695,6 +9703,54 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "MUC",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4427",
+        "InterviewEndDate": "2023-10-19 11:51:06",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4429",
+        "InterviewEndDate": "2023-10-19 11:53:28",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4431",
+        "InterviewEndDate": "2023-10-19 11:48:32",
+        "InterviewState": "Complete",
+        "Flight": "Ryanair",
+        "Dest": "CRL",
+        "AirlineCode": "Ryanair"
+    },
+    {
+        "InterviewId": "4432",
+        "InterviewEndDate": "2023-10-19 11:48:55",
+        "InterviewState": "Complete",
+        "Flight": "Ryanair",
+        "Dest": "CRL",
+        "AirlineCode": "Ryanair"
+    },
+    {
+        "InterviewId": "4433",
+        "InterviewEndDate": "2023-10-19 11:46:04",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4434",
+        "InterviewEndDate": "2023-10-19 11:48:01",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
     }
 ]    
 
