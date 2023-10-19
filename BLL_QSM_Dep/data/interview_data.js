@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "19-10-2023 08:34:28"
+        "download_time": "19-10-2023 09:39:54"
     },
     {
         "InterviewId": "6093",
@@ -31735,6 +31735,78 @@ let interview_data_raw = `[
         "Flight": "DY993",
         "Dest": "OSL",
         "AirlineCode": "DY993"
+    },
+    {
+        "InterviewId": "12212",
+        "InterviewEndDate": "2023-10-19 07:09:52",
+        "InterviewState": "Complete",
+        "Flight": "SK2498",
+        "Dest": "ARN",
+        "AirlineCode": "SK2498"
+    },
+    {
+        "InterviewId": "12213",
+        "InterviewEndDate": "2023-10-19 06:55:21",
+        "InterviewState": "Complete",
+        "Flight": "SK2498",
+        "Dest": "ARN",
+        "AirlineCode": "SK2498"
+    },
+    {
+        "InterviewId": "12215",
+        "InterviewEndDate": "2023-10-19 07:00:32",
+        "InterviewState": "Complete",
+        "Flight": "SK2498",
+        "Dest": "ARN",
+        "AirlineCode": "SK2498"
+    },
+    {
+        "InterviewId": "12216",
+        "InterviewEndDate": "2023-10-19 06:57:10",
+        "InterviewState": "Complete",
+        "Flight": "SK2498",
+        "Dest": "ARN",
+        "AirlineCode": "SK2498"
+    },
+    {
+        "InterviewId": "12217",
+        "InterviewEndDate": "2023-10-19 06:54:25",
+        "InterviewState": "Complete",
+        "Flight": "SK2498",
+        "Dest": "ARN",
+        "AirlineCode": "SK2498"
+    },
+    {
+        "InterviewId": "12218",
+        "InterviewEndDate": "2023-10-19 06:52:43",
+        "InterviewState": "Complete",
+        "Flight": "SK2498",
+        "Dest": "ARN",
+        "AirlineCode": "SK2498"
+    },
+    {
+        "InterviewId": "12220",
+        "InterviewEndDate": "2023-10-19 07:22:16",
+        "InterviewState": "Complete",
+        "Flight": "SK2498",
+        "Dest": "ARN",
+        "AirlineCode": "SK2498"
+    },
+    {
+        "InterviewId": "12221",
+        "InterviewEndDate": "2023-10-19 07:04:56",
+        "InterviewState": "Complete",
+        "Flight": "SK2498",
+        "Dest": "ARN",
+        "AirlineCode": "SK2498"
+    },
+    {
+        "InterviewId": "12222",
+        "InterviewEndDate": "2023-10-19 07:04:37",
+        "InterviewState": "Complete",
+        "Flight": "SK2498",
+        "Dest": "ARN",
+        "AirlineCode": "SK2498"
     }
 ]    
 
