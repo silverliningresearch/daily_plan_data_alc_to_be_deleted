@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "19-10-2023 11:49:56"
+        "download_time": "19-10-2023 12:54:37"
     },
     {
         "InterviewId": "6093",
@@ -31967,6 +31967,54 @@ let interview_data_raw = `[
         "Flight": "AF1763",
         "Dest": "CDG",
         "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "12256",
+        "InterviewEndDate": "2023-10-19 09:59:13",
+        "InterviewState": "Complete",
+        "Flight": "FR995",
+        "Dest": "TRN",
+        "AirlineCode": "FR995"
+    },
+    {
+        "InterviewId": "12257",
+        "InterviewEndDate": "2023-10-19 09:58:40",
+        "InterviewState": "Complete",
+        "Flight": "FR995",
+        "Dest": "TRN",
+        "AirlineCode": "FR995"
+    },
+    {
+        "InterviewId": "12258",
+        "InterviewEndDate": "2023-10-19 09:55:21",
+        "InterviewState": "Complete",
+        "Flight": "FR995",
+        "Dest": "TRN",
+        "AirlineCode": "FR995"
+    },
+    {
+        "InterviewId": "12260",
+        "InterviewEndDate": "2023-10-19 09:54:30",
+        "InterviewState": "Complete",
+        "Flight": "FR995",
+        "Dest": "TRN",
+        "AirlineCode": "FR995"
+    },
+    {
+        "InterviewId": "12261",
+        "InterviewEndDate": "2023-10-19 10:01:05",
+        "InterviewState": "Complete",
+        "Flight": "FR995",
+        "Dest": "TRN",
+        "AirlineCode": "FR995"
+    },
+    {
+        "InterviewId": "12262",
+        "InterviewEndDate": "2023-10-19 10:05:11",
+        "InterviewState": "Complete",
+        "Flight": "FR995",
+        "Dest": "TRN",
+        "AirlineCode": "FR995"
     }
 ]    
 
