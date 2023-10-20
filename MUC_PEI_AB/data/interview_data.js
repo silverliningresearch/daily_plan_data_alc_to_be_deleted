@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "20-10-2023 11:37:55"
+        "download_time": "20-10-2023 12:42:49"
     },
     {
         "InterviewId": "15848",
@@ -50559,6 +50559,110 @@ let interview_data_raw = `[
         "Flight": "SQ 327",
         "Dest": "SIN",
         "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "23346",
+        "InterviewEndDate": "2023-10-20 09:48:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 714",
+        "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23347",
+        "InterviewEndDate": "2023-10-20 09:49:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 714",
+        "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23348",
+        "InterviewEndDate": "2023-10-20 09:51:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 714",
+        "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23349",
+        "InterviewEndDate": "2023-10-20 10:01:09",
+        "InterviewState": "Complete",
+        "Flight": "BA 951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "23350",
+        "InterviewEndDate": "2023-10-20 10:01:13",
+        "InterviewState": "Complete",
+        "Flight": "BA 951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "23352",
+        "InterviewEndDate": "2023-10-20 09:50:14",
+        "InterviewState": "Complete",
+        "Flight": "BA 951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "23353",
+        "InterviewEndDate": "2023-10-20 10:22:49",
+        "InterviewState": "Complete",
+        "Flight": "TK 7739",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "23354",
+        "InterviewEndDate": "2023-10-20 10:39:27",
+        "InterviewState": "Complete",
+        "Flight": "TK 7739",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "23355",
+        "InterviewEndDate": "2023-10-20 10:23:24",
+        "InterviewState": "Complete",
+        "Flight": "CA 962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "23356",
+        "InterviewEndDate": "2023-10-20 10:27:13",
+        "InterviewState": "Complete",
+        "Flight": "TK 7739",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "23357",
+        "InterviewEndDate": "2023-10-20 10:21:15",
+        "InterviewState": "Complete",
+        "Flight": "CA 962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "23358",
+        "InterviewEndDate": "2023-10-20 10:24:32",
+        "InterviewState": "Complete",
+        "Flight": "CA 962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "23359",
+        "InterviewEndDate": "2023-10-20 10:40:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 1868",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
     }
 ]    
 
