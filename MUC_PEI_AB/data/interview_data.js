@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "20-10-2023 19:12:42"
+        "download_time": "20-10-2023 20:17:39"
     },
     {
         "InterviewId": "15848",
@@ -50985,6 +50985,14 @@ let interview_data_raw = `[
         "AirlineCode": "EW"
     },
     {
+        "InterviewId": "23406",
+        "InterviewEndDate": "2023-10-20 17:22:18",
+        "InterviewState": "Complete",
+        "Flight": "EW 9091",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
         "InterviewId": "23407",
         "InterviewEndDate": "2023-10-20 17:00:05",
         "InterviewState": "Complete",
@@ -50999,6 +51007,54 @@ let interview_data_raw = `[
         "Flight": "EW 9091",
         "Dest": "DUS",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "23410",
+        "InterviewEndDate": "2023-10-20 17:45:07",
+        "InterviewState": "Complete",
+        "Flight": "EW 4063",
+        "Dest": "DTM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "23411",
+        "InterviewEndDate": "2023-10-20 17:36:55",
+        "InterviewState": "Complete",
+        "Flight": "EW 4063",
+        "Dest": "DTM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "23412",
+        "InterviewEndDate": "2023-10-20 17:45:24",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "23413",
+        "InterviewEndDate": "2023-10-20 18:03:59",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "23414",
+        "InterviewEndDate": "2023-10-20 18:09:08",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "23415",
+        "InterviewEndDate": "2023-10-20 18:14:12",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
     }
 ]    
 
