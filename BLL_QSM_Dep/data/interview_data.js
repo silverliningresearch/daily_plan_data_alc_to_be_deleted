@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "20-10-2023 20:19:29"
+        "download_time": "20-10-2023 21:24:33"
     },
     {
         "InterviewId": "6093",
@@ -32015,6 +32015,62 @@ let interview_data_raw = `[
         "Flight": "FR995",
         "Dest": "TRN",
         "AirlineCode": "FR995"
+    },
+    {
+        "InterviewId": "12274",
+        "InterviewEndDate": "2023-10-20 19:10:13",
+        "InterviewState": "Complete",
+        "Flight": "W43212",
+        "Dest": "OTP",
+        "AirlineCode": "W43212"
+    },
+    {
+        "InterviewId": "12275",
+        "InterviewEndDate": "2023-10-20 19:10:38",
+        "InterviewState": "Complete",
+        "Flight": "W43212",
+        "Dest": "OTP",
+        "AirlineCode": "W43212"
+    },
+    {
+        "InterviewId": "12276",
+        "InterviewEndDate": "2023-10-20 19:19:59",
+        "InterviewState": "Complete",
+        "Flight": "W43212",
+        "Dest": "OTP",
+        "AirlineCode": "W43212"
+    },
+    {
+        "InterviewId": "12277",
+        "InterviewEndDate": "2023-10-20 19:04:35",
+        "InterviewState": "Complete",
+        "Flight": "W43212",
+        "Dest": "OTP",
+        "AirlineCode": "W43212"
+    },
+    {
+        "InterviewId": "12278",
+        "InterviewEndDate": "2023-10-20 19:07:17",
+        "InterviewState": "Complete",
+        "Flight": "W43212",
+        "Dest": "OTP",
+        "AirlineCode": "W43212"
+    },
+    {
+        "InterviewId": "12279",
+        "InterviewEndDate": "2023-10-20 19:07:45",
+        "InterviewState": "Complete",
+        "Flight": "W43212",
+        "Dest": "OTP",
+        "AirlineCode": "W43212"
+    },
+    {
+        "InterviewId": "12280",
+        "InterviewEndDate": "2023-10-20 19:18:39",
+        "InterviewState": "Complete",
+        "Flight": "W43212",
+        "Dest": "OTP",
+        "AirlineCode": "W43212"
     }
 ]    
 
