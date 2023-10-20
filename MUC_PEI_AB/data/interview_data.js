@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "20-10-2023 12:42:49"
+        "download_time": "20-10-2023 13:47:49"
     },
     {
         "InterviewId": "15848",
@@ -50662,6 +50662,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1868",
         "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23360",
+        "InterviewEndDate": "2023-10-20 10:43:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 1868",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23361",
+        "InterviewEndDate": "2023-10-20 10:43:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 1868",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23362",
+        "InterviewEndDate": "2023-10-20 11:22:27",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "23364",
+        "InterviewEndDate": "2023-10-20 11:21:11",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "23365",
+        "InterviewEndDate": "2023-10-20 11:38:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 1658",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23366",
+        "InterviewEndDate": "2023-10-20 11:39:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 1658",
+        "Dest": "TSR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23367",
+        "InterviewEndDate": "2023-10-20 11:43:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 1658",
+        "Dest": "TSR",
         "AirlineCode": "LH"
     }
 ]    
