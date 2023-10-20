@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "20-10-2023 17:03:00"
+        "download_time": "20-10-2023 18:07:57"
     },
     {
         "InterviewId": "15848",
@@ -50887,6 +50887,70 @@ let interview_data_raw = `[
         "Flight": "DE 1512",
         "Dest": "PMI",
         "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "23393",
+        "InterviewEndDate": "2023-10-20 15:11:48",
+        "InterviewState": "Complete",
+        "Flight": "AF 1823",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "23394",
+        "InterviewEndDate": "2023-10-20 15:40:59",
+        "InterviewState": "Complete",
+        "Flight": "AY 1406",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "23395",
+        "InterviewEndDate": "2023-10-20 15:39:20",
+        "InterviewState": "Complete",
+        "Flight": "AY 1406",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "23396",
+        "InterviewEndDate": "2023-10-20 15:33:58",
+        "InterviewState": "Complete",
+        "Flight": "AY 1406",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "23397",
+        "InterviewEndDate": "2023-10-20 15:38:12",
+        "InterviewState": "Complete",
+        "Flight": "AY 1406",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "23398",
+        "InterviewEndDate": "2023-10-20 15:37:10",
+        "InterviewState": "Complete",
+        "Flight": "AY 1406",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "23399",
+        "InterviewEndDate": "2023-10-20 15:49:38",
+        "InterviewState": "Complete",
+        "Flight": "AY 1406",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "23400",
+        "InterviewEndDate": "2023-10-20 16:01:05",
+        "InterviewState": "Complete",
+        "Flight": "AY 1406",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
     }
 ]    
 
