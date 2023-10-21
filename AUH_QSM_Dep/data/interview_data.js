@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "21-10-2023 11:22:48"
+        "download_time": "21-10-2023 12:27:32"
     },
     {
         "InterviewId": "7333",
@@ -34964,6 +34964,69 @@ let interview_data_raw = `[
         "Dest": "BAH",
         "AirlineCode": "GF543",
         "Terminal": "T1"
+    },
+    {
+        "InterviewId": "11432",
+        "InterviewEndDate": "2023-10-21 07:20:53",
+        "InterviewState": "Complete",
+        "Flight": "327",
+        "Dest": "DMM",
+        "AirlineCode": "327",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11433",
+        "InterviewEndDate": "2023-10-21 07:27:01",
+        "InterviewState": "Complete",
+        "Flight": "EY327",
+        "Dest": "DMM",
+        "AirlineCode": "EY327",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11434",
+        "InterviewEndDate": "2023-10-21 07:33:05",
+        "InterviewState": "Complete",
+        "Flight": "EY311",
+        "Dest": "JED",
+        "AirlineCode": "EY311",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11435",
+        "InterviewEndDate": "2023-10-21 07:41:33",
+        "InterviewState": "Complete",
+        "Flight": "EY233",
+        "Dest": "ISB",
+        "AirlineCode": "EY233",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11436",
+        "InterviewEndDate": "2023-10-21 07:45:32",
+        "InterviewState": "Complete",
+        "Flight": "EY233",
+        "Dest": "ISB",
+        "AirlineCode": "EY233",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11437",
+        "InterviewEndDate": "2023-10-21 07:52:34",
+        "InterviewState": "Complete",
+        "Flight": "EY317",
+        "Dest": "RUH",
+        "AirlineCode": "EY317",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11438",
+        "InterviewEndDate": "2023-10-21 07:58:41",
+        "InterviewState": "Complete",
+        "Flight": "EY317",
+        "Dest": "RUH",
+        "AirlineCode": "EY317",
+        "Terminal": "T3"
     }
 ]    
 
