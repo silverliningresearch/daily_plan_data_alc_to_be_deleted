@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "21-10-2023 17:58:01"
+        "download_time": "21-10-2023 19:02:33"
     },
     {
         "InterviewId": "15848",
@@ -51441,12 +51441,76 @@ let interview_data_raw = `[
         "AirlineCode": "EW"
     },
     {
+        "InterviewId": "23467",
+        "InterviewEndDate": "2023-10-21 15:56:28",
+        "InterviewState": "Complete",
+        "Flight": "AY 1406",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "23468",
+        "InterviewEndDate": "2023-10-21 15:59:16",
+        "InterviewState": "Complete",
+        "Flight": "AY 1406",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
         "InterviewId": "23469",
         "InterviewEndDate": "2023-10-21 15:55:21",
         "InterviewState": "Complete",
         "Flight": "AY 1406",
         "Dest": "HEL",
         "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "23470",
+        "InterviewEndDate": "2023-10-21 16:11:12",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "23471",
+        "InterviewEndDate": "2023-10-21 16:17:24",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "23472",
+        "InterviewEndDate": "2023-10-21 16:11:42",
+        "InterviewState": "Complete",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "23473",
+        "InterviewEndDate": "2023-10-21 16:49:31",
+        "InterviewState": "Complete",
+        "Flight": "IB 3193",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "23474",
+        "InterviewEndDate": "2023-10-21 16:50:36",
+        "InterviewState": "Complete",
+        "Flight": "IB 3193",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "23475",
+        "InterviewEndDate": "2023-10-21 16:49:53",
+        "InterviewState": "Complete",
+        "Flight": "IB 3193",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
     }
 ]    
 
