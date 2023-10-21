@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "21-10-2023 12:33:03"
+        "download_time": "21-10-2023 13:38:09"
     },
     {
         "InterviewId": "5174",
@@ -15497,11 +15497,67 @@ let interview_data_arr_raw = `[
         "AirlineCode": "DE"
     },
     {
+        "InterviewId": "7426",
+        "InterviewEndDate": "2023-10-21 10:38:41",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "BJV",
+        "AirlineCode": "XQ"
+    },
+    {
         "InterviewId": "7427",
         "InterviewEndDate": "2023-10-21 10:30:42",
         "InterviewState": "Complete",
         "Flight": "XQ - Sunexpress",
         "Dest": "BJV",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "7428",
+        "InterviewEndDate": "2023-10-21 10:32:57",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "BJV",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "7429",
+        "InterviewEndDate": "2023-10-21 10:39:21",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sunexpress",
+        "Dest": "BJV",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "7430",
+        "InterviewEndDate": "2023-10-21 10:39:31",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "BJV",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "7431",
+        "InterviewEndDate": "2023-10-21 11:04:45",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "7432",
+        "InterviewEndDate": "2023-10-21 11:05:45",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "7433",
+        "InterviewEndDate": "2023-10-21 11:32:31",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sunexpress",
+        "Dest": "AYT",
         "AirlineCode": "XQ"
     }
 ]    
