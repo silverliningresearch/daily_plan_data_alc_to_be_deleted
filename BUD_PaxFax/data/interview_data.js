@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "22-10-2023 10:16:45"
+        "download_time": "22-10-2023 11:22:06"
     },
     {
         "InterviewId": "7701",
@@ -17053,6 +17053,62 @@ let interview_data_raw = `[
         "InterviewEndDate": "2023-10-21 14:53:21",
         "InterviewState": "Complete",
         "Flight": "W6 2207",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "10128",
+        "InterviewEndDate": "2023-10-22 08:24:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 4329",
+        "Dest": "SNN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10129",
+        "InterviewEndDate": "2023-10-22 08:25:56",
+        "InterviewState": "Complete",
+        "Flight": "FR 4329",
+        "Dest": "SNN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10130",
+        "InterviewEndDate": "2023-10-22 08:29:49",
+        "InterviewState": "Complete",
+        "Flight": "FR 4329",
+        "Dest": "SNN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10131",
+        "InterviewEndDate": "2023-10-22 09:12:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 2205",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "10132",
+        "InterviewEndDate": "2023-10-22 09:09:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2205",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "10133",
+        "InterviewEndDate": "2023-10-22 09:14:37",
+        "InterviewState": "Complete",
+        "Flight": "W6 2205",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "10134",
+        "InterviewEndDate": "2023-10-22 09:13:30",
+        "InterviewState": "Complete",
+        "Flight": "W6 2205",
         "Dest": "LTN",
         "AirlineCode": "W6"
     }
