@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "22-10-2023 17:42:58"
+        "download_time": "22-10-2023 18:47:48"
     },
     {
         "InterviewId": "4226",
@@ -17324,6 +17324,69 @@ let interview_data_arr_raw = `[
         "Dest": "JFK",
         "AirlineCode": "EY",
         "Terminal": "T3"
+    },
+    {
+        "InterviewId": "6222",
+        "InterviewEndDate": "2023-10-22 14:19:44",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "IAD",
+        "AirlineCode": "EY",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "6223",
+        "InterviewEndDate": "2023-10-22 14:23:56",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "COK",
+        "AirlineCode": "3L",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "6224",
+        "InterviewEndDate": "2023-10-22 14:29:02",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "COK",
+        "AirlineCode": "3L",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "6225",
+        "InterviewEndDate": "2023-10-22 14:32:47",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "JED",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "6226",
+        "InterviewEndDate": "2023-10-22 14:36:33",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "AMM",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "6227",
+        "InterviewEndDate": "2023-10-22 14:41:36",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "BCN",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "6228",
+        "InterviewEndDate": "2023-10-22 14:44:32",
+        "InterviewState": "Complete",
+        "Flight": "GF - Gulf Air",
+        "Dest": "BAH",
+        "AirlineCode": "GF",
+        "Terminal": "T1"
     }
 ]    
 
