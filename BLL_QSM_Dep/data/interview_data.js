@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "22-10-2023 18:54:23"
+        "download_time": "22-10-2023 19:59:14"
     },
     {
         "InterviewId": "6093",
@@ -32103,6 +32103,174 @@ let interview_data_raw = `[
         "Flight": "FR9003",
         "Dest": "BCN",
         "AirlineCode": "FR9003"
+    },
+    {
+        "InterviewId": "12290",
+        "InterviewEndDate": "2023-10-22 17:03:20",
+        "InterviewState": "Complete",
+        "Flight": "PC5024",
+        "Dest": "AYT",
+        "AirlineCode": "PC5024"
+    },
+    {
+        "InterviewId": "12291",
+        "InterviewEndDate": "2023-10-22 16:58:16",
+        "InterviewState": "Complete",
+        "Flight": "PC5024",
+        "Dest": "AYT",
+        "AirlineCode": "PC5024"
+    },
+    {
+        "InterviewId": "12292",
+        "InterviewEndDate": "2023-10-22 17:01:47",
+        "InterviewState": "Complete",
+        "Flight": "PC5024",
+        "Dest": "AYT",
+        "AirlineCode": "PC5024"
+    },
+    {
+        "InterviewId": "12293",
+        "InterviewEndDate": "2023-10-22 17:04:21",
+        "InterviewState": "Complete",
+        "Flight": "PC5024",
+        "Dest": "AYT",
+        "AirlineCode": "PC5024"
+    },
+    {
+        "InterviewId": "12294",
+        "InterviewEndDate": "2023-10-22 17:00:00",
+        "InterviewState": "Complete",
+        "Flight": "PC5024",
+        "Dest": "AYT",
+        "AirlineCode": "PC5024"
+    },
+    {
+        "InterviewId": "12297",
+        "InterviewEndDate": "2023-10-22 16:59:28",
+        "InterviewState": "Complete",
+        "Flight": "PC5024",
+        "Dest": "AYT",
+        "AirlineCode": "PC5024"
+    },
+    {
+        "InterviewId": "12298",
+        "InterviewEndDate": "2023-10-22 17:10:06",
+        "InterviewState": "Complete",
+        "Flight": "PC5024",
+        "Dest": "AYT",
+        "AirlineCode": "PC5024"
+    },
+    {
+        "InterviewId": "12299",
+        "InterviewEndDate": "2023-10-22 17:10:06",
+        "InterviewState": "Complete",
+        "Flight": "PC5024",
+        "Dest": "AYT",
+        "AirlineCode": "PC5024"
+    },
+    {
+        "InterviewId": "12300",
+        "InterviewEndDate": "2023-10-22 17:08:44",
+        "InterviewState": "Complete",
+        "Flight": "PC5024",
+        "Dest": "AYT",
+        "AirlineCode": "PC5024"
+    },
+    {
+        "InterviewId": "12302",
+        "InterviewEndDate": "2023-10-22 17:13:00",
+        "InterviewState": "Complete",
+        "Flight": "PC5024",
+        "Dest": "AYT",
+        "AirlineCode": "PC5024"
+    },
+    {
+        "InterviewId": "12303",
+        "InterviewEndDate": "2023-10-22 17:15:29",
+        "InterviewState": "Complete",
+        "Flight": "PC5024",
+        "Dest": "AYT",
+        "AirlineCode": "PC5024"
+    },
+    {
+        "InterviewId": "12305",
+        "InterviewEndDate": "2023-10-22 17:31:54",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "12306",
+        "InterviewEndDate": "2023-10-22 17:34:31",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "12307",
+        "InterviewEndDate": "2023-10-22 17:32:25",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "12308",
+        "InterviewEndDate": "2023-10-22 17:31:14",
+        "InterviewState": "Complete",
+        "Flight": "LO468",
+        "Dest": "WAW",
+        "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "12312",
+        "InterviewEndDate": "2023-10-22 17:51:09",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "12313",
+        "InterviewEndDate": "2023-10-22 17:49:36",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "12314",
+        "InterviewEndDate": "2023-10-22 17:51:50",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "12316",
+        "InterviewEndDate": "2023-10-22 17:49:56",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "12317",
+        "InterviewEndDate": "2023-10-22 17:54:57",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "12318",
+        "InterviewEndDate": "2023-10-22 17:54:13",
+        "InterviewState": "Complete",
+        "Flight": "FR5173",
+        "Dest": "STN",
+        "AirlineCode": "FR5173"
     }
 ]    
 
