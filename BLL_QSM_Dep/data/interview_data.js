@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "23-10-2023 19:49:34"
+        "download_time": "23-10-2023 20:54:44"
     },
     {
         "InterviewId": "6093",
@@ -32489,12 +32489,76 @@ let interview_data_raw = `[
         "AirlineCode": "LH841"
     },
     {
+        "InterviewId": "12367",
+        "InterviewEndDate": "2023-10-23 17:58:54",
+        "InterviewState": "Complete",
+        "Flight": "FR5253",
+        "Dest": "BER",
+        "AirlineCode": "FR5253"
+    },
+    {
+        "InterviewId": "12368",
+        "InterviewEndDate": "2023-10-23 18:02:45",
+        "InterviewState": "Complete",
+        "Flight": "FR5253",
+        "Dest": "BER",
+        "AirlineCode": "FR5253"
+    },
+    {
+        "InterviewId": "12369",
+        "InterviewEndDate": "2023-10-23 17:57:16",
+        "InterviewState": "Complete",
+        "Flight": "FR5253",
+        "Dest": "BER",
+        "AirlineCode": "FR5253"
+    },
+    {
+        "InterviewId": "12370",
+        "InterviewEndDate": "2023-10-23 17:49:44",
+        "InterviewState": "Complete",
+        "Flight": "FR5253",
+        "Dest": "BER",
+        "AirlineCode": "FR5253"
+    },
+    {
         "InterviewId": "12371",
         "InterviewEndDate": "2023-10-23 17:49:04",
         "InterviewState": "Complete",
         "Flight": "FR5253",
         "Dest": "BER",
         "AirlineCode": "FR5253"
+    },
+    {
+        "InterviewId": "12373",
+        "InterviewEndDate": "2023-10-23 18:20:06",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "12374",
+        "InterviewEndDate": "2023-10-23 18:22:14",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "12375",
+        "InterviewEndDate": "2023-10-23 18:16:59",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "12376",
+        "InterviewEndDate": "2023-10-23 18:16:11",
+        "InterviewState": "Complete",
+        "Flight": "FR3755",
+        "Dest": "ALC",
+        "AirlineCode": "FR3755"
     }
 ]    
 
