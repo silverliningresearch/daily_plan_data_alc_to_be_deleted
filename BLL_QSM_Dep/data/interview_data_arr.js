@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "23-10-2023 14:25:25"
+        "download_time": "23-10-2023 15:30:11"
     },
     {
         "InterviewId": "2077",
@@ -9995,6 +9995,54 @@ let interview_data_arr_raw = `[
     {
         "InterviewId": "4486",
         "InterviewEndDate": "2023-10-23 11:59:29",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "BGO",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "4487",
+        "InterviewEndDate": "2023-10-23 13:04:06",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4488",
+        "InterviewEndDate": "2023-10-23 12:47:41",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4489",
+        "InterviewEndDate": "2023-10-23 12:48:51",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4490",
+        "InterviewEndDate": "2023-10-23 12:48:28",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4492",
+        "InterviewEndDate": "2023-10-23 13:04:14",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "BGO",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "4493",
+        "InterviewEndDate": "2023-10-23 13:04:03",
         "InterviewState": "Complete",
         "Flight": "RC - Atlantic Airways",
         "Dest": "BGO",
