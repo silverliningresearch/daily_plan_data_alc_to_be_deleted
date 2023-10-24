@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "24-10-2023 12:06:00"
+        "download_time": "24-10-2023 13:10:53"
     },
     {
         "InterviewId": "3965",
@@ -16409,8 +16409,56 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
+        "InterviewId": "6136",
+        "InterviewEndDate": "2023-10-24 10:12:07",
+        "InterviewState": "Complete",
+        "Flight": "DY 1551",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
         "InterviewId": "6137",
         "InterviewEndDate": "2023-10-24 10:02:00",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6138",
+        "InterviewEndDate": "2023-10-24 10:07:46",
+        "InterviewState": "Complete",
+        "Flight": "DY 1551",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "6139",
+        "InterviewEndDate": "2023-10-24 10:06:07",
+        "InterviewState": "Complete",
+        "Flight": "DY 1551",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "6140",
+        "InterviewEndDate": "2023-10-24 10:06:55",
+        "InterviewState": "Complete",
+        "Flight": "DY 1551",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "6141",
+        "InterviewEndDate": "2023-10-24 10:13:21",
+        "InterviewState": "Complete",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6142",
+        "InterviewEndDate": "2023-10-24 10:08:29",
         "InterviewState": "Complete",
         "Flight": "FR 4263",
         "Dest": "CRL",
