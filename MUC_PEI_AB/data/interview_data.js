@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "24-10-2023 19:37:48"
+        "download_time": "24-10-2023 20:42:44"
     },
     {
         "InterviewId": "15848",
@@ -51721,11 +51721,67 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "23506",
+        "InterviewEndDate": "2023-10-24 17:41:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 2456",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23507",
+        "InterviewEndDate": "2023-10-24 17:41:39",
+        "InterviewState": "Complete",
+        "Flight": "LH 2456",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "23508",
         "InterviewEndDate": "2023-10-24 17:16:20",
         "InterviewState": "Complete",
         "Flight": "LH 2456",
         "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23509",
+        "InterviewEndDate": "2023-10-24 17:38:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 2456",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23510",
+        "InterviewEndDate": "2023-10-24 17:40:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 2276",
+        "Dest": "NCE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23513",
+        "InterviewEndDate": "2023-10-24 17:50:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 1880",
+        "Dest": "NAP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23514",
+        "InterviewEndDate": "2023-10-24 18:22:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 1880",
+        "Dest": "NAP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23515",
+        "InterviewEndDate": "2023-10-24 18:39:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1880",
+        "Dest": "NAP",
         "AirlineCode": "LH"
     }
 ]    
