@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "24-10-2023 17:30:51"
+        "download_time": "24-10-2023 18:35:35"
     },
     {
         "InterviewId": "3965",
@@ -16641,12 +16641,60 @@ let interview_data_raw = `[
         "AirlineCode": "LO"
     },
     {
+        "InterviewId": "6167",
+        "InterviewEndDate": "2023-10-24 15:36:30",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "6168",
         "InterviewEndDate": "2023-10-24 15:28:23",
         "InterviewState": "Complete",
         "Flight": "FR 3827",
         "Dest": "BLQ",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6169",
+        "InterviewEndDate": "2023-10-24 15:33:40",
+        "InterviewState": "Complete",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6170",
+        "InterviewEndDate": "2023-10-24 15:59:48",
+        "InterviewState": "Complete",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6171",
+        "InterviewEndDate": "2023-10-24 16:06:48",
+        "InterviewState": "Complete",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6172",
+        "InterviewEndDate": "2023-10-24 16:03:07",
+        "InterviewState": "Complete",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6173",
+        "InterviewEndDate": "2023-10-24 16:08:31",
+        "InterviewState": "Complete",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6"
     }
 ]    
 
