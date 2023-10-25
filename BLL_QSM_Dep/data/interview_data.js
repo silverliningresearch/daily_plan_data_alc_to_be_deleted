@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "25-10-2023 09:44:47"
+        "download_time": "25-10-2023 10:49:44"
     },
     {
         "InterviewId": "6093",
@@ -32745,6 +32745,46 @@ let interview_data_raw = `[
         "AirlineCode": "FR7997"
     },
     {
+        "InterviewId": "12412",
+        "InterviewEndDate": "2023-10-25 08:00:20",
+        "InterviewState": "Complete",
+        "Flight": "SK2498",
+        "Dest": "ARN",
+        "AirlineCode": "SK2498"
+    },
+    {
+        "InterviewId": "12413",
+        "InterviewEndDate": "2023-10-25 07:54:57",
+        "InterviewState": "Complete",
+        "Flight": "SK2498",
+        "Dest": "ARN",
+        "AirlineCode": "SK2498"
+    },
+    {
+        "InterviewId": "12416",
+        "InterviewEndDate": "2023-10-25 07:52:06",
+        "InterviewState": "Complete",
+        "Flight": "SK2498",
+        "Dest": "ARN",
+        "AirlineCode": "SK2498"
+    },
+    {
+        "InterviewId": "12417",
+        "InterviewEndDate": "2023-10-25 07:49:30",
+        "InterviewState": "Complete",
+        "Flight": "SK2498",
+        "Dest": "ARN",
+        "AirlineCode": "SK2498"
+    },
+    {
+        "InterviewId": "12418",
+        "InterviewEndDate": "2023-10-25 07:45:47",
+        "InterviewState": "Complete",
+        "Flight": "SK2498",
+        "Dest": "ARN",
+        "AirlineCode": "SK2498"
+    },
+    {
         "InterviewId": "12419",
         "InterviewEndDate": "2023-10-25 07:40:38",
         "InterviewState": "Complete",
@@ -32759,6 +32799,54 @@ let interview_data_raw = `[
         "Flight": "SK2498",
         "Dest": "ARN",
         "AirlineCode": "SK2498"
+    },
+    {
+        "InterviewId": "12421",
+        "InterviewEndDate": "2023-10-25 08:23:44",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "12422",
+        "InterviewEndDate": "2023-10-25 08:29:21",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "12423",
+        "InterviewEndDate": "2023-10-25 08:29:08",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "12424",
+        "InterviewEndDate": "2023-10-25 08:31:51",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "12425",
+        "InterviewEndDate": "2023-10-25 08:13:55",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "12427",
+        "InterviewEndDate": "2023-10-25 08:27:11",
+        "InterviewState": "Complete",
+        "Flight": "FR5134",
+        "Dest": "DUB",
+        "AirlineCode": "FR5134"
     }
 ]    
 
