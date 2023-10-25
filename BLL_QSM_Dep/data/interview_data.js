@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "25-10-2023 10:49:44"
+        "download_time": "25-10-2023 11:55:01"
     },
     {
         "InterviewId": "6093",
@@ -32847,6 +32847,78 @@ let interview_data_raw = `[
         "Flight": "FR5134",
         "Dest": "DUB",
         "AirlineCode": "FR5134"
+    },
+    {
+        "InterviewId": "12428",
+        "InterviewEndDate": "2023-10-25 09:19:00",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "12429",
+        "InterviewEndDate": "2023-10-25 09:13:40",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "12430",
+        "InterviewEndDate": "2023-10-25 09:11:55",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "12431",
+        "InterviewEndDate": "2023-10-25 09:27:28",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "12432",
+        "InterviewEndDate": "2023-10-25 09:22:32",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "12434",
+        "InterviewEndDate": "2023-10-25 09:21:47",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "12435",
+        "InterviewEndDate": "2023-10-25 09:16:47",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "12436",
+        "InterviewEndDate": "2023-10-25 09:13:35",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
+    },
+    {
+        "InterviewId": "12437",
+        "InterviewEndDate": "2023-10-25 09:23:11",
+        "InterviewState": "Complete",
+        "Flight": "AF1763",
+        "Dest": "CDG",
+        "AirlineCode": "AF1763"
     }
 ]    
 
