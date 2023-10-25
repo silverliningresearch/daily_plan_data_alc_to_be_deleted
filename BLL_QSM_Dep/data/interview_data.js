@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "25-10-2023 06:29:31"
+        "download_time": "25-10-2023 07:34:40"
     },
     {
         "InterviewId": "6093",
@@ -32559,6 +32559,70 @@ let interview_data_raw = `[
         "Flight": "FR3755",
         "Dest": "ALC",
         "AirlineCode": "FR3755"
+    },
+    {
+        "InterviewId": "12378",
+        "InterviewEndDate": "2023-10-25 04:42:18",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "12379",
+        "InterviewEndDate": "2023-10-25 04:48:06",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "12380",
+        "InterviewEndDate": "2023-10-25 04:45:01",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "12381",
+        "InterviewEndDate": "2023-10-25 04:42:33",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "12382",
+        "InterviewEndDate": "2023-10-25 04:45:11",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "12384",
+        "InterviewEndDate": "2023-10-25 04:46:24",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "12385",
+        "InterviewEndDate": "2023-10-25 04:49:04",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
+    },
+    {
+        "InterviewId": "12387",
+        "InterviewEndDate": "2023-10-25 04:54:14",
+        "InterviewState": "Complete",
+        "Flight": "FR5165",
+        "Dest": "STN",
+        "AirlineCode": "FR5165"
     }
 ]    
 
