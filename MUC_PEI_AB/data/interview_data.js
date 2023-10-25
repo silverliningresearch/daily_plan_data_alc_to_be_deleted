@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "25-10-2023 20:32:43"
+        "download_time": "25-10-2023 21:37:50"
     },
     {
         "InterviewId": "15848",
@@ -51881,11 +51881,67 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "23531",
+        "InterviewEndDate": "2023-10-25 18:31:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 2106",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "23532",
         "InterviewEndDate": "2023-10-25 18:27:16",
         "InterviewState": "Complete",
         "Flight": "LH 2106",
         "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23533",
+        "InterviewEndDate": "2023-10-25 19:25:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 2106",
+        "Dest": "HAJ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23534",
+        "InterviewEndDate": "2023-10-25 18:59:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 1788",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23535",
+        "InterviewEndDate": "2023-10-25 18:49:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 1788",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23536",
+        "InterviewEndDate": "2023-10-25 18:56:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 1788",
+        "Dest": "OPO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23538",
+        "InterviewEndDate": "2023-10-25 19:23:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 2276",
+        "Dest": "NCE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23539",
+        "InterviewEndDate": "2023-10-25 19:17:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 2276",
+        "Dest": "NCE",
         "AirlineCode": "LH"
     }
 ]    
