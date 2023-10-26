@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "Sas",
         "Dest": "OSL",
         "AirlineCode": "Sas",
-        "download_time": "26-10-2023 11:47:14"
+        "download_time": "26-10-2023 11:58:06"
     },
     {
         "InterviewId": 4383,
@@ -10209,7 +10209,7 @@ let interview_data_raw = `[
         "AirlineCode": "RC"
     },
     {
-        "InterviewId": "1905",
+        "InterviewId": 1905,
         "InterviewEndDate": "2023-02-14",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -10217,7 +10217,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2077",
+        "InterviewId": 2077,
         "InterviewEndDate": "2023-04-03",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -10225,7 +10225,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2099",
+        "InterviewId": 2099,
         "InterviewEndDate": "2023-02-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -10233,7 +10233,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2100",
+        "InterviewId": 2100,
         "InterviewEndDate": "2023-02-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -10241,7 +10241,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2101",
+        "InterviewId": 2101,
         "InterviewEndDate": "2023-02-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -10249,7 +10249,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2102",
+        "InterviewId": 2102,
         "InterviewEndDate": "2023-02-01",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -10257,7 +10257,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2103",
+        "InterviewId": 2103,
         "InterviewEndDate": "2023-02-01",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -10265,7 +10265,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2104",
+        "InterviewId": 2104,
         "InterviewEndDate": "2023-02-01",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -10273,7 +10273,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2105",
+        "InterviewId": 2105,
         "InterviewEndDate": "2023-02-01",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -10281,7 +10281,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2106",
+        "InterviewId": 2106,
         "InterviewEndDate": "2023-02-01",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -10289,7 +10289,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2107",
+        "InterviewId": 2107,
         "InterviewEndDate": "2023-02-01",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10297,7 +10297,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2108",
+        "InterviewId": 2108,
         "InterviewEndDate": "2023-02-01",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10305,7 +10305,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2110",
+        "InterviewId": 2110,
         "InterviewEndDate": "2023-02-01",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10313,7 +10313,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2111",
+        "InterviewId": 2111,
         "InterviewEndDate": "2023-02-01",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10321,7 +10321,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2112",
+        "InterviewId": 2112,
         "InterviewEndDate": "2023-02-01",
         "InterviewState": "Complete",
         "Flight": "BA - British Airways",
@@ -10329,7 +10329,7 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
-        "InterviewId": "2113",
+        "InterviewId": 2113,
         "InterviewEndDate": "2023-02-01",
         "InterviewState": "Complete",
         "Flight": "BA - British Airways",
@@ -10337,7 +10337,7 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
-        "InterviewId": "2119",
+        "InterviewId": 2119,
         "InterviewEndDate": "2023-02-02",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10345,7 +10345,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2120",
+        "InterviewId": 2120,
         "InterviewEndDate": "2023-02-02",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10353,7 +10353,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2121",
+        "InterviewId": 2121,
         "InterviewEndDate": "2023-02-02",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10361,7 +10361,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2122",
+        "InterviewId": 2122,
         "InterviewEndDate": "2023-02-02",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10369,7 +10369,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2123",
+        "InterviewId": 2123,
         "InterviewEndDate": "2023-02-02",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10377,7 +10377,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2124",
+        "InterviewId": 2124,
         "InterviewEndDate": "2023-02-02",
         "InterviewState": "Complete",
         "Flight": "LO - LOT",
@@ -10385,7 +10385,7 @@ let interview_data_raw = `[
         "AirlineCode": "LO"
     },
     {
-        "InterviewId": "2126",
+        "InterviewId": 2126,
         "InterviewEndDate": "2023-02-06",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10393,7 +10393,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2127",
+        "InterviewId": 2127,
         "InterviewEndDate": "2023-02-06",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10401,7 +10401,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2129",
+        "InterviewId": 2129,
         "InterviewEndDate": "2023-02-06",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10409,7 +10409,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2130",
+        "InterviewId": 2130,
         "InterviewEndDate": "2023-02-06",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10417,7 +10417,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2131",
+        "InterviewId": 2131,
         "InterviewEndDate": "2023-02-06",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10425,7 +10425,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2132",
+        "InterviewId": 2132,
         "InterviewEndDate": "2023-02-06",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -10433,7 +10433,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2133",
+        "InterviewId": 2133,
         "InterviewEndDate": "2023-02-06",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -10441,7 +10441,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2134",
+        "InterviewId": 2134,
         "InterviewEndDate": "2023-02-06",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -10449,7 +10449,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2135",
+        "InterviewId": 2135,
         "InterviewEndDate": "2023-02-06",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -10457,7 +10457,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2138",
+        "InterviewId": 2138,
         "InterviewEndDate": "2023-02-06",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -10465,7 +10465,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2139",
+        "InterviewId": 2139,
         "InterviewEndDate": "2023-02-06",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10473,7 +10473,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2140",
+        "InterviewId": 2140,
         "InterviewEndDate": "2023-02-09",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10481,7 +10481,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2141",
+        "InterviewId": 2141,
         "InterviewEndDate": "2023-02-06",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10489,7 +10489,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2142",
+        "InterviewId": 2142,
         "InterviewEndDate": "2023-02-06",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10497,7 +10497,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2143",
+        "InterviewId": 2143,
         "InterviewEndDate": "2023-02-06",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10505,7 +10505,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2144",
+        "InterviewId": 2144,
         "InterviewEndDate": "2023-02-06",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)Q",
@@ -10513,7 +10513,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2145",
+        "InterviewId": 2145,
         "InterviewEndDate": "2023-02-06",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10521,7 +10521,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2146",
+        "InterviewId": 2146,
         "InterviewEndDate": "2023-02-06",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10529,7 +10529,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2147",
+        "InterviewId": 2147,
         "InterviewEndDate": "2023-02-06",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10537,7 +10537,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2148",
+        "InterviewId": 2148,
         "InterviewEndDate": "2023-02-06",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10545,7 +10545,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2149",
+        "InterviewId": 2149,
         "InterviewEndDate": "2023-02-07",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -10553,7 +10553,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2150",
+        "InterviewId": 2150,
         "InterviewEndDate": "2023-02-07",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -10561,7 +10561,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2151",
+        "InterviewId": 2151,
         "InterviewEndDate": "2023-02-07",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -10569,7 +10569,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2152",
+        "InterviewId": 2152,
         "InterviewEndDate": "2023-02-07",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -10577,7 +10577,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2153",
+        "InterviewId": 2153,
         "InterviewEndDate": "2023-02-07",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -10585,7 +10585,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2154",
+        "InterviewId": 2154,
         "InterviewEndDate": "2023-02-07",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10593,7 +10593,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2155",
+        "InterviewId": 2155,
         "InterviewEndDate": "2023-02-07",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10601,7 +10601,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2156",
+        "InterviewId": 2156,
         "InterviewEndDate": "2023-02-07",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10609,7 +10609,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2158",
+        "InterviewId": 2158,
         "InterviewEndDate": "2023-02-07",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10617,7 +10617,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2160",
+        "InterviewId": 2160,
         "InterviewEndDate": "2023-02-07",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10625,7 +10625,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2162",
+        "InterviewId": 2162,
         "InterviewEndDate": "2023-02-07",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10633,7 +10633,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2163",
+        "InterviewId": 2163,
         "InterviewEndDate": "2023-02-07",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10641,7 +10641,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2164",
+        "InterviewId": 2164,
         "InterviewEndDate": "2023-02-07",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10649,7 +10649,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2165",
+        "InterviewId": 2165,
         "InterviewEndDate": "2023-02-07",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10657,7 +10657,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2166",
+        "InterviewId": 2166,
         "InterviewEndDate": "2023-02-07",
         "InterviewState": "Complete",
         "Flight": "Sas",
@@ -10665,7 +10665,7 @@ let interview_data_raw = `[
         "AirlineCode": "Sas"
     },
     {
-        "InterviewId": "2167",
+        "InterviewId": 2167,
         "InterviewEndDate": "2023-02-09",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -10673,7 +10673,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2169",
+        "InterviewId": 2169,
         "InterviewEndDate": "2023-02-09",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -10681,7 +10681,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2170",
+        "InterviewId": 2170,
         "InterviewEndDate": "2023-02-09",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -10689,7 +10689,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2171",
+        "InterviewId": 2171,
         "InterviewEndDate": "2023-02-09",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -10697,7 +10697,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2172",
+        "InterviewId": 2172,
         "InterviewEndDate": "2023-02-09",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -10705,7 +10705,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2181",
+        "InterviewId": 2181,
         "InterviewEndDate": "2023-02-09",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10713,7 +10713,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2183",
+        "InterviewId": 2183,
         "InterviewEndDate": "2023-02-09",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10721,7 +10721,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2185",
+        "InterviewId": 2185,
         "InterviewEndDate": "2023-02-09",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10729,7 +10729,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2186",
+        "InterviewId": 2186,
         "InterviewEndDate": "2023-02-09",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10737,7 +10737,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2187",
+        "InterviewId": 2187,
         "InterviewEndDate": "2023-02-09",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10745,7 +10745,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2189",
+        "InterviewId": 2189,
         "InterviewEndDate": "2023-02-13",
         "InterviewState": "Complete",
         "Flight": "FHY - Freebird Airline",
@@ -10753,7 +10753,7 @@ let interview_data_raw = `[
         "AirlineCode": "FHY"
     },
     {
-        "InterviewId": "2190",
+        "InterviewId": 2190,
         "InterviewEndDate": "2023-02-13",
         "InterviewState": "Complete",
         "Flight": "FHY - Freebird Airline",
@@ -10761,7 +10761,7 @@ let interview_data_raw = `[
         "AirlineCode": "FHY"
     },
     {
-        "InterviewId": "2191",
+        "InterviewId": 2191,
         "InterviewEndDate": "2023-02-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -10769,7 +10769,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2192",
+        "InterviewId": 2192,
         "InterviewEndDate": "2023-02-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -10777,7 +10777,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2193",
+        "InterviewId": 2193,
         "InterviewEndDate": "2023-02-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -10785,7 +10785,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2194",
+        "InterviewId": 2194,
         "InterviewEndDate": "2023-02-13",
         "InterviewState": "Complete",
         "Flight": "W6 - Wizz Air",
@@ -10793,7 +10793,7 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
-        "InterviewId": "2195",
+        "InterviewId": 2195,
         "InterviewEndDate": "2023-02-13",
         "InterviewState": "Complete",
         "Flight": "W6 - Wizz Air",
@@ -10801,7 +10801,7 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
-        "InterviewId": "2196",
+        "InterviewId": 2196,
         "InterviewEndDate": "2023-02-13",
         "InterviewState": "Complete",
         "Flight": "W6 - Wizz Air",
@@ -10809,7 +10809,7 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
-        "InterviewId": "2197",
+        "InterviewId": 2197,
         "InterviewEndDate": "2023-02-13",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10817,7 +10817,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2198",
+        "InterviewId": 2198,
         "InterviewEndDate": "2023-02-13",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10825,7 +10825,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2199",
+        "InterviewId": 2199,
         "InterviewEndDate": "2023-02-13",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -10833,7 +10833,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2200",
+        "InterviewId": 2200,
         "InterviewEndDate": "2023-02-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -10841,7 +10841,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2201",
+        "InterviewId": 2201,
         "InterviewEndDate": "2023-02-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -10849,7 +10849,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2202",
+        "InterviewId": 2202,
         "InterviewEndDate": "2023-02-14",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -10857,7 +10857,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2204",
+        "InterviewId": 2204,
         "InterviewEndDate": "2023-02-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -10865,7 +10865,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2206",
+        "InterviewId": 2206,
         "InterviewEndDate": "2023-02-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -10873,7 +10873,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2208",
+        "InterviewId": 2208,
         "InterviewEndDate": "2023-02-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -10881,7 +10881,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2213",
+        "InterviewId": 2213,
         "InterviewEndDate": "2023-02-14",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10889,7 +10889,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2215",
+        "InterviewId": 2215,
         "InterviewEndDate": "2023-02-14",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10897,7 +10897,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2217",
+        "InterviewId": 2217,
         "InterviewEndDate": "2023-02-14",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10905,7 +10905,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2219",
+        "InterviewId": 2219,
         "InterviewEndDate": "2023-02-14",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10913,7 +10913,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2220",
+        "InterviewId": 2220,
         "InterviewEndDate": "2023-02-14",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -10921,7 +10921,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2222",
+        "InterviewId": 2222,
         "InterviewEndDate": "2023-02-14",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -10929,7 +10929,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2224",
+        "InterviewId": 2224,
         "InterviewEndDate": "2023-02-14",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -10937,7 +10937,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2226",
+        "InterviewId": 2226,
         "InterviewEndDate": "2023-02-14",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -10945,7 +10945,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2229",
+        "InterviewId": 2229,
         "InterviewEndDate": "2023-02-14",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -10953,7 +10953,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2230",
+        "InterviewId": 2230,
         "InterviewEndDate": "2023-02-14",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10961,7 +10961,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2232",
+        "InterviewId": 2232,
         "InterviewEndDate": "2023-02-14",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10969,7 +10969,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2235",
+        "InterviewId": 2235,
         "InterviewEndDate": "2023-02-14",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10977,7 +10977,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2240",
+        "InterviewId": 2240,
         "InterviewEndDate": "2023-02-14",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -10985,7 +10985,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2242",
+        "InterviewId": 2242,
         "InterviewEndDate": "2023-02-15",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -10993,7 +10993,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2243",
+        "InterviewId": 2243,
         "InterviewEndDate": "2023-02-15",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11001,7 +11001,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2246",
+        "InterviewId": 2246,
         "InterviewEndDate": "2023-02-15",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11009,7 +11009,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2248",
+        "InterviewId": 2248,
         "InterviewEndDate": "2023-02-15",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11017,7 +11017,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2249",
+        "InterviewId": 2249,
         "InterviewEndDate": "2023-02-15",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11025,7 +11025,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2253",
+        "InterviewId": 2253,
         "InterviewEndDate": "2023-02-15",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -11033,7 +11033,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "2255",
+        "InterviewId": 2255,
         "InterviewEndDate": "2023-02-15",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -11041,7 +11041,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "2257",
+        "InterviewId": 2257,
         "InterviewEndDate": "2023-02-15",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -11049,7 +11049,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "2259",
+        "InterviewId": 2259,
         "InterviewEndDate": "2023-02-15",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -11057,7 +11057,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "2261",
+        "InterviewId": 2261,
         "InterviewEndDate": "2023-02-15",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic,",
@@ -11065,7 +11065,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "2262",
+        "InterviewId": 2262,
         "InterviewEndDate": "2023-02-16",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11073,7 +11073,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2264",
+        "InterviewId": 2264,
         "InterviewEndDate": "2023-02-16",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11081,7 +11081,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2269",
+        "InterviewId": 2269,
         "InterviewEndDate": "2023-02-16",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11089,7 +11089,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2271",
+        "InterviewId": 2271,
         "InterviewEndDate": "2023-02-16",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11097,7 +11097,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2273",
+        "InterviewId": 2273,
         "InterviewEndDate": "2023-02-16",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -11105,7 +11105,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2275",
+        "InterviewId": 2275,
         "InterviewEndDate": "2023-02-16",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -11113,7 +11113,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2277",
+        "InterviewId": 2277,
         "InterviewEndDate": "2023-02-16",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -11121,7 +11121,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2279",
+        "InterviewId": 2279,
         "InterviewEndDate": "2023-02-16",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -11129,7 +11129,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2281",
+        "InterviewId": 2281,
         "InterviewEndDate": "2023-02-16",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11137,7 +11137,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2282",
+        "InterviewId": 2282,
         "InterviewEndDate": "2023-02-16",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -11145,7 +11145,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2284",
+        "InterviewId": 2284,
         "InterviewEndDate": "2023-02-16",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -11153,7 +11153,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "2285",
+        "InterviewId": 2285,
         "InterviewEndDate": "2023-02-16",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -11161,7 +11161,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "2286",
+        "InterviewId": 2286,
         "InterviewEndDate": "2023-02-16",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -11169,7 +11169,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "2287",
+        "InterviewId": 2287,
         "InterviewEndDate": "2023-02-16",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -11177,7 +11177,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "2288",
+        "InterviewId": 2288,
         "InterviewEndDate": "2023-02-16",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -11185,7 +11185,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "2289",
+        "InterviewId": 2289,
         "InterviewEndDate": "2023-02-16",
         "InterviewState": "Complete",
         "Flight": "SUS - Sunclass Airlines (SUN-AIR)",
@@ -11193,7 +11193,7 @@ let interview_data_raw = `[
         "AirlineCode": "SUS"
     },
     {
-        "InterviewId": "2292",
+        "InterviewId": 2292,
         "InterviewEndDate": "2023-02-16",
         "InterviewState": "Complete",
         "Flight": "SUS - Sunclass Airlines (SUN-AIR)",
@@ -11201,7 +11201,7 @@ let interview_data_raw = `[
         "AirlineCode": "SUS"
     },
     {
-        "InterviewId": "2294",
+        "InterviewId": 2294,
         "InterviewEndDate": "2023-02-16",
         "InterviewState": "Complete",
         "Flight": "Sus",
@@ -11209,7 +11209,7 @@ let interview_data_raw = `[
         "AirlineCode": "Sus"
     },
     {
-        "InterviewId": "2297",
+        "InterviewId": 2297,
         "InterviewEndDate": "2023-02-16",
         "InterviewState": "Complete",
         "Flight": "SUS - Sunclass Airlines (SUN-AIR)",
@@ -11217,7 +11217,7 @@ let interview_data_raw = `[
         "AirlineCode": "SUS"
     },
     {
-        "InterviewId": "2299",
+        "InterviewId": 2299,
         "InterviewEndDate": "2023-02-16",
         "InterviewState": "Complete",
         "Flight": "SUS - Sunclass Airlines (SUN-AIR)",
@@ -11225,7 +11225,7 @@ let interview_data_raw = `[
         "AirlineCode": "SUS"
     },
     {
-        "InterviewId": "2311",
+        "InterviewId": 2311,
         "InterviewEndDate": "2023-02-17",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11233,7 +11233,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2312",
+        "InterviewId": 2312,
         "InterviewEndDate": "2023-02-17",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11241,7 +11241,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2313",
+        "InterviewId": 2313,
         "InterviewEndDate": "2023-02-17",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11249,7 +11249,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2314",
+        "InterviewId": 2314,
         "InterviewEndDate": "2023-02-17",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11257,7 +11257,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2315",
+        "InterviewId": 2315,
         "InterviewEndDate": "2023-02-17",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11265,7 +11265,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2316",
+        "InterviewId": 2316,
         "InterviewEndDate": "2023-02-17",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11273,7 +11273,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2318",
+        "InterviewId": 2318,
         "InterviewEndDate": "2023-02-17",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11281,7 +11281,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2321",
+        "InterviewId": 2321,
         "InterviewEndDate": "2023-02-17",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11289,7 +11289,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2322",
+        "InterviewId": 2322,
         "InterviewEndDate": "2023-02-17",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11297,7 +11297,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2324",
+        "InterviewId": 2324,
         "InterviewEndDate": "2023-02-17",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11305,7 +11305,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2326",
+        "InterviewId": 2326,
         "InterviewEndDate": "2023-02-17",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11313,7 +11313,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2331",
+        "InterviewId": 2331,
         "InterviewEndDate": "2023-02-17",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11321,7 +11321,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2333",
+        "InterviewId": 2333,
         "InterviewEndDate": "2023-02-17",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11329,7 +11329,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2338",
+        "InterviewId": 2338,
         "InterviewEndDate": "2023-02-28",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -11337,7 +11337,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2339",
+        "InterviewId": 2339,
         "InterviewEndDate": "2023-02-28",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -11345,7 +11345,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2342",
+        "InterviewId": 2342,
         "InterviewEndDate": "2023-02-28",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -11353,7 +11353,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2344",
+        "InterviewId": 2344,
         "InterviewEndDate": "2023-02-28",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -11361,7 +11361,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2345",
+        "InterviewId": 2345,
         "InterviewEndDate": "2023-02-28",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -11369,7 +11369,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2349",
+        "InterviewId": 2349,
         "InterviewEndDate": "2023-02-28",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11377,7 +11377,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2354",
+        "InterviewId": 2354,
         "InterviewEndDate": "2023-02-28",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11385,7 +11385,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2362",
+        "InterviewId": 2362,
         "InterviewEndDate": "2023-02-28",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -11393,7 +11393,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "2363",
+        "InterviewId": 2363,
         "InterviewEndDate": "2023-02-28",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -11401,7 +11401,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "2364",
+        "InterviewId": 2364,
         "InterviewEndDate": "2023-02-28",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -11409,7 +11409,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "2368",
+        "InterviewId": 2368,
         "InterviewEndDate": "2023-03-07",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -11417,7 +11417,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2372",
+        "InterviewId": 2372,
         "InterviewEndDate": "2023-03-07",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -11425,7 +11425,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2373",
+        "InterviewId": 2373,
         "InterviewEndDate": "2023-03-07",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -11433,7 +11433,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2375",
+        "InterviewId": 2375,
         "InterviewEndDate": "2023-03-07",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -11441,7 +11441,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2377",
+        "InterviewId": 2377,
         "InterviewEndDate": "2023-03-07",
         "InterviewState": "Complete",
         "Flight": "Af",
@@ -11449,7 +11449,7 @@ let interview_data_raw = `[
         "AirlineCode": "Af"
     },
     {
-        "InterviewId": "2379",
+        "InterviewId": 2379,
         "InterviewEndDate": "2023-03-07",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -11457,7 +11457,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2380",
+        "InterviewId": 2380,
         "InterviewEndDate": "2023-03-07",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -11465,7 +11465,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2388",
+        "InterviewId": 2388,
         "InterviewEndDate": "2023-03-07",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -11473,7 +11473,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2390",
+        "InterviewId": 2390,
         "InterviewEndDate": "2023-03-07",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -11481,7 +11481,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2391",
+        "InterviewId": 2391,
         "InterviewEndDate": "2023-03-07",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -11489,7 +11489,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2398",
+        "InterviewId": 2398,
         "InterviewEndDate": "2023-03-07",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -11497,7 +11497,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2400",
+        "InterviewId": 2400,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11505,7 +11505,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2402",
+        "InterviewId": 2402,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11513,7 +11513,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2405",
+        "InterviewId": 2405,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11521,7 +11521,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2406",
+        "InterviewId": 2406,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11529,7 +11529,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2408",
+        "InterviewId": 2408,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "BA - British Airways",
@@ -11537,7 +11537,7 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
-        "InterviewId": "2409",
+        "InterviewId": 2409,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "BA - British Airways",
@@ -11545,7 +11545,7 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
-        "InterviewId": "2417",
+        "InterviewId": 2417,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11553,7 +11553,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2419",
+        "InterviewId": 2419,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11561,7 +11561,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2420",
+        "InterviewId": 2420,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11569,7 +11569,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2421",
+        "InterviewId": 2421,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11577,7 +11577,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2425",
+        "InterviewId": 2425,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -11585,7 +11585,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2428",
+        "InterviewId": 2428,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -11593,7 +11593,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2430",
+        "InterviewId": 2430,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -11601,7 +11601,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2432",
+        "InterviewId": 2432,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -11609,7 +11609,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2434",
+        "InterviewId": 2434,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -11617,7 +11617,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2436",
+        "InterviewId": 2436,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -11625,7 +11625,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2437",
+        "InterviewId": 2437,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -11633,7 +11633,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2439",
+        "InterviewId": 2439,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -11641,7 +11641,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2442",
+        "InterviewId": 2442,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -11649,7 +11649,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2443",
+        "InterviewId": 2443,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -11657,7 +11657,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2444",
+        "InterviewId": 2444,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -11665,7 +11665,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2445",
+        "InterviewId": 2445,
         "InterviewEndDate": "2023-03-08",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -11673,7 +11673,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2448",
+        "InterviewId": 2448,
         "InterviewEndDate": "2023-03-09",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -11681,7 +11681,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2449",
+        "InterviewId": 2449,
         "InterviewEndDate": "2023-03-09",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -11689,7 +11689,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2452",
+        "InterviewId": 2452,
         "InterviewEndDate": "2023-03-09",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -11697,7 +11697,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2455",
+        "InterviewId": 2455,
         "InterviewEndDate": "2023-03-09",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -11705,7 +11705,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2456",
+        "InterviewId": 2456,
         "InterviewEndDate": "2023-03-09",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -11713,7 +11713,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2459",
+        "InterviewId": 2459,
         "InterviewEndDate": "2023-03-09",
         "InterviewState": "Complete",
         "Flight": "Fr",
@@ -11721,7 +11721,7 @@ let interview_data_raw = `[
         "AirlineCode": "Fr"
     },
     {
-        "InterviewId": "2460",
+        "InterviewId": 2460,
         "InterviewEndDate": "2023-03-09",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11729,7 +11729,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2468",
+        "InterviewId": 2468,
         "InterviewEndDate": "2023-03-09",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11737,7 +11737,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2471",
+        "InterviewId": 2471,
         "InterviewEndDate": "2023-03-09",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11745,7 +11745,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2474",
+        "InterviewId": 2474,
         "InterviewEndDate": "2023-03-12",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11753,7 +11753,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2475",
+        "InterviewId": 2475,
         "InterviewEndDate": "2023-03-12",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11761,7 +11761,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2476",
+        "InterviewId": 2476,
         "InterviewEndDate": "2023-03-12",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11769,7 +11769,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2477",
+        "InterviewId": 2477,
         "InterviewEndDate": "2023-03-12",
         "InterviewState": "Complete",
         "Flight": "VY - Vueling Airlines",
@@ -11777,7 +11777,7 @@ let interview_data_raw = `[
         "AirlineCode": "VY"
     },
     {
-        "InterviewId": "2478",
+        "InterviewId": 2478,
         "InterviewEndDate": "2023-03-12",
         "InterviewState": "Complete",
         "Flight": "VY - Vueling Airlines",
@@ -11785,7 +11785,7 @@ let interview_data_raw = `[
         "AirlineCode": "VY"
     },
     {
-        "InterviewId": "2479",
+        "InterviewId": 2479,
         "InterviewEndDate": "2023-03-12",
         "InterviewState": "Complete",
         "Flight": "VY - Vueling Airlines",
@@ -11793,7 +11793,7 @@ let interview_data_raw = `[
         "AirlineCode": "VY"
     },
     {
-        "InterviewId": "2480",
+        "InterviewId": 2480,
         "InterviewEndDate": "2023-03-12",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11801,7 +11801,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2481",
+        "InterviewId": 2481,
         "InterviewEndDate": "2023-03-12",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11809,7 +11809,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2482",
+        "InterviewId": 2482,
         "InterviewEndDate": "2023-03-12",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11817,7 +11817,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2483",
+        "InterviewId": 2483,
         "InterviewEndDate": "2023-03-12",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11825,7 +11825,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2484",
+        "InterviewId": 2484,
         "InterviewEndDate": "2023-03-12",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11833,7 +11833,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2485",
+        "InterviewId": 2485,
         "InterviewEndDate": "2023-03-12",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -11841,7 +11841,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2487",
+        "InterviewId": 2487,
         "InterviewEndDate": "2023-03-13",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -11849,7 +11849,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "2489",
+        "InterviewId": 2489,
         "InterviewEndDate": "2023-03-13",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -11857,23 +11857,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2491",
-        "InterviewEndDate": "2023-03-13",
-        "InterviewState": "Complete",
-        "Flight": "BT - Air Baltic",
-        "Dest": "RIX",
-        "AirlineCode": "BT"
-    },
-    {
-        "InterviewId": "2493",
-        "InterviewEndDate": "2023-03-13",
-        "InterviewState": "Complete",
-        "Flight": "LH - Lufthansa",
-        "Dest": "FRA",
-        "AirlineCode": "LH"
-    },
-    {
-        "InterviewId": "2495",
+        "InterviewId": 2491,
         "InterviewEndDate": "2023-03-13",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -11881,7 +11865,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "2497",
+        "InterviewId": 2493,
         "InterviewEndDate": "2023-03-13",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -11889,7 +11873,15 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2501",
+        "InterviewId": 2495,
+        "InterviewEndDate": "2023-03-13",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": 2497,
         "InterviewEndDate": "2023-03-13",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -11897,7 +11889,15 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2510",
+        "InterviewId": 2501,
+        "InterviewEndDate": "2023-03-13",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": 2510,
         "InterviewEndDate": "2023-03-14",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -11905,7 +11905,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2512",
+        "InterviewId": 2512,
         "InterviewEndDate": "2023-03-14",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -11913,7 +11913,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2515",
+        "InterviewId": 2515,
         "InterviewEndDate": "2023-03-14",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -11921,7 +11921,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2520",
+        "InterviewId": 2520,
         "InterviewEndDate": "2023-03-14",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11929,7 +11929,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2522",
+        "InterviewId": 2522,
         "InterviewEndDate": "2023-03-14",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -11937,7 +11937,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2524",
+        "InterviewId": 2524,
         "InterviewEndDate": "2023-03-14",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11945,7 +11945,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2527",
+        "InterviewId": 2527,
         "InterviewEndDate": "2023-03-14",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11953,7 +11953,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2529",
+        "InterviewId": 2529,
         "InterviewEndDate": "2023-03-14",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -11961,7 +11961,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2532",
+        "InterviewId": 2532,
         "InterviewEndDate": "2023-03-14",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11969,7 +11969,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2533",
+        "InterviewId": 2533,
         "InterviewEndDate": "2023-03-14",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -11977,7 +11977,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2536",
+        "InterviewId": 2536,
         "InterviewEndDate": "2023-03-14",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11985,7 +11985,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2540",
+        "InterviewId": 2540,
         "InterviewEndDate": "2023-03-15",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -11993,7 +11993,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2541",
+        "InterviewId": 2541,
         "InterviewEndDate": "2023-03-15",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12001,7 +12001,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2543",
+        "InterviewId": 2543,
         "InterviewEndDate": "2023-03-15",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12009,7 +12009,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2548",
+        "InterviewId": 2548,
         "InterviewEndDate": "2023-03-15",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12017,7 +12017,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2551",
+        "InterviewId": 2551,
         "InterviewEndDate": "2023-03-15",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12025,7 +12025,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2553",
+        "InterviewId": 2553,
         "InterviewEndDate": "2023-03-15",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12033,7 +12033,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2556",
+        "InterviewId": 2556,
         "InterviewEndDate": "2023-03-15",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12041,7 +12041,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2559",
+        "InterviewId": 2559,
         "InterviewEndDate": "2023-03-15",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -12049,7 +12049,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2565",
+        "InterviewId": 2565,
         "InterviewEndDate": "2023-03-15",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -12057,7 +12057,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2566",
+        "InterviewId": 2566,
         "InterviewEndDate": "2023-03-15",
         "InterviewState": "Complete",
         "Flight": "BA - British Airways",
@@ -12065,7 +12065,7 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
-        "InterviewId": "2569",
+        "InterviewId": 2569,
         "InterviewEndDate": "2023-03-15",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -12073,7 +12073,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2572",
+        "InterviewId": 2572,
         "InterviewEndDate": "2023-03-15",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -12081,7 +12081,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2577",
+        "InterviewId": 2577,
         "InterviewEndDate": "2023-03-15",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -12089,7 +12089,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2580",
+        "InterviewId": 2580,
         "InterviewEndDate": "2023-03-19",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12097,7 +12097,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2581",
+        "InterviewId": 2581,
         "InterviewEndDate": "2023-03-19",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12105,7 +12105,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2582",
+        "InterviewId": 2582,
         "InterviewEndDate": "2023-03-19",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12113,7 +12113,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2583",
+        "InterviewId": 2583,
         "InterviewEndDate": "2023-03-19",
         "InterviewState": "Complete",
         "Flight": "VY - Vueling Airlines",
@@ -12121,7 +12121,7 @@ let interview_data_raw = `[
         "AirlineCode": "VY"
     },
     {
-        "InterviewId": "2584",
+        "InterviewId": 2584,
         "InterviewEndDate": "2023-03-19",
         "InterviewState": "Complete",
         "Flight": "VY - Vueling Airlines",
@@ -12129,7 +12129,7 @@ let interview_data_raw = `[
         "AirlineCode": "VY"
     },
     {
-        "InterviewId": "2585",
+        "InterviewId": 2585,
         "InterviewEndDate": "2023-03-19",
         "InterviewState": "Complete",
         "Flight": "VY - Vueling Airlines",
@@ -12137,7 +12137,7 @@ let interview_data_raw = `[
         "AirlineCode": "VY"
     },
     {
-        "InterviewId": "2586",
+        "InterviewId": 2586,
         "InterviewEndDate": "2023-03-19",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12145,7 +12145,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2587",
+        "InterviewId": 2587,
         "InterviewEndDate": "2023-03-19",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12153,7 +12153,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2588",
+        "InterviewId": 2588,
         "InterviewEndDate": "2023-03-19",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12161,7 +12161,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2589",
+        "InterviewId": 2589,
         "InterviewEndDate": "2023-03-19",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -12169,7 +12169,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2590",
+        "InterviewId": 2590,
         "InterviewEndDate": "2023-03-19",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -12177,7 +12177,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2591",
+        "InterviewId": 2591,
         "InterviewEndDate": "2023-03-19",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -12185,7 +12185,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2592",
+        "InterviewId": 2592,
         "InterviewEndDate": "2023-03-20",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -12193,7 +12193,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2593",
+        "InterviewId": 2593,
         "InterviewEndDate": "2023-03-20",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -12201,7 +12201,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2595",
+        "InterviewId": 2595,
         "InterviewEndDate": "2023-03-20",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -12209,7 +12209,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2599",
+        "InterviewId": 2599,
         "InterviewEndDate": "2023-03-20",
         "InterviewState": "Complete",
         "Flight": "BA - British Airways",
@@ -12217,7 +12217,7 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
-        "InterviewId": "2601",
+        "InterviewId": 2601,
         "InterviewEndDate": "2023-03-20",
         "InterviewState": "Complete",
         "Flight": "W6 - Wizz Air",
@@ -12225,7 +12225,7 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
-        "InterviewId": "2602",
+        "InterviewId": 2602,
         "InterviewEndDate": "2023-03-20",
         "InterviewState": "Complete",
         "Flight": "W6 - Wizz Air",
@@ -12233,7 +12233,7 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
-        "InterviewId": "2603",
+        "InterviewId": 2603,
         "InterviewEndDate": "2023-03-20",
         "InterviewState": "Complete",
         "Flight": "BA - British Airways",
@@ -12241,7 +12241,7 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
-        "InterviewId": "2607",
+        "InterviewId": 2607,
         "InterviewEndDate": "2023-03-20",
         "InterviewState": "Complete",
         "Flight": "W6 - Wizz Air",
@@ -12249,7 +12249,7 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
-        "InterviewId": "2610",
+        "InterviewId": 2610,
         "InterviewEndDate": "2023-03-20",
         "InterviewState": "Complete",
         "Flight": "BA - British Airways",
@@ -12257,7 +12257,7 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
-        "InterviewId": "2611",
+        "InterviewId": 2611,
         "InterviewEndDate": "2023-03-20",
         "InterviewState": "Complete",
         "Flight": "W6 - Wizz Air",
@@ -12265,7 +12265,7 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
-        "InterviewId": "2613",
+        "InterviewId": 2613,
         "InterviewEndDate": "2023-03-20",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -12273,7 +12273,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2615",
+        "InterviewId": 2615,
         "InterviewEndDate": "2023-03-20",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -12281,7 +12281,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2617",
+        "InterviewId": 2617,
         "InterviewEndDate": "2023-03-21",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -12289,7 +12289,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2618",
+        "InterviewId": 2618,
         "InterviewEndDate": "2023-03-20",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -12297,7 +12297,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2620",
+        "InterviewId": 2620,
         "InterviewEndDate": "2023-03-20",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -12305,7 +12305,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2621",
+        "InterviewId": 2621,
         "InterviewEndDate": "2023-03-20",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -12313,7 +12313,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2623",
+        "InterviewId": 2623,
         "InterviewEndDate": "2023-03-20",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -12321,7 +12321,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2625",
+        "InterviewId": 2625,
         "InterviewEndDate": "2023-03-20",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -12329,7 +12329,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2635",
+        "InterviewId": 2635,
         "InterviewEndDate": "2023-03-21",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12337,7 +12337,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2640",
+        "InterviewId": 2640,
         "InterviewEndDate": "2023-03-21",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12345,7 +12345,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2642",
+        "InterviewId": 2642,
         "InterviewEndDate": "2023-03-21",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12353,7 +12353,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2644",
+        "InterviewId": 2644,
         "InterviewEndDate": "2023-03-21",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12361,7 +12361,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2646",
+        "InterviewId": 2646,
         "InterviewEndDate": "2023-03-21",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12369,7 +12369,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2648",
+        "InterviewId": 2648,
         "InterviewEndDate": "2023-03-21",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -12377,7 +12377,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2650",
+        "InterviewId": 2650,
         "InterviewEndDate": "2023-03-21",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -12385,7 +12385,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2652",
+        "InterviewId": 2652,
         "InterviewEndDate": "2023-03-21",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -12393,7 +12393,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2654",
+        "InterviewId": 2654,
         "InterviewEndDate": "2023-03-21",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -12401,7 +12401,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2655",
+        "InterviewId": 2655,
         "InterviewEndDate": "2023-03-21",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -12409,7 +12409,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2664",
+        "InterviewId": 2664,
         "InterviewEndDate": "2023-03-21",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12417,7 +12417,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2665",
+        "InterviewId": 2665,
         "InterviewEndDate": "2023-03-21",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12425,7 +12425,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2666",
+        "InterviewId": 2666,
         "InterviewEndDate": "2023-03-21",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12433,7 +12433,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2667",
+        "InterviewId": 2667,
         "InterviewEndDate": "2023-03-21",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12441,7 +12441,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2668",
+        "InterviewId": 2668,
         "InterviewEndDate": "2023-03-27",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12449,7 +12449,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2670",
+        "InterviewId": 2670,
         "InterviewEndDate": "2023-03-27",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12457,7 +12457,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2672",
+        "InterviewId": 2672,
         "InterviewEndDate": "2023-03-27",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12465,7 +12465,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2674",
+        "InterviewId": 2674,
         "InterviewEndDate": "2023-03-27",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12473,7 +12473,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2676",
+        "InterviewId": 2676,
         "InterviewEndDate": "2023-03-27",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12481,7 +12481,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2679",
+        "InterviewId": 2679,
         "InterviewEndDate": "2023-03-27",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -12489,7 +12489,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "2681",
+        "InterviewId": 2681,
         "InterviewEndDate": "2023-03-27",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -12497,7 +12497,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "2687",
+        "InterviewId": 2687,
         "InterviewEndDate": "2023-03-27",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12505,7 +12505,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2689",
+        "InterviewId": 2689,
         "InterviewEndDate": "2023-03-27",
         "InterviewState": "Complete",
         "Flight": "Kl",
@@ -12513,7 +12513,7 @@ let interview_data_raw = `[
         "AirlineCode": "Kl"
     },
     {
-        "InterviewId": "2691",
+        "InterviewId": 2691,
         "InterviewEndDate": "2023-03-27",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12521,7 +12521,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2692",
+        "InterviewId": 2692,
         "InterviewEndDate": "2023-03-27",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12529,7 +12529,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2695",
+        "InterviewId": 2695,
         "InterviewEndDate": "2023-03-27",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12537,7 +12537,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2698",
+        "InterviewId": 2698,
         "InterviewEndDate": "2023-03-28",
         "InterviewState": "Complete",
         "Flight": "LO - LOT",
@@ -12545,7 +12545,7 @@ let interview_data_raw = `[
         "AirlineCode": "LO"
     },
     {
-        "InterviewId": "2706",
+        "InterviewId": 2706,
         "InterviewEndDate": "2023-03-28",
         "InterviewState": "Complete",
         "Flight": "LO - LOT",
@@ -12553,7 +12553,7 @@ let interview_data_raw = `[
         "AirlineCode": "LO"
     },
     {
-        "InterviewId": "2709",
+        "InterviewId": 2709,
         "InterviewEndDate": "2023-03-28",
         "InterviewState": "Complete",
         "Flight": "LO - LOT",
@@ -12561,7 +12561,7 @@ let interview_data_raw = `[
         "AirlineCode": "LO"
     },
     {
-        "InterviewId": "2713",
+        "InterviewId": 2713,
         "InterviewEndDate": "2023-03-28",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12569,7 +12569,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2714",
+        "InterviewId": 2714,
         "InterviewEndDate": "2023-03-28",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12577,7 +12577,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2724",
+        "InterviewId": 2724,
         "InterviewEndDate": "2023-03-28",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12585,7 +12585,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2726",
+        "InterviewId": 2726,
         "InterviewEndDate": "2023-03-28",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12593,7 +12593,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2728",
+        "InterviewId": 2728,
         "InterviewEndDate": "2023-03-28",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12601,7 +12601,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2731",
+        "InterviewId": 2731,
         "InterviewEndDate": "2023-03-28",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -12609,7 +12609,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2733",
+        "InterviewId": 2733,
         "InterviewEndDate": "2023-03-28",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -12617,7 +12617,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2735",
+        "InterviewId": 2735,
         "InterviewEndDate": "2023-03-28",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -12625,7 +12625,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2736",
+        "InterviewId": 2736,
         "InterviewEndDate": "2023-03-28",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12633,7 +12633,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2737",
+        "InterviewId": 2737,
         "InterviewEndDate": "2023-03-28",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -12641,7 +12641,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2740",
+        "InterviewId": 2740,
         "InterviewEndDate": "2023-04-03",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12649,7 +12649,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2741",
+        "InterviewId": 2741,
         "InterviewEndDate": "2023-04-03",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12657,7 +12657,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2743",
+        "InterviewId": 2743,
         "InterviewEndDate": "2023-04-03",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12665,7 +12665,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2746",
+        "InterviewId": 2746,
         "InterviewEndDate": "2023-04-03",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12673,7 +12673,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2756",
+        "InterviewId": 2756,
         "InterviewEndDate": "2023-04-03",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12681,7 +12681,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2759",
+        "InterviewId": 2759,
         "InterviewEndDate": "2023-04-03",
         "InterviewState": "Complete",
         "Flight": "Klm",
@@ -12689,7 +12689,7 @@ let interview_data_raw = `[
         "AirlineCode": "Klm"
     },
     {
-        "InterviewId": "2763",
+        "InterviewId": 2763,
         "InterviewEndDate": "2023-04-03",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12697,7 +12697,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2765",
+        "InterviewId": 2765,
         "InterviewEndDate": "2023-04-03",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12705,7 +12705,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2787",
+        "InterviewId": 2787,
         "InterviewEndDate": "2023-04-04",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -12713,7 +12713,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2792",
+        "InterviewId": 2792,
         "InterviewEndDate": "2023-04-04",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -12721,7 +12721,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2793",
+        "InterviewId": 2793,
         "InterviewEndDate": "2023-04-04",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -12729,7 +12729,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2794",
+        "InterviewId": 2794,
         "InterviewEndDate": "2023-04-04",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -12737,7 +12737,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2795",
+        "InterviewId": 2795,
         "InterviewEndDate": "2023-04-04",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -12745,7 +12745,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2797",
+        "InterviewId": 2797,
         "InterviewEndDate": "2023-04-04",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -12753,7 +12753,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "2798",
+        "InterviewId": 2798,
         "InterviewEndDate": "2023-04-04",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -12761,7 +12761,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "2799",
+        "InterviewId": 2799,
         "InterviewEndDate": "2023-04-04",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -12769,7 +12769,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "2800",
+        "InterviewId": 2800,
         "InterviewEndDate": "2023-04-04",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -12777,7 +12777,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "2801",
+        "InterviewId": 2801,
         "InterviewEndDate": "2023-04-04",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -12785,7 +12785,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "2803",
+        "InterviewId": 2803,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12793,7 +12793,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2804",
+        "InterviewId": 2804,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12801,7 +12801,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2808",
+        "InterviewId": 2808,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12809,7 +12809,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2809",
+        "InterviewId": 2809,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12817,7 +12817,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2810",
+        "InterviewId": 2810,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12825,7 +12825,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2811",
+        "InterviewId": 2811,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12833,7 +12833,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2812",
+        "InterviewId": 2812,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12841,7 +12841,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2813",
+        "InterviewId": 2813,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12849,7 +12849,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2814",
+        "InterviewId": 2814,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12857,7 +12857,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2815",
+        "InterviewId": 2815,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12865,7 +12865,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2816",
+        "InterviewId": 2816,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "Klm",
@@ -12873,7 +12873,7 @@ let interview_data_raw = `[
         "AirlineCode": "Klm"
     },
     {
-        "InterviewId": "2817",
+        "InterviewId": 2817,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12881,7 +12881,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2818",
+        "InterviewId": 2818,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12889,7 +12889,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2819",
+        "InterviewId": 2819,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "Klm",
@@ -12897,7 +12897,7 @@ let interview_data_raw = `[
         "AirlineCode": "Klm"
     },
     {
-        "InterviewId": "2820",
+        "InterviewId": 2820,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -12905,7 +12905,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2823",
+        "InterviewId": 2823,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12913,7 +12913,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2824",
+        "InterviewId": 2824,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12921,7 +12921,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2825",
+        "InterviewId": 2825,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12929,7 +12929,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2829",
+        "InterviewId": 2829,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -12937,7 +12937,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "2830",
+        "InterviewId": 2830,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -12945,7 +12945,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "2832",
+        "InterviewId": 2832,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -12953,7 +12953,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "2835",
+        "InterviewId": 2835,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -12961,7 +12961,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "2836",
+        "InterviewId": 2836,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -12969,7 +12969,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "2847",
+        "InterviewId": 2847,
         "InterviewEndDate": "2023-04-05",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12977,7 +12977,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2852",
+        "InterviewId": 2852,
         "InterviewEndDate": "2023-04-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12985,7 +12985,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2853",
+        "InterviewId": 2853,
         "InterviewEndDate": "2023-04-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -12993,7 +12993,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2862",
+        "InterviewId": 2862,
         "InterviewEndDate": "2023-04-13",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13001,7 +13001,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2863",
+        "InterviewId": 2863,
         "InterviewEndDate": "2023-04-13",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13009,7 +13009,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2864",
+        "InterviewId": 2864,
         "InterviewEndDate": "2023-04-13",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13017,7 +13017,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2865",
+        "InterviewId": 2865,
         "InterviewEndDate": "2023-04-13",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13025,7 +13025,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2866",
+        "InterviewId": 2866,
         "InterviewEndDate": "2023-04-13",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13033,7 +13033,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2867",
+        "InterviewId": 2867,
         "InterviewEndDate": "2023-04-14",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -13041,7 +13041,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "2868",
+        "InterviewId": 2868,
         "InterviewEndDate": "2023-04-14",
         "InterviewState": "Complete",
         "Flight": "Bt",
@@ -13049,7 +13049,7 @@ let interview_data_raw = `[
         "AirlineCode": "Bt"
     },
     {
-        "InterviewId": "2869",
+        "InterviewId": 2869,
         "InterviewEndDate": "2023-04-14",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -13057,7 +13057,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "2870",
+        "InterviewId": 2870,
         "InterviewEndDate": "2023-04-14",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -13065,7 +13065,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "2871",
+        "InterviewId": 2871,
         "InterviewEndDate": "2023-04-14",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -13073,7 +13073,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "2873",
+        "InterviewId": 2873,
         "InterviewEndDate": "2023-04-16",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -13081,7 +13081,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2874",
+        "InterviewId": 2874,
         "InterviewEndDate": "2023-04-16",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -13089,7 +13089,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2875",
+        "InterviewId": 2875,
         "InterviewEndDate": "2023-04-16",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -13097,7 +13097,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "2887",
+        "InterviewId": 2887,
         "InterviewEndDate": "2023-04-16",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13105,7 +13105,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2888",
+        "InterviewId": 2888,
         "InterviewEndDate": "2023-04-16",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13113,7 +13113,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2889",
+        "InterviewId": 2889,
         "InterviewEndDate": "2023-04-16",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13121,7 +13121,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2890",
+        "InterviewId": 2890,
         "InterviewEndDate": "2023-04-16",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13129,7 +13129,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2891",
+        "InterviewId": 2891,
         "InterviewEndDate": "2023-04-16",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13137,7 +13137,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2892",
+        "InterviewId": 2892,
         "InterviewEndDate": "2023-04-16",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13145,7 +13145,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2893",
+        "InterviewId": 2893,
         "InterviewEndDate": "2023-04-16",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13153,7 +13153,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2895",
+        "InterviewId": 2895,
         "InterviewEndDate": "2023-04-17",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13161,7 +13161,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2902",
+        "InterviewId": 2902,
         "InterviewEndDate": "2023-04-17",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13169,7 +13169,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2906",
+        "InterviewId": 2906,
         "InterviewEndDate": "2023-04-17",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13177,7 +13177,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2907",
+        "InterviewId": 2907,
         "InterviewEndDate": "2023-04-17",
         "InterviewState": "Complete",
         "Flight": "TK - Turkish Airlines",
@@ -13185,7 +13185,7 @@ let interview_data_raw = `[
         "AirlineCode": "TK"
     },
     {
-        "InterviewId": "2909",
+        "InterviewId": 2909,
         "InterviewEndDate": "2023-04-17",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13193,7 +13193,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2910",
+        "InterviewId": 2910,
         "InterviewEndDate": "2023-04-17",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13201,7 +13201,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2913",
+        "InterviewId": 2913,
         "InterviewEndDate": "2023-04-17",
         "InterviewState": "Complete",
         "Flight": "TK - Turkish Airlines",
@@ -13209,7 +13209,7 @@ let interview_data_raw = `[
         "AirlineCode": "TK"
     },
     {
-        "InterviewId": "2917",
+        "InterviewId": 2917,
         "InterviewEndDate": "2023-04-17",
         "InterviewState": "Complete",
         "Flight": "CAT - Global Reach Aviation",
@@ -13217,7 +13217,7 @@ let interview_data_raw = `[
         "AirlineCode": "CAT"
     },
     {
-        "InterviewId": "2918",
+        "InterviewId": 2918,
         "InterviewEndDate": "2023-04-17",
         "InterviewState": "Complete",
         "Flight": "CAT - Global Reach Aviation",
@@ -13225,7 +13225,7 @@ let interview_data_raw = `[
         "AirlineCode": "CAT"
     },
     {
-        "InterviewId": "2920",
+        "InterviewId": 2920,
         "InterviewEndDate": "2023-04-17",
         "InterviewState": "Complete",
         "Flight": "CAT - Global Reach Aviation",
@@ -13233,7 +13233,7 @@ let interview_data_raw = `[
         "AirlineCode": "CAT"
     },
     {
-        "InterviewId": "2922",
+        "InterviewId": 2922,
         "InterviewEndDate": "2023-04-17",
         "InterviewState": "Complete",
         "Flight": "CAT - Global Reach Aviation",
@@ -13241,7 +13241,7 @@ let interview_data_raw = `[
         "AirlineCode": "CAT"
     },
     {
-        "InterviewId": "2923",
+        "InterviewId": 2923,
         "InterviewEndDate": "2023-04-18",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13249,7 +13249,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2924",
+        "InterviewId": 2924,
         "InterviewEndDate": "2023-04-18",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13257,7 +13257,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2925",
+        "InterviewId": 2925,
         "InterviewEndDate": "2023-04-18",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13265,7 +13265,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2928",
+        "InterviewId": 2928,
         "InterviewEndDate": "2023-04-18",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13273,7 +13273,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2930",
+        "InterviewId": 2930,
         "InterviewEndDate": "2023-04-18",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13281,7 +13281,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2931",
+        "InterviewId": 2931,
         "InterviewEndDate": "2023-04-18",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13289,7 +13289,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2933",
+        "InterviewId": 2933,
         "InterviewEndDate": "2023-04-18",
         "InterviewState": "Complete",
         "Flight": "BA - British Airways",
@@ -13297,7 +13297,7 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
-        "InterviewId": "2937",
+        "InterviewId": 2937,
         "InterviewEndDate": "2023-04-18",
         "InterviewState": "Complete",
         "Flight": "BA - British Airways",
@@ -13305,7 +13305,7 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
-        "InterviewId": "2938",
+        "InterviewId": 2938,
         "InterviewEndDate": "2023-04-18",
         "InterviewState": "Complete",
         "Flight": "BA - British Airways",
@@ -13313,7 +13313,7 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
-        "InterviewId": "2942",
+        "InterviewId": 2942,
         "InterviewEndDate": "2023-04-18",
         "InterviewState": "Complete",
         "Flight": "Sn",
@@ -13321,7 +13321,7 @@ let interview_data_raw = `[
         "AirlineCode": "Sn"
     },
     {
-        "InterviewId": "2944",
+        "InterviewId": 2944,
         "InterviewEndDate": "2023-04-18",
         "InterviewState": "Complete",
         "Flight": "Sn",
@@ -13329,7 +13329,7 @@ let interview_data_raw = `[
         "AirlineCode": "Sn"
     },
     {
-        "InterviewId": "2946",
+        "InterviewId": 2946,
         "InterviewEndDate": "2023-04-18",
         "InterviewState": "Complete",
         "Flight": "Sn",
@@ -13337,7 +13337,7 @@ let interview_data_raw = `[
         "AirlineCode": "Sn"
     },
     {
-        "InterviewId": "2947",
+        "InterviewId": 2947,
         "InterviewEndDate": "2023-04-18",
         "InterviewState": "Complete",
         "Flight": "Sn",
@@ -13345,7 +13345,7 @@ let interview_data_raw = `[
         "AirlineCode": "Sn"
     },
     {
-        "InterviewId": "2948",
+        "InterviewId": 2948,
         "InterviewEndDate": "2023-04-18",
         "InterviewState": "Complete",
         "Flight": "Sn",
@@ -13353,7 +13353,7 @@ let interview_data_raw = `[
         "AirlineCode": "Sn"
     },
     {
-        "InterviewId": "2950",
+        "InterviewId": 2950,
         "InterviewEndDate": "2023-04-18",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -13361,7 +13361,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2952",
+        "InterviewId": 2952,
         "InterviewEndDate": "2023-04-18",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -13369,7 +13369,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2955",
+        "InterviewId": 2955,
         "InterviewEndDate": "2023-04-18",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -13377,7 +13377,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2957",
+        "InterviewId": 2957,
         "InterviewEndDate": "2023-04-18",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -13385,7 +13385,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "2963",
+        "InterviewId": 2963,
         "InterviewEndDate": "2023-04-19",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13393,7 +13393,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2964",
+        "InterviewId": 2964,
         "InterviewEndDate": "2023-04-19",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13401,7 +13401,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2965",
+        "InterviewId": 2965,
         "InterviewEndDate": "2023-04-19",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13409,7 +13409,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2966",
+        "InterviewId": 2966,
         "InterviewEndDate": "2023-04-19",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13417,7 +13417,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "2967",
+        "InterviewId": 2967,
         "InterviewEndDate": "2023-04-19",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -13425,7 +13425,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2972",
+        "InterviewId": 2972,
         "InterviewEndDate": "2023-04-19",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -13433,7 +13433,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2973",
+        "InterviewId": 2973,
         "InterviewEndDate": "2023-04-19",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -13441,7 +13441,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2974",
+        "InterviewId": 2974,
         "InterviewEndDate": "2023-04-19",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -13449,7 +13449,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2978",
+        "InterviewId": 2978,
         "InterviewEndDate": "2023-04-20",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -13457,7 +13457,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2979",
+        "InterviewId": 2979,
         "InterviewEndDate": "2023-04-20",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -13465,7 +13465,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2980",
+        "InterviewId": 2980,
         "InterviewEndDate": "2023-04-20",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -13473,7 +13473,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2981",
+        "InterviewId": 2981,
         "InterviewEndDate": "2023-04-20",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -13481,7 +13481,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2982",
+        "InterviewId": 2982,
         "InterviewEndDate": "2023-04-20",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -13489,7 +13489,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "2984",
+        "InterviewId": 2984,
         "InterviewEndDate": "2023-04-20",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -13497,7 +13497,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "2985",
+        "InterviewId": 2985,
         "InterviewEndDate": "2023-04-20",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -13505,7 +13505,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "2986",
+        "InterviewId": 2986,
         "InterviewEndDate": "2023-04-20",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -13513,7 +13513,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "2987",
+        "InterviewId": 2987,
         "InterviewEndDate": "2023-04-20",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -13521,7 +13521,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "2994",
+        "InterviewId": 2994,
         "InterviewEndDate": "2023-04-28",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13529,7 +13529,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2995",
+        "InterviewId": 2995,
         "InterviewEndDate": "2023-04-28",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13537,7 +13537,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2996",
+        "InterviewId": 2996,
         "InterviewEndDate": "2023-04-28",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13545,7 +13545,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "2997",
+        "InterviewId": 2997,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -13553,7 +13553,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "2998",
+        "InterviewId": 2998,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -13561,7 +13561,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "2999",
+        "InterviewId": 2999,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -13569,7 +13569,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "3000",
+        "InterviewId": 3000,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -13577,7 +13577,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "3001",
+        "InterviewId": 3001,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -13585,7 +13585,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "3002",
+        "InterviewId": 3002,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -13593,7 +13593,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "3005",
+        "InterviewId": 3005,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "CAT - Global Reach Aviation",
@@ -13601,7 +13601,7 @@ let interview_data_raw = `[
         "AirlineCode": "CAT"
     },
     {
-        "InterviewId": "3007",
+        "InterviewId": 3007,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "CAT - Global Reach Aviation",
@@ -13609,7 +13609,7 @@ let interview_data_raw = `[
         "AirlineCode": "CAT"
     },
     {
-        "InterviewId": "3008",
+        "InterviewId": 3008,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "CAT - Global Reach Aviation",
@@ -13617,7 +13617,7 @@ let interview_data_raw = `[
         "AirlineCode": "CAT"
     },
     {
-        "InterviewId": "3009",
+        "InterviewId": 3009,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "CAT - Global Reach Aviation",
@@ -13625,7 +13625,7 @@ let interview_data_raw = `[
         "AirlineCode": "CAT"
     },
     {
-        "InterviewId": "3010",
+        "InterviewId": 3010,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "CAT - Global Reach Aviation",
@@ -13633,7 +13633,7 @@ let interview_data_raw = `[
         "AirlineCode": "CAT"
     },
     {
-        "InterviewId": "3011",
+        "InterviewId": 3011,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "CAT - Global Reach Aviation",
@@ -13641,7 +13641,7 @@ let interview_data_raw = `[
         "AirlineCode": "CAT"
     },
     {
-        "InterviewId": "3012",
+        "InterviewId": 3012,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "CAT - Global Reach Aviation",
@@ -13649,7 +13649,7 @@ let interview_data_raw = `[
         "AirlineCode": "CAT"
     },
     {
-        "InterviewId": "3013",
+        "InterviewId": 3013,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "PC - Pegasus Hava Tasimaciligi",
@@ -13657,7 +13657,7 @@ let interview_data_raw = `[
         "AirlineCode": "PC"
     },
     {
-        "InterviewId": "3014",
+        "InterviewId": 3014,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "PC - Pegasus Hava Tasimaciligi",
@@ -13665,7 +13665,7 @@ let interview_data_raw = `[
         "AirlineCode": "PC"
     },
     {
-        "InterviewId": "3015",
+        "InterviewId": 3015,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "PC - Pegasus Hava Tasimaciligi",
@@ -13673,7 +13673,7 @@ let interview_data_raw = `[
         "AirlineCode": "PC"
     },
     {
-        "InterviewId": "3016",
+        "InterviewId": 3016,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "PC - Pegasus Hava Tasimaciligi",
@@ -13681,7 +13681,7 @@ let interview_data_raw = `[
         "AirlineCode": "PC"
     },
     {
-        "InterviewId": "3018",
+        "InterviewId": 3018,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "PC - Pegasus Hava Tasimaciligi",
@@ -13689,7 +13689,7 @@ let interview_data_raw = `[
         "AirlineCode": "PC"
     },
     {
-        "InterviewId": "3019",
+        "InterviewId": 3019,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "PC - Pegasus Hava Tasimaciligi",
@@ -13697,7 +13697,7 @@ let interview_data_raw = `[
         "AirlineCode": "PC"
     },
     {
-        "InterviewId": "3025",
+        "InterviewId": 3025,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13705,7 +13705,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3026",
+        "InterviewId": 3026,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13713,7 +13713,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3027",
+        "InterviewId": 3027,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13721,7 +13721,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3028",
+        "InterviewId": 3028,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13729,7 +13729,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3029",
+        "InterviewId": 3029,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13737,7 +13737,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3030",
+        "InterviewId": 3030,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13745,7 +13745,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3037",
+        "InterviewId": 3037,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13753,7 +13753,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3038",
+        "InterviewId": 3038,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13761,7 +13761,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3039",
+        "InterviewId": 3039,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13769,7 +13769,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3040",
+        "InterviewId": 3040,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13777,7 +13777,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3043",
+        "InterviewId": 3043,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13785,7 +13785,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3044",
+        "InterviewId": 3044,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13793,7 +13793,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3045",
+        "InterviewId": 3045,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13801,7 +13801,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3046",
+        "InterviewId": 3046,
         "InterviewEndDate": "2023-04-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13809,7 +13809,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3047",
+        "InterviewId": 3047,
         "InterviewEndDate": "2023-05-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13817,7 +13817,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3048",
+        "InterviewId": 3048,
         "InterviewEndDate": "2023-05-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13825,7 +13825,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3049",
+        "InterviewId": 3049,
         "InterviewEndDate": "2023-05-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13833,7 +13833,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3051",
+        "InterviewId": 3051,
         "InterviewEndDate": "2023-05-01",
         "InterviewState": "Complete",
         "Flight": "PC - Pegasus Hava Tasimaciligi",
@@ -13841,7 +13841,7 @@ let interview_data_raw = `[
         "AirlineCode": "PC"
     },
     {
-        "InterviewId": "3052",
+        "InterviewId": 3052,
         "InterviewEndDate": "2023-05-01",
         "InterviewState": "Complete",
         "Flight": "PC - Pegasus Hava Tasimaciligi",
@@ -13849,7 +13849,7 @@ let interview_data_raw = `[
         "AirlineCode": "PC"
     },
     {
-        "InterviewId": "3053",
+        "InterviewId": 3053,
         "InterviewEndDate": "2023-05-01",
         "InterviewState": "Complete",
         "Flight": "PC - Pegasus Hava Tasimaciligi",
@@ -13857,7 +13857,7 @@ let interview_data_raw = `[
         "AirlineCode": "PC"
     },
     {
-        "InterviewId": "3054",
+        "InterviewId": 3054,
         "InterviewEndDate": "2023-05-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13865,7 +13865,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3055",
+        "InterviewId": 3055,
         "InterviewEndDate": "2023-05-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13873,7 +13873,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3056",
+        "InterviewId": 3056,
         "InterviewEndDate": "2023-05-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13881,7 +13881,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3057",
+        "InterviewId": 3057,
         "InterviewEndDate": "2023-05-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13889,7 +13889,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3058",
+        "InterviewId": 3058,
         "InterviewEndDate": "2023-05-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13897,7 +13897,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3059",
+        "InterviewId": 3059,
         "InterviewEndDate": "2023-05-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13905,7 +13905,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3060",
+        "InterviewId": 3060,
         "InterviewEndDate": "2023-05-02",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13913,7 +13913,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3063",
+        "InterviewId": 3063,
         "InterviewEndDate": "2023-05-02",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13921,7 +13921,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3064",
+        "InterviewId": 3064,
         "InterviewEndDate": "2023-05-02",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13929,7 +13929,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3065",
+        "InterviewId": 3065,
         "InterviewEndDate": "2023-05-02",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13937,7 +13937,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3068",
+        "InterviewId": 3068,
         "InterviewEndDate": "2023-05-02",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13945,7 +13945,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3071",
+        "InterviewId": 3071,
         "InterviewEndDate": "2023-05-02",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13953,7 +13953,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3073",
+        "InterviewId": 3073,
         "InterviewEndDate": "2023-05-02",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -13961,7 +13961,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3076",
+        "InterviewId": 3076,
         "InterviewEndDate": "2023-05-02",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS",
@@ -13969,7 +13969,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3080",
+        "InterviewId": 3080,
         "InterviewEndDate": "2023-05-03",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -13977,7 +13977,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "3082",
+        "InterviewId": 3082,
         "InterviewEndDate": "2023-05-03",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -13985,7 +13985,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "3091",
+        "InterviewId": 3091,
         "InterviewEndDate": "2023-05-03",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -13993,7 +13993,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3092",
+        "InterviewId": 3092,
         "InterviewEndDate": "2023-05-03",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -14001,7 +14001,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3095",
+        "InterviewId": 3095,
         "InterviewEndDate": "2023-05-03",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -14009,7 +14009,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3097",
+        "InterviewId": 3097,
         "InterviewEndDate": "2023-05-03",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -14017,7 +14017,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3100",
+        "InterviewId": 3100,
         "InterviewEndDate": "2023-05-03",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -14025,7 +14025,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3101",
+        "InterviewId": 3101,
         "InterviewEndDate": "2023-05-03",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14033,7 +14033,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3103",
+        "InterviewId": 3103,
         "InterviewEndDate": "2023-05-03",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14041,7 +14041,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3105",
+        "InterviewId": 3105,
         "InterviewEndDate": "2023-05-03",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14049,7 +14049,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3107",
+        "InterviewId": 3107,
         "InterviewEndDate": "2023-05-03",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14057,7 +14057,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3109",
+        "InterviewId": 3109,
         "InterviewEndDate": "2023-05-03",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14065,7 +14065,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3111",
+        "InterviewId": 3111,
         "InterviewEndDate": "2023-05-04",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14073,7 +14073,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3120",
+        "InterviewId": 3120,
         "InterviewEndDate": "2023-05-04",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -14081,7 +14081,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3121",
+        "InterviewId": 3121,
         "InterviewEndDate": "2023-05-04",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -14089,7 +14089,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3125",
+        "InterviewId": 3125,
         "InterviewEndDate": "2023-05-07",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -14097,7 +14097,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3126",
+        "InterviewId": 3126,
         "InterviewEndDate": "2023-05-07",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -14105,7 +14105,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3127",
+        "InterviewId": 3127,
         "InterviewEndDate": "2023-05-07",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -14113,7 +14113,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3128",
+        "InterviewId": 3128,
         "InterviewEndDate": "2023-05-07",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -14121,7 +14121,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "3129",
+        "InterviewId": 3129,
         "InterviewEndDate": "2023-05-07",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -14129,7 +14129,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "3130",
+        "InterviewId": 3130,
         "InterviewEndDate": "2023-05-07",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -14137,7 +14137,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "3131",
+        "InterviewId": 3131,
         "InterviewEndDate": "2023-05-11",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14145,7 +14145,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3132",
+        "InterviewId": 3132,
         "InterviewEndDate": "2023-05-11",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14153,7 +14153,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3133",
+        "InterviewId": 3133,
         "InterviewEndDate": "2023-05-11",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14161,7 +14161,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3134",
+        "InterviewId": 3134,
         "InterviewEndDate": "2023-05-11",
         "InterviewState": "Complete",
         "Flight": "BA - British Airways",
@@ -14169,7 +14169,7 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
-        "InterviewId": "3135",
+        "InterviewId": 3135,
         "InterviewEndDate": "2023-05-11",
         "InterviewState": "Complete",
         "Flight": "BA - British Airways",
@@ -14177,7 +14177,7 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
-        "InterviewId": "3136",
+        "InterviewId": 3136,
         "InterviewEndDate": "2023-05-11",
         "InterviewState": "Complete",
         "Flight": "BA - British Airways",
@@ -14185,7 +14185,7 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
-        "InterviewId": "3137",
+        "InterviewId": 3137,
         "InterviewEndDate": "2023-05-11",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14193,7 +14193,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3138",
+        "InterviewId": 3138,
         "InterviewEndDate": "2023-05-11",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14201,7 +14201,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3139",
+        "InterviewId": 3139,
         "InterviewEndDate": "2023-05-11",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14209,7 +14209,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3141",
+        "InterviewId": 3141,
         "InterviewEndDate": "2023-05-12",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -14217,7 +14217,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3142",
+        "InterviewId": 3142,
         "InterviewEndDate": "2023-05-12",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -14225,7 +14225,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3143",
+        "InterviewId": 3143,
         "InterviewEndDate": "2023-05-12",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -14233,7 +14233,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3144",
+        "InterviewId": 3144,
         "InterviewEndDate": "2023-05-12",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -14241,7 +14241,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3145",
+        "InterviewId": 3145,
         "InterviewEndDate": "2023-05-12",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -14249,7 +14249,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3146",
+        "InterviewId": 3146,
         "InterviewEndDate": "2023-05-12",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -14257,7 +14257,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3147",
+        "InterviewId": 3147,
         "InterviewEndDate": "2023-05-12",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -14265,7 +14265,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3148",
+        "InterviewId": 3148,
         "InterviewEndDate": "2023-05-12",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -14273,7 +14273,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3149",
+        "InterviewId": 3149,
         "InterviewEndDate": "2023-05-12",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14281,7 +14281,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3151",
+        "InterviewId": 3151,
         "InterviewEndDate": "2023-05-12",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14289,7 +14289,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3152",
+        "InterviewId": 3152,
         "InterviewEndDate": "2023-05-12",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14297,7 +14297,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3160",
+        "InterviewId": 3160,
         "InterviewEndDate": "2023-05-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14305,7 +14305,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3161",
+        "InterviewId": 3161,
         "InterviewEndDate": "2023-05-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14313,7 +14313,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3162",
+        "InterviewId": 3162,
         "InterviewEndDate": "2023-05-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14321,7 +14321,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3164",
+        "InterviewId": 3164,
         "InterviewEndDate": "2023-05-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14329,7 +14329,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3165",
+        "InterviewId": 3165,
         "InterviewEndDate": "2023-05-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14337,7 +14337,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3166",
+        "InterviewId": 3166,
         "InterviewEndDate": "2023-05-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14345,7 +14345,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3168",
+        "InterviewId": 3168,
         "InterviewEndDate": "2023-05-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14353,7 +14353,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3169",
+        "InterviewId": 3169,
         "InterviewEndDate": "2023-05-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14361,7 +14361,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3170",
+        "InterviewId": 3170,
         "InterviewEndDate": "2023-05-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14369,7 +14369,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3171",
+        "InterviewId": 3171,
         "InterviewEndDate": "2023-05-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14377,7 +14377,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3172",
+        "InterviewId": 3172,
         "InterviewEndDate": "2023-05-15",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14385,7 +14385,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3173",
+        "InterviewId": 3173,
         "InterviewEndDate": "2023-05-15",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14393,7 +14393,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3174",
+        "InterviewId": 3174,
         "InterviewEndDate": "2023-05-15",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14401,7 +14401,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3175",
+        "InterviewId": 3175,
         "InterviewEndDate": "2023-05-15",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14409,7 +14409,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3176",
+        "InterviewId": 3176,
         "InterviewEndDate": "2023-05-15",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14417,7 +14417,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3177",
+        "InterviewId": 3177,
         "InterviewEndDate": "2023-05-15",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14425,7 +14425,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3182",
+        "InterviewId": 3182,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14433,7 +14433,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3183",
+        "InterviewId": 3183,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14441,7 +14441,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3185",
+        "InterviewId": 3185,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14449,7 +14449,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3186",
+        "InterviewId": 3186,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14457,7 +14457,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3187",
+        "InterviewId": 3187,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14465,7 +14465,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3188",
+        "InterviewId": 3188,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14473,7 +14473,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3189",
+        "InterviewId": 3189,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14481,7 +14481,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3191",
+        "InterviewId": 3191,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14489,7 +14489,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3192",
+        "InterviewId": 3192,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14497,7 +14497,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3193",
+        "InterviewId": 3193,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14505,7 +14505,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3194",
+        "InterviewId": 3194,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14513,7 +14513,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3195",
+        "InterviewId": 3195,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14521,7 +14521,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3200",
+        "InterviewId": 3200,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14529,7 +14529,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3201",
+        "InterviewId": 3201,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14537,7 +14537,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3202",
+        "InterviewId": 3202,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14545,7 +14545,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3203",
+        "InterviewId": 3203,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -14553,7 +14553,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3204",
+        "InterviewId": 3204,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "Klm",
@@ -14561,7 +14561,7 @@ let interview_data_raw = `[
         "AirlineCode": "Klm"
     },
     {
-        "InterviewId": "3205",
+        "InterviewId": 3205,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -14569,7 +14569,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3206",
+        "InterviewId": 3206,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "Klm",
@@ -14577,7 +14577,7 @@ let interview_data_raw = `[
         "AirlineCode": "Klm"
     },
     {
-        "InterviewId": "3207",
+        "InterviewId": 3207,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -14585,7 +14585,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3208",
+        "InterviewId": 3208,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -14593,7 +14593,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3209",
+        "InterviewId": 3209,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14601,7 +14601,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3211",
+        "InterviewId": 3211,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14609,7 +14609,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3212",
+        "InterviewId": 3212,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14617,7 +14617,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3213",
+        "InterviewId": 3213,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14625,7 +14625,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3214",
+        "InterviewId": 3214,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14633,7 +14633,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3215",
+        "InterviewId": 3215,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14641,7 +14641,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3217",
+        "InterviewId": 3217,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -14649,7 +14649,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3218",
+        "InterviewId": 3218,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -14657,7 +14657,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3219",
+        "InterviewId": 3219,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -14665,7 +14665,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3221",
+        "InterviewId": 3221,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -14673,7 +14673,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3222",
+        "InterviewId": 3222,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -14681,7 +14681,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3223",
+        "InterviewId": 3223,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -14689,7 +14689,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3224",
+        "InterviewId": 3224,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -14697,7 +14697,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3225",
+        "InterviewId": 3225,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -14705,7 +14705,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3229",
+        "InterviewId": 3229,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -14713,7 +14713,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3230",
+        "InterviewId": 3230,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "Klm",
@@ -14721,7 +14721,7 @@ let interview_data_raw = `[
         "AirlineCode": "Klm"
     },
     {
-        "InterviewId": "3231",
+        "InterviewId": 3231,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -14729,7 +14729,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3232",
+        "InterviewId": 3232,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -14737,7 +14737,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3233",
+        "InterviewId": 3233,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -14745,7 +14745,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3234",
+        "InterviewId": 3234,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -14753,7 +14753,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3235",
+        "InterviewId": 3235,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14761,7 +14761,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3236",
+        "InterviewId": 3236,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14769,7 +14769,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3237",
+        "InterviewId": 3237,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14777,7 +14777,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3238",
+        "InterviewId": 3238,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FI - Icelandair",
@@ -14785,7 +14785,7 @@ let interview_data_raw = `[
         "AirlineCode": "FI"
     },
     {
-        "InterviewId": "3239",
+        "InterviewId": 3239,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FI - Icelandair",
@@ -14793,7 +14793,7 @@ let interview_data_raw = `[
         "AirlineCode": "FI"
     },
     {
-        "InterviewId": "3240",
+        "InterviewId": 3240,
         "InterviewEndDate": "2023-05-23",
         "InterviewState": "Complete",
         "Flight": "FI - Icelandair",
@@ -14801,7 +14801,7 @@ let interview_data_raw = `[
         "AirlineCode": "FI"
     },
     {
-        "InterviewId": "3246",
+        "InterviewId": 3246,
         "InterviewEndDate": "2023-05-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14809,7 +14809,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3247",
+        "InterviewId": 3247,
         "InterviewEndDate": "2023-05-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14817,7 +14817,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3248",
+        "InterviewId": 3248,
         "InterviewEndDate": "2023-05-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14825,7 +14825,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3249",
+        "InterviewId": 3249,
         "InterviewEndDate": "2023-05-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14833,7 +14833,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3253",
+        "InterviewId": 3253,
         "InterviewEndDate": "2023-05-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14841,7 +14841,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3254",
+        "InterviewId": 3254,
         "InterviewEndDate": "2023-05-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14849,7 +14849,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3255",
+        "InterviewId": 3255,
         "InterviewEndDate": "2023-05-30",
         "InterviewState": "Complete",
         "Flight": "Fr",
@@ -14857,7 +14857,7 @@ let interview_data_raw = `[
         "AirlineCode": "Fr"
     },
     {
-        "InterviewId": "3257",
+        "InterviewId": 3257,
         "InterviewEndDate": "2023-05-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14865,7 +14865,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3261",
+        "InterviewId": 3261,
         "InterviewEndDate": "2023-05-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14873,7 +14873,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3262",
+        "InterviewId": 3262,
         "InterviewEndDate": "2023-05-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14881,7 +14881,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3263",
+        "InterviewId": 3263,
         "InterviewEndDate": "2023-05-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14889,7 +14889,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3264",
+        "InterviewId": 3264,
         "InterviewEndDate": "2023-05-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14897,7 +14897,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3265",
+        "InterviewId": 3265,
         "InterviewEndDate": "2023-05-30",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14905,7 +14905,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3266",
+        "InterviewId": 3266,
         "InterviewEndDate": "2023-05-30",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -14913,7 +14913,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3268",
+        "InterviewId": 3268,
         "InterviewEndDate": "2023-05-30",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -14921,7 +14921,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3269",
+        "InterviewId": 3269,
         "InterviewEndDate": "2023-05-30",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -14929,7 +14929,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3270",
+        "InterviewId": 3270,
         "InterviewEndDate": "2023-05-30",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -14937,7 +14937,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3271",
+        "InterviewId": 3271,
         "InterviewEndDate": "2023-05-30",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -14945,7 +14945,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3272",
+        "InterviewId": 3272,
         "InterviewEndDate": "2023-05-30",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -14953,7 +14953,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3273",
+        "InterviewId": 3273,
         "InterviewEndDate": "2023-05-30",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -14961,7 +14961,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3279",
+        "InterviewId": 3279,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14969,7 +14969,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3280",
+        "InterviewId": 3280,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14977,7 +14977,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3281",
+        "InterviewId": 3281,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14985,7 +14985,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3283",
+        "InterviewId": 3283,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -14993,7 +14993,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3284",
+        "InterviewId": 3284,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15001,7 +15001,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3285",
+        "InterviewId": 3285,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15009,7 +15009,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3286",
+        "InterviewId": 3286,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15017,7 +15017,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3287",
+        "InterviewId": 3287,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15025,7 +15025,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3288",
+        "InterviewId": 3288,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15033,7 +15033,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3289",
+        "InterviewId": 3289,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15041,7 +15041,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3290",
+        "InterviewId": 3290,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15049,7 +15049,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3292",
+        "InterviewId": 3292,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -15057,7 +15057,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3293",
+        "InterviewId": 3293,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -15065,7 +15065,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3294",
+        "InterviewId": 3294,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -15073,7 +15073,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3295",
+        "InterviewId": 3295,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -15081,7 +15081,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3296",
+        "InterviewId": 3296,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -15089,7 +15089,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3297",
+        "InterviewId": 3297,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "VY - Vueling Airlines",
@@ -15097,7 +15097,7 @@ let interview_data_raw = `[
         "AirlineCode": "VY"
     },
     {
-        "InterviewId": "3299",
+        "InterviewId": 3299,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "VY - Vueling Airlines",
@@ -15105,7 +15105,7 @@ let interview_data_raw = `[
         "AirlineCode": "VY"
     },
     {
-        "InterviewId": "3300",
+        "InterviewId": 3300,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "VY - Vueling Airlines",
@@ -15113,7 +15113,7 @@ let interview_data_raw = `[
         "AirlineCode": "VY"
     },
     {
-        "InterviewId": "3301",
+        "InterviewId": 3301,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "VY - Vueling Airlines",
@@ -15121,7 +15121,7 @@ let interview_data_raw = `[
         "AirlineCode": "VY"
     },
     {
-        "InterviewId": "3302",
+        "InterviewId": 3302,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15129,7 +15129,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3303",
+        "InterviewId": 3303,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15137,7 +15137,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3304",
+        "InterviewId": 3304,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15145,7 +15145,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3305",
+        "InterviewId": 3305,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15153,7 +15153,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3306",
+        "InterviewId": 3306,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15161,7 +15161,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3308",
+        "InterviewId": 3308,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15169,7 +15169,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3309",
+        "InterviewId": 3309,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15177,7 +15177,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3310",
+        "InterviewId": 3310,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15185,7 +15185,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3311",
+        "InterviewId": 3311,
         "InterviewEndDate": "2023-06-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15193,7 +15193,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3315",
+        "InterviewId": 3315,
         "InterviewEndDate": "2023-06-12",
         "InterviewState": "Complete",
         "Flight": "WF - Widereoe's Flyveselskab",
@@ -15201,7 +15201,7 @@ let interview_data_raw = `[
         "AirlineCode": "WF"
     },
     {
-        "InterviewId": "3316",
+        "InterviewId": 3316,
         "InterviewEndDate": "2023-06-12",
         "InterviewState": "Complete",
         "Flight": "WF - Widereoe's Flyveselskab",
@@ -15209,7 +15209,7 @@ let interview_data_raw = `[
         "AirlineCode": "WF"
     },
     {
-        "InterviewId": "3317",
+        "InterviewId": 3317,
         "InterviewEndDate": "2023-06-12",
         "InterviewState": "Complete",
         "Flight": "WF - Widereoe's Flyveselskab",
@@ -15217,7 +15217,7 @@ let interview_data_raw = `[
         "AirlineCode": "WF"
     },
     {
-        "InterviewId": "3320",
+        "InterviewId": 3320,
         "InterviewEndDate": "2023-06-12",
         "InterviewState": "Complete",
         "Flight": "WF - Widereoe's Flyveselskab",
@@ -15225,7 +15225,7 @@ let interview_data_raw = `[
         "AirlineCode": "WF"
     },
     {
-        "InterviewId": "3322",
+        "InterviewId": 3322,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15233,7 +15233,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3323",
+        "InterviewId": 3323,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15241,7 +15241,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3324",
+        "InterviewId": 3324,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15249,7 +15249,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3325",
+        "InterviewId": 3325,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15257,7 +15257,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3326",
+        "InterviewId": 3326,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15265,7 +15265,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3327",
+        "InterviewId": 3327,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15273,7 +15273,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3328",
+        "InterviewId": 3328,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15281,7 +15281,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3334",
+        "InterviewId": 3334,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15289,7 +15289,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3335",
+        "InterviewId": 3335,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15297,7 +15297,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3336",
+        "InterviewId": 3336,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15305,7 +15305,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3339",
+        "InterviewId": 3339,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -15313,7 +15313,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3340",
+        "InterviewId": 3340,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -15321,7 +15321,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3341",
+        "InterviewId": 3341,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -15329,7 +15329,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3343",
+        "InterviewId": 3343,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -15337,7 +15337,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3344",
+        "InterviewId": 3344,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -15345,7 +15345,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3345",
+        "InterviewId": 3345,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -15353,7 +15353,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3348",
+        "InterviewId": 3348,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15361,7 +15361,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3351",
+        "InterviewId": 3351,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15369,7 +15369,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3352",
+        "InterviewId": 3352,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15377,7 +15377,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3353",
+        "InterviewId": 3353,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15385,7 +15385,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3355",
+        "InterviewId": 3355,
         "InterviewEndDate": "2023-06-13",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -15393,7 +15393,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "3360",
+        "InterviewId": 3360,
         "InterviewEndDate": "2023-06-20",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -15401,7 +15401,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3361",
+        "InterviewId": 3361,
         "InterviewEndDate": "2023-06-20",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -15409,7 +15409,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3362",
+        "InterviewId": 3362,
         "InterviewEndDate": "2023-06-20",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -15417,7 +15417,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3363",
+        "InterviewId": 3363,
         "InterviewEndDate": "2023-06-20",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -15425,7 +15425,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3364",
+        "InterviewId": 3364,
         "InterviewEndDate": "2023-06-20",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -15433,7 +15433,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3368",
+        "InterviewId": 3368,
         "InterviewEndDate": "2023-06-20",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15441,7 +15441,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3369",
+        "InterviewId": 3369,
         "InterviewEndDate": "2023-06-20",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15449,7 +15449,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3370",
+        "InterviewId": 3370,
         "InterviewEndDate": "2023-06-20",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15457,7 +15457,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3371",
+        "InterviewId": 3371,
         "InterviewEndDate": "2023-06-20",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -15465,7 +15465,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "3372",
+        "InterviewId": 3372,
         "InterviewEndDate": "2023-06-20",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -15473,7 +15473,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "3373",
+        "InterviewId": 3373,
         "InterviewEndDate": "2023-06-20",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -15481,7 +15481,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "3374",
+        "InterviewId": 3374,
         "InterviewEndDate": "2023-06-20",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -15489,7 +15489,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "3381",
+        "InterviewId": 3381,
         "InterviewEndDate": "2023-06-20",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -15497,7 +15497,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3382",
+        "InterviewId": 3382,
         "InterviewEndDate": "2023-06-20",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -15505,7 +15505,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3383",
+        "InterviewId": 3383,
         "InterviewEndDate": "2023-06-20",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -15513,7 +15513,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3384",
+        "InterviewId": 3384,
         "InterviewEndDate": "2023-06-20",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -15521,7 +15521,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3385",
+        "InterviewId": 3385,
         "InterviewEndDate": "2023-06-20",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -15529,7 +15529,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3388",
+        "InterviewId": 3388,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "PC - Pegasus Hava Tasimaciligi",
@@ -15537,7 +15537,7 @@ let interview_data_raw = `[
         "AirlineCode": "PC"
     },
     {
-        "InterviewId": "3389",
+        "InterviewId": 3389,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "PC - Pegasus Hava Tasimaciligi",
@@ -15545,7 +15545,7 @@ let interview_data_raw = `[
         "AirlineCode": "PC"
     },
     {
-        "InterviewId": "3395",
+        "InterviewId": 3395,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "BA - British Airways",
@@ -15553,7 +15553,7 @@ let interview_data_raw = `[
         "AirlineCode": "BA"
     },
     {
-        "InterviewId": "3398",
+        "InterviewId": 3398,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -15561,7 +15561,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3399",
+        "InterviewId": 3399,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -15569,7 +15569,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3400",
+        "InterviewId": 3400,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -15577,7 +15577,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3401",
+        "InterviewId": 3401,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -15585,7 +15585,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3402",
+        "InterviewId": 3402,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -15593,7 +15593,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3403",
+        "InterviewId": 3403,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "GQ - Sky Express",
@@ -15601,7 +15601,7 @@ let interview_data_raw = `[
         "AirlineCode": "GQ"
     },
     {
-        "InterviewId": "3404",
+        "InterviewId": 3404,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "GQ - Sky Express",
@@ -15609,7 +15609,7 @@ let interview_data_raw = `[
         "AirlineCode": "GQ"
     },
     {
-        "InterviewId": "3405",
+        "InterviewId": 3405,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "GQ - Sky Express",
@@ -15617,7 +15617,7 @@ let interview_data_raw = `[
         "AirlineCode": "GQ"
     },
     {
-        "InterviewId": "3406",
+        "InterviewId": 3406,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "GQ - Sky Express",
@@ -15625,7 +15625,7 @@ let interview_data_raw = `[
         "AirlineCode": "GQ"
     },
     {
-        "InterviewId": "3407",
+        "InterviewId": 3407,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "GQ - Sky Express",
@@ -15633,7 +15633,7 @@ let interview_data_raw = `[
         "AirlineCode": "GQ"
     },
     {
-        "InterviewId": "3408",
+        "InterviewId": 3408,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "GQ - Sky Express",
@@ -15641,7 +15641,7 @@ let interview_data_raw = `[
         "AirlineCode": "GQ"
     },
     {
-        "InterviewId": "3415",
+        "InterviewId": 3415,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -15649,7 +15649,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3416",
+        "InterviewId": 3416,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -15657,7 +15657,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3418",
+        "InterviewId": 3418,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -15665,7 +15665,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3420",
+        "InterviewId": 3420,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -15673,7 +15673,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3422",
+        "InterviewId": 3422,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -15681,7 +15681,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "3423",
+        "InterviewId": 3423,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -15689,7 +15689,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "3424",
+        "InterviewId": 3424,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -15697,7 +15697,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "3425",
+        "InterviewId": 3425,
         "InterviewEndDate": "2023-06-21",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -15705,7 +15705,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "3430",
+        "InterviewId": 3430,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15713,7 +15713,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3431",
+        "InterviewId": 3431,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15721,7 +15721,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3432",
+        "InterviewId": 3432,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15729,7 +15729,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3435",
+        "InterviewId": 3435,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "FR - RyanairFri",
@@ -15737,7 +15737,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3437",
+        "InterviewId": 3437,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15745,7 +15745,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3439",
+        "InterviewId": 3439,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15753,7 +15753,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3440",
+        "InterviewId": 3440,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15761,7 +15761,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3443",
+        "InterviewId": 3443,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15769,7 +15769,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3447",
+        "InterviewId": 3447,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15777,7 +15777,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3448",
+        "InterviewId": 3448,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15785,7 +15785,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3451",
+        "InterviewId": 3451,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -15793,7 +15793,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3452",
+        "InterviewId": 3452,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -15801,7 +15801,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3453",
+        "InterviewId": 3453,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -15809,7 +15809,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3454",
+        "InterviewId": 3454,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -15817,7 +15817,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3455",
+        "InterviewId": 3455,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -15825,7 +15825,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3457",
+        "InterviewId": 3457,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -15833,7 +15833,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3458",
+        "InterviewId": 3458,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -15841,7 +15841,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3459",
+        "InterviewId": 3459,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -15849,7 +15849,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3460",
+        "InterviewId": 3460,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -15857,7 +15857,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3461",
+        "InterviewId": 3461,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -15865,7 +15865,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3462",
+        "InterviewId": 3462,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -15873,7 +15873,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3465",
+        "InterviewId": 3465,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -15881,7 +15881,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3466",
+        "InterviewId": 3466,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -15889,7 +15889,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3467",
+        "InterviewId": 3467,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -15897,7 +15897,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3468",
+        "InterviewId": 3468,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -15905,7 +15905,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3469",
+        "InterviewId": 3469,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -15913,7 +15913,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3470",
+        "InterviewId": 3470,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -15921,7 +15921,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3471",
+        "InterviewId": 3471,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15929,7 +15929,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3472",
+        "InterviewId": 3472,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15937,7 +15937,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3474",
+        "InterviewId": 3474,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15945,7 +15945,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3475",
+        "InterviewId": 3475,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15953,7 +15953,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3476",
+        "InterviewId": 3476,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15961,7 +15961,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3477",
+        "InterviewId": 3477,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15969,7 +15969,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3478",
+        "InterviewId": 3478,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -15977,7 +15977,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3479",
+        "InterviewId": 3479,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -15985,7 +15985,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3482",
+        "InterviewId": 3482,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -15993,7 +15993,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3483",
+        "InterviewId": 3483,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -16001,7 +16001,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3484",
+        "InterviewId": 3484,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -16009,7 +16009,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3485",
+        "InterviewId": 3485,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -16017,7 +16017,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3486",
+        "InterviewId": 3486,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -16025,7 +16025,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3487",
+        "InterviewId": 3487,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -16033,7 +16033,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3490",
+        "InterviewId": 3490,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -16041,7 +16041,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3491",
+        "InterviewId": 3491,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -16049,7 +16049,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3492",
+        "InterviewId": 3492,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -16057,7 +16057,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3493",
+        "InterviewId": 3493,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -16065,7 +16065,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3494",
+        "InterviewId": 3494,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -16073,7 +16073,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3495",
+        "InterviewId": 3495,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -16081,7 +16081,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3496",
+        "InterviewId": 3496,
         "InterviewEndDate": "2023-06-23",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -16089,7 +16089,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3504",
+        "InterviewId": 3504,
         "InterviewEndDate": "2023-06-29",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16097,7 +16097,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3505",
+        "InterviewId": 3505,
         "InterviewEndDate": "2023-06-29",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16105,7 +16105,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3506",
+        "InterviewId": 3506,
         "InterviewEndDate": "2023-06-29",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16113,7 +16113,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3507",
+        "InterviewId": 3507,
         "InterviewEndDate": "2023-06-29",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16121,7 +16121,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3508",
+        "InterviewId": 3508,
         "InterviewEndDate": "2023-06-29",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16129,7 +16129,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3509",
+        "InterviewId": 3509,
         "InterviewEndDate": "2023-06-29",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16137,7 +16137,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3511",
+        "InterviewId": 3511,
         "InterviewEndDate": "2023-06-29",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -16145,7 +16145,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "3512",
+        "InterviewId": 3512,
         "InterviewEndDate": "2023-06-29",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -16153,7 +16153,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "3513",
+        "InterviewId": 3513,
         "InterviewEndDate": "2023-06-29",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -16161,7 +16161,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "3514",
+        "InterviewId": 3514,
         "InterviewEndDate": "2023-06-29",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -16169,7 +16169,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "3515",
+        "InterviewId": 3515,
         "InterviewEndDate": "2023-06-29",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -16177,7 +16177,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "3516",
+        "InterviewId": 3516,
         "InterviewEndDate": "2023-06-29",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -16185,7 +16185,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "3517",
+        "InterviewId": 3517,
         "InterviewEndDate": "2023-06-29",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -16193,7 +16193,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "3518",
+        "InterviewId": 3518,
         "InterviewEndDate": "2023-06-29",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -16201,7 +16201,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3524",
+        "InterviewId": 3524,
         "InterviewEndDate": "2023-07-04",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16209,7 +16209,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3525",
+        "InterviewId": 3525,
         "InterviewEndDate": "2023-06-29",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16217,7 +16217,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3526",
+        "InterviewId": 3526,
         "InterviewEndDate": "2023-06-29",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16225,7 +16225,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3528",
+        "InterviewId": 3528,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "RC - Atlantic Airways",
@@ -16233,7 +16233,7 @@ let interview_data_raw = `[
         "AirlineCode": "RC"
     },
     {
-        "InterviewId": "3529",
+        "InterviewId": 3529,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "BUC - European Air Charter",
@@ -16241,7 +16241,7 @@ let interview_data_raw = `[
         "AirlineCode": "BUC"
     },
     {
-        "InterviewId": "3530",
+        "InterviewId": 3530,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "RC - Atlantic Airways",
@@ -16249,7 +16249,7 @@ let interview_data_raw = `[
         "AirlineCode": "RC"
     },
     {
-        "InterviewId": "3531",
+        "InterviewId": 3531,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "RC - Atlantic Airways",
@@ -16257,7 +16257,7 @@ let interview_data_raw = `[
         "AirlineCode": "RC"
     },
     {
-        "InterviewId": "3532",
+        "InterviewId": 3532,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "RC - Atlantic Airways",
@@ -16265,7 +16265,7 @@ let interview_data_raw = `[
         "AirlineCode": "RC"
     },
     {
-        "InterviewId": "3533",
+        "InterviewId": 3533,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "RC - Atlantic Airways",
@@ -16273,7 +16273,7 @@ let interview_data_raw = `[
         "AirlineCode": "RC"
     },
     {
-        "InterviewId": "3534",
+        "InterviewId": 3534,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "DX - DAT",
@@ -16281,7 +16281,7 @@ let interview_data_raw = `[
         "AirlineCode": "DX"
     },
     {
-        "InterviewId": "3536",
+        "InterviewId": 3536,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16289,7 +16289,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3537",
+        "InterviewId": 3537,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16297,7 +16297,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3538",
+        "InterviewId": 3538,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16305,7 +16305,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3539",
+        "InterviewId": 3539,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16313,7 +16313,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3540",
+        "InterviewId": 3540,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16321,7 +16321,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3541",
+        "InterviewId": 3541,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16329,7 +16329,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3542",
+        "InterviewId": 3542,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16337,7 +16337,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3543",
+        "InterviewId": 3543,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16345,7 +16345,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3544",
+        "InterviewId": 3544,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -16353,7 +16353,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3545",
+        "InterviewId": 3545,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -16361,7 +16361,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3546",
+        "InterviewId": 3546,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -16369,7 +16369,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3547",
+        "InterviewId": 3547,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -16377,7 +16377,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3548",
+        "InterviewId": 3548,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -16385,7 +16385,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3549",
+        "InterviewId": 3549,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -16393,7 +16393,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3550",
+        "InterviewId": 3550,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -16401,7 +16401,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3551",
+        "InterviewId": 3551,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -16409,7 +16409,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3552",
+        "InterviewId": 3552,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "Play",
@@ -16417,7 +16417,7 @@ let interview_data_raw = `[
         "AirlineCode": "Play"
     },
     {
-        "InterviewId": "3556",
+        "InterviewId": 3556,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "Play",
@@ -16425,7 +16425,7 @@ let interview_data_raw = `[
         "AirlineCode": "Play"
     },
     {
-        "InterviewId": "3557",
+        "InterviewId": 3557,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "Play",
@@ -16433,7 +16433,7 @@ let interview_data_raw = `[
         "AirlineCode": "Play"
     },
     {
-        "InterviewId": "3558",
+        "InterviewId": 3558,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "Play",
@@ -16441,7 +16441,7 @@ let interview_data_raw = `[
         "AirlineCode": "Play"
     },
     {
-        "InterviewId": "3559",
+        "InterviewId": 3559,
         "InterviewEndDate": "2023-07-06",
         "InterviewState": "Complete",
         "Flight": "Play",
@@ -16449,7 +16449,7 @@ let interview_data_raw = `[
         "AirlineCode": "Play"
     },
     {
-        "InterviewId": "3568",
+        "InterviewId": 3568,
         "InterviewEndDate": "2023-07-08",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16457,7 +16457,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3570",
+        "InterviewId": 3570,
         "InterviewEndDate": "2023-07-10",
         "InterviewState": "Complete",
         "Flight": "LX - Swiss International Air Lines",
@@ -16465,7 +16465,7 @@ let interview_data_raw = `[
         "AirlineCode": "LX"
     },
     {
-        "InterviewId": "3571",
+        "InterviewId": 3571,
         "InterviewEndDate": "2023-07-10",
         "InterviewState": "Complete",
         "Flight": "LX - Swiss International Air Lines",
@@ -16473,7 +16473,7 @@ let interview_data_raw = `[
         "AirlineCode": "LX"
     },
     {
-        "InterviewId": "3572",
+        "InterviewId": 3572,
         "InterviewEndDate": "2023-07-10",
         "InterviewState": "Complete",
         "Flight": "LX - Swiss International Air Lines",
@@ -16481,7 +16481,7 @@ let interview_data_raw = `[
         "AirlineCode": "LX"
     },
     {
-        "InterviewId": "3573",
+        "InterviewId": 3573,
         "InterviewEndDate": "2023-07-10",
         "InterviewState": "Complete",
         "Flight": "LX - Swiss International Air Lines",
@@ -16489,7 +16489,7 @@ let interview_data_raw = `[
         "AirlineCode": "LX"
     },
     {
-        "InterviewId": "3574",
+        "InterviewId": 3574,
         "InterviewEndDate": "2023-07-10",
         "InterviewState": "Complete",
         "Flight": "LX - Swiss International Air Lines",
@@ -16497,7 +16497,7 @@ let interview_data_raw = `[
         "AirlineCode": "LX"
     },
     {
-        "InterviewId": "3575",
+        "InterviewId": 3575,
         "InterviewEndDate": "2023-07-10",
         "InterviewState": "Complete",
         "Flight": "LX - Swiss International Air Lines",
@@ -16505,7 +16505,7 @@ let interview_data_raw = `[
         "AirlineCode": "LX"
     },
     {
-        "InterviewId": "3576",
+        "InterviewId": 3576,
         "InterviewEndDate": "2023-07-10",
         "InterviewState": "Complete",
         "Flight": "LX - Swiss International Air Lines",
@@ -16513,7 +16513,7 @@ let interview_data_raw = `[
         "AirlineCode": "LX"
     },
     {
-        "InterviewId": "3581",
+        "InterviewId": 3581,
         "InterviewEndDate": "2023-07-10",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -16521,7 +16521,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3582",
+        "InterviewId": 3582,
         "InterviewEndDate": "2023-07-10",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -16529,7 +16529,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3589",
+        "InterviewId": 3589,
         "InterviewEndDate": "2023-07-12",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -16537,7 +16537,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "3590",
+        "InterviewId": 3590,
         "InterviewEndDate": "2023-07-12",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -16545,7 +16545,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "3591",
+        "InterviewId": 3591,
         "InterviewEndDate": "2023-07-12",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -16553,7 +16553,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "3592",
+        "InterviewId": 3592,
         "InterviewEndDate": "2023-07-12",
         "InterviewState": "Complete",
         "Flight": "Dy",
@@ -16561,7 +16561,7 @@ let interview_data_raw = `[
         "AirlineCode": "Dy"
     },
     {
-        "InterviewId": "3593",
+        "InterviewId": 3593,
         "InterviewEndDate": "2023-07-12",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -16569,7 +16569,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "3596",
+        "InterviewId": 3596,
         "InterviewEndDate": "2023-07-12",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -16577,7 +16577,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3608",
+        "InterviewId": 3608,
         "InterviewEndDate": "2023-07-13",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -16585,7 +16585,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "3609",
+        "InterviewId": 3609,
         "InterviewEndDate": "2023-07-13",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -16593,7 +16593,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "3614",
+        "InterviewId": 3614,
         "InterviewEndDate": "2023-07-13",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -16601,7 +16601,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3615",
+        "InterviewId": 3615,
         "InterviewEndDate": "2023-07-13",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -16609,7 +16609,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3616",
+        "InterviewId": 3616,
         "InterviewEndDate": "2023-07-13",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -16617,7 +16617,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3617",
+        "InterviewId": 3617,
         "InterviewEndDate": "2023-07-13",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -16625,7 +16625,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3618",
+        "InterviewId": 3618,
         "InterviewEndDate": "2023-07-13",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -16633,7 +16633,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3624",
+        "InterviewId": 3624,
         "InterviewEndDate": "2023-07-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16641,7 +16641,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3625",
+        "InterviewId": 3625,
         "InterviewEndDate": "2023-07-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16649,7 +16649,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3626",
+        "InterviewId": 3626,
         "InterviewEndDate": "2023-07-13",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16657,7 +16657,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3629",
+        "InterviewId": 3629,
         "InterviewEndDate": "2023-07-13",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -16665,7 +16665,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "3630",
+        "InterviewId": 3630,
         "InterviewEndDate": "2023-07-13",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -16673,7 +16673,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "3631",
+        "InterviewId": 3631,
         "InterviewEndDate": "2023-07-13",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -16681,7 +16681,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "3632",
+        "InterviewId": 3632,
         "InterviewEndDate": "2023-07-13",
         "InterviewState": "Complete",
         "Flight": "Dk",
@@ -16689,7 +16689,7 @@ let interview_data_raw = `[
         "AirlineCode": "Dk"
     },
     {
-        "InterviewId": "3633",
+        "InterviewId": 3633,
         "InterviewEndDate": "2023-07-13",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -16697,7 +16697,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "3634",
+        "InterviewId": 3634,
         "InterviewEndDate": "2023-07-13",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -16705,7 +16705,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "3638",
+        "InterviewId": 3638,
         "InterviewEndDate": "2023-07-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16713,7 +16713,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3639",
+        "InterviewId": 3639,
         "InterviewEndDate": "2023-07-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16721,7 +16721,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3640",
+        "InterviewId": 3640,
         "InterviewEndDate": "2023-07-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16729,7 +16729,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3641",
+        "InterviewId": 3641,
         "InterviewEndDate": "2023-07-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16737,7 +16737,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3642",
+        "InterviewId": 3642,
         "InterviewEndDate": "2023-07-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16745,7 +16745,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3643",
+        "InterviewId": 3643,
         "InterviewEndDate": "2023-07-14",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -16753,7 +16753,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "3644",
+        "InterviewId": 3644,
         "InterviewEndDate": "2023-07-14",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -16761,7 +16761,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "3646",
+        "InterviewId": 3646,
         "InterviewEndDate": "2023-07-14",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -16769,7 +16769,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "3647",
+        "InterviewId": 3647,
         "InterviewEndDate": "2023-07-14",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -16777,7 +16777,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "3648",
+        "InterviewId": 3648,
         "InterviewEndDate": "2023-07-14",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -16785,7 +16785,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "3649",
+        "InterviewId": 3649,
         "InterviewEndDate": "2023-07-14",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -16793,7 +16793,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "3650",
+        "InterviewId": 3650,
         "InterviewEndDate": "2023-07-14",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -16801,7 +16801,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "3652",
+        "InterviewId": 3652,
         "InterviewEndDate": "2023-07-14",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -16809,7 +16809,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "3655",
+        "InterviewId": 3655,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "LX - Swiss International Air Lines",
@@ -16817,7 +16817,7 @@ let interview_data_raw = `[
         "AirlineCode": "LX"
     },
     {
-        "InterviewId": "3656",
+        "InterviewId": 3656,
         "InterviewEndDate": "2023-07-14",
         "InterviewState": "Complete",
         "Flight": "LX - Swiss International Air Lines",
@@ -16825,7 +16825,7 @@ let interview_data_raw = `[
         "AirlineCode": "LX"
     },
     {
-        "InterviewId": "3657",
+        "InterviewId": 3657,
         "InterviewEndDate": "2023-07-14",
         "InterviewState": "Complete",
         "Flight": "LX - Swiss International Air Lines",
@@ -16833,7 +16833,7 @@ let interview_data_raw = `[
         "AirlineCode": "LX"
     },
     {
-        "InterviewId": "3658",
+        "InterviewId": 3658,
         "InterviewEndDate": "2023-07-14",
         "InterviewState": "Complete",
         "Flight": "LX - Swiss International Air Lines",
@@ -16841,7 +16841,7 @@ let interview_data_raw = `[
         "AirlineCode": "LX"
     },
     {
-        "InterviewId": "3659",
+        "InterviewId": 3659,
         "InterviewEndDate": "2023-07-14",
         "InterviewState": "Complete",
         "Flight": "LX - Swiss International Air Lines",
@@ -16849,7 +16849,7 @@ let interview_data_raw = `[
         "AirlineCode": "LX"
     },
     {
-        "InterviewId": "3660",
+        "InterviewId": 3660,
         "InterviewEndDate": "2023-07-14",
         "InterviewState": "Complete",
         "Flight": "LX - Swiss International Air Lines",
@@ -16857,7 +16857,7 @@ let interview_data_raw = `[
         "AirlineCode": "LX"
     },
     {
-        "InterviewId": "3663",
+        "InterviewId": 3663,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -16865,7 +16865,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3664",
+        "InterviewId": 3664,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -16873,7 +16873,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3665",
+        "InterviewId": 3665,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -16881,7 +16881,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3666",
+        "InterviewId": 3666,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -16889,7 +16889,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3667",
+        "InterviewId": 3667,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -16897,7 +16897,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3668",
+        "InterviewId": 3668,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -16905,7 +16905,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3669",
+        "InterviewId": 3669,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -16913,7 +16913,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3670",
+        "InterviewId": 3670,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -16921,7 +16921,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3671",
+        "InterviewId": 3671,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -16929,7 +16929,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3672",
+        "InterviewId": 3672,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -16937,7 +16937,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3673",
+        "InterviewId": 3673,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -16945,7 +16945,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3674",
+        "InterviewId": 3674,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -16953,7 +16953,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3675",
+        "InterviewId": 3675,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -16961,7 +16961,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3676",
+        "InterviewId": 3676,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -16969,7 +16969,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3677",
+        "InterviewId": 3677,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16977,7 +16977,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3678",
+        "InterviewId": 3678,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16985,7 +16985,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3679",
+        "InterviewId": 3679,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -16993,7 +16993,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3680",
+        "InterviewId": 3680,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17001,7 +17001,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3681",
+        "InterviewId": 3681,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17009,7 +17009,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3682",
+        "InterviewId": 3682,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17017,7 +17017,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3684",
+        "InterviewId": 3684,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17025,7 +17025,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3685",
+        "InterviewId": 3685,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17033,7 +17033,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3686",
+        "InterviewId": 3686,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17041,7 +17041,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3687",
+        "InterviewId": 3687,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17049,7 +17049,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3688",
+        "InterviewId": 3688,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17057,7 +17057,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3689",
+        "InterviewId": 3689,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17065,7 +17065,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3690",
+        "InterviewId": 3690,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17073,7 +17073,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3691",
+        "InterviewId": 3691,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17081,7 +17081,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3692",
+        "InterviewId": 3692,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17089,7 +17089,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3693",
+        "InterviewId": 3693,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -17097,7 +17097,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "3694",
+        "InterviewId": 3694,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -17105,7 +17105,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "3696",
+        "InterviewId": 3696,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -17113,7 +17113,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "3697",
+        "InterviewId": 3697,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -17121,7 +17121,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "3698",
+        "InterviewId": 3698,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -17129,7 +17129,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "3699",
+        "InterviewId": 3699,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -17137,7 +17137,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "3700",
+        "InterviewId": 3700,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "BGH - Balkan Holidays Air",
@@ -17145,7 +17145,7 @@ let interview_data_raw = `[
         "AirlineCode": "BGH"
     },
     {
-        "InterviewId": "3701",
+        "InterviewId": 3701,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "DK - Sunclass Airlines",
@@ -17153,7 +17153,7 @@ let interview_data_raw = `[
         "AirlineCode": "DK"
     },
     {
-        "InterviewId": "3702",
+        "InterviewId": 3702,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17161,7 +17161,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3703",
+        "InterviewId": 3703,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17169,7 +17169,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3705",
+        "InterviewId": 3705,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17177,7 +17177,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3706",
+        "InterviewId": 3706,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17185,7 +17185,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3707",
+        "InterviewId": 3707,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17193,7 +17193,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3709",
+        "InterviewId": 3709,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17201,7 +17201,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3710",
+        "InterviewId": 3710,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17209,7 +17209,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3711",
+        "InterviewId": 3711,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -17217,7 +17217,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3712",
+        "InterviewId": 3712,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -17225,7 +17225,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3713",
+        "InterviewId": 3713,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -17233,7 +17233,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3714",
+        "InterviewId": 3714,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -17241,7 +17241,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3716",
+        "InterviewId": 3716,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -17249,7 +17249,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3718",
+        "InterviewId": 3718,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -17257,7 +17257,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3719",
+        "InterviewId": 3719,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -17265,7 +17265,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3722",
+        "InterviewId": 3722,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "TK - Turkish Airlines",
@@ -17273,7 +17273,7 @@ let interview_data_raw = `[
         "AirlineCode": "TK"
     },
     {
-        "InterviewId": "3723",
+        "InterviewId": 3723,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "TK - Turkish Airlines",
@@ -17281,7 +17281,7 @@ let interview_data_raw = `[
         "AirlineCode": "TK"
     },
     {
-        "InterviewId": "3724",
+        "InterviewId": 3724,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "TK - Turkish Airlines",
@@ -17289,7 +17289,7 @@ let interview_data_raw = `[
         "AirlineCode": "TK"
     },
     {
-        "InterviewId": "3725",
+        "InterviewId": 3725,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "TK - Turkish Airlines",
@@ -17297,7 +17297,7 @@ let interview_data_raw = `[
         "AirlineCode": "TK"
     },
     {
-        "InterviewId": "3726",
+        "InterviewId": 3726,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "TK - Turkish Airlines",
@@ -17305,7 +17305,7 @@ let interview_data_raw = `[
         "AirlineCode": "TK"
     },
     {
-        "InterviewId": "3727",
+        "InterviewId": 3727,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "TK - Turkish Airlines",
@@ -17313,7 +17313,7 @@ let interview_data_raw = `[
         "AirlineCode": "TK"
     },
     {
-        "InterviewId": "3728",
+        "InterviewId": 3728,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "TK - Turkish Airlines",
@@ -17321,7 +17321,7 @@ let interview_data_raw = `[
         "AirlineCode": "TK"
     },
     {
-        "InterviewId": "3729",
+        "InterviewId": 3729,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -17329,7 +17329,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3730",
+        "InterviewId": 3730,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -17337,7 +17337,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3731",
+        "InterviewId": 3731,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -17345,7 +17345,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3732",
+        "InterviewId": 3732,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -17353,7 +17353,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3733",
+        "InterviewId": 3733,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -17361,7 +17361,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3734",
+        "InterviewId": 3734,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -17369,7 +17369,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3735",
+        "InterviewId": 3735,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -17377,7 +17377,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3736",
+        "InterviewId": 3736,
         "InterviewEndDate": "2023-07-24",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -17385,7 +17385,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3739",
+        "InterviewId": 3739,
         "InterviewEndDate": "2023-07-31",
         "InterviewState": "Complete",
         "Flight": "LX - Swiss International Air Lines",
@@ -17393,7 +17393,7 @@ let interview_data_raw = `[
         "AirlineCode": "LX"
     },
     {
-        "InterviewId": "3740",
+        "InterviewId": 3740,
         "InterviewEndDate": "2023-07-31",
         "InterviewState": "Complete",
         "Flight": "LX - Swiss International Air Lines",
@@ -17401,7 +17401,7 @@ let interview_data_raw = `[
         "AirlineCode": "LX"
     },
     {
-        "InterviewId": "3741",
+        "InterviewId": 3741,
         "InterviewEndDate": "2023-07-31",
         "InterviewState": "Complete",
         "Flight": "LX - Swiss International Air Lines",
@@ -17409,7 +17409,7 @@ let interview_data_raw = `[
         "AirlineCode": "LX"
     },
     {
-        "InterviewId": "3742",
+        "InterviewId": 3742,
         "InterviewEndDate": "2023-07-31",
         "InterviewState": "Complete",
         "Flight": "LX - Swiss International Air Lines",
@@ -17417,7 +17417,7 @@ let interview_data_raw = `[
         "AirlineCode": "LX"
     },
     {
-        "InterviewId": "3746",
+        "InterviewId": 3746,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17425,7 +17425,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3747",
+        "InterviewId": 3747,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17433,7 +17433,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3748",
+        "InterviewId": 3748,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17441,7 +17441,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3750",
+        "InterviewId": 3750,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17449,7 +17449,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3751",
+        "InterviewId": 3751,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17457,7 +17457,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3752",
+        "InterviewId": 3752,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17465,7 +17465,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3753",
+        "InterviewId": 3753,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17473,7 +17473,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3755",
+        "InterviewId": 3755,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "W6 - Wizz Air",
@@ -17481,7 +17481,7 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
-        "InterviewId": "3758",
+        "InterviewId": 3758,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "W6 - Wizz Air",
@@ -17489,7 +17489,7 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
-        "InterviewId": "3760",
+        "InterviewId": 3760,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "W6 - Wizz Air",
@@ -17497,7 +17497,7 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
-        "InterviewId": "3764",
+        "InterviewId": 3764,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -17505,7 +17505,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3765",
+        "InterviewId": 3765,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -17513,7 +17513,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3766",
+        "InterviewId": 3766,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -17521,7 +17521,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3767",
+        "InterviewId": 3767,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -17529,7 +17529,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "3769",
+        "InterviewId": 3769,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -17537,7 +17537,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "3770",
+        "InterviewId": 3770,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -17545,7 +17545,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "3771",
+        "InterviewId": 3771,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -17553,7 +17553,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "3772",
+        "InterviewId": 3772,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -17561,7 +17561,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "3773",
+        "InterviewId": 3773,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -17569,7 +17569,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "3774",
+        "InterviewId": 3774,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -17577,7 +17577,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "3775",
+        "InterviewId": 3775,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17585,7 +17585,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3776",
+        "InterviewId": 3776,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17593,7 +17593,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3777",
+        "InterviewId": 3777,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17601,7 +17601,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3778",
+        "InterviewId": 3778,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17609,7 +17609,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3779",
+        "InterviewId": 3779,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17617,7 +17617,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3780",
+        "InterviewId": 3780,
         "InterviewEndDate": "2023-08-14",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17625,7 +17625,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3783",
+        "InterviewId": 3783,
         "InterviewEndDate": "2023-08-17",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17633,7 +17633,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3784",
+        "InterviewId": 3784,
         "InterviewEndDate": "2023-08-17",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17641,7 +17641,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3785",
+        "InterviewId": 3785,
         "InterviewEndDate": "2023-08-17",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17649,7 +17649,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3786",
+        "InterviewId": 3786,
         "InterviewEndDate": "2023-08-17",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17657,7 +17657,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3792",
+        "InterviewId": 3792,
         "InterviewEndDate": "2023-08-17",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -17665,7 +17665,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3794",
+        "InterviewId": 3794,
         "InterviewEndDate": "2023-08-17",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -17673,7 +17673,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3798",
+        "InterviewId": 3798,
         "InterviewEndDate": "2023-08-17",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17681,7 +17681,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3799",
+        "InterviewId": 3799,
         "InterviewEndDate": "2023-08-17",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17689,7 +17689,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3800",
+        "InterviewId": 3800,
         "InterviewEndDate": "2023-08-17",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17697,7 +17697,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3801",
+        "InterviewId": 3801,
         "InterviewEndDate": "2023-08-17",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17705,7 +17705,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3803",
+        "InterviewId": 3803,
         "InterviewEndDate": "2023-08-17",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17713,7 +17713,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3810",
+        "InterviewId": 3810,
         "InterviewEndDate": "2023-08-19",
         "InterviewState": "Complete",
         "Flight": "XR - Corendon Airline",
@@ -17721,7 +17721,7 @@ let interview_data_raw = `[
         "AirlineCode": "XR"
     },
     {
-        "InterviewId": "3811",
+        "InterviewId": 3811,
         "InterviewEndDate": "2023-08-19",
         "InterviewState": "Complete",
         "Flight": "XR - Corendon Airline",
@@ -17729,7 +17729,7 @@ let interview_data_raw = `[
         "AirlineCode": "XR"
     },
     {
-        "InterviewId": "3812",
+        "InterviewId": 3812,
         "InterviewEndDate": "2023-08-19",
         "InterviewState": "Complete",
         "Flight": "XR - Corendon Airline",
@@ -17737,7 +17737,7 @@ let interview_data_raw = `[
         "AirlineCode": "XR"
     },
     {
-        "InterviewId": "3813",
+        "InterviewId": 3813,
         "InterviewEndDate": "2023-08-19",
         "InterviewState": "Complete",
         "Flight": "XR - Corendon Airline",
@@ -17745,7 +17745,7 @@ let interview_data_raw = `[
         "AirlineCode": "XR"
     },
     {
-        "InterviewId": "3816",
+        "InterviewId": 3816,
         "InterviewEndDate": "2023-08-19",
         "InterviewState": "Complete",
         "Flight": "XR - Corendon Airline",
@@ -17753,7 +17753,7 @@ let interview_data_raw = `[
         "AirlineCode": "XR"
     },
     {
-        "InterviewId": "3818",
+        "InterviewId": 3818,
         "InterviewEndDate": "2023-08-19",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17761,7 +17761,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3819",
+        "InterviewId": 3819,
         "InterviewEndDate": "2023-08-19",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17769,7 +17769,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3820",
+        "InterviewId": 3820,
         "InterviewEndDate": "2023-08-19",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17777,7 +17777,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3827",
+        "InterviewId": 3827,
         "InterviewEndDate": "2023-08-19",
         "InterviewState": "Complete",
         "Flight": "RC - Atlantic Airways",
@@ -17785,7 +17785,7 @@ let interview_data_raw = `[
         "AirlineCode": "RC"
     },
     {
-        "InterviewId": "3828",
+        "InterviewId": 3828,
         "InterviewEndDate": "2023-08-19",
         "InterviewState": "Complete",
         "Flight": "RC - Atlantic Airways",
@@ -17793,7 +17793,7 @@ let interview_data_raw = `[
         "AirlineCode": "RC"
     },
     {
-        "InterviewId": "3829",
+        "InterviewId": 3829,
         "InterviewEndDate": "2023-08-19",
         "InterviewState": "Complete",
         "Flight": "RC - Atlantic Airways",
@@ -17801,7 +17801,7 @@ let interview_data_raw = `[
         "AirlineCode": "RC"
     },
     {
-        "InterviewId": "3830",
+        "InterviewId": 3830,
         "InterviewEndDate": "2023-08-20",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17809,7 +17809,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3831",
+        "InterviewId": 3831,
         "InterviewEndDate": "2023-08-20",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17817,7 +17817,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3832",
+        "InterviewId": 3832,
         "InterviewEndDate": "2023-08-20",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17825,7 +17825,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3833",
+        "InterviewId": 3833,
         "InterviewEndDate": "2023-08-20",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17833,7 +17833,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3834",
+        "InterviewId": 3834,
         "InterviewEndDate": "2023-08-20",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -17841,7 +17841,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "3835",
+        "InterviewId": 3835,
         "InterviewEndDate": "2023-08-20",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -17849,7 +17849,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "3836",
+        "InterviewId": 3836,
         "InterviewEndDate": "2023-08-20",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -17857,7 +17857,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "3839",
+        "InterviewId": 3839,
         "InterviewEndDate": "2023-08-20",
         "InterviewState": "Complete",
         "Flight": "DY - Norwegian Air Schuttle",
@@ -17865,7 +17865,7 @@ let interview_data_raw = `[
         "AirlineCode": "DY"
     },
     {
-        "InterviewId": "3842",
+        "InterviewId": 3842,
         "InterviewEndDate": "2023-08-20",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -17873,7 +17873,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "3843",
+        "InterviewId": 3843,
         "InterviewEndDate": "2023-08-20",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -17881,7 +17881,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "3850",
+        "InterviewId": 3850,
         "InterviewEndDate": "2023-08-20",
         "InterviewState": "Complete",
         "Flight": "RC - Atlantic Airways",
@@ -17889,7 +17889,7 @@ let interview_data_raw = `[
         "AirlineCode": "RC"
     },
     {
-        "InterviewId": "3851",
+        "InterviewId": 3851,
         "InterviewEndDate": "2023-08-20",
         "InterviewState": "Complete",
         "Flight": "RC - Atlantic Airways",
@@ -17897,7 +17897,7 @@ let interview_data_raw = `[
         "AirlineCode": "RC"
     },
     {
-        "InterviewId": "3860",
+        "InterviewId": 3860,
         "InterviewEndDate": "2023-08-23",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -17905,7 +17905,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3864",
+        "InterviewId": 3864,
         "InterviewEndDate": "2023-08-23",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -17913,7 +17913,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "3865",
+        "InterviewId": 3865,
         "InterviewEndDate": "2023-08-23",
         "InterviewState": "Complete",
         "Flight": "LO - LOT",
@@ -17921,7 +17921,7 @@ let interview_data_raw = `[
         "AirlineCode": "LO"
     },
     {
-        "InterviewId": "3866",
+        "InterviewId": 3866,
         "InterviewEndDate": "2023-08-23",
         "InterviewState": "Complete",
         "Flight": "LO - LOT",
@@ -17929,7 +17929,7 @@ let interview_data_raw = `[
         "AirlineCode": "LO"
     },
     {
-        "InterviewId": "3867",
+        "InterviewId": 3867,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -17937,7 +17937,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3868",
+        "InterviewId": 3868,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -17945,7 +17945,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3873",
+        "InterviewId": 3873,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -17953,7 +17953,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3874",
+        "InterviewId": 3874,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -17961,7 +17961,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3875",
+        "InterviewId": 3875,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -17969,7 +17969,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3876",
+        "InterviewId": 3876,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -17977,7 +17977,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3877",
+        "InterviewId": 3877,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -17985,7 +17985,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3881",
+        "InterviewId": 3881,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -17993,7 +17993,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3886",
+        "InterviewId": 3886,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18001,7 +18001,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3887",
+        "InterviewId": 3887,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18009,7 +18009,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3892",
+        "InterviewId": 3892,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -18017,7 +18017,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "3893",
+        "InterviewId": 3893,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "BT - Air Baltic",
@@ -18025,7 +18025,7 @@ let interview_data_raw = `[
         "AirlineCode": "BT"
     },
     {
-        "InterviewId": "3894",
+        "InterviewId": 3894,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18033,7 +18033,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3895",
+        "InterviewId": 3895,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18041,7 +18041,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3897",
+        "InterviewId": 3897,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -18049,7 +18049,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3903",
+        "InterviewId": 3903,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -18057,7 +18057,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3904",
+        "InterviewId": 3904,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -18065,7 +18065,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3905",
+        "InterviewId": 3905,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -18073,7 +18073,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3906",
+        "InterviewId": 3906,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -18081,7 +18081,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3910",
+        "InterviewId": 3910,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "CAT - Global Reach Aviation",
@@ -18089,7 +18089,7 @@ let interview_data_raw = `[
         "AirlineCode": "CAT"
     },
     {
-        "InterviewId": "3914",
+        "InterviewId": 3914,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "CAT - Global Reach Aviation",
@@ -18097,7 +18097,7 @@ let interview_data_raw = `[
         "AirlineCode": "CAT"
     },
     {
-        "InterviewId": "3921",
+        "InterviewId": 3921,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "PC - Pegasus Hava Tasimaciligi",
@@ -18105,7 +18105,7 @@ let interview_data_raw = `[
         "AirlineCode": "PC"
     },
     {
-        "InterviewId": "3922",
+        "InterviewId": 3922,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "PC - Pegasus Hava Tasimaciligi",
@@ -18113,7 +18113,7 @@ let interview_data_raw = `[
         "AirlineCode": "PC"
     },
     {
-        "InterviewId": "3926",
+        "InterviewId": 3926,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -18121,7 +18121,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3928",
+        "InterviewId": 3928,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -18129,7 +18129,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3929",
+        "InterviewId": 3929,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -18137,7 +18137,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3932",
+        "InterviewId": 3932,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "Braaethens",
@@ -18145,7 +18145,7 @@ let interview_data_raw = `[
         "AirlineCode": "Braaethens"
     },
     {
-        "InterviewId": "3933",
+        "InterviewId": 3933,
         "InterviewEndDate": "2023-08-24",
         "InterviewState": "Complete",
         "Flight": "Braaethens",
@@ -18153,7 +18153,7 @@ let interview_data_raw = `[
         "AirlineCode": "Braaethens"
     },
     {
-        "InterviewId": "3941",
+        "InterviewId": 3941,
         "InterviewEndDate": "2023-08-26",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -18161,7 +18161,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3944",
+        "InterviewId": 3944,
         "InterviewEndDate": "2023-08-26",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -18169,7 +18169,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3945",
+        "InterviewId": 3945,
         "InterviewEndDate": "2023-08-26",
         "InterviewState": "Complete",
         "Flight": "Lh",
@@ -18177,7 +18177,7 @@ let interview_data_raw = `[
         "AirlineCode": "Lh"
     },
     {
-        "InterviewId": "3947",
+        "InterviewId": 3947,
         "InterviewEndDate": "2023-08-26",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -18185,7 +18185,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3948",
+        "InterviewId": 3948,
         "InterviewEndDate": "2023-08-26",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -18193,7 +18193,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3949",
+        "InterviewId": 3949,
         "InterviewEndDate": "2023-08-26",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -18201,7 +18201,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3950",
+        "InterviewId": 3950,
         "InterviewEndDate": "2023-08-26",
         "InterviewState": "Complete",
         "Flight": "VY - Vueling Airlines",
@@ -18209,7 +18209,7 @@ let interview_data_raw = `[
         "AirlineCode": "VY"
     },
     {
-        "InterviewId": "3951",
+        "InterviewId": 3951,
         "InterviewEndDate": "2023-08-26",
         "InterviewState": "Complete",
         "Flight": "VY - Vueling Airlines",
@@ -18217,7 +18217,7 @@ let interview_data_raw = `[
         "AirlineCode": "VY"
     },
     {
-        "InterviewId": "3952",
+        "InterviewId": 3952,
         "InterviewEndDate": "2023-08-26",
         "InterviewState": "Complete",
         "Flight": "VY - Vueling Airlines",
@@ -18225,7 +18225,7 @@ let interview_data_raw = `[
         "AirlineCode": "VY"
     },
     {
-        "InterviewId": "3960",
+        "InterviewId": 3960,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -18233,7 +18233,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3961",
+        "InterviewId": 3961,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -18241,7 +18241,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3963",
+        "InterviewId": 3963,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -18249,7 +18249,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3966",
+        "InterviewId": 3966,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "XQ - G\u00fcnes Ekspres Havacilik (SunExpress)",
@@ -18257,7 +18257,7 @@ let interview_data_raw = `[
         "AirlineCode": "XQ"
     },
     {
-        "InterviewId": "3968",
+        "InterviewId": 3968,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "XQ - G\u00fcnes Ekspres Havacilik (SunExpress)",
@@ -18265,7 +18265,7 @@ let interview_data_raw = `[
         "AirlineCode": "XQ"
     },
     {
-        "InterviewId": "3969",
+        "InterviewId": 3969,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "XQ - G\u00fcnes Ekspres Havacilik (SunExpress)",
@@ -18273,7 +18273,7 @@ let interview_data_raw = `[
         "AirlineCode": "XQ"
     },
     {
-        "InterviewId": "3970",
+        "InterviewId": 3970,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18281,7 +18281,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3971",
+        "InterviewId": 3971,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18289,7 +18289,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3972",
+        "InterviewId": 3972,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18297,7 +18297,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3973",
+        "InterviewId": 3973,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18305,7 +18305,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3974",
+        "InterviewId": 3974,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18313,7 +18313,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3978",
+        "InterviewId": 3978,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -18321,7 +18321,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3982",
+        "InterviewId": 3982,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -18329,7 +18329,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "3984",
+        "InterviewId": 3984,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -18337,7 +18337,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3985",
+        "InterviewId": 3985,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -18345,7 +18345,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "3992",
+        "InterviewId": 3992,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -18353,7 +18353,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "3993",
+        "InterviewId": 3993,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18361,7 +18361,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3994",
+        "InterviewId": 3994,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18369,7 +18369,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "3996",
+        "InterviewId": 3996,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18377,7 +18377,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4001",
+        "InterviewId": 4001,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -18385,7 +18385,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "4002",
+        "InterviewId": 4002,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -18393,7 +18393,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "4003",
+        "InterviewId": 4003,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18401,7 +18401,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4006",
+        "InterviewId": 4006,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -18409,7 +18409,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "4014",
+        "InterviewId": 4014,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
@@ -18417,7 +18417,7 @@ let interview_data_raw = `[
         "AirlineCode": "AF"
     },
     {
-        "InterviewId": "4020",
+        "InterviewId": 4020,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -18425,7 +18425,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "4021",
+        "InterviewId": 4021,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -18433,7 +18433,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "4028",
+        "InterviewId": 4028,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "VY - Vueling Airlines",
@@ -18441,7 +18441,7 @@ let interview_data_raw = `[
         "AirlineCode": "VY"
     },
     {
-        "InterviewId": "4029",
+        "InterviewId": 4029,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "VY - Vueling Airlines",
@@ -18449,7 +18449,7 @@ let interview_data_raw = `[
         "AirlineCode": "VY"
     },
     {
-        "InterviewId": "4034",
+        "InterviewId": 4034,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -18457,7 +18457,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "4035",
+        "InterviewId": 4035,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -18465,7 +18465,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "4040",
+        "InterviewId": 4040,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18473,7 +18473,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4041",
+        "InterviewId": 4041,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18481,7 +18481,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4043",
+        "InterviewId": 4043,
         "InterviewEndDate": "2023-08-29",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18489,7 +18489,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4044",
+        "InterviewId": 4044,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -18497,7 +18497,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "4047",
+        "InterviewId": 4047,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -18505,7 +18505,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "4048",
+        "InterviewId": 4048,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -18513,7 +18513,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "4049",
+        "InterviewId": 4049,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -18521,7 +18521,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "4050",
+        "InterviewId": 4050,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -18529,7 +18529,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "4052",
+        "InterviewId": 4052,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -18537,7 +18537,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "4053",
+        "InterviewId": 4053,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -18545,7 +18545,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "4055",
+        "InterviewId": 4055,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -18553,7 +18553,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "4061",
+        "InterviewId": 4061,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "TK - Turkish Airlines",
@@ -18561,7 +18561,7 @@ let interview_data_raw = `[
         "AirlineCode": "TK"
     },
     {
-        "InterviewId": "4062",
+        "InterviewId": 4062,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "TK - Turkish Airlines",
@@ -18569,7 +18569,7 @@ let interview_data_raw = `[
         "AirlineCode": "TK"
     },
     {
-        "InterviewId": "4063",
+        "InterviewId": 4063,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "SN - Brussels Airlines",
@@ -18577,7 +18577,7 @@ let interview_data_raw = `[
         "AirlineCode": "SN"
     },
     {
-        "InterviewId": "4064",
+        "InterviewId": 4064,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "LO - LOT",
@@ -18585,7 +18585,7 @@ let interview_data_raw = `[
         "AirlineCode": "LO"
     },
     {
-        "InterviewId": "4068",
+        "InterviewId": 4068,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "LO - LOT",
@@ -18593,7 +18593,7 @@ let interview_data_raw = `[
         "AirlineCode": "LO"
     },
     {
-        "InterviewId": "4070",
+        "InterviewId": 4070,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -18601,7 +18601,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "4071",
+        "InterviewId": 4071,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -18609,7 +18609,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "4073",
+        "InterviewId": 4073,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "JTD - Jettime",
@@ -18617,7 +18617,7 @@ let interview_data_raw = `[
         "AirlineCode": "JTD"
     },
     {
-        "InterviewId": "4077",
+        "InterviewId": 4077,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18625,7 +18625,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4078",
+        "InterviewId": 4078,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18633,7 +18633,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4080",
+        "InterviewId": 4080,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18641,7 +18641,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4086",
+        "InterviewId": 4086,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18649,7 +18649,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4087",
+        "InterviewId": 4087,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18657,7 +18657,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4092",
+        "InterviewId": 4092,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "W6 - Wizz Air",
@@ -18665,7 +18665,7 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
-        "InterviewId": "4096",
+        "InterviewId": 4096,
         "InterviewEndDate": "2023-09-01",
         "InterviewState": "Complete",
         "Flight": "W6 - Wizz Air",
@@ -18673,7 +18673,7 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
-        "InterviewId": "4106",
+        "InterviewId": 4106,
         "InterviewEndDate": "2023-09-03",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -18681,7 +18681,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "4107",
+        "InterviewId": 4107,
         "InterviewEndDate": "2023-09-03",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -18689,7 +18689,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "4112",
+        "InterviewId": 4112,
         "InterviewEndDate": "2023-09-03",
         "InterviewState": "Complete",
         "Flight": "CAT - Global Reach Aviation",
@@ -18697,7 +18697,7 @@ let interview_data_raw = `[
         "AirlineCode": "CAT"
     },
     {
-        "InterviewId": "4114",
+        "InterviewId": 4114,
         "InterviewEndDate": "2023-09-03",
         "InterviewState": "Complete",
         "Flight": "CAT - Global Reach Aviation",
@@ -18705,7 +18705,7 @@ let interview_data_raw = `[
         "AirlineCode": "CAT"
     },
     {
-        "InterviewId": "4115",
+        "InterviewId": 4115,
         "InterviewEndDate": "2023-09-03",
         "InterviewState": "Complete",
         "Flight": "CAT - Global Reach Aviation",
@@ -18713,7 +18713,7 @@ let interview_data_raw = `[
         "AirlineCode": "CAT"
     },
     {
-        "InterviewId": "4116",
+        "InterviewId": 4116,
         "InterviewEndDate": "2023-09-03",
         "InterviewState": "Complete",
         "Flight": "CAT - Global Reach Aviation",
@@ -18721,7 +18721,7 @@ let interview_data_raw = `[
         "AirlineCode": "CAT"
     },
     {
-        "InterviewId": "4117",
+        "InterviewId": 4117,
         "InterviewEndDate": "2023-09-03",
         "InterviewState": "Complete",
         "Flight": "CAT - Global Reach Aviation",
@@ -18729,7 +18729,7 @@ let interview_data_raw = `[
         "AirlineCode": "CAT"
     },
     {
-        "InterviewId": "4118",
+        "InterviewId": 4118,
         "InterviewEndDate": "2023-09-03",
         "InterviewState": "Complete",
         "Flight": "DX - DAT",
@@ -18737,7 +18737,7 @@ let interview_data_raw = `[
         "AirlineCode": "DX"
     },
     {
-        "InterviewId": "4119",
+        "InterviewId": 4119,
         "InterviewEndDate": "2023-09-03",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -18745,7 +18745,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "4120",
+        "InterviewId": 4120,
         "InterviewEndDate": "2023-09-03",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18753,7 +18753,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4121",
+        "InterviewId": 4121,
         "InterviewEndDate": "2023-09-03",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18761,7 +18761,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4133",
+        "InterviewId": 4133,
         "InterviewEndDate": "2023-09-20",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18769,7 +18769,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4135",
+        "InterviewId": 4135,
         "InterviewEndDate": "2023-09-20",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18777,7 +18777,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4136",
+        "InterviewId": 4136,
         "InterviewEndDate": "2023-09-21",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18785,7 +18785,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4158",
+        "InterviewId": 4158,
         "InterviewEndDate": "2023-09-26",
         "InterviewState": "Complete",
         "Flight": "RC - Atlantic Airways",
@@ -18793,7 +18793,7 @@ let interview_data_raw = `[
         "AirlineCode": "RC"
     },
     {
-        "InterviewId": "4159",
+        "InterviewId": 4159,
         "InterviewEndDate": "2023-09-26",
         "InterviewState": "Complete",
         "Flight": "FI - Icelandair",
@@ -18801,7 +18801,7 @@ let interview_data_raw = `[
         "AirlineCode": "FI"
     },
     {
-        "InterviewId": "4160",
+        "InterviewId": 4160,
         "InterviewEndDate": "2023-09-26",
         "InterviewState": "Complete",
         "Flight": "RC - Atlantic Airways",
@@ -18809,7 +18809,7 @@ let interview_data_raw = `[
         "AirlineCode": "RC"
     },
     {
-        "InterviewId": "4171",
+        "InterviewId": 4171,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -18817,7 +18817,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "4172",
+        "InterviewId": 4172,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "Sas",
@@ -18825,7 +18825,7 @@ let interview_data_raw = `[
         "AirlineCode": "Sas"
     },
     {
-        "InterviewId": "4174",
+        "InterviewId": 4174,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18833,7 +18833,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4175",
+        "InterviewId": 4175,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18841,7 +18841,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4176",
+        "InterviewId": 4176,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18849,7 +18849,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4177",
+        "InterviewId": 4177,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -18857,7 +18857,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "4178",
+        "InterviewId": 4178,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18865,7 +18865,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4179",
+        "InterviewId": 4179,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18873,7 +18873,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4180",
+        "InterviewId": 4180,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -18881,7 +18881,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4183",
+        "InterviewId": 4183,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "Sunexpress",
@@ -18889,7 +18889,7 @@ let interview_data_raw = `[
         "AirlineCode": "Sunexpress"
     },
     {
-        "InterviewId": "4185",
+        "InterviewId": 4185,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "SunEkspres",
@@ -18897,7 +18897,7 @@ let interview_data_raw = `[
         "AirlineCode": "SunEkspres"
     },
     {
-        "InterviewId": "4186",
+        "InterviewId": 4186,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "Sunexpres",
@@ -18905,7 +18905,7 @@ let interview_data_raw = `[
         "AirlineCode": "Sunexpres"
     },
     {
-        "InterviewId": "4189",
+        "InterviewId": 4189,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "GQ - Sky Express",
@@ -18913,7 +18913,7 @@ let interview_data_raw = `[
         "AirlineCode": "GQ"
     },
     {
-        "InterviewId": "4190",
+        "InterviewId": 4190,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "Sunexpress",
@@ -18921,7 +18921,7 @@ let interview_data_raw = `[
         "AirlineCode": "Sunexpress"
     },
     {
-        "InterviewId": "4191",
+        "InterviewId": 4191,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "Sun express",
@@ -18929,7 +18929,7 @@ let interview_data_raw = `[
         "AirlineCode": "Sun"
     },
     {
-        "InterviewId": "4192",
+        "InterviewId": 4192,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "XQ - G\u00fcnes Ekspres Havacilik (SunExpress)",
@@ -18937,7 +18937,7 @@ let interview_data_raw = `[
         "AirlineCode": "XQ"
     },
     {
-        "InterviewId": "4194",
+        "InterviewId": 4194,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "Delta",
@@ -18945,7 +18945,7 @@ let interview_data_raw = `[
         "AirlineCode": "Delta"
     },
     {
-        "InterviewId": "4195",
+        "InterviewId": 4195,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "Klm",
@@ -18953,7 +18953,7 @@ let interview_data_raw = `[
         "AirlineCode": "Klm"
     },
     {
-        "InterviewId": "4197",
+        "InterviewId": 4197,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "Flyexpress",
@@ -18961,7 +18961,7 @@ let interview_data_raw = `[
         "AirlineCode": "Flyexpress"
     },
     {
-        "InterviewId": "4198",
+        "InterviewId": 4198,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "GQ - Sky Express",
@@ -18969,7 +18969,7 @@ let interview_data_raw = `[
         "AirlineCode": "GQ"
     },
     {
-        "InterviewId": "4199",
+        "InterviewId": 4199,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "Skyekspress",
@@ -18977,7 +18977,7 @@ let interview_data_raw = `[
         "AirlineCode": "Skyekspress"
     },
     {
-        "InterviewId": "4200",
+        "InterviewId": 4200,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "Delta",
@@ -18985,7 +18985,7 @@ let interview_data_raw = `[
         "AirlineCode": "Delta"
     },
     {
-        "InterviewId": "4201",
+        "InterviewId": 4201,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "GQ - Sky Express",
@@ -18993,7 +18993,7 @@ let interview_data_raw = `[
         "AirlineCode": "GQ"
     },
     {
-        "InterviewId": "4202",
+        "InterviewId": 4202,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "Sas",
@@ -19001,7 +19001,7 @@ let interview_data_raw = `[
         "AirlineCode": "Sas"
     },
     {
-        "InterviewId": "4203",
+        "InterviewId": 4203,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -19009,7 +19009,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "4204",
+        "InterviewId": 4204,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -19017,7 +19017,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "4206",
+        "InterviewId": 4206,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "Sas",
@@ -19025,7 +19025,7 @@ let interview_data_raw = `[
         "AirlineCode": "Sas"
     },
     {
-        "InterviewId": "4207",
+        "InterviewId": 4207,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "Sas",
@@ -19033,7 +19033,7 @@ let interview_data_raw = `[
         "AirlineCode": "Sas"
     },
     {
-        "InterviewId": "4208",
+        "InterviewId": 4208,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -19041,7 +19041,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "4209",
+        "InterviewId": 4209,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "Ryanair",
@@ -19049,7 +19049,7 @@ let interview_data_raw = `[
         "AirlineCode": "Ryanair"
     },
     {
-        "InterviewId": "4211",
+        "InterviewId": 4211,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "Ryanair",
@@ -19057,7 +19057,7 @@ let interview_data_raw = `[
         "AirlineCode": "Ryanair"
     },
     {
-        "InterviewId": "4212",
+        "InterviewId": 4212,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "Ryaair",
@@ -19065,7 +19065,7 @@ let interview_data_raw = `[
         "AirlineCode": "Ryaair"
     },
     {
-        "InterviewId": "4213",
+        "InterviewId": 4213,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -19073,7 +19073,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4214",
+        "InterviewId": 4214,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -19081,7 +19081,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4219",
+        "InterviewId": 4219,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -19089,7 +19089,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4221",
+        "InterviewId": 4221,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -19097,7 +19097,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4222",
+        "InterviewId": 4222,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -19105,7 +19105,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4224",
+        "InterviewId": 4224,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -19113,7 +19113,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "4225",
+        "InterviewId": 4225,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -19121,7 +19121,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "4226",
+        "InterviewId": 4226,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -19129,7 +19129,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "4227",
+        "InterviewId": 4227,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -19137,7 +19137,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "4231",
+        "InterviewId": 4231,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -19145,7 +19145,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "4233",
+        "InterviewId": 4233,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -19153,7 +19153,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "4234",
+        "InterviewId": 4234,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -19161,7 +19161,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "4235",
+        "InterviewId": 4235,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -19169,7 +19169,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "4238",
+        "InterviewId": 4238,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -19177,7 +19177,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4255",
+        "InterviewId": 4255,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -19185,7 +19185,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "4256",
+        "InterviewId": 4256,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -19193,7 +19193,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "4257",
+        "InterviewId": 4257,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -19201,7 +19201,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "4258",
+        "InterviewId": 4258,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
@@ -19209,7 +19209,7 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
-        "InterviewId": "4266",
+        "InterviewId": 4266,
         "InterviewEndDate": "2023-09-27",
         "InterviewState": "Complete",
         "Flight": "VY - Vueling Airlines",
@@ -19217,7 +19217,7 @@ let interview_data_raw = `[
         "AirlineCode": "VY"
     },
     {
-        "InterviewId": "4267",
+        "InterviewId": 4267,
         "InterviewEndDate": "2023-09-28",
         "InterviewState": "Complete",
         "Flight": "TK - Turkish Airlines",
@@ -19225,7 +19225,7 @@ let interview_data_raw = `[
         "AirlineCode": "TK"
     },
     {
-        "InterviewId": "4270",
+        "InterviewId": 4270,
         "InterviewEndDate": "2023-09-28",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -19233,7 +19233,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "4271",
+        "InterviewId": 4271,
         "InterviewEndDate": "2023-09-28",
         "InterviewState": "Complete",
         "Flight": "SK - Scandinavian Airlines System (SAS)",
@@ -19241,7 +19241,7 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
-        "InterviewId": "4276",
+        "InterviewId": 4276,
         "InterviewEndDate": "2023-09-28",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -19249,7 +19249,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4280",
+        "InterviewId": 4280,
         "InterviewEndDate": "2023-09-28",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -19257,7 +19257,7 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "4281",
+        "InterviewId": 4281,
         "InterviewEndDate": "2023-09-28",
         "InterviewState": "Complete",
         "Flight": "FR - Ryanair",
@@ -19265,7 +19265,7 @@ let interview_data_raw = `[
         "AirlineCode": "FR"
     },
     {
-        "InterviewId": "4285",
+        "InterviewId": 4285,
         "InterviewEndDate": "2023-09-28",
         "InterviewState": "Complete",
         "Flight": "KL - KLM",
@@ -19273,12 +19273,580 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
-        "InterviewId": "4286",
+        "InterviewId": 4286,
         "InterviewEndDate": "2023-09-28",
         "InterviewState": "Complete",
         "Flight": "LO - LOT",
         "Dest": "WAW",
         "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": 4382,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "Sas",
+        "Dest": "OSL",
+        "AirlineCode": "Sas"
+    },
+    {
+        "InterviewId": 4383,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": 4386,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "POZ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4388,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "POZ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4389,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "POZ",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4395,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "Lufthansa"
+    },
+    {
+        "InterviewId": 4397,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": 4399,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "Eyan",
+        "Dest": "EDI",
+        "AirlineCode": "Eyan"
+    },
+    {
+        "InterviewId": 4400,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4401,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "Ryanair",
+        "Dest": "MUC",
+        "AirlineCode": "Ryanair"
+    },
+    {
+        "InterviewId": 4402,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4403,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4404,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4405,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "Ryan Air",
+        "Dest": "EDI",
+        "AirlineCode": "Ryan"
+    },
+    {
+        "InterviewId": 4406,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4407,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": 4408,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": 4409,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": 4410,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": 4411,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": 4412,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "Frankfurt",
+        "Dest": "FRA",
+        "AirlineCode": "Frankfurt"
+    },
+    {
+        "InterviewId": 4413,
+        "InterviewEndDate": "2023-10-17",
+        "InterviewState": "Complete",
+        "Flight": "Loft hanza",
+        "Dest": "FRA",
+        "AirlineCode": "Loft"
+    },
+    {
+        "InterviewId": 4415,
+        "InterviewEndDate": "2023-10-19",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": 4416,
+        "InterviewEndDate": "2023-10-19",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": 4417,
+        "InterviewEndDate": "2023-10-19",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": 4418,
+        "InterviewEndDate": "2023-10-19",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": 4419,
+        "InterviewEndDate": "2023-10-19",
+        "InterviewState": "Complete",
+        "Flight": "Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "Lufthansa"
+    },
+    {
+        "InterviewId": 4420,
+        "InterviewEndDate": "2023-10-19",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": 4427,
+        "InterviewEndDate": "2023-10-19",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4429,
+        "InterviewEndDate": "2023-10-19",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4431,
+        "InterviewEndDate": "2023-10-19",
+        "InterviewState": "Complete",
+        "Flight": "Ryanair",
+        "Dest": "CRL",
+        "AirlineCode": "Ryanair"
+    },
+    {
+        "InterviewId": 4432,
+        "InterviewEndDate": "2023-10-19",
+        "InterviewState": "Complete",
+        "Flight": "Ryanair",
+        "Dest": "CRL",
+        "AirlineCode": "Ryanair"
+    },
+    {
+        "InterviewId": 4433,
+        "InterviewEndDate": "2023-10-19",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4434,
+        "InterviewEndDate": "2023-10-19",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4435,
+        "InterviewEndDate": "2023-10-19",
+        "InterviewState": "Complete",
+        "Flight": "Airbaltic",
+        "Dest": "RIX",
+        "AirlineCode": "Airbaltic"
+    },
+    {
+        "InterviewId": 4437,
+        "InterviewEndDate": "2023-10-19",
+        "InterviewState": "Complete",
+        "Flight": "Airbaltic",
+        "Dest": "RIX",
+        "AirlineCode": "Airbaltic"
+    },
+    {
+        "InterviewId": 4438,
+        "InterviewEndDate": "2023-10-19",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": 4439,
+        "InterviewEndDate": "2023-10-19",
+        "InterviewState": "Complete",
+        "Flight": "AirBaltic",
+        "Dest": "RIX",
+        "AirlineCode": "AirBaltic"
+    },
+    {
+        "InterviewId": 4440,
+        "InterviewEndDate": "2023-10-19",
+        "InterviewState": "Complete",
+        "Flight": "Airbaltik",
+        "Dest": "RIX",
+        "AirlineCode": "Airbaltik"
+    },
+    {
+        "InterviewId": 4442,
+        "InterviewEndDate": "2023-10-19",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": 4443,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4444,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4445,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4446,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4447,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4448,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4449,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4453,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ACE",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": 4454,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "Je",
+        "Dest": "ACE",
+        "AirlineCode": "Je"
+    },
+    {
+        "InterviewId": 4455,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ACE",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": 4456,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ACE",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": 4457,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ACE",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": 4458,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ACE",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": 4459,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ACE",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": 4460,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "ACE",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": 4462,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "FUE",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": 4463,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "FUE",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": 4464,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "FUE",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": 4465,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "FUE",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": 4466,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "FUE",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": 4467,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "FUE",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": 4468,
+        "InterviewEndDate": "2023-10-20",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "FUE",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": 4482,
+        "InterviewEndDate": "2023-10-23",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": 4484,
+        "InterviewEndDate": "2023-10-23",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": 4486,
+        "InterviewEndDate": "2023-10-23",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "BGO",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": 4487,
+        "InterviewEndDate": "2023-10-23",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": 4488,
+        "InterviewEndDate": "2023-10-23",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4489,
+        "InterviewEndDate": "2023-10-23",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4490,
+        "InterviewEndDate": "2023-10-23",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": 4492,
+        "InterviewEndDate": "2023-10-23",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "BGO",
+        "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": 4493,
+        "InterviewEndDate": "2023-10-23",
+        "InterviewState": "Complete",
+        "Flight": "RC - Atlantic Airways",
+        "Dest": "BGO",
+        "AirlineCode": "RC"
     },
     {
         "InterviewId": "4382",
