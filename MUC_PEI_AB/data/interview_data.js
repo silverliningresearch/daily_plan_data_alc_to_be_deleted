@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "27-10-2023 20:12:43"
+        "download_time": "27-10-2023 21:17:42"
     },
     {
         "InterviewId": "15848",
@@ -52497,12 +52497,76 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
+        "InterviewId": "23617",
+        "InterviewEndDate": "2023-10-27 18:13:06",
+        "InterviewState": "Complete",
+        "Flight": "EW 4063",
+        "Dest": "DTM",
+        "AirlineCode": "EW"
+    },
+    {
         "InterviewId": "23618",
         "InterviewEndDate": "2023-10-27 18:08:40",
         "InterviewState": "Complete",
         "Flight": "KL 1800",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "23619",
+        "InterviewEndDate": "2023-10-27 18:16:06",
+        "InterviewState": "Complete",
+        "Flight": "KL 1800",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "23620",
+        "InterviewEndDate": "2023-10-27 18:18:55",
+        "InterviewState": "Complete",
+        "Flight": "KL 1800",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "23621",
+        "InterviewEndDate": "2023-10-27 18:25:01",
+        "InterviewState": "Complete",
+        "Flight": "KL 1800",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "23623",
+        "InterviewEndDate": "2023-10-27 18:21:13",
+        "InterviewState": "Complete",
+        "Flight": "KL 1800",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "23624",
+        "InterviewEndDate": "2023-10-27 18:26:08",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "23626",
+        "InterviewEndDate": "2023-10-27 18:44:25",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "23627",
+        "InterviewEndDate": "2023-10-27 18:33:12",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
     }
 ]    
 
