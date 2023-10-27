@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "27-10-2023 13:42:53"
+        "download_time": "27-10-2023 14:48:47"
     },
     {
         "InterviewId": "15848",
@@ -52287,6 +52287,78 @@ let interview_data_raw = `[
         "Flight": "DY 1157",
         "Dest": "OSL",
         "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "23590",
+        "InterviewEndDate": "2023-10-27 11:59:53",
+        "InterviewState": "Complete",
+        "Flight": "MBU6306",
+        "Dest": "FAO",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "23591",
+        "InterviewEndDate": "2023-10-27 11:53:50",
+        "InterviewState": "Complete",
+        "Flight": "MBU6306",
+        "Dest": "FAO",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "23592",
+        "InterviewEndDate": "2023-10-27 11:56:53",
+        "InterviewState": "Complete",
+        "Flight": "MBU6306",
+        "Dest": "FAO",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "23593",
+        "InterviewEndDate": "2023-10-27 12:06:19",
+        "InterviewState": "Complete",
+        "Flight": "MBU6306",
+        "Dest": "FAO",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "23594",
+        "InterviewEndDate": "2023-10-27 12:12:09",
+        "InterviewState": "Complete",
+        "Flight": "MBU6306",
+        "Dest": "FAO",
+        "AirlineCode": "MB"
+    },
+    {
+        "InterviewId": "23595",
+        "InterviewEndDate": "2023-10-27 12:27:23",
+        "InterviewState": "Complete",
+        "Flight": "AF 1623",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "23596",
+        "InterviewEndDate": "2023-10-27 12:25:29",
+        "InterviewState": "Complete",
+        "Flight": "AF 1623",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "23597",
+        "InterviewEndDate": "2023-10-27 12:25:35",
+        "InterviewState": "Complete",
+        "Flight": "AF 1623",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "23598",
+        "InterviewEndDate": "2023-10-27 12:35:04",
+        "InterviewState": "Complete",
+        "Flight": "AF 1623",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
