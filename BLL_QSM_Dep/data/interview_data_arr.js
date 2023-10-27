@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "27-10-2023 10:28:40"
+        "download_time": "27-10-2023 11:33:40"
     },
     {
         "InterviewId": "2077",
@@ -9639,6 +9639,62 @@ let interview_data_arr_raw = `[
         "Flight": "RC - Atlantic Airways",
         "Dest": "BGO",
         "AirlineCode": "RC"
+    },
+    {
+        "InterviewId": "4497",
+        "InterviewEndDate": "2023-10-27",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "CDG",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "4498",
+        "InterviewEndDate": "2023-10-27",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4499",
+        "InterviewEndDate": "2023-10-27",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4500",
+        "InterviewEndDate": "2023-10-27",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4502",
+        "InterviewEndDate": "2023-10-27",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4503",
+        "InterviewEndDate": "2023-10-27",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4504",
+        "InterviewEndDate": "2023-10-27",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
