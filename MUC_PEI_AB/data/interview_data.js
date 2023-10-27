@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "27-10-2023 14:48:47"
+        "download_time": "27-10-2023 15:52:56"
     },
     {
         "InterviewId": "15848",
@@ -52359,6 +52359,78 @@ let interview_data_raw = `[
         "Flight": "AF 1623",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "23599",
+        "InterviewEndDate": "2023-10-27 12:52:32",
+        "InterviewState": "Complete",
+        "Flight": "ENT521",
+        "Dest": "DEB",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "23600",
+        "InterviewEndDate": "2023-10-27 12:57:24",
+        "InterviewState": "Complete",
+        "Flight": "ENT521",
+        "Dest": "DEB",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "23601",
+        "InterviewEndDate": "2023-10-27 12:52:57",
+        "InterviewState": "Complete",
+        "Flight": "ENT521",
+        "Dest": "DEB",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "23602",
+        "InterviewEndDate": "2023-10-27 13:26:42",
+        "InterviewState": "Complete",
+        "Flight": "ENT521",
+        "Dest": "DEB",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "23603",
+        "InterviewEndDate": "2023-10-27 13:16:10",
+        "InterviewState": "Complete",
+        "Flight": "ENT521",
+        "Dest": "DEB",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "23604",
+        "InterviewEndDate": "2023-10-27 13:17:29",
+        "InterviewState": "Complete",
+        "Flight": "ENT521",
+        "Dest": "DEB",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "23605",
+        "InterviewEndDate": "2023-10-27 13:50:24",
+        "InterviewState": "Complete",
+        "Flight": "X3 4282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "23606",
+        "InterviewEndDate": "2023-10-27 13:41:30",
+        "InterviewState": "Complete",
+        "Flight": "X3 4282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "23607",
+        "InterviewEndDate": "2023-10-27 13:45:36",
+        "InterviewState": "Complete",
+        "Flight": "X3 4282",
+        "Dest": "HER",
+        "AirlineCode": "X3"
     }
 ]    
 

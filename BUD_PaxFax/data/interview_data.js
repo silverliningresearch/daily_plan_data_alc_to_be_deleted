@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "27-10-2023 14:52:37"
+        "download_time": "27-10-2023 15:55:56"
     },
     {
         "InterviewId": "7701",
@@ -17838,6 +17838,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 1923",
         "Dest": "WMI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10240",
+        "InterviewEndDate": "2023-10-27 12:58:50",
+        "InterviewState": "Complete",
+        "Flight": "EK  112",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "10241",
+        "InterviewEndDate": "2023-10-27 13:12:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 2277",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10242",
+        "InterviewEndDate": "2023-10-27 13:16:03",
+        "InterviewState": "Complete",
+        "Flight": "FR 2277",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10243",
+        "InterviewEndDate": "2023-10-27 13:15:32",
+        "InterviewState": "Complete",
+        "Flight": "FR 2277",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10244",
+        "InterviewEndDate": "2023-10-27 13:18:18",
+        "InterviewState": "Complete",
+        "Flight": "FR 2277",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10245",
+        "InterviewEndDate": "2023-10-27 13:21:20",
+        "InterviewState": "Complete",
+        "Flight": "FR 2277",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10246",
+        "InterviewEndDate": "2023-10-27 13:54:47",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10247",
+        "InterviewEndDate": "2023-10-27 13:49:40",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
         "AirlineCode": "FR"
     }
 ]    
