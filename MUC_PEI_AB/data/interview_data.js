@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "28-10-2023 09:12:44"
+        "download_time": "28-10-2023 10:17:40"
     },
     {
         "InterviewId": "15848",
@@ -52751,6 +52751,134 @@ let interview_data_raw = `[
         "Flight": "LH 436",
         "Dest": "ORD",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23652",
+        "InterviewEndDate": "2023-10-28 07:19:13",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "23653",
+        "InterviewEndDate": "2023-10-28 07:22:46",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "23654",
+        "InterviewEndDate": "2023-10-28 07:20:10",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "23655",
+        "InterviewEndDate": "2023-10-28 07:29:03",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "23656",
+        "InterviewEndDate": "2023-10-28 07:29:38",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "23657",
+        "InterviewEndDate": "2023-10-28 07:32:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23658",
+        "InterviewEndDate": "2023-10-28 07:32:24",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "23659",
+        "InterviewEndDate": "2023-10-28 07:35:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23660",
+        "InterviewEndDate": "2023-10-28 07:42:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23661",
+        "InterviewEndDate": "2023-10-28 07:37:58",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "23662",
+        "InterviewEndDate": "2023-10-28 07:56:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 2218",
+        "Dest": "TLS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23663",
+        "InterviewEndDate": "2023-10-28 07:57:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 1786",
+        "Dest": "FAO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23664",
+        "InterviewEndDate": "2023-10-28 08:08:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 1854",
+        "Dest": "MXP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23665",
+        "InterviewEndDate": "2023-10-28 08:10:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 1854",
+        "Dest": "MXP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23666",
+        "InterviewEndDate": "2023-10-28 08:09:44",
+        "InterviewState": "Complete",
+        "Flight": "LH 1854",
+        "Dest": "MXP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23668",
+        "InterviewEndDate": "2023-10-28 08:14:01",
+        "InterviewState": "Complete",
+        "Flight": "EI 353",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
     }
 ]    
 
