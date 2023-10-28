@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "28-10-2023 05:51:20"
+        "download_time": "28-10-2023 06:56:51"
     },
     {
         "InterviewId": "7333",
@@ -36205,6 +36205,69 @@ let interview_data_raw = `[
         "Flight": "EY103",
         "Dest": "JFK",
         "AirlineCode": "EY103",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11573",
+        "InterviewEndDate": "2023-10-28 02:07:41",
+        "InterviewState": "Complete",
+        "Flight": "5W7037",
+        "Dest": "MCT",
+        "AirlineCode": "5W7037",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "11574",
+        "InterviewEndDate": "2023-10-28 02:24:00",
+        "InterviewState": "Complete",
+        "Flight": "EY301",
+        "Dest": "KWI",
+        "AirlineCode": "EY301",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11575",
+        "InterviewEndDate": "2023-10-28 02:24:48",
+        "InterviewState": "Complete",
+        "Flight": "EY301",
+        "Dest": "KWI",
+        "AirlineCode": "EY301",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11576",
+        "InterviewEndDate": "2023-10-28 02:35:02",
+        "InterviewState": "Complete",
+        "Flight": "EY393",
+        "Dest": "DOH",
+        "AirlineCode": "EY393",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11577",
+        "InterviewEndDate": "2023-10-28 02:35:14",
+        "InterviewState": "Complete",
+        "Flight": "EY371",
+        "Dest": "BAH",
+        "AirlineCode": "EY371",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11578",
+        "InterviewEndDate": "2023-10-28 02:43:14",
+        "InterviewState": "Complete",
+        "Flight": "EY371",
+        "Dest": "BAH",
+        "AirlineCode": "EY371",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "11579",
+        "InterviewEndDate": "2023-10-28 02:46:27",
+        "InterviewState": "Complete",
+        "Flight": "EY371",
+        "Dest": "BAH",
+        "AirlineCode": "EY371",
         "Terminal": "T3"
     }
 ]    
