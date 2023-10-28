@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "28-10-2023 22:07:05"
+        "download_time": "28-10-2023 23:12:09"
     },
     {
         "InterviewId": "4226",
@@ -18071,6 +18071,51 @@ let interview_data_arr_raw = `[
         "Dest": "AMD",
         "AirlineCode": "EY",
         "Terminal": "T3"
+    },
+    {
+        "InterviewId": "6307",
+        "InterviewEndDate": "2023-10-28 18:07:28",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "AMD",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "6308",
+        "InterviewEndDate": "2023-10-28 18:16:59",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "SAW",
+        "AirlineCode": "3L",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "6309",
+        "InterviewEndDate": "2023-10-28 18:28:25",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "ISB",
+        "AirlineCode": "EY",
+        "Terminal": "T3"
+    },
+    {
+        "InterviewId": "6310",
+        "InterviewEndDate": "2023-10-28 18:42:54",
+        "InterviewState": "Complete",
+        "Flight": "UL - Srilankan Airlines",
+        "Dest": "CMB",
+        "AirlineCode": "UL",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "6311",
+        "InterviewEndDate": "2023-10-28 18:48:47",
+        "InterviewState": "Complete",
+        "Flight": "6E - IndiGo",
+        "Dest": "AMD",
+        "AirlineCode": "6E",
+        "Terminal": "T1"
     }
 ]    
 
