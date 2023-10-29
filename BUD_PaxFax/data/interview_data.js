@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "29-10-2023 20:00:41"
+        "download_time": "29-10-2023 21:05:46"
     },
     {
         "InterviewId": "7701",
@@ -18279,6 +18279,46 @@ let interview_data_raw = `[
         "Flight": "EW 2785",
         "Dest": "STR",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "10301",
+        "InterviewEndDate": "2023-10-29 19:08:51",
+        "InterviewState": "Complete",
+        "Flight": "Ei 677",
+        "Dest": "DUB",
+        "AirlineCode": "Ei"
+    },
+    {
+        "InterviewId": "10302",
+        "InterviewEndDate": "2023-10-29 19:10:47",
+        "InterviewState": "Complete",
+        "Flight": "Ei 677",
+        "Dest": "DUB",
+        "AirlineCode": "Ei"
+    },
+    {
+        "InterviewId": "10303",
+        "InterviewEndDate": "2023-10-29 19:55:50",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "10304",
+        "InterviewEndDate": "2023-10-29 19:57:48",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "10305",
+        "InterviewEndDate": "2023-10-29 20:00:06",
+        "InterviewState": "Complete",
+        "Flight": "FZ 1406",
+        "Dest": "DXB",
+        "AirlineCode": "FZ"
     }
 ]    
 
