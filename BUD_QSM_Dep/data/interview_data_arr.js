@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "29-10-2023 11:19:15"
+        "download_time": "29-10-2023 12:24:26"
     },
     {
         "InterviewId": "1224",
@@ -5406,6 +5406,54 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 - Wizz Air",
         "Dest": "JED",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1905",
+        "InterviewEndDate": "2023-10-29 10:56:11",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "1906",
+        "InterviewEndDate": "2023-10-29 10:59:41",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "1907",
+        "InterviewEndDate": "2023-10-29 11:07:06",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1908",
+        "InterviewEndDate": "2023-10-29 11:11:12",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1909",
+        "InterviewEndDate": "2023-10-29 11:15:11",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "LTN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1910",
+        "InterviewEndDate": "2023-10-29 11:20:05",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "LTN",
         "AirlineCode": "W6"
     }
 ]    
