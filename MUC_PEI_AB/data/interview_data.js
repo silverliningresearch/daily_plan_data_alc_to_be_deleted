@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "29-10-2023 14:32:41"
+        "download_time": "29-10-2023 15:37:55"
     },
     {
         "InterviewId": "15848",
@@ -53137,6 +53137,14 @@ let interview_data_raw = `[
         "AirlineCode": "PC"
     },
     {
+        "InterviewId": "23702",
+        "InterviewEndDate": "2023-10-29 13:34:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 412",
+        "Dest": "EWR",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "23703",
         "InterviewEndDate": "2023-10-29 13:24:47",
         "InterviewState": "Complete",
@@ -53150,6 +53158,54 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 412",
         "Dest": "EWR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23705",
+        "InterviewEndDate": "2023-10-29 13:42:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 412",
+        "Dest": "EWR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23706",
+        "InterviewEndDate": "2023-10-29 13:55:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 424",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23707",
+        "InterviewEndDate": "2023-10-29 13:55:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 424",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23708",
+        "InterviewEndDate": "2023-10-29 13:54:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 424",
+        "Dest": "BOS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23713",
+        "InterviewEndDate": "2023-10-29 14:35:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 2220",
+        "Dest": "TLS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23714",
+        "InterviewEndDate": "2023-10-29 14:34:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 2220",
+        "Dest": "TLS",
         "AirlineCode": "LH"
     }
 ]    
