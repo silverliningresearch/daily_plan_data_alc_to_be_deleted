@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "29-10-2023 03:31:45"
+        "download_time": "29-10-2023 04:36:56"
     },
     {
         "InterviewId": "4226",
@@ -18115,6 +18115,33 @@ let interview_data_arr_raw = `[
         "Flight": "6E - IndiGo",
         "Dest": "AMD",
         "AirlineCode": "6E",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "6312",
+        "InterviewEndDate": "2023-10-29 00:16:28",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "6313",
+        "InterviewEndDate": "2023-10-29 00:21:07",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR",
+        "Terminal": "T1"
+    },
+    {
+        "InterviewId": "6314",
+        "InterviewEndDate": "2023-10-29 00:28:53",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR",
         "Terminal": "T1"
     }
 ]    
