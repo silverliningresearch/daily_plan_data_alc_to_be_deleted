@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "30-10-2023 07:52:53"
+        "download_time": "30-10-2023 08:57:57"
     },
     {
         "InterviewId": "15848",
@@ -53287,6 +53287,70 @@ let interview_data_raw = `[
         "Flight": "OS 116",
         "Dest": "VIE",
         "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "23726",
+        "InterviewEndDate": "2023-10-30 07:00:45",
+        "InterviewState": "Complete",
+        "Flight": "LH 1650",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23727",
+        "InterviewEndDate": "2023-10-30 07:02:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 1650",
+        "Dest": "OTP",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23728",
+        "InterviewEndDate": "2023-10-30 07:23:44",
+        "InterviewState": "Complete",
+        "Flight": "UA 031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "23729",
+        "InterviewEndDate": "2023-10-30 07:25:00",
+        "InterviewState": "Complete",
+        "Flight": "UA 031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "23730",
+        "InterviewEndDate": "2023-10-30 07:21:37",
+        "InterviewState": "Complete",
+        "Flight": "UA 031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "23731",
+        "InterviewEndDate": "2023-10-30 07:34:33",
+        "InterviewState": "Complete",
+        "Flight": "UA 031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "23732",
+        "InterviewEndDate": "2023-10-30 07:31:47",
+        "InterviewState": "Complete",
+        "Flight": "UA 031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "23734",
+        "InterviewEndDate": "2023-10-30 07:54:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 1702",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
     }
 ]    
 
