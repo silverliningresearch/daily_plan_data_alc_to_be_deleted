@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "30-10-2023 11:09:48"
+        "download_time": "30-10-2023 12:14:38"
     },
     {
         "InterviewId": "1224",
@@ -5463,6 +5463,78 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizz Air",
         "Dest": "LTN",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1912",
+        "InterviewEndDate": "2023-10-30 10:27:42",
+        "InterviewState": "Complete",
+        "Flight": "RP - Chautauqua Airlines",
+        "Dest": "CLJ",
+        "AirlineCode": "RP"
+    },
+    {
+        "InterviewId": "1913",
+        "InterviewEndDate": "2023-10-30 10:32:10",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1914",
+        "InterviewEndDate": "2023-10-30 10:36:51",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1915",
+        "InterviewEndDate": "2023-10-30 10:46:39",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "CIA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1916",
+        "InterviewEndDate": "2023-10-30 10:50:05",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "1917",
+        "InterviewEndDate": "2023-10-30 10:53:17",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1918",
+        "InterviewEndDate": "2023-10-30 10:56:08",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1919",
+        "InterviewEndDate": "2023-10-30 10:59:40",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "EIN",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1920",
+        "InterviewEndDate": "2023-10-30 11:13:50",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
