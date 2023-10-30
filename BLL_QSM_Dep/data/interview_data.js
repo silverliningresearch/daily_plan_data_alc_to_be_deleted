@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "30-10-2023 15:28:59"
+        "download_time": "30-10-2023 16:33:48"
     },
     {
         "InterviewId": "6093",
@@ -31711,6 +31711,78 @@ let interview_data_raw = `[
         "Flight": "FR5173",
         "Dest": "STN",
         "AirlineCode": "FR5173"
+    },
+    {
+        "InterviewId": "12518",
+        "InterviewEndDate": "2023-10-30",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "12519",
+        "InterviewEndDate": "2023-10-30",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "12521",
+        "InterviewEndDate": "2023-10-30",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "12522",
+        "InterviewEndDate": "2023-10-30",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "12523",
+        "InterviewEndDate": "2023-10-30",
+        "InterviewState": "Complete",
+        "Flight": "PC5024",
+        "Dest": "AYT",
+        "AirlineCode": "PC5024"
+    },
+    {
+        "InterviewId": "12524",
+        "InterviewEndDate": "2023-10-30",
+        "InterviewState": "Complete",
+        "Flight": "PC5024",
+        "Dest": "AYT",
+        "AirlineCode": "PC5024"
+    },
+    {
+        "InterviewId": "12525",
+        "InterviewEndDate": "2023-10-30",
+        "InterviewState": "Complete",
+        "Flight": "PC5024",
+        "Dest": "AYT",
+        "AirlineCode": "PC5024"
+    },
+    {
+        "InterviewId": "12526",
+        "InterviewEndDate": "2023-10-30",
+        "InterviewState": "Complete",
+        "Flight": "PC5024",
+        "Dest": "AYT",
+        "AirlineCode": "PC5024"
+    },
+    {
+        "InterviewId": "12527",
+        "InterviewEndDate": "2023-10-30",
+        "InterviewState": "Complete",
+        "Flight": "PC5024",
+        "Dest": "AYT",
+        "AirlineCode": "PC5024"
     }
 ]    
 
