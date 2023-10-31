@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "31-10-2023 10:58:52"
+        "download_time": "31-10-2023 12:03:53"
     },
     {
         "InterviewId": "2077",
@@ -9943,6 +9943,110 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4565",
+        "InterviewEndDate": "2023-10-31",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Schuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4566",
+        "InterviewEndDate": "2023-10-31",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Schuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4567",
+        "InterviewEndDate": "2023-10-31",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Schuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4569",
+        "InterviewEndDate": "2023-10-31",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Schuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4570",
+        "InterviewEndDate": "2023-10-31",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Schuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4571",
+        "InterviewEndDate": "2023-10-31",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Schuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4573",
+        "InterviewEndDate": "2023-10-31",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4574",
+        "InterviewEndDate": "2023-10-31",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4576",
+        "InterviewEndDate": "2023-10-31",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4577",
+        "InterviewEndDate": "2023-10-31",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4578",
+        "InterviewEndDate": "2023-10-31",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4579",
+        "InterviewEndDate": "2023-10-31",
+        "InterviewState": "Complete",
+        "Flight": "Klm",
+        "Dest": "AMS",
+        "AirlineCode": "Klm"
+    },
+    {
+        "InterviewId": "4580",
+        "InterviewEndDate": "2023-10-31",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
