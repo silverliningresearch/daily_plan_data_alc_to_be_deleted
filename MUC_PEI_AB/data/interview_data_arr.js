@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "31-10-2023 18:33:27"
+        "download_time": "31-10-2023 19:38:33"
     },
     {
         "InterviewId": "5174",
@@ -16239,6 +16239,54 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "DUS",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7542",
+        "InterviewEndDate": "2023-10-31 17:46:32",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "7543",
+        "InterviewEndDate": "2023-10-31 17:50:35",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "7544",
+        "InterviewEndDate": "2023-10-31 18:08:01",
+        "InterviewState": "Complete",
+        "Flight": "X3 - TUIFly",
+        "Dest": "HRG",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "7545",
+        "InterviewEndDate": "2023-10-31 18:19:13",
+        "InterviewState": "Complete",
+        "Flight": "X3 - TUIFly",
+        "Dest": "HRG",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "7546",
+        "InterviewEndDate": "2023-10-31 18:19:17",
+        "InterviewState": "Complete",
+        "Flight": "X3 - TUIFly",
+        "Dest": "HRG",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "7547",
+        "InterviewEndDate": "2023-10-31 18:31:57",
+        "InterviewState": "Complete",
+        "Flight": "X3 - TUIFly",
+        "Dest": "HRG",
+        "AirlineCode": "X3"
     }
 ]    
 
