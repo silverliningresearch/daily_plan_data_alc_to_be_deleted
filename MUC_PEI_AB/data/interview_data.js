@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "01-11-2023 09:42:58"
+        "download_time": "01-11-2023 10:48:02"
     },
     {
         "InterviewId": "15848",
@@ -53463,6 +53463,78 @@ let interview_data_raw = `[
         "Flight": "UX 1516",
         "Dest": "MAD",
         "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "23749",
+        "InterviewEndDate": "2023-11-01 08:44:47",
+        "InterviewState": "Complete",
+        "Flight": "UX 1516",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "23750",
+        "InterviewEndDate": "2023-11-01 09:02:26",
+        "InterviewState": "Complete",
+        "Flight": "EW 6897",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "23751",
+        "InterviewEndDate": "2023-11-01 08:56:00",
+        "InterviewState": "Complete",
+        "Flight": "EW 6897",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "23752",
+        "InterviewEndDate": "2023-11-01 08:52:16",
+        "InterviewState": "Complete",
+        "Flight": "EW 6897",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "23753",
+        "InterviewEndDate": "2023-11-01 09:27:12",
+        "InterviewState": "Complete",
+        "Flight": "X3 2196",
+        "Dest": "TFS",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "23754",
+        "InterviewEndDate": "2023-11-01 09:23:30",
+        "InterviewState": "Complete",
+        "Flight": "X3 2196",
+        "Dest": "TFS",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "23755",
+        "InterviewEndDate": "2023-11-01 09:23:14",
+        "InterviewState": "Complete",
+        "Flight": "X3 2196",
+        "Dest": "TFS",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "23756",
+        "InterviewEndDate": "2023-11-01 09:35:51",
+        "InterviewState": "Complete",
+        "Flight": "X3 2196",
+        "Dest": "TFS",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "23757",
+        "InterviewEndDate": "2023-11-01 09:33:58",
+        "InterviewState": "Complete",
+        "Flight": "X3 2196",
+        "Dest": "TFS",
+        "AirlineCode": "X3"
     }
 ]    
 

@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "01-11-2023 09:43:47"
+        "download_time": "01-11-2023 10:48:52"
     },
     {
         "InterviewId": "2077",
@@ -10081,6 +10081,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "FR"
     },
     {
+        "InterviewId": "4595",
+        "InterviewEndDate": "2023-11-01",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "MLA",
+        "AirlineCode": "FR"
+    },
+    {
         "InterviewId": "4596",
         "InterviewEndDate": "2023-11-01",
         "InterviewState": "Complete",
@@ -10103,6 +10111,94 @@ let interview_data_arr_raw = `[
         "Flight": "FR - Ryanair",
         "Dest": "MLA",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4603",
+        "InterviewEndDate": "2023-11-01",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "4604",
+        "InterviewEndDate": "2023-11-01",
+        "InterviewState": "Complete",
+        "Flight": "Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "Lufthansa"
+    },
+    {
+        "InterviewId": "4605",
+        "InterviewEndDate": "2023-11-01",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4606",
+        "InterviewEndDate": "2023-11-01",
+        "InterviewState": "Complete",
+        "Flight": "Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "Lufthansa"
+    },
+    {
+        "InterviewId": "4607",
+        "InterviewEndDate": "2023-11-01",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4608",
+        "InterviewEndDate": "2023-11-01",
+        "InterviewState": "Complete",
+        "Flight": "Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "Lufthansa"
+    },
+    {
+        "InterviewId": "4609",
+        "InterviewEndDate": "2023-11-01",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Schuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4610",
+        "InterviewEndDate": "2023-11-01",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Schuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4611",
+        "InterviewEndDate": "2023-11-01",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Schuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4612",
+        "InterviewEndDate": "2023-11-01",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Schuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
+    },
+    {
+        "InterviewId": "4613",
+        "InterviewEndDate": "2023-11-01",
+        "InterviewState": "Complete",
+        "Flight": "DY - Norwegian Air Schuttle",
+        "Dest": "OSL",
+        "AirlineCode": "DY"
     }
 ]    
 
