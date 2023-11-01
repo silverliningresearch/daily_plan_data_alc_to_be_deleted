@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "01-11-2023 10:48:02"
+        "download_time": "01-11-2023 11:53:01"
     },
     {
         "InterviewId": "15848",
@@ -53535,6 +53535,62 @@ let interview_data_raw = `[
         "Flight": "X3 2196",
         "Dest": "TFS",
         "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "23758",
+        "InterviewEndDate": "2023-11-01 09:58:08",
+        "InterviewState": "Complete",
+        "Flight": "X3 2196",
+        "Dest": "TFS",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "23759",
+        "InterviewEndDate": "2023-11-01 10:15:41",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "23760",
+        "InterviewEndDate": "2023-11-01 10:15:09",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "23761",
+        "InterviewEndDate": "2023-11-01 10:17:29",
+        "InterviewState": "Complete",
+        "Flight": "IB 3191",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "23762",
+        "InterviewEndDate": "2023-11-01 10:31:14",
+        "InterviewState": "Complete",
+        "Flight": "GQ 871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "23763",
+        "InterviewEndDate": "2023-11-01 10:31:03",
+        "InterviewState": "Complete",
+        "Flight": "GQ 871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
+    },
+    {
+        "InterviewId": "23764",
+        "InterviewEndDate": "2023-11-01 10:34:20",
+        "InterviewState": "Complete",
+        "Flight": "GQ 871",
+        "Dest": "ATH",
+        "AirlineCode": "GQ"
     }
 ]    
 
