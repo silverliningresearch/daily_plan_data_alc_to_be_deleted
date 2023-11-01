@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "01-11-2023 12:57:55"
+        "download_time": "01-11-2023 14:03:00"
     },
     {
         "InterviewId": "15848",
@@ -53639,6 +53639,46 @@ let interview_data_raw = `[
         "Flight": "XQ 977",
         "Dest": "ADB",
         "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "23771",
+        "InterviewEndDate": "2023-11-01 11:59:49",
+        "InterviewState": "Complete",
+        "Flight": "XQ 977",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "23772",
+        "InterviewEndDate": "2023-11-01 12:13:01",
+        "InterviewState": "Complete",
+        "Flight": "XQ 977",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "23773",
+        "InterviewEndDate": "2023-11-01 12:51:15",
+        "InterviewState": "Complete",
+        "Flight": "SV 170",
+        "Dest": "RUH",
+        "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "23774",
+        "InterviewEndDate": "2023-11-01 12:58:02",
+        "InterviewState": "Complete",
+        "Flight": "SV 170",
+        "Dest": "RUH",
+        "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "23775",
+        "InterviewEndDate": "2023-11-01 12:52:35",
+        "InterviewState": "Complete",
+        "Flight": "SV 170",
+        "Dest": "RUH",
+        "AirlineCode": "SV"
     }
 ]    
 
