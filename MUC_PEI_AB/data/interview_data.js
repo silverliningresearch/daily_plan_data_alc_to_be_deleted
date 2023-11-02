@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "02-11-2023 10:38:06"
+        "download_time": "02-11-2023 11:43:07"
     },
     {
         "InterviewId": "15848",
@@ -53894,6 +53894,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "UA 952",
         "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "23806",
+        "InterviewEndDate": "2023-11-02 09:44:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 2474",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23807",
+        "InterviewEndDate": "2023-11-02 09:49:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 2474",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23809",
+        "InterviewEndDate": "2023-11-02 10:06:54",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "23810",
+        "InterviewEndDate": "2023-11-02 10:05:52",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "23811",
+        "InterviewEndDate": "2023-11-02 10:02:39",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "23812",
+        "InterviewEndDate": "2023-11-02 10:22:55",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "23813",
+        "InterviewEndDate": "2023-11-02 10:23:57",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "23814",
+        "InterviewEndDate": "2023-11-02 10:23:47",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
         "AirlineCode": "UA"
     }
 ]    
