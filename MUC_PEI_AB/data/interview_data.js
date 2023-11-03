@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "03-11-2023 09:23:05"
+        "download_time": "03-11-2023 10:28:01"
     },
     {
         "InterviewId": "15848",
@@ -54151,6 +54151,70 @@ let interview_data_raw = `[
         "Flight": "AA 717",
         "Dest": "CLT",
         "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "23841",
+        "InterviewEndDate": "2023-11-03 08:43:13",
+        "InterviewState": "Complete",
+        "Flight": "BA 949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "23842",
+        "InterviewEndDate": "2023-11-03 08:45:23",
+        "InterviewState": "Complete",
+        "Flight": "BA 949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "23843",
+        "InterviewEndDate": "2023-11-03 08:42:42",
+        "InterviewState": "Complete",
+        "Flight": "BA 949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "23845",
+        "InterviewEndDate": "2023-11-03 09:04:45",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "23846",
+        "InterviewEndDate": "2023-11-03 09:01:12",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "23847",
+        "InterviewEndDate": "2023-11-03 09:01:14",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "23849",
+        "InterviewEndDate": "2023-11-03 09:25:37",
+        "InterviewState": "Complete",
+        "Flight": "XQ 715",
+        "Dest": "ESB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "23850",
+        "InterviewEndDate": "2023-11-03 09:27:08",
+        "InterviewState": "Complete",
+        "Flight": "XQ 715",
+        "Dest": "ESB",
+        "AirlineCode": "XQ"
     }
 ]    
 
