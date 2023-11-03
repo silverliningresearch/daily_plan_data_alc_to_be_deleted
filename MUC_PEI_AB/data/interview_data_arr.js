@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "03-11-2023 10:28:35"
+        "download_time": "03-11-2023 11:33:39"
     },
     {
         "InterviewId": "5174",
@@ -16431,6 +16431,70 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "AMS",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7572",
+        "InterviewEndDate": "2023-11-03 10:01:31",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "KIV",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "7573",
+        "InterviewEndDate": "2023-11-03 10:09:57",
+        "InterviewState": "Complete",
+        "Flight": "",
+        "Dest": "KIV",
+        "AirlineCode": ""
+    },
+    {
+        "InterviewId": "7574",
+        "InterviewEndDate": "2023-11-03 10:16:13",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "7576",
+        "InterviewEndDate": "2023-11-03 10:09:07",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "7578",
+        "InterviewEndDate": "2023-11-03 10:21:36",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "7579",
+        "InterviewEndDate": "2023-11-03 10:32:16",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "PMI",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "7580",
+        "InterviewEndDate": "2023-11-03 10:25:46",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "PMI",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "7581",
+        "InterviewEndDate": "2023-11-03 10:29:06",
+        "InterviewState": "Complete",
+        "Flight": "DE - Condor Flugdienst",
+        "Dest": "PMI",
+        "AirlineCode": "DE"
     }
 ]    
 
