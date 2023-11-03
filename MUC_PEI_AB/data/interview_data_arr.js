@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "03-11-2023 11:33:39"
+        "download_time": "03-11-2023 12:40:43"
     },
     {
         "InterviewId": "5174",
@@ -16495,6 +16495,70 @@ let interview_data_arr_raw = `[
         "Flight": "DE - Condor Flugdienst",
         "Dest": "PMI",
         "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "7584",
+        "InterviewEndDate": "2023-11-03 10:38:47",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7585",
+        "InterviewEndDate": "2023-11-03 10:54:29",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7586",
+        "InterviewEndDate": "2023-11-03 11:04:28",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "7587",
+        "InterviewEndDate": "2023-11-03 11:04:19",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "7588",
+        "InterviewEndDate": "2023-11-03 11:04:50",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "7589",
+        "InterviewEndDate": "2023-11-03 11:20:52",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "7590",
+        "InterviewEndDate": "2023-11-03 11:39:38",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "7592",
+        "InterviewEndDate": "2023-11-03 11:35:21",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
     }
 ]    
 
