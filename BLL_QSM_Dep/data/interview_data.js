@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "04-11-2023 16:48:27"
+        "download_time": "04-11-2023 17:53:35"
     },
     {
         "InterviewId": "6093",
@@ -32519,6 +32519,94 @@ let interview_data_raw = `[
         "Flight": "AF1265",
         "Dest": "CDG",
         "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "12662",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "12663",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "12665",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "12667",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "12668",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "12669",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "12670",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "12671",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "12672",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "12674",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
+    },
+    {
+        "InterviewId": "12675",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "FR8497",
+        "Dest": "PMI",
+        "AirlineCode": "FR8497"
     }
 ]    
 
