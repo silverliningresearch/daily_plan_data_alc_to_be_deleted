@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "04-11-2023 05:47:09"
+        "download_time": "04-11-2023 06:51:57"
     },
     {
         "InterviewId": "7333",
@@ -36520,6 +36520,60 @@ let interview_data_raw = `[
         "Flight": "5W7021",
         "Dest": "KWI",
         "AirlineCode": "5W7021",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11621",
+        "InterviewEndDate": "2023-11-04 01:57:36",
+        "InterviewState": "Complete",
+        "Flight": "5W7021",
+        "Dest": "KWI",
+        "AirlineCode": "5W7021",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11622",
+        "InterviewEndDate": "2023-11-04 02:02:34",
+        "InterviewState": "Complete",
+        "Flight": "5W7013",
+        "Dest": "EVN",
+        "AirlineCode": "5W7013",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11623",
+        "InterviewEndDate": "2023-11-04 02:08:36",
+        "InterviewState": "Complete",
+        "Flight": "5W7013",
+        "Dest": "EVN",
+        "AirlineCode": "5W7013",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11625",
+        "InterviewEndDate": "2023-11-04 02:19:35",
+        "InterviewState": "Complete",
+        "Flight": "5W7013",
+        "Dest": "EVN",
+        "AirlineCode": "5W7013",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11628",
+        "InterviewEndDate": "2023-11-04 02:33:27",
+        "InterviewState": "Complete",
+        "Flight": "5W7017",
+        "Dest": "HBE",
+        "AirlineCode": "5W7017",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11629",
+        "InterviewEndDate": "2023-11-04 02:40:27",
+        "InterviewState": "Complete",
+        "Flight": "5W7017",
+        "Dest": "HBE",
+        "AirlineCode": "5W7017",
         "Terminal": "T"
     }
 ]    
