@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "04-11-2023 14:38:01"
+        "download_time": "04-11-2023 15:42:45"
     },
     {
         "InterviewId": "15848",
@@ -55110,6 +55110,94 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1814",
         "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23979",
+        "InterviewEndDate": "2023-11-04 13:38:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 2306",
+        "Dest": "AMS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23980",
+        "InterviewEndDate": "2023-11-04 13:58:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 2264",
+        "Dest": "MRS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23981",
+        "InterviewEndDate": "2023-11-04 13:54:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2264",
+        "Dest": "MRS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23982",
+        "InterviewEndDate": "2023-11-04 14:03:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 2264",
+        "Dest": "MRS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23983",
+        "InterviewEndDate": "2023-11-04 14:05:58",
+        "InterviewState": "Complete",
+        "Flight": "EN 8286",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "23984",
+        "InterviewEndDate": "2023-11-04 14:02:16",
+        "InterviewState": "Complete",
+        "Flight": "EN 8286",
+        "Dest": "LIN",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "23985",
+        "InterviewEndDate": "2023-11-04 14:05:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 2264",
+        "Dest": "MRS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23986",
+        "InterviewEndDate": "2023-11-04 14:09:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 2264",
+        "Dest": "MRS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23987",
+        "InterviewEndDate": "2023-11-04 14:25:57",
+        "InterviewState": "Complete",
+        "Flight": "SN 2646",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "23988",
+        "InterviewEndDate": "2023-11-04 14:24:54",
+        "InterviewState": "Complete",
+        "Flight": "SN 2646",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewId": "23989",
+        "InterviewEndDate": "2023-11-04 14:28:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 2264",
+        "Dest": "MRS",
         "AirlineCode": "LH"
     }
 ]    

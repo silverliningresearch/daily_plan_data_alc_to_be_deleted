@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "04-11-2023 14:38:48"
+        "download_time": "04-11-2023 15:43:27"
     },
     {
         "InterviewId": "6093",
@@ -32426,7 +32426,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "12647",
-        "InterviewEndDate": "2023-11-01",
+        "InterviewEndDate": "2023-11-04",
         "InterviewState": "Complete",
         "Flight": "BA8247",
         "Dest": "MAN",
@@ -32471,6 +32471,54 @@ let interview_data_raw = `[
         "Flight": "BA8247",
         "Dest": "MAN",
         "AirlineCode": "BA8247"
+    },
+    {
+        "InterviewId": "12656",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "12657",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "12658",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "12659",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "12660",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "12661",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
     }
 ]    
 
