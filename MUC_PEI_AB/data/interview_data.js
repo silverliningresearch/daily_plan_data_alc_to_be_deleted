@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "04-11-2023 11:22:50"
+        "download_time": "04-11-2023 12:27:45"
     },
     {
         "InterviewId": "15848",
@@ -54718,6 +54718,118 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2146",
         "Dest": "STR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23925",
+        "InterviewEndDate": "2023-11-04 10:32:28",
+        "InterviewState": "Complete",
+        "Flight": "XQ 637",
+        "Dest": "BJV",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "23926",
+        "InterviewEndDate": "2023-11-04 10:26:49",
+        "InterviewState": "Complete",
+        "Flight": "XQ 637",
+        "Dest": "BJV",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "23927",
+        "InterviewEndDate": "2023-11-04 10:26:29",
+        "InterviewState": "Complete",
+        "Flight": "XQ 637",
+        "Dest": "BJV",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "23929",
+        "InterviewEndDate": "2023-11-04 10:39:58",
+        "InterviewState": "Complete",
+        "Flight": "XQ 637",
+        "Dest": "BJV",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "23930",
+        "InterviewEndDate": "2023-11-04 10:36:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23931",
+        "InterviewEndDate": "2023-11-04 10:39:24",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23932",
+        "InterviewEndDate": "2023-11-04 10:44:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23933",
+        "InterviewEndDate": "2023-11-04 10:52:52",
+        "InterviewState": "Complete",
+        "Flight": "KU 174",
+        "Dest": "KWI",
+        "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "23934",
+        "InterviewEndDate": "2023-11-04 10:49:00",
+        "InterviewState": "Complete",
+        "Flight": "KU 174",
+        "Dest": "KWI",
+        "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "23935",
+        "InterviewEndDate": "2023-11-04 10:53:00",
+        "InterviewState": "Complete",
+        "Flight": "KU 174",
+        "Dest": "KWI",
+        "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "23938",
+        "InterviewEndDate": "2023-11-04 11:26:04",
+        "InterviewState": "Complete",
+        "Flight": "XQ 131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "23939",
+        "InterviewEndDate": "2023-11-04 11:13:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 2066",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23940",
+        "InterviewEndDate": "2023-11-04 11:15:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 2066",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "23941",
+        "InterviewEndDate": "2023-11-04 11:15:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 2066",
+        "Dest": "HAM",
         "AirlineCode": "LH"
     }
 ]    
