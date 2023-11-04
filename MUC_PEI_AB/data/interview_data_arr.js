@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "04-11-2023 13:33:17"
+        "download_time": "04-11-2023 14:38:34"
     },
     {
         "InterviewId": "5174",
@@ -16721,12 +16721,60 @@ let interview_data_arr_raw = `[
         "AirlineCode": "EK"
     },
     {
+        "InterviewId": "7614",
+        "InterviewEndDate": "2023-11-04 12:42:51",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "JED",
+        "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "7615",
+        "InterviewEndDate": "2023-11-04 12:37:22",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "JED",
+        "AirlineCode": "SV"
+    },
+    {
         "InterviewId": "7616",
         "InterviewEndDate": "2023-11-04 12:28:08",
         "InterviewState": "Complete",
         "Flight": "SV - Saudi Arabian Airlines",
         "Dest": "JED",
         "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "7617",
+        "InterviewEndDate": "2023-11-04 13:03:32",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudi Arabian Airlines",
+        "Dest": "JED",
+        "AirlineCode": "SV"
+    },
+    {
+        "InterviewId": "7618",
+        "InterviewEndDate": "2023-11-04 13:13:57",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "7619",
+        "InterviewEndDate": "2023-11-04 13:20:34",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "7620",
+        "InterviewEndDate": "2023-11-04 13:25:26",
+        "InterviewState": "Complete",
+        "Flight": "TK - Turkish Airlines",
+        "Dest": "IST",
+        "AirlineCode": "TK"
     }
 ]    
 
