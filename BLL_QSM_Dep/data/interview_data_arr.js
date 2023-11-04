@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "04-11-2023 15:43:31"
+        "download_time": "04-11-2023 16:48:31"
     },
     {
         "InterviewId": "2077",
@@ -10231,6 +10231,70 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4619",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "Air France",
+        "Dest": "CDG",
+        "AirlineCode": "Air"
+    },
+    {
+        "InterviewId": "4620",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4621",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4622",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4623",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4624",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4625",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "Klm",
+        "Dest": "CDG",
+        "AirlineCode": "Klm"
+    },
+    {
+        "InterviewId": "4626",
+        "InterviewEndDate": "2023-11-04",
+        "InterviewState": "Complete",
+        "Flight": "AF - AIR FRANCE",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
