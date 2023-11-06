@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "06-11-2023 23:52:24"
+        "download_time": "07-11-2023 00:57:04"
     },
     {
         "InterviewId": "7333",
@@ -36700,6 +36700,60 @@ let interview_data_raw = `[
         "Flight": "5W7199",
         "Dest": "MED",
         "AirlineCode": "5W7199",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11649",
+        "InterviewEndDate": "2023-11-06 20:02:59",
+        "InterviewState": "Complete",
+        "Flight": "6E069",
+        "Dest": "BOM",
+        "AirlineCode": "6E069",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11650",
+        "InterviewEndDate": "2023-11-06 20:11:20",
+        "InterviewState": "Complete",
+        "Flight": "6E096",
+        "Dest": "BOM",
+        "AirlineCode": "6E096",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11655",
+        "InterviewEndDate": "2023-11-06 20:23:51",
+        "InterviewState": "Complete",
+        "Flight": "6E096",
+        "Dest": "BOM",
+        "AirlineCode": "6E096",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11657",
+        "InterviewEndDate": "2023-11-06 20:37:04",
+        "InterviewState": "Complete",
+        "Flight": "IX348",
+        "Dest": "CCJ",
+        "AirlineCode": "IX348",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11658",
+        "InterviewEndDate": "2023-11-06 20:40:34",
+        "InterviewState": "Complete",
+        "Flight": "IX348",
+        "Dest": "CCJ",
+        "AirlineCode": "IX348",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11659",
+        "InterviewEndDate": "2023-11-06 20:44:10",
+        "InterviewState": "Complete",
+        "Flight": "IX348",
+        "Dest": "CCJ",
+        "AirlineCode": "IX348",
         "Terminal": "T"
     }
 ]    
