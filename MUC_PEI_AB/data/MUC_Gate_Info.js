@@ -1,5 +1,16 @@
 let MUC_Gate_Info = `[
     {
+        "aodbUniqueId": "20231106408680",
+        "Date": "06-11-2023",
+        "Flight": "KL 1790",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D16",
+        "download_time": "06-11-2023 04:32:51"
+    },
+    {
         "aodbUniqueId": "20231106408130",
         "Date": "06-11-2023",
         "Flight": "LH 2180",
@@ -7,8 +18,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G82",
-        "download_time": "06-11-2023 03:27:53"
+        "Gate": "G82"
     },
     {
         "aodbUniqueId": "20231106408317",
@@ -2501,16 +2511,6 @@ let MUC_Gate_Info = `[
         "Gate": "D05"
     },
     {
-        "aodbUniqueId": "20231106408680",
-        "Date": "06-11-2023",
-        "Flight": "KL 1790",
-        "Dest": "AMS",
-        "AirlineCode": "KL",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D16"
-    },
-    {
         "aodbUniqueId": "20231106408681",
         "Date": "06-11-2023",
         "Flight": "LH 093",
@@ -2598,7 +2598,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G14"
+        "Gate": "G20"
     },
     {
         "aodbUniqueId": "20231106408691",
