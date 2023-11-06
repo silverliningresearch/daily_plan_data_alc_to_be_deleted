@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "07-11-2023 00:57:29"
+        "download_time": "07-11-2023 02:02:38"
     },
     {
         "InterviewId": "4226",
@@ -18370,6 +18370,15 @@ let interview_data_arr_raw = `[
         "Terminal": "T4"
     },
     {
+        "InterviewId": "6343",
+        "InterviewEndDate": "2023-11-06 21:47:11",
+        "InterviewState": "Complete",
+        "Flight": "PK - Pakistan International Airlines",
+        "Dest": "ISB",
+        "AirlineCode": "PK",
+        "Terminal": "T4"
+    },
+    {
         "InterviewId": "6344",
         "InterviewEndDate": "2023-11-05 20:30:37",
         "InterviewState": "Complete",
@@ -18394,6 +18403,15 @@ let interview_data_arr_raw = `[
         "Flight": "IX - Air India Express",
         "Dest": "TRV",
         "AirlineCode": "IX",
+        "Terminal": "T4"
+    },
+    {
+        "InterviewId": "6350",
+        "InterviewEndDate": "2023-11-06 22:01:53",
+        "InterviewState": "Complete",
+        "Flight": "6E - IndiGo",
+        "Dest": "COK",
+        "AirlineCode": "6E",
         "Terminal": "T4"
     }
 ]    
