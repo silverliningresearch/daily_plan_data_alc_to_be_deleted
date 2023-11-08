@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "08-11-2023 07:30:28"
+        "download_time": "08-11-2023 08:33:54"
     },
     {
         "InterviewId": "6093",
@@ -33231,6 +33231,86 @@ let interview_data_raw = `[
         "Flight": "DK1216",
         "Dest": "LPA",
         "AirlineCode": "DK1216"
+    },
+    {
+        "InterviewId": "12800",
+        "InterviewEndDate": "2023-11-08",
+        "InterviewState": "Complete",
+        "Flight": "JTD545",
+        "Dest": "HRG",
+        "AirlineCode": "JTD545"
+    },
+    {
+        "InterviewId": "12801",
+        "InterviewEndDate": "2023-11-08",
+        "InterviewState": "Complete",
+        "Flight": "JTD545",
+        "Dest": "HRG",
+        "AirlineCode": "JTD545"
+    },
+    {
+        "InterviewId": "12802",
+        "InterviewEndDate": "2023-11-08",
+        "InterviewState": "Complete",
+        "Flight": "JTD545",
+        "Dest": "HRG",
+        "AirlineCode": "JTD545"
+    },
+    {
+        "InterviewId": "12803",
+        "InterviewEndDate": "2023-11-08",
+        "InterviewState": "Complete",
+        "Flight": "JTD545",
+        "Dest": "HRG",
+        "AirlineCode": "JTD545"
+    },
+    {
+        "InterviewId": "12804",
+        "InterviewEndDate": "2023-11-08",
+        "InterviewState": "Complete",
+        "Flight": "JTD545",
+        "Dest": "HRG",
+        "AirlineCode": "JTD545"
+    },
+    {
+        "InterviewId": "12805",
+        "InterviewEndDate": "2023-11-08",
+        "InterviewState": "Complete",
+        "Flight": "JTD545",
+        "Dest": "HRG",
+        "AirlineCode": "JTD545"
+    },
+    {
+        "InterviewId": "12808",
+        "InterviewEndDate": "2023-11-08",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "12810",
+        "InterviewEndDate": "2023-11-08",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "12811",
+        "InterviewEndDate": "2023-11-08",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
+    },
+    {
+        "InterviewId": "12812",
+        "InterviewEndDate": "2023-11-08",
+        "InterviewState": "Complete",
+        "Flight": "SK1904",
+        "Dest": "OSL",
+        "AirlineCode": "SK1904"
     }
 ]    
 
