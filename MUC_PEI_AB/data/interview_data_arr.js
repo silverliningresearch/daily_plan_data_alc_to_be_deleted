@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "11-11-2023 05:53:24"
+        "download_time": "11-11-2023 06:58:21"
     },
     {
         "InterviewId": "5174",
@@ -17191,6 +17191,70 @@ let interview_data_arr_raw = `[
         "Flight": "CA - Air China",
         "Dest": "PEK",
         "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "7680",
+        "InterviewEndDate": "2023-11-11 04:54:53",
+        "InterviewState": "Complete",
+        "Flight": "CA - Air China",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "7681",
+        "InterviewEndDate": "2023-11-11 04:57:57",
+        "InterviewState": "Complete",
+        "Flight": "CA - Air China",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "7682",
+        "InterviewEndDate": "2023-11-11 04:59:49",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7683",
+        "InterviewEndDate": "2023-11-11 05:01:41",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7684",
+        "InterviewEndDate": "2023-11-11 05:07:02",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7687",
+        "InterviewEndDate": "2023-11-11 05:31:13",
+        "InterviewState": "Complete",
+        "Flight": "SQ - Singapore Airlines",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "7688",
+        "InterviewEndDate": "2023-11-11 05:34:20",
+        "InterviewState": "Complete",
+        "Flight": "SQ - Singapore Airlines",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "7689",
+        "InterviewEndDate": "2023-11-11 05:37:58",
+        "InterviewState": "Complete",
+        "Flight": "SQ - Singapore Airlines",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
     }
 ]    
 
