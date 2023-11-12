@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "12-11-2023 08:57:53"
+        "download_time": "12-11-2023 10:02:54"
     },
     {
         "InterviewId": "15848",
@@ -56230,6 +56230,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2428",
         "Dest": "GOT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24135",
+        "InterviewEndDate": "2023-11-12 08:03:06",
+        "InterviewState": "Complete",
+        "Flight": "A3 405",
+        "Dest": "KLX",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "24136",
+        "InterviewEndDate": "2023-11-12 08:08:52",
+        "InterviewState": "Complete",
+        "Flight": "A3 405",
+        "Dest": "KLX",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "24140",
+        "InterviewEndDate": "2023-11-12 08:33:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24141",
+        "InterviewEndDate": "2023-11-12 08:36:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24142",
+        "InterviewEndDate": "2023-11-12 08:37:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24143",
+        "InterviewEndDate": "2023-11-12 08:44:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24144",
+        "InterviewEndDate": "2023-11-12 08:42:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24145",
+        "InterviewEndDate": "2023-11-12 08:44:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24146",
+        "InterviewEndDate": "2023-11-12 08:56:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24147",
+        "InterviewEndDate": "2023-11-12 08:51:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 766",
+        "Dest": "BOM",
         "AirlineCode": "LH"
     }
 ]    
