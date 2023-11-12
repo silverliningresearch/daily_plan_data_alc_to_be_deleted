@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "12-11-2023 16:33:38"
+        "download_time": "12-11-2023 17:38:45"
     },
     {
         "InterviewId": "6093",
@@ -33935,6 +33935,70 @@ let interview_data_raw = `[
         "Flight": "KL1344",
         "Dest": "AMS",
         "AirlineCode": "KL1344"
+    },
+    {
+        "InterviewId": "12926",
+        "InterviewEndDate": "2023-11-12",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "12927",
+        "InterviewEndDate": "2023-11-12",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "12928",
+        "InterviewEndDate": "2023-11-12",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "12929",
+        "InterviewEndDate": "2023-11-12",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "12930",
+        "InterviewEndDate": "2023-11-12",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "12931",
+        "InterviewEndDate": "2023-11-12",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "12932",
+        "InterviewEndDate": "2023-11-12",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
+    },
+    {
+        "InterviewId": "12933",
+        "InterviewEndDate": "2023-11-12",
+        "InterviewState": "Complete",
+        "Flight": "FR4723",
+        "Dest": "BGY",
+        "AirlineCode": "FR4723"
     }
 ]    
 
