@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "12-11-2023 20:53:36"
+        "download_time": "12-11-2023 21:58:32"
     },
     {
         "InterviewId": "6093",
@@ -34191,6 +34191,70 @@ let interview_data_raw = `[
         "Flight": "LO468",
         "Dest": "WAW",
         "AirlineCode": "LO468"
+    },
+    {
+        "InterviewId": "12959",
+        "InterviewEndDate": "2023-11-12",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
+    },
+    {
+        "InterviewId": "12960",
+        "InterviewEndDate": "2023-11-12",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
+    },
+    {
+        "InterviewId": "12961",
+        "InterviewEndDate": "2023-11-12",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
+    },
+    {
+        "InterviewId": "12962",
+        "InterviewEndDate": "2023-11-12",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
+    },
+    {
+        "InterviewId": "12964",
+        "InterviewEndDate": "2023-11-12",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
+    },
+    {
+        "InterviewId": "12965",
+        "InterviewEndDate": "2023-11-12",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
+    },
+    {
+        "InterviewId": "12968",
+        "InterviewEndDate": "2023-11-12",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
+    },
+    {
+        "InterviewId": "12969",
+        "InterviewEndDate": "2023-11-12",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
     }
 ]    
 
