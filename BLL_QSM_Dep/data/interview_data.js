@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "13-11-2023 18:33:53"
+        "download_time": "13-11-2023 19:38:53"
     },
     {
         "InterviewId": "6093",
@@ -34415,6 +34415,142 @@ let interview_data_raw = `[
         "Flight": "BA8247",
         "Dest": "MAN",
         "AirlineCode": "BA8247"
+    },
+    {
+        "InterviewId": "13008",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "13009",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "13010",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "13011",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "13012",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "13013",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "LH841",
+        "Dest": "FRA",
+        "AirlineCode": "LH841"
+    },
+    {
+        "InterviewId": "13014",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "13015",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "13016",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "13017",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "13018",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "SK1498",
+        "Dest": "ARN",
+        "AirlineCode": "SK1498"
+    },
+    {
+        "InterviewId": "13020",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
+    },
+    {
+        "InterviewId": "13021",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
+    },
+    {
+        "InterviewId": "13022",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
+    },
+    {
+        "InterviewId": "13023",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
+    },
+    {
+        "InterviewId": "13024",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
+    },
+    {
+        "InterviewId": "13025",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "DY999",
+        "Dest": "OSL",
+        "AirlineCode": "DY999"
     }
 ]    
 
