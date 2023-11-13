@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "13-11-2023 16:24:24"
+        "download_time": "13-11-2023 17:29:08"
     },
     {
         "InterviewId": "6093",
@@ -34343,6 +34343,78 @@ let interview_data_raw = `[
         "Flight": "FR3687",
         "Dest": "GDN",
         "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "12985",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "SK1902",
+        "Dest": "OSL",
+        "AirlineCode": "SK1902"
+    },
+    {
+        "InterviewId": "12987",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "SK1902",
+        "Dest": "OSL",
+        "AirlineCode": "SK1902"
+    },
+    {
+        "InterviewId": "12988",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "SK1902",
+        "Dest": "OSL",
+        "AirlineCode": "SK1902"
+    },
+    {
+        "InterviewId": "12989",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "SK1902",
+        "Dest": "OSL",
+        "AirlineCode": "SK1902"
+    },
+    {
+        "InterviewId": "12991",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "SK1902",
+        "Dest": "OSL",
+        "AirlineCode": "SK1902"
+    },
+    {
+        "InterviewId": "12992",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "SK1902",
+        "Dest": "OSL",
+        "AirlineCode": "SK1902"
+    },
+    {
+        "InterviewId": "12993",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "SK1902",
+        "Dest": "OSL",
+        "AirlineCode": "SK1902"
+    },
+    {
+        "InterviewId": "12996",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "BA8247",
+        "Dest": "MAN",
+        "AirlineCode": "BA8247"
+    },
+    {
+        "InterviewId": "12998",
+        "InterviewEndDate": "2023-11-13",
+        "InterviewState": "Complete",
+        "Flight": "BA8247",
+        "Dest": "MAN",
+        "AirlineCode": "BA8247"
     }
 ]    
 
