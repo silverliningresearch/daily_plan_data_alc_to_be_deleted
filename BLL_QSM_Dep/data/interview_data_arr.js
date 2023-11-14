@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "14-11-2023 12:59:14"
+        "download_time": "14-11-2023 14:04:10"
     },
     {
         "InterviewId": "2077",
@@ -10679,6 +10679,70 @@ let interview_data_arr_raw = `[
         "Flight": "JTD - Jettime",
         "Dest": "FUE",
         "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "4745",
+        "InterviewEndDate": "2023-11-14",
+        "InterviewState": "Complete",
+        "Flight": "Klm",
+        "Dest": "AMS",
+        "AirlineCode": "Klm"
+    },
+    {
+        "InterviewId": "4746",
+        "InterviewEndDate": "2023-11-14",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4747",
+        "InterviewEndDate": "2023-11-14",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "KRK",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4748",
+        "InterviewEndDate": "2023-11-14",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MUC",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "4751",
+        "InterviewEndDate": "2023-11-14",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4754",
+        "InterviewEndDate": "2023-11-14",
+        "InterviewState": "Complete",
+        "Flight": "KL - KL",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4755",
+        "InterviewEndDate": "2023-11-14",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4757",
+        "InterviewEndDate": "2023-11-14",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
