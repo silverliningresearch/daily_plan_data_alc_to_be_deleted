@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "15-11-2023 22:34:38"
+        "download_time": "15-11-2023 23:39:43"
     },
     {
         "InterviewId": "1224",
@@ -5615,6 +5615,46 @@ let interview_data_arr_raw = `[
         "Flight": "FZ - FlyDubai",
         "Dest": "DXB",
         "AirlineCode": "FZ"
+    },
+    {
+        "InterviewId": "1931",
+        "InterviewEndDate": "2023-11-15 21:38:05",
+        "InterviewState": "Complete",
+        "Flight": "JU - Air Serbia",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "1932",
+        "InterviewEndDate": "2023-11-15 21:44:05",
+        "InterviewState": "Complete",
+        "Flight": "JU - Air Serbia",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "1933",
+        "InterviewEndDate": "2023-11-15 21:50:30",
+        "InterviewState": "Complete",
+        "Flight": "JU - Air Serbia",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "1934",
+        "InterviewEndDate": "2023-11-15 21:57:33",
+        "InterviewState": "Complete",
+        "Flight": "JU - Air Serbia",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "1935",
+        "InterviewEndDate": "2023-11-15 22:02:56",
+        "InterviewState": "Complete",
+        "Flight": "JU - Air Serbia",
+        "Dest": "BEG",
+        "AirlineCode": "JU"
     }
 ]    
 
