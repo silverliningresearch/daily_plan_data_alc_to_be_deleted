@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "16-11-2023 22:25:20"
+        "download_time": "16-11-2023 23:30:47"
     },
     {
         "InterviewId": "1224",
@@ -5655,6 +5655,54 @@ let interview_data_arr_raw = `[
         "Flight": "JU - Air Serbia",
         "Dest": "BEG",
         "AirlineCode": "JU"
+    },
+    {
+        "InterviewId": "1936",
+        "InterviewEndDate": "2023-11-16 21:37:33",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1937",
+        "InterviewEndDate": "2023-11-16 21:42:07",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1938",
+        "InterviewEndDate": "2023-11-16 21:47:28",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1939",
+        "InterviewEndDate": "2023-11-16 22:00:51",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "BER",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1940",
+        "InterviewEndDate": "2023-11-16 22:05:48",
+        "InterviewState": "Complete",
+        "Flight": "OS - Austrian Airlines",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewId": "1941",
+        "InterviewEndDate": "2023-11-16 22:10:35",
+        "InterviewState": "Complete",
+        "Flight": "OS - Austrian Airlines",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
     }
 ]    
 
