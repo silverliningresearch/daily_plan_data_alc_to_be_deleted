@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "16-11-2023 16:59:11"
+        "download_time": "16-11-2023 18:04:13"
     },
     {
         "InterviewId": "6093",
@@ -34847,6 +34847,70 @@ let interview_data_raw = `[
         "Flight": "RC471",
         "Dest": "FAE",
         "AirlineCode": "RC471"
+    },
+    {
+        "InterviewId": "13074",
+        "InterviewEndDate": "2023-11-16",
+        "InterviewState": "Complete",
+        "Flight": "BA8247",
+        "Dest": "MAN",
+        "AirlineCode": "BA8247"
+    },
+    {
+        "InterviewId": "13075",
+        "InterviewEndDate": "2023-11-16",
+        "InterviewState": "Complete",
+        "Flight": "BA8247",
+        "Dest": "MAN",
+        "AirlineCode": "BA8247"
+    },
+    {
+        "InterviewId": "13076",
+        "InterviewEndDate": "2023-11-16",
+        "InterviewState": "Complete",
+        "Flight": "BA8247",
+        "Dest": "MAN",
+        "AirlineCode": "BA8247"
+    },
+    {
+        "InterviewId": "13077",
+        "InterviewEndDate": "2023-11-16",
+        "InterviewState": "Complete",
+        "Flight": "BA8247",
+        "Dest": "MAN",
+        "AirlineCode": "BA8247"
+    },
+    {
+        "InterviewId": "13078",
+        "InterviewEndDate": "2023-11-16",
+        "InterviewState": "Complete",
+        "Flight": "BA8247",
+        "Dest": "MAN",
+        "AirlineCode": "BA8247"
+    },
+    {
+        "InterviewId": "13079",
+        "InterviewEndDate": "2023-11-16",
+        "InterviewState": "Complete",
+        "Flight": "BA8247",
+        "Dest": "MAN",
+        "AirlineCode": "BA8247"
+    },
+    {
+        "InterviewId": "13080",
+        "InterviewEndDate": "2023-11-16",
+        "InterviewState": "Complete",
+        "Flight": "BA8247",
+        "Dest": "MAN",
+        "AirlineCode": "BA8247"
+    },
+    {
+        "InterviewId": "13081",
+        "InterviewEndDate": "2023-11-16",
+        "InterviewState": "Complete",
+        "Flight": "BA8247",
+        "Dest": "MAN",
+        "AirlineCode": "BA8247"
     }
 ]    
 
