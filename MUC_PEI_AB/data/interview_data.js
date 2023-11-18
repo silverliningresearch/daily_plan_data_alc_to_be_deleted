@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "18-11-2023 09:02:56"
+        "download_time": "18-11-2023 10:07:59"
     },
     {
         "InterviewId": "15848",
@@ -57255,6 +57255,46 @@ let interview_data_raw = `[
         "Flight": "LO  352",
         "Dest": "WAW",
         "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "24287",
+        "InterviewEndDate": "2023-11-18 08:11:32",
+        "InterviewState": "Complete",
+        "Flight": "EN 8218",
+        "Dest": "BRI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "24288",
+        "InterviewEndDate": "2023-11-18 08:10:34",
+        "InterviewState": "Complete",
+        "Flight": "EN 8218",
+        "Dest": "BRI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "24289",
+        "InterviewEndDate": "2023-11-18 08:13:34",
+        "InterviewState": "Complete",
+        "Flight": "EN 8218",
+        "Dest": "BRI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "24290",
+        "InterviewEndDate": "2023-11-18 08:47:12",
+        "InterviewState": "Complete",
+        "Flight": "OU 4675",
+        "Dest": "ZAD",
+        "AirlineCode": "OU"
+    },
+    {
+        "InterviewId": "24291",
+        "InterviewEndDate": "2023-11-18 08:44:54",
+        "InterviewState": "Complete",
+        "Flight": "OU 4675",
+        "Dest": "ZAD",
+        "AirlineCode": "OU"
     }
 ]    
 
