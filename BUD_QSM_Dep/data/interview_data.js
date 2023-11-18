@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "18-11-2023 10:09:40"
+        "download_time": "18-11-2023 11:14:35"
     },
     {
         "InterviewId": "3965",
@@ -18342,6 +18342,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 1659",
         "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6395",
+        "InterviewEndDate": "2023-11-18 09:25:02",
+        "InterviewState": "Complete",
+        "Flight": "W6 2297",
+        "Dest": "RUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6396",
+        "InterviewEndDate": "2023-11-18 09:23:21",
+        "InterviewState": "Complete",
+        "Flight": "W6 2297",
+        "Dest": "RUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6397",
+        "InterviewEndDate": "2023-11-18 09:23:33",
+        "InterviewState": "Complete",
+        "Flight": "W6 2297",
+        "Dest": "RUH",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6398",
+        "InterviewEndDate": "2023-11-18 09:15:58",
+        "InterviewState": "Complete",
+        "Flight": "FR 1026",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6400",
+        "InterviewEndDate": "2023-11-18 09:14:18",
+        "InterviewState": "Complete",
+        "Flight": "FR 1026",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6401",
+        "InterviewEndDate": "2023-11-18 09:20:20",
+        "InterviewState": "Complete",
+        "Flight": "FR 1026",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6402",
+        "InterviewEndDate": "2023-11-18 09:19:07",
+        "InterviewState": "Complete",
+        "Flight": "FR 1026",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6403",
+        "InterviewEndDate": "2023-11-18 09:26:34",
+        "InterviewState": "Complete",
+        "Flight": "FR 1026",
+        "Dest": "DUB",
         "AirlineCode": "FR"
     }
 ]    
