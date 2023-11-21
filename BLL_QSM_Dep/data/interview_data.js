@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "21-11-2023 15:04:22"
+        "download_time": "21-11-2023 16:09:13"
     },
     {
         "InterviewId": "6093",
@@ -35159,6 +35159,94 @@ let interview_data_raw = `[
         "Flight": "LH839",
         "Dest": "FRA",
         "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "13122",
+        "InterviewEndDate": "2023-11-21",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "13123",
+        "InterviewEndDate": "2023-11-21",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "13124",
+        "InterviewEndDate": "2023-11-21",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "13125",
+        "InterviewEndDate": "2023-11-21",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "13126",
+        "InterviewEndDate": "2023-11-21",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "13127",
+        "InterviewEndDate": "2023-11-21",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "13128",
+        "InterviewEndDate": "2023-11-21",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "13129",
+        "InterviewEndDate": "2023-11-21",
+        "InterviewState": "Complete",
+        "Flight": "AF1265",
+        "Dest": "CDG",
+        "AirlineCode": "AF1265"
+    },
+    {
+        "InterviewId": "13130",
+        "InterviewEndDate": "2023-11-21",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "13131",
+        "InterviewEndDate": "2023-11-21",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
+    },
+    {
+        "InterviewId": "13132",
+        "InterviewEndDate": "2023-11-21",
+        "InterviewState": "Complete",
+        "Flight": "FR2801",
+        "Dest": "MAN",
+        "AirlineCode": "FR2801"
     }
 ]    
 
