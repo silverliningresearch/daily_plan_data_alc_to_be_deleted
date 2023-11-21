@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "21-11-2023 16:08:52"
+        "download_time": "21-11-2023 17:13:52"
     },
     {
         "InterviewId": "5174",
@@ -17695,6 +17695,54 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "ORD",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7777",
+        "InterviewEndDate": "2023-11-21 15:46:42",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7778",
+        "InterviewEndDate": "2023-11-21 15:43:42",
+        "InterviewState": "Complete",
+        "Flight": "Ew",
+        "Dest": "PMI",
+        "AirlineCode": "Ew"
+    },
+    {
+        "InterviewId": "7779",
+        "InterviewEndDate": "2023-11-21 15:43:43",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7783",
+        "InterviewEndDate": "2023-11-21 16:09:19",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "7784",
+        "InterviewEndDate": "2023-11-21 15:56:39",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "PMI",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "7785",
+        "InterviewEndDate": "2023-11-21 15:59:35",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
