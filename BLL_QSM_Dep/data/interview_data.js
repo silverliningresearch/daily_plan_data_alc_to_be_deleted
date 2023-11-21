@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "21-11-2023 12:54:06"
+        "download_time": "21-11-2023 13:59:13"
     },
     {
         "InterviewId": "6093",
@@ -35073,6 +35073,22 @@ let interview_data_raw = `[
         "AirlineCode": "LH2435"
     },
     {
+        "InterviewId": "13108",
+        "InterviewEndDate": "2023-11-21",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "13109",
+        "InterviewEndDate": "2023-11-21",
+        "InterviewState": "Complete",
+        "Flight": "LH2435",
+        "Dest": "MUC",
+        "AirlineCode": "LH2435"
+    },
+    {
         "InterviewId": "13110",
         "InterviewEndDate": "2023-11-21",
         "InterviewState": "Complete",
@@ -35103,6 +35119,46 @@ let interview_data_raw = `[
         "Flight": "LH2435",
         "Dest": "MUC",
         "AirlineCode": "LH2435"
+    },
+    {
+        "InterviewId": "13116",
+        "InterviewEndDate": "2023-11-21",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "13118",
+        "InterviewEndDate": "2023-11-21",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "13119",
+        "InterviewEndDate": "2023-11-21",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "13120",
+        "InterviewEndDate": "2023-11-21",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "13121",
+        "InterviewEndDate": "2023-11-21",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
     }
 ]    
 
