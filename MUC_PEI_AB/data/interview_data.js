@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "22-11-2023 11:38:29"
+        "download_time": "22-11-2023 12:43:12"
     },
     {
         "InterviewId": "15848",
@@ -58169,11 +58169,107 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "24417",
+        "InterviewEndDate": "2023-11-22 10:40:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "24418",
         "InterviewEndDate": "2023-11-22 10:33:32",
         "InterviewState": "Complete",
         "Flight": "LH 410",
         "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24419",
+        "InterviewEndDate": "2023-11-22 11:13:23",
+        "InterviewState": "Complete",
+        "Flight": "LH  714",
+        "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24420",
+        "InterviewEndDate": "2023-11-22 10:59:24",
+        "InterviewState": "Complete",
+        "Flight": "LH  714",
+        "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24421",
+        "InterviewEndDate": "2023-11-22 11:13:02",
+        "InterviewState": "Complete",
+        "Flight": "Lh714",
+        "Dest": "HND",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "24422",
+        "InterviewEndDate": "2023-11-22 11:16:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24423",
+        "InterviewEndDate": "2023-11-22 11:17:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24424",
+        "InterviewEndDate": "2023-11-22 11:21:34",
+        "InterviewState": "Complete",
+        "Flight": "FI 533",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "24425",
+        "InterviewEndDate": "2023-11-22 11:21:09",
+        "InterviewState": "Complete",
+        "Flight": "FI 533",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "24426",
+        "InterviewEndDate": "2023-11-22 11:19:49",
+        "InterviewState": "Complete",
+        "Flight": "FI 533",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "24427",
+        "InterviewEndDate": "2023-11-22 11:25:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 1868",
+        "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24428",
+        "InterviewEndDate": "2023-11-22 11:40:06",
+        "InterviewState": "Complete",
+        "Flight": "FI 533",
+        "Dest": "KEF",
+        "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "24429",
+        "InterviewEndDate": "2023-11-22 11:29:21",
+        "InterviewState": "Complete",
+        "Flight": "LH 1868",
+        "Dest": "FCO",
         "AirlineCode": "LH"
     }
 ]    
