@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "22-11-2023 09:28:09"
+        "download_time": "22-11-2023 10:33:14"
     },
     {
         "InterviewId": "15848",
@@ -57847,6 +57847,118 @@ let interview_data_raw = `[
         "Flight": "DI 6522",
         "Dest": "FUE",
         "AirlineCode": "DI"
+    },
+    {
+        "InterviewId": "24372",
+        "InterviewEndDate": "2023-11-22 09:09:46",
+        "InterviewState": "Complete",
+        "Flight": "EN8320",
+        "Dest": "CLJ",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "24373",
+        "InterviewEndDate": "2023-11-22 08:43:12",
+        "InterviewState": "Complete",
+        "Flight": "Lh1662",
+        "Dest": "SBZ",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "24374",
+        "InterviewEndDate": "2023-11-22 08:55:30",
+        "InterviewState": "Complete",
+        "Flight": "Lh1662",
+        "Dest": "SBZ",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "24375",
+        "InterviewEndDate": "2023-11-22 08:43:23",
+        "InterviewState": "Complete",
+        "Flight": "1662",
+        "Dest": "SBZ",
+        "AirlineCode": "16"
+    },
+    {
+        "InterviewId": "24376",
+        "InterviewEndDate": "2023-11-22 09:12:19",
+        "InterviewState": "Complete",
+        "Flight": "EN8320",
+        "Dest": "CLJ",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "24377",
+        "InterviewEndDate": "2023-11-22 08:54:26",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "24378",
+        "InterviewEndDate": "2023-11-22 09:08:02",
+        "InterviewState": "Complete",
+        "Flight": "En8320",
+        "Dest": "CLJ",
+        "AirlineCode": "En"
+    },
+    {
+        "InterviewId": "24379",
+        "InterviewEndDate": "2023-11-22 09:11:22",
+        "InterviewState": "Complete",
+        "Flight": "EN8320",
+        "Dest": "CLJ",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "24380",
+        "InterviewEndDate": "2023-11-22 08:55:31",
+        "InterviewState": "Complete",
+        "Flight": "LH 766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24382",
+        "InterviewEndDate": "2023-11-22 08:55:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24384",
+        "InterviewEndDate": "2023-11-22 09:17:00",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "24386",
+        "InterviewEndDate": "2023-11-22 09:17:24",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "24388",
+        "InterviewEndDate": "2023-11-22 09:22:30",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "24391",
+        "InterviewEndDate": "2023-11-22 09:25:43",
+        "InterviewState": "Complete",
+        "Flight": "Lh2474",
+        "Dest": "LHR",
+        "AirlineCode": "Lh"
     }
 ]    
 

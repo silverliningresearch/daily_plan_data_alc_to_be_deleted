@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "22-11-2023 09:28:46"
+        "download_time": "22-11-2023 10:33:52"
     },
     {
         "InterviewId": "5174",
@@ -17895,6 +17895,78 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "YUL",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7815",
+        "InterviewEndDate": "2023-11-22 08:38:02",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "7816",
+        "InterviewEndDate": "2023-11-22 08:40:29",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "7817",
+        "InterviewEndDate": "2023-11-22 08:43:00",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "7818",
+        "InterviewEndDate": "2023-11-22 08:50:42",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "7819",
+        "InterviewEndDate": "2023-11-22 09:07:54",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "7820",
+        "InterviewEndDate": "2023-11-22 09:12:00",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "7821",
+        "InterviewEndDate": "2023-11-22 09:07:09",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "7822",
+        "InterviewEndDate": "2023-11-22 09:10:54",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "7823",
+        "InterviewEndDate": "2023-11-22 09:23:13",
+        "InterviewState": "Complete",
+        "Flight": "UX - Air Europa",
+        "Dest": "MAD",
+        "AirlineCode": "UX"
     }
 ]    
 
