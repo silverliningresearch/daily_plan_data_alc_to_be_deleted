@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "22-11-2023 12:43:12"
+        "download_time": "22-11-2023 13:48:32"
     },
     {
         "InterviewId": "15848",
@@ -58270,6 +58270,126 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1868",
         "Dest": "FCO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24435",
+        "InterviewEndDate": "2023-11-22 12:18:25",
+        "InterviewState": "Complete",
+        "Flight": "MS 788",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "24436",
+        "InterviewEndDate": "2023-11-22 12:17:14",
+        "InterviewState": "Complete",
+        "Flight": "LH  109",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24437",
+        "InterviewEndDate": "2023-11-22 12:19:41",
+        "InterviewState": "Complete",
+        "Flight": "MS 788",
+        "Dest": "CAI",
+        "AirlineCode": "MS"
+    },
+    {
+        "InterviewId": "24438",
+        "InterviewEndDate": "2023-11-22 12:14:45",
+        "InterviewState": "Complete",
+        "Flight": "LH  109",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24439",
+        "InterviewEndDate": "2023-11-22 12:12:09",
+        "InterviewState": "Complete",
+        "Flight": "LH  109",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24441",
+        "InterviewEndDate": "2023-11-22 12:10:55",
+        "InterviewState": "Complete",
+        "Flight": "LH  109",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24442",
+        "InterviewEndDate": "2023-11-22 12:13:30",
+        "InterviewState": "Complete",
+        "Flight": "EK 050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "24443",
+        "InterviewEndDate": "2023-11-22 12:19:14",
+        "InterviewState": "Complete",
+        "Flight": "EK 050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "24444",
+        "InterviewEndDate": "2023-11-22 12:15:27",
+        "InterviewState": "Complete",
+        "Flight": "EK 050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "24445",
+        "InterviewEndDate": "2023-11-22 12:21:29",
+        "InterviewState": "Complete",
+        "Flight": "LH  109",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24446",
+        "InterviewEndDate": "2023-11-22 12:23:18",
+        "InterviewState": "Complete",
+        "Flight": "LH  109",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24447",
+        "InterviewEndDate": "2023-11-22 12:29:01",
+        "InterviewState": "Complete",
+        "Flight": "LH  109",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24449",
+        "InterviewEndDate": "2023-11-22 12:42:05",
+        "InterviewState": "Complete",
+        "Flight": "EK 050",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "24451",
+        "InterviewEndDate": "2023-11-22 12:47:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 1614",
+        "Dest": "WAW",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24453",
+        "InterviewEndDate": "2023-11-22 12:48:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 1614",
+        "Dest": "WAW",
         "AirlineCode": "LH"
     }
 ]    
