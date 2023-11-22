@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "22-11-2023 17:04:02"
+        "download_time": "22-11-2023 18:08:57"
     },
     {
         "InterviewId": "5174",
@@ -18063,6 +18063,46 @@ let interview_data_arr_raw = `[
         "Flight": "FI - Icelandair",
         "Dest": "KEF",
         "AirlineCode": "FI"
+    },
+    {
+        "InterviewId": "7837",
+        "InterviewEndDate": "2023-11-22 16:46:21",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7838",
+        "InterviewEndDate": "2023-11-22 16:39:20",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7839",
+        "InterviewEndDate": "2023-11-22 17:05:49",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7840",
+        "InterviewEndDate": "2023-11-22 16:55:51",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7841",
+        "InterviewEndDate": "2023-11-22 17:05:26",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "FAO",
+        "AirlineCode": "TP"
     }
 ]    
 
