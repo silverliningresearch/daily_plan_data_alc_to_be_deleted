@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "22-11-2023 16:54:02"
+        "download_time": "22-11-2023 17:58:42"
     },
     {
         "InterviewId": "7333",
@@ -37204,6 +37204,69 @@ let interview_data_raw = `[
         "Flight": "5W7017",
         "Dest": "HBE",
         "AirlineCode": "5W7017",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11726",
+        "InterviewEndDate": "2023-11-22 12:57:09",
+        "InterviewState": "Complete",
+        "Flight": "5W7179",
+        "Dest": "GYD",
+        "AirlineCode": "5W7179",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11727",
+        "InterviewEndDate": "2023-11-22 13:04:22",
+        "InterviewState": "Complete",
+        "Flight": "5W7179",
+        "Dest": "GYD",
+        "AirlineCode": "5W7179",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11728",
+        "InterviewEndDate": "2023-11-22 13:11:02",
+        "InterviewState": "Complete",
+        "Flight": "5w7179",
+        "Dest": "GYD",
+        "AirlineCode": "5w7179",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11729",
+        "InterviewEndDate": "2023-11-22 13:17:26",
+        "InterviewState": "Complete",
+        "Flight": "5W7179",
+        "Dest": "GYD",
+        "AirlineCode": "5W7179",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11730",
+        "InterviewEndDate": "2023-11-22 13:38:47",
+        "InterviewState": "Complete",
+        "Flight": "GF545",
+        "Dest": "BAH",
+        "AirlineCode": "GF545",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11731",
+        "InterviewEndDate": "2023-11-22 13:45:38",
+        "InterviewState": "Complete",
+        "Flight": "GF545",
+        "Dest": "BAH",
+        "AirlineCode": "GF545",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11732",
+        "InterviewEndDate": "2023-11-22 13:54:07",
+        "InterviewState": "Complete",
+        "Flight": "GF545",
+        "Dest": "BAH",
+        "AirlineCode": "GF545",
         "Terminal": "T"
     }
 ]    
