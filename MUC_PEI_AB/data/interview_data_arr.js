@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "22-11-2023 07:18:33"
+        "download_time": "22-11-2023 08:23:57"
     },
     {
         "InterviewId": "5174",
@@ -17767,6 +17767,94 @@ let interview_data_arr_raw = `[
         "Flight": "AF - Air France",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "7794",
+        "InterviewEndDate": "2023-11-22 06:29:04",
+        "InterviewState": "Complete",
+        "Flight": "TG - Thai Airways",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "7795",
+        "InterviewEndDate": "2023-11-22 06:30:19",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7796",
+        "InterviewEndDate": "2023-11-22 06:34:10",
+        "InterviewState": "Complete",
+        "Flight": "TG - Thai Airways",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "7798",
+        "InterviewEndDate": "2023-11-22 06:37:27",
+        "InterviewState": "Complete",
+        "Flight": "NH - ANA All Nippon Cargo",
+        "Dest": "HND",
+        "AirlineCode": "NH"
+    },
+    {
+        "InterviewId": "7800",
+        "InterviewEndDate": "2023-11-22 06:41:06",
+        "InterviewState": "Complete",
+        "Flight": "NH - ANA All Nippon Cargo",
+        "Dest": "HND",
+        "AirlineCode": "NH"
+    },
+    {
+        "InterviewId": "7801",
+        "InterviewEndDate": "2023-11-22 06:40:19",
+        "InterviewState": "Complete",
+        "Flight": "NH - ANA All Nippon Cargo",
+        "Dest": "HND",
+        "AirlineCode": "NH"
+    },
+    {
+        "InterviewId": "7802",
+        "InterviewEndDate": "2023-11-22 06:50:40",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "7803",
+        "InterviewEndDate": "2023-11-22 06:48:28",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "7804",
+        "InterviewEndDate": "2023-11-22 06:46:53",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7805",
+        "InterviewEndDate": "2023-11-22 06:58:08",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "7806",
+        "InterviewEndDate": "2023-11-22 06:59:06",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
     }
 ]    
 

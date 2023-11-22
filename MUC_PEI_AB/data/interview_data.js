@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "22-11-2023 07:17:58"
+        "download_time": "22-11-2023 08:23:21"
     },
     {
         "InterviewId": "15848",
@@ -57751,6 +57751,70 @@ let interview_data_raw = `[
         "Flight": "BA  953",
         "Dest": "LHR",
         "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "24360",
+        "InterviewEndDate": "2023-11-22 06:33:47",
+        "InterviewState": "Complete",
+        "Flight": "EW 4065",
+        "Dest": "DTM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "24361",
+        "InterviewEndDate": "2023-11-22 06:35:17",
+        "InterviewState": "Complete",
+        "Flight": "EW 4065",
+        "Dest": "DTM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "24362",
+        "InterviewEndDate": "2023-11-22 06:39:16",
+        "InterviewState": "Complete",
+        "Flight": "EW 4065",
+        "Dest": "DTM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "24363",
+        "InterviewEndDate": "2023-11-22 06:59:39",
+        "InterviewState": "Complete",
+        "Flight": "EW 081",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "24364",
+        "InterviewEndDate": "2023-11-22 06:55:07",
+        "InterviewState": "Complete",
+        "Flight": "EW 081",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "24365",
+        "InterviewEndDate": "2023-11-22 07:10:46",
+        "InterviewState": "Complete",
+        "Flight": "EW 081",
+        "Dest": "CGN",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "24366",
+        "InterviewEndDate": "2023-11-22 07:21:29",
+        "InterviewState": "Complete",
+        "Flight": "EW 7171",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "24367",
+        "InterviewEndDate": "2023-11-22 07:21:09",
+        "InterviewState": "Complete",
+        "Flight": "EW 7171",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
     }
 ]    
 
