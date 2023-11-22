@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "22-11-2023 10:33:14"
+        "download_time": "22-11-2023 11:38:29"
     },
     {
         "InterviewId": "15848",
@@ -57937,12 +57937,28 @@ let interview_data_raw = `[
         "AirlineCode": "AC"
     },
     {
+        "InterviewId": "24385",
+        "InterviewEndDate": "2023-11-22 09:35:13",
+        "InterviewState": "Complete",
+        "Flight": "Lh2474",
+        "Dest": "LHR",
+        "AirlineCode": "Lh"
+    },
+    {
         "InterviewId": "24386",
         "InterviewEndDate": "2023-11-22 09:17:24",
         "InterviewState": "Complete",
         "Flight": "AC 837",
         "Dest": "YYZ",
         "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "24387",
+        "InterviewEndDate": "2023-11-22 09:37:26",
+        "InterviewState": "Complete",
+        "Flight": "Lh2474",
+        "Dest": "LHR",
+        "AirlineCode": "Lh"
     },
     {
         "InterviewId": "24388",
@@ -57953,12 +57969,212 @@ let interview_data_raw = `[
         "AirlineCode": "AC"
     },
     {
+        "InterviewId": "24390",
+        "InterviewEndDate": "2023-11-22 09:37:02",
+        "InterviewState": "Complete",
+        "Flight": "Lh2474",
+        "Dest": "LHR",
+        "AirlineCode": "Lh"
+    },
+    {
         "InterviewId": "24391",
         "InterviewEndDate": "2023-11-22 09:25:43",
         "InterviewState": "Complete",
         "Flight": "Lh2474",
         "Dest": "LHR",
         "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "24392",
+        "InterviewEndDate": "2023-11-22 09:47:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 480",
+        "Dest": "DEN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24393",
+        "InterviewEndDate": "2023-11-22 09:42:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 480",
+        "Dest": "DEN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24394",
+        "InterviewEndDate": "2023-11-22 09:41:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 480",
+        "Dest": "DEN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24395",
+        "InterviewEndDate": "2023-11-22 09:38:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 2474",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24396",
+        "InterviewEndDate": "2023-11-22 09:41:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 2474",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24397",
+        "InterviewEndDate": "2023-11-22 09:49:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 2474",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24399",
+        "InterviewEndDate": "2023-11-22 09:55:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 2474",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24401",
+        "InterviewEndDate": "2023-11-22 09:56:42",
+        "InterviewState": "Complete",
+        "Flight": "2474",
+        "Dest": "LHR",
+        "AirlineCode": "24"
+    },
+    {
+        "InterviewId": "24402",
+        "InterviewEndDate": "2023-11-22 09:57:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24403",
+        "InterviewEndDate": "2023-11-22 10:02:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24404",
+        "InterviewEndDate": "2023-11-22 10:15:26",
+        "InterviewState": "Complete",
+        "Flight": "CA962",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "24405",
+        "InterviewEndDate": "2023-11-22 10:02:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24406",
+        "InterviewEndDate": "2023-11-22 10:15:08",
+        "InterviewState": "Complete",
+        "Flight": "Ca962",
+        "Dest": "PEK",
+        "AirlineCode": "Ca"
+    },
+    {
+        "InterviewId": "24407",
+        "InterviewEndDate": "2023-11-22 10:10:04",
+        "InterviewState": "Complete",
+        "Flight": "Ca962",
+        "Dest": "PEK",
+        "AirlineCode": "Ca"
+    },
+    {
+        "InterviewId": "24408",
+        "InterviewEndDate": "2023-11-22 10:13:19",
+        "InterviewState": "Complete",
+        "Flight": "Ca962",
+        "Dest": "PEK",
+        "AirlineCode": "Ca"
+    },
+    {
+        "InterviewId": "24409",
+        "InterviewEndDate": "2023-11-22 10:16:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 460",
+        "Dest": "MIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24410",
+        "InterviewEndDate": "2023-11-22 10:14:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 460",
+        "Dest": "MIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24411",
+        "InterviewEndDate": "2023-11-22 10:17:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 460",
+        "Dest": "MIA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24412",
+        "InterviewEndDate": "2023-11-22 10:32:35",
+        "InterviewState": "Complete",
+        "Flight": "SQ327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "24413",
+        "InterviewEndDate": "2023-11-22 10:30:52",
+        "InterviewState": "Complete",
+        "Flight": "SQ  327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "24414",
+        "InterviewEndDate": "2023-11-22 10:34:36",
+        "InterviewState": "Complete",
+        "Flight": "SQ  327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "24415",
+        "InterviewEndDate": "2023-11-22 10:32:54",
+        "InterviewState": "Complete",
+        "Flight": "SQ  327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "24416",
+        "InterviewEndDate": "2023-11-22 10:29:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24418",
+        "InterviewEndDate": "2023-11-22 10:33:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
     }
 ]    
 

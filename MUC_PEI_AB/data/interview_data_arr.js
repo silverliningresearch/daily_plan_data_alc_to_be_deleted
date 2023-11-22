@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "22-11-2023 10:33:52"
+        "download_time": "22-11-2023 11:39:12"
     },
     {
         "InterviewId": "5174",
@@ -17967,6 +17967,46 @@ let interview_data_arr_raw = `[
         "Flight": "UX - Air Europa",
         "Dest": "MAD",
         "AirlineCode": "UX"
+    },
+    {
+        "InterviewId": "7824",
+        "InterviewEndDate": "2023-11-22 09:48:48",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "7825",
+        "InterviewEndDate": "2023-11-22 09:47:35",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "7826",
+        "InterviewEndDate": "2023-11-22 09:44:37",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "7827",
+        "InterviewEndDate": "2023-11-22 10:01:49",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "7829",
+        "InterviewEndDate": "2023-11-22 09:54:04",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
