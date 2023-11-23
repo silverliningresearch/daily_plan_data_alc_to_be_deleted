@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "23-11-2023 18:53:13"
+        "download_time": "23-11-2023 19:59:00"
     },
     {
         "InterviewId": "7333",
@@ -37546,6 +37546,69 @@ let interview_data_raw = `[
         "Flight": "EY395",
         "Dest": "DOH",
         "AirlineCode": "EY395",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11770",
+        "InterviewEndDate": "2023-11-23 15:11:36",
+        "InterviewState": "Complete",
+        "Flight": "EY351",
+        "Dest": "RUH",
+        "AirlineCode": "EY351",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11771",
+        "InterviewEndDate": "2023-11-23 15:18:41",
+        "InterviewState": "Complete",
+        "Flight": "EY351",
+        "Dest": "RUH",
+        "AirlineCode": "EY351",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11772",
+        "InterviewEndDate": "2023-11-23 15:25:28",
+        "InterviewState": "Complete",
+        "Flight": "EY351",
+        "Dest": "RUH",
+        "AirlineCode": "EY351",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11773",
+        "InterviewEndDate": "2023-11-23 15:33:36",
+        "InterviewState": "Complete",
+        "Flight": "EY351",
+        "Dest": "RUH",
+        "AirlineCode": "EY351",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11774",
+        "InterviewEndDate": "2023-11-23 15:46:36",
+        "InterviewState": "Complete",
+        "Flight": "EY258",
+        "Dest": "CCU",
+        "AirlineCode": "EY258",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11775",
+        "InterviewEndDate": "2023-11-23 15:50:24",
+        "InterviewState": "Complete",
+        "Flight": "EY258",
+        "Dest": "CCU",
+        "AirlineCode": "EY258",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11776",
+        "InterviewEndDate": "2023-11-23 15:58:24",
+        "InterviewState": "Complete",
+        "Flight": "EY280",
+        "Dest": "COK",
+        "AirlineCode": "EY280",
         "Terminal": "T"
     }
 ]    
