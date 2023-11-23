@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "23-11-2023 21:14:55"
+        "download_time": "23-11-2023 22:19:50"
     },
     {
         "InterviewId": "1224",
@@ -5935,6 +5935,62 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizz Air",
         "Dest": "TIA",
         "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "1971",
+        "InterviewEndDate": "2023-11-23 20:42:08",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "1972",
+        "InterviewEndDate": "2023-11-23 20:47:15",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "1973",
+        "InterviewEndDate": "2023-11-23 20:56:21",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "1974",
+        "InterviewEndDate": "2023-11-23 20:59:40",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "1975",
+        "InterviewEndDate": "2023-11-23 21:05:51",
+        "InterviewState": "Complete",
+        "Flight": "AF - Air France",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "1976",
+        "InterviewEndDate": "2023-11-23 21:09:10",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1977",
+        "InterviewEndDate": "2023-11-23 21:16:22",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "LIS",
+        "AirlineCode": "FR"
     }
 ]    
 
