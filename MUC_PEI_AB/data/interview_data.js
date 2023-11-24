@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "24-11-2023 08:03:06"
+        "download_time": "24-11-2023 09:08:18"
     },
     {
         "InterviewId": "15848",
@@ -59166,6 +59166,110 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2144",
         "Dest": "STR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24569",
+        "InterviewEndDate": "2023-11-24 07:06:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 1934",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24570",
+        "InterviewEndDate": "2023-11-24 07:12:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1934",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24571",
+        "InterviewEndDate": "2023-11-24 07:09:26",
+        "InterviewState": "Complete",
+        "Flight": "UA 031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24572",
+        "InterviewEndDate": "2023-11-24 07:14:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 1934",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24573",
+        "InterviewEndDate": "2023-11-24 07:14:46",
+        "InterviewState": "Complete",
+        "Flight": "UA 031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24574",
+        "InterviewEndDate": "2023-11-24 07:11:49",
+        "InterviewState": "Complete",
+        "Flight": "UA 031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24575",
+        "InterviewEndDate": "2023-11-24 07:23:45",
+        "InterviewState": "Complete",
+        "Flight": "UA 031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24576",
+        "InterviewEndDate": "2023-11-24 07:26:19",
+        "InterviewState": "Complete",
+        "Flight": "UA 031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24577",
+        "InterviewEndDate": "2023-11-24 07:28:10",
+        "InterviewState": "Complete",
+        "Flight": "LX 1101",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "24580",
+        "InterviewEndDate": "2023-11-24 07:38:46",
+        "InterviewState": "Complete",
+        "Flight": "BT 222",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "24581",
+        "InterviewEndDate": "2023-11-24 07:40:09",
+        "InterviewState": "Complete",
+        "Flight": "BT 222",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "24582",
+        "InterviewEndDate": "2023-11-24 07:40:05",
+        "InterviewState": "Complete",
+        "Flight": "BT 222",
+        "Dest": "RIX",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "24583",
+        "InterviewEndDate": "2023-11-24 08:05:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 2012",
+        "Dest": "DUS",
         "AirlineCode": "LH"
     }
 ]    
