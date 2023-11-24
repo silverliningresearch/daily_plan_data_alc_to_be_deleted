@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "24-11-2023 13:32:43"
+        "download_time": "24-11-2023 14:38:00"
     },
     {
         "InterviewId": "7701",
@@ -20719,6 +20719,70 @@ let interview_data_raw = `[
         "Flight": "LO  536",
         "Dest": "WAW",
         "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "10653",
+        "InterviewEndDate": "2023-11-24 12:33:08",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10654",
+        "InterviewEndDate": "2023-11-24 12:34:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10655",
+        "InterviewEndDate": "2023-11-24 12:37:10",
+        "InterviewState": "Complete",
+        "Flight": "FR 1243",
+        "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10656",
+        "InterviewEndDate": "2023-11-24 13:07:39",
+        "InterviewState": "Complete",
+        "Flight": "FR 4090",
+        "Dest": "NAP",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10657",
+        "InterviewEndDate": "2023-11-24 13:24:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 4090",
+        "Dest": "NAP",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10658",
+        "InterviewEndDate": "2023-11-24 13:23:13",
+        "InterviewState": "Complete",
+        "Flight": "FR 4090",
+        "Dest": "NAP",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10659",
+        "InterviewEndDate": "2023-11-24 13:11:56",
+        "InterviewState": "Complete",
+        "Flight": "FR 4090",
+        "Dest": "NAP",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10661",
+        "InterviewEndDate": "2023-11-24 13:24:01",
+        "InterviewState": "Complete",
+        "Flight": "FR 4090",
+        "Dest": "NAP",
+        "AirlineCode": "FR"
     }
 ]    
 
