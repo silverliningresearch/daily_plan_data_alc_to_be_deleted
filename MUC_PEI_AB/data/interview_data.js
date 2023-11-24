@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "24-11-2023 18:53:08"
+        "download_time": "24-11-2023 19:58:04"
     },
     {
         "InterviewId": "15848",
@@ -59753,6 +59753,14 @@ let interview_data_raw = `[
         "AirlineCode": "UX"
     },
     {
+        "InterviewId": "24651",
+        "InterviewEndDate": "2023-11-24 18:04:09",
+        "InterviewState": "Complete",
+        "Flight": "KL 1800",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
         "InterviewId": "24652",
         "InterviewEndDate": "2023-11-24 17:40:57",
         "InterviewState": "Complete",
@@ -59769,12 +59777,108 @@ let interview_data_raw = `[
         "AirlineCode": "KL"
     },
     {
+        "InterviewId": "24654",
+        "InterviewEndDate": "2023-11-24 18:00:57",
+        "InterviewState": "Complete",
+        "Flight": "KL 1800",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "24656",
+        "InterviewEndDate": "2023-11-24 17:53:25",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "24657",
+        "InterviewEndDate": "2023-11-24 17:54:35",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
         "InterviewId": "24658",
         "InterviewEndDate": "2023-11-24 17:43:49",
         "InterviewState": "Complete",
         "Flight": "EW 7177",
         "Dest": "HAM",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "24659",
+        "InterviewEndDate": "2023-11-24 17:58:31",
+        "InterviewState": "Complete",
+        "Flight": "KL 1800",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "24660",
+        "InterviewEndDate": "2023-11-24 18:03:28",
+        "InterviewState": "Complete",
+        "Flight": "KL 1800",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "24661",
+        "InterviewEndDate": "2023-11-24 18:08:04",
+        "InterviewState": "Complete",
+        "Flight": "KL 1800",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "24662",
+        "InterviewEndDate": "2023-11-24 18:14:30",
+        "InterviewState": "Complete",
+        "Flight": "KL 1800",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "24663",
+        "InterviewEndDate": "2023-11-24 18:11:35",
+        "InterviewState": "Complete",
+        "Flight": "KL 1800",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "24664",
+        "InterviewEndDate": "2023-11-24 18:27:42",
+        "InterviewState": "Complete",
+        "Flight": "KL 1800",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "24665",
+        "InterviewEndDate": "2023-11-24 18:23:41",
+        "InterviewState": "Complete",
+        "Flight": "KL 1800",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "24666",
+        "InterviewEndDate": "2023-11-24 18:16:52",
+        "InterviewState": "Complete",
+        "Flight": "KL 1800",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "24669",
+        "InterviewEndDate": "2023-11-24 18:37:25",
+        "InterviewState": "Complete",
+        "Flight": "IB 8715",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
     }
 ]    
 
