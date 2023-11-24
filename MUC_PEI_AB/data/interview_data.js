@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "24-11-2023 11:18:23"
+        "download_time": "24-11-2023 12:23:23"
     },
     {
         "InterviewId": "15848",
@@ -59513,12 +59513,84 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "24617",
+        "InterviewEndDate": "2023-11-24 10:23:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 2368",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "24618",
         "InterviewEndDate": "2023-11-24 10:15:58",
         "InterviewState": "Complete",
         "Flight": "LH 2368",
         "Dest": "ZRH",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24621",
+        "InterviewEndDate": "2023-11-24 10:53:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 1938",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24622",
+        "InterviewEndDate": "2023-11-24 10:33:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 1938",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24623",
+        "InterviewEndDate": "2023-11-24 11:04:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 1938",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24624",
+        "InterviewEndDate": "2023-11-24 10:41:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24625",
+        "InterviewEndDate": "2023-11-24 10:53:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24626",
+        "InterviewEndDate": "2023-11-24 10:42:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24627",
+        "InterviewEndDate": "2023-11-24 10:49:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24629",
+        "InterviewEndDate": "2023-11-24 11:17:33",
+        "InterviewState": "Complete",
+        "Flight": "TP 553",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
     }
 ]    
 

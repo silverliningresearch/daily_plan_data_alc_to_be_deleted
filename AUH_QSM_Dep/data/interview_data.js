@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "24-11-2023 14:24:21"
+        "download_time": "24-11-2023 15:28:53"
     },
     {
         "InterviewId": "7333",
@@ -37897,6 +37897,69 @@ let interview_data_raw = `[
         "Flight": "EY025",
         "Dest": "LHR",
         "AirlineCode": "EY025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11811",
+        "InterviewEndDate": "2023-11-24 10:47:46",
+        "InterviewState": "Complete",
+        "Flight": "5W7185",
+        "Dest": "KUT",
+        "AirlineCode": "5W7185",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11812",
+        "InterviewEndDate": "2023-11-24 10:44:30",
+        "InterviewState": "Complete",
+        "Flight": "5W7185",
+        "Dest": "KUT",
+        "AirlineCode": "5W7185",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11813",
+        "InterviewEndDate": "2023-11-24 10:51:20",
+        "InterviewState": "Complete",
+        "Flight": "5W7185",
+        "Dest": "KUT",
+        "AirlineCode": "5W7185",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11814",
+        "InterviewEndDate": "2023-11-24 10:55:07",
+        "InterviewState": "Complete",
+        "Flight": "5W7185",
+        "Dest": "KUT",
+        "AirlineCode": "5W7185",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11815",
+        "InterviewEndDate": "2023-11-24 11:00:20",
+        "InterviewState": "Complete",
+        "Flight": "5W7185",
+        "Dest": "KUT",
+        "AirlineCode": "5W7185",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11816",
+        "InterviewEndDate": "2023-11-24 11:10:32",
+        "InterviewState": "Complete",
+        "Flight": "5w7185",
+        "Dest": "KUT",
+        "AirlineCode": "5w7185",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11817",
+        "InterviewEndDate": "2023-11-24 11:13:13",
+        "InterviewState": "Complete",
+        "Flight": "5W7185",
+        "Dest": "KUT",
+        "AirlineCode": "5W7185",
         "Terminal": "T"
     }
 ]    
