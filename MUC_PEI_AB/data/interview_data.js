@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "24-11-2023 19:58:04"
+        "download_time": "24-11-2023 21:03:02"
     },
     {
         "InterviewId": "15848",
@@ -59879,6 +59879,126 @@ let interview_data_raw = `[
         "Flight": "IB 8715",
         "Dest": "MAD",
         "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "24670",
+        "InterviewEndDate": "2023-11-24 18:56:10",
+        "InterviewState": "Complete",
+        "Flight": "EW 7177",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "24671",
+        "InterviewEndDate": "2023-11-24 19:10:02",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "24672",
+        "InterviewEndDate": "2023-11-24 19:21:56",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "24673",
+        "InterviewEndDate": "2023-11-24 19:07:45",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "24674",
+        "InterviewEndDate": "2023-11-24 19:11:03",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "24675",
+        "InterviewEndDate": "2023-11-24 19:19:38",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "24676",
+        "InterviewEndDate": "2023-11-24 19:18:19",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "24677",
+        "InterviewEndDate": "2023-11-24 19:24:29",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "24678",
+        "InterviewEndDate": "2023-11-24 19:28:35",
+        "InterviewState": "Complete",
+        "Flight": "VY 1817",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "24679",
+        "InterviewEndDate": "2023-11-24 19:52:13",
+        "InterviewState": "Complete",
+        "Flight": "EK  052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "24680",
+        "InterviewEndDate": "2023-11-24 19:46:56",
+        "InterviewState": "Complete",
+        "Flight": "EK  052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "24681",
+        "InterviewEndDate": "2023-11-24 19:48:43",
+        "InterviewState": "Complete",
+        "Flight": "EK  052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "24682",
+        "InterviewEndDate": "2023-11-24 19:47:35",
+        "InterviewState": "Complete",
+        "Flight": "EK  052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "24683",
+        "InterviewEndDate": "2023-11-24 19:46:27",
+        "InterviewState": "Complete",
+        "Flight": "EK  052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "24684",
+        "InterviewEndDate": "2023-11-24 19:56:23",
+        "InterviewState": "Complete",
+        "Flight": "EK  052",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
     }
 ]    
 
