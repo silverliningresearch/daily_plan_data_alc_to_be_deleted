@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "24-11-2023 10:13:11"
+        "download_time": "24-11-2023 11:18:23"
     },
     {
         "InterviewId": "15848",
@@ -59382,6 +59382,142 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2434",
         "Dest": "BLL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24600",
+        "InterviewEndDate": "2023-11-24 09:16:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 1636",
+        "Dest": "POZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24602",
+        "InterviewEndDate": "2023-11-24 09:26:25",
+        "InterviewState": "Complete",
+        "Flight": "LH 1636",
+        "Dest": "POZ",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24603",
+        "InterviewEndDate": "2023-11-24 09:23:56",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24604",
+        "InterviewEndDate": "2023-11-24 09:22:32",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24605",
+        "InterviewEndDate": "2023-11-24 09:38:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 1630",
+        "Dest": "WRO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24606",
+        "InterviewEndDate": "2023-11-24 09:41:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 1630",
+        "Dest": "WRO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24607",
+        "InterviewEndDate": "2023-11-24 09:23:43",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24608",
+        "InterviewEndDate": "2023-11-24 09:34:35",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24609",
+        "InterviewEndDate": "2023-11-24 09:42:16",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24610",
+        "InterviewEndDate": "2023-11-24 09:43:07",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24611",
+        "InterviewEndDate": "2023-11-24 09:46:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 2396",
+        "Dest": "BSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24612",
+        "InterviewEndDate": "2023-11-24 09:59:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 2396",
+        "Dest": "BSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24613",
+        "InterviewEndDate": "2023-11-24 09:55:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 2396",
+        "Dest": "BSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24614",
+        "InterviewEndDate": "2023-11-24 09:58:35",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24615",
+        "InterviewEndDate": "2023-11-24 09:56:44",
+        "InterviewState": "Complete",
+        "Flight": "UA 109",
+        "Dest": "IAD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24616",
+        "InterviewEndDate": "2023-11-24 10:05:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 2396",
+        "Dest": "BSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24618",
+        "InterviewEndDate": "2023-11-24 10:15:58",
+        "InterviewState": "Complete",
+        "Flight": "LH 2368",
+        "Dest": "ZRH",
         "AirlineCode": "LH"
     }
 ]    
