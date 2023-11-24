@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "24-11-2023 12:23:23"
+        "download_time": "24-11-2023 13:28:14"
     },
     {
         "InterviewId": "15848",
@@ -59585,12 +59585,68 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "24628",
+        "InterviewEndDate": "2023-11-24 11:24:26",
+        "InterviewState": "Complete",
+        "Flight": "TP 553",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
         "InterviewId": "24629",
         "InterviewEndDate": "2023-11-24 11:17:33",
         "InterviewState": "Complete",
         "Flight": "TP 553",
         "Dest": "LIS",
         "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "24630",
+        "InterviewEndDate": "2023-11-24 11:48:12",
+        "InterviewState": "Complete",
+        "Flight": "TP 553",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "24632",
+        "InterviewEndDate": "2023-11-24 12:17:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 2020",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24633",
+        "InterviewEndDate": "2023-11-24 12:22:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 2020",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24634",
+        "InterviewEndDate": "2023-11-24 12:21:04",
+        "InterviewState": "Complete",
+        "Flight": "LH 2020",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24635",
+        "InterviewEndDate": "2023-11-24 12:24:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 2020",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24636",
+        "InterviewEndDate": "2023-11-24 12:27:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 2020",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
     }
 ]    
 

@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "24-11-2023 15:28:53"
+        "download_time": "24-11-2023 16:33:43"
     },
     {
         "InterviewId": "7333",
@@ -37960,6 +37960,69 @@ let interview_data_raw = `[
         "Flight": "5W7185",
         "Dest": "KUT",
         "AirlineCode": "5W7185",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11818",
+        "InterviewEndDate": "2023-11-24 11:47:12",
+        "InterviewState": "Complete",
+        "Flight": "3L022",
+        "Dest": "KWI",
+        "AirlineCode": "3L022",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11819",
+        "InterviewEndDate": "2023-11-24 11:51:06",
+        "InterviewState": "Complete",
+        "Flight": "3L022",
+        "Dest": "KWI",
+        "AirlineCode": "3L022",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11820",
+        "InterviewEndDate": "2023-11-24 11:55:53",
+        "InterviewState": "Complete",
+        "Flight": "3L022",
+        "Dest": "KWI",
+        "AirlineCode": "3L022",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11821",
+        "InterviewEndDate": "2023-11-24 12:03:09",
+        "InterviewState": "Complete",
+        "Flight": "3L022",
+        "Dest": "KWI",
+        "AirlineCode": "3L022",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11822",
+        "InterviewEndDate": "2023-11-24 12:18:00",
+        "InterviewState": "Complete",
+        "Flight": "3L022",
+        "Dest": "KWI",
+        "AirlineCode": "3L022",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11823",
+        "InterviewEndDate": "2023-11-24 12:26:57",
+        "InterviewState": "Complete",
+        "Flight": "3L022",
+        "Dest": "KWI",
+        "AirlineCode": "3L022",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11824",
+        "InterviewEndDate": "2023-11-24 12:31:23",
+        "InterviewState": "Complete",
+        "Flight": "3L022",
+        "Dest": "KWI",
+        "AirlineCode": "3L022",
         "Terminal": "T"
     }
 ]    
