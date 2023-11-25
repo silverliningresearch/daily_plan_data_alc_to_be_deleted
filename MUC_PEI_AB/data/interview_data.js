@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "25-11-2023 07:53:02"
+        "download_time": "25-11-2023 08:57:58"
     },
     {
         "InterviewId": "15848",
@@ -60015,6 +60015,94 @@ let interview_data_raw = `[
         "Flight": "LH 1862",
         "Dest": "MXP",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24687",
+        "InterviewEndDate": "2023-11-25 07:22:45",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "24688",
+        "InterviewEndDate": "2023-11-25 07:21:01",
+        "InterviewState": "Complete",
+        "Flight": "UA 031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24689",
+        "InterviewEndDate": "2023-11-25 07:27:13",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "24690",
+        "InterviewEndDate": "2023-11-25 07:19:04",
+        "InterviewState": "Complete",
+        "Flight": "UA 031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24691",
+        "InterviewEndDate": "2023-11-25 07:19:27",
+        "InterviewState": "Complete",
+        "Flight": "UA 031",
+        "Dest": "EWR",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24692",
+        "InterviewEndDate": "2023-11-25 07:21:56",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "24693",
+        "InterviewEndDate": "2023-11-25 07:31:20",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "24696",
+        "InterviewEndDate": "2023-11-25 07:53:19",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "24697",
+        "InterviewEndDate": "2023-11-25 07:53:32",
+        "InterviewState": "Complete",
+        "Flight": "EN 8218",
+        "Dest": "BRI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "24698",
+        "InterviewEndDate": "2023-11-25 07:54:08",
+        "InterviewState": "Complete",
+        "Flight": "TK 1630",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "24699",
+        "InterviewEndDate": "2023-11-25 07:54:10",
+        "InterviewState": "Complete",
+        "Flight": "EN 8218",
+        "Dest": "BRI",
+        "AirlineCode": "EN"
     }
 ]    
 
