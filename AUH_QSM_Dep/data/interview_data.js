@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "25-11-2023 20:43:06"
+        "download_time": "25-11-2023 21:48:03"
     },
     {
         "InterviewId": "7333",
@@ -38545,6 +38545,96 @@ let interview_data_raw = `[
         "Flight": "ME419",
         "Dest": "BEY",
         "AirlineCode": "ME419",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11883",
+        "InterviewEndDate": "2023-11-25 16:57:49",
+        "InterviewState": "Complete",
+        "Flight": "RJ621",
+        "Dest": "AMM",
+        "AirlineCode": "RJ621",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11884",
+        "InterviewEndDate": "2023-11-25 17:01:07",
+        "InterviewState": "Complete",
+        "Flight": "RJ621",
+        "Dest": "AMM",
+        "AirlineCode": "RJ621",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11885",
+        "InterviewEndDate": "2023-11-25 16:58:04",
+        "InterviewState": "Complete",
+        "Flight": "RJ621",
+        "Dest": "AMM",
+        "AirlineCode": "RJ621",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11886",
+        "InterviewEndDate": "2023-11-25 17:14:55",
+        "InterviewState": "Complete",
+        "Flight": "RJ621",
+        "Dest": "AMM",
+        "AirlineCode": "RJ621",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11887",
+        "InterviewEndDate": "2023-11-25 17:14:41",
+        "InterviewState": "Complete",
+        "Flight": "Rj21",
+        "Dest": "AMM",
+        "AirlineCode": "Rj21",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11888",
+        "InterviewEndDate": "2023-11-25 17:10:23",
+        "InterviewState": "Complete",
+        "Flight": "RJ621",
+        "Dest": "AMM",
+        "AirlineCode": "RJ621",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11889",
+        "InterviewEndDate": "2023-11-25 17:33:41",
+        "InterviewState": "Complete",
+        "Flight": "EY231",
+        "Dest": "ISB",
+        "AirlineCode": "EY231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11890",
+        "InterviewEndDate": "2023-11-25 17:37:17",
+        "InterviewState": "Complete",
+        "Flight": "EY231",
+        "Dest": "ISB",
+        "AirlineCode": "EY231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11891",
+        "InterviewEndDate": "2023-11-25 17:43:00",
+        "InterviewState": "Complete",
+        "Flight": "EY231",
+        "Dest": "ISB",
+        "AirlineCode": "EY231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11892",
+        "InterviewEndDate": "2023-11-25 17:45:02",
+        "InterviewState": "Complete",
+        "Flight": "EY231",
+        "Dest": "ISB",
+        "AirlineCode": "EY231",
         "Terminal": "T"
     }
 ]    
