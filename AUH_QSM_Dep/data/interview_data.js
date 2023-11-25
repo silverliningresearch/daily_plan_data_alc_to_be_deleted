@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "25-11-2023 18:33:10"
+        "download_time": "25-11-2023 19:38:19"
     },
     {
         "InterviewId": "7333",
@@ -38437,6 +38437,78 @@ let interview_data_raw = `[
         "Flight": "3L251",
         "Dest": "MCT",
         "AirlineCode": "3L251",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11871",
+        "InterviewEndDate": "2023-11-25 14:46:00",
+        "InterviewState": "Complete",
+        "Flight": "ME419",
+        "Dest": "BEY",
+        "AirlineCode": "ME419",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11872",
+        "InterviewEndDate": "2023-11-25 14:39:12",
+        "InterviewState": "Complete",
+        "Flight": "ME419",
+        "Dest": "BEY",
+        "AirlineCode": "ME419",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11873",
+        "InterviewEndDate": "2023-11-25 15:02:45",
+        "InterviewState": "Complete",
+        "Flight": "IX538",
+        "Dest": "TRV",
+        "AirlineCode": "IX538",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11874",
+        "InterviewEndDate": "2023-11-25 15:05:34",
+        "InterviewState": "Complete",
+        "Flight": "IX538",
+        "Dest": "TRV",
+        "AirlineCode": "IX538",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11875",
+        "InterviewEndDate": "2023-11-25 15:18:10",
+        "InterviewState": "Complete",
+        "Flight": "IX538",
+        "Dest": "TRV",
+        "AirlineCode": "IX538",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11876",
+        "InterviewEndDate": "2023-11-25 15:16:42",
+        "InterviewState": "Complete",
+        "Flight": "IX538",
+        "Dest": "TRV",
+        "AirlineCode": "IX538",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11877",
+        "InterviewEndDate": "2023-11-25 15:32:14",
+        "InterviewState": "Complete",
+        "Flight": "IX538",
+        "Dest": "TRV",
+        "AirlineCode": "IX538",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11878",
+        "InterviewEndDate": "2023-11-25 15:30:33",
+        "InterviewState": "Complete",
+        "Flight": "IX538",
+        "Dest": "TRV",
+        "AirlineCode": "IX538",
         "Terminal": "T"
     }
 ]    
