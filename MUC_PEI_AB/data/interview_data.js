@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "25-11-2023 08:57:58"
+        "download_time": "25-11-2023 10:02:59"
     },
     {
         "InterviewId": "15848",
@@ -60103,6 +60103,102 @@ let interview_data_raw = `[
         "Flight": "EN 8218",
         "Dest": "BRI",
         "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "24701",
+        "InterviewEndDate": "2023-11-25 08:09:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 1702",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24703",
+        "InterviewEndDate": "2023-11-25 08:20:38",
+        "InterviewState": "Complete",
+        "Flight": "XQ 997",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "24704",
+        "InterviewEndDate": "2023-11-25 08:28:48",
+        "InterviewState": "Complete",
+        "Flight": "XQ 997",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "24705",
+        "InterviewEndDate": "2023-11-25 08:31:16",
+        "InterviewState": "Complete",
+        "Flight": "XQ 997",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "24706",
+        "InterviewEndDate": "2023-11-25 08:32:43",
+        "InterviewState": "Complete",
+        "Flight": "LH 2492",
+        "Dest": "EDI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24707",
+        "InterviewEndDate": "2023-11-25 08:39:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 2492",
+        "Dest": "EDI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24709",
+        "InterviewEndDate": "2023-11-25 08:43:00",
+        "InterviewState": "Complete",
+        "Flight": "EY 006",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "24710",
+        "InterviewEndDate": "2023-11-25 08:41:16",
+        "InterviewState": "Complete",
+        "Flight": "EY 006",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "24711",
+        "InterviewEndDate": "2023-11-25 08:45:35",
+        "InterviewState": "Complete",
+        "Flight": "EY 006",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "24712",
+        "InterviewEndDate": "2023-11-25 08:54:07",
+        "InterviewState": "Complete",
+        "Flight": "BA 949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "24713",
+        "InterviewEndDate": "2023-11-25 08:56:46",
+        "InterviewState": "Complete",
+        "Flight": "BA 949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "24714",
+        "InterviewEndDate": "2023-11-25 08:59:58",
+        "InterviewState": "Complete",
+        "Flight": "BA 949",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
     }
 ]    
 
