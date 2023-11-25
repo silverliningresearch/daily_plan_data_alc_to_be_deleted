@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "25-11-2023 11:10:13"
+        "download_time": "25-11-2023 12:14:51"
     },
     {
         "InterviewId": "1224",
@@ -6039,6 +6039,78 @@ let interview_data_arr_raw = `[
         "Flight": "LO - LOT Polish Airlines",
         "Dest": "WAW",
         "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "1984",
+        "InterviewEndDate": "2023-11-25 10:12:57",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1985",
+        "InterviewEndDate": "2023-11-25 10:19:27",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1986",
+        "InterviewEndDate": "2023-11-25 10:24:37",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1987",
+        "InterviewEndDate": "2023-11-25 10:30:07",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1988",
+        "InterviewEndDate": "2023-11-25 10:35:35",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "1989",
+        "InterviewEndDate": "2023-11-25 10:40:44",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "DUB",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "1990",
+        "InterviewEndDate": "2023-11-25 10:49:11",
+        "InterviewState": "Complete",
+        "Flight": "U2 - EasyJet",
+        "Dest": "LGW",
+        "AirlineCode": "U2"
+    },
+    {
+        "InterviewId": "1991",
+        "InterviewEndDate": "2023-11-25 10:53:59",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "1992",
+        "InterviewEndDate": "2023-11-25 10:59:10",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
     }
 ]    
 

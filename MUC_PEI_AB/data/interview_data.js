@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "25-11-2023 11:08:12"
+        "download_time": "25-11-2023 12:13:02"
     },
     {
         "InterviewId": "15848",
@@ -60295,6 +60295,54 @@ let interview_data_raw = `[
         "Flight": "PC 1020",
         "Dest": "SAW",
         "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "24727",
+        "InterviewEndDate": "2023-11-25 10:18:55",
+        "InterviewState": "Complete",
+        "Flight": "PC 1020",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "24728",
+        "InterviewEndDate": "2023-11-25 10:45:05",
+        "InterviewState": "Complete",
+        "Flight": "PC 1020",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "24729",
+        "InterviewEndDate": "2023-11-25 10:44:28",
+        "InterviewState": "Complete",
+        "Flight": "KU 174",
+        "Dest": "KWI",
+        "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "24730",
+        "InterviewEndDate": "2023-11-25 11:03:27",
+        "InterviewState": "Complete",
+        "Flight": "KU 174",
+        "Dest": "KWI",
+        "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "24731",
+        "InterviewEndDate": "2023-11-25 10:53:23",
+        "InterviewState": "Complete",
+        "Flight": "KU 174",
+        "Dest": "KWI",
+        "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "24733",
+        "InterviewEndDate": "2023-11-25 11:11:27",
+        "InterviewState": "Complete",
+        "Flight": "TP 553",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
     }
 ]    
 

@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "25-11-2023 14:13:56"
+        "download_time": "25-11-2023 15:18:39"
     },
     {
         "InterviewId": "4226",
@@ -19069,6 +19069,42 @@ let interview_data_arr_raw = `[
         "Flight": "EY - Etihad Airways",
         "Dest": "LHE",
         "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6433",
+        "InterviewEndDate": "2023-11-25 10:46:01",
+        "InterviewState": "Complete",
+        "Flight": "PK - Pakistan International Airlines",
+        "Dest": "PEW",
+        "AirlineCode": "PK",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6435",
+        "InterviewEndDate": "2023-11-25 10:53:19",
+        "InterviewState": "Complete",
+        "Flight": "PK - Pakistan International Airlines",
+        "Dest": "PEW",
+        "AirlineCode": "PK",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6436",
+        "InterviewEndDate": "2023-11-25 10:59:10",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6437",
+        "InterviewEndDate": "2023-11-25 11:07:58",
+        "InterviewState": "Complete",
+        "Flight": "MS - Egyptair",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
         "Terminal": "T"
     }
 ]    
