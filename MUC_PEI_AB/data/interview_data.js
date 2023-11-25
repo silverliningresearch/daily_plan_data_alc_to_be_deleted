@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "25-11-2023 12:13:02"
+        "download_time": "25-11-2023 13:18:02"
     },
     {
         "InterviewId": "15848",
@@ -60337,12 +60337,92 @@ let interview_data_raw = `[
         "AirlineCode": "KU"
     },
     {
+        "InterviewId": "24732",
+        "InterviewEndDate": "2023-11-25 11:13:37",
+        "InterviewState": "Complete",
+        "Flight": "TP 553",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
         "InterviewId": "24733",
         "InterviewEndDate": "2023-11-25 11:11:27",
         "InterviewState": "Complete",
         "Flight": "TP 553",
         "Dest": "LIS",
         "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "24735",
+        "InterviewEndDate": "2023-11-25 11:21:05",
+        "InterviewState": "Complete",
+        "Flight": "XQ 131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "24736",
+        "InterviewEndDate": "2023-11-25 11:22:19",
+        "InterviewState": "Complete",
+        "Flight": "XQ 131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "24737",
+        "InterviewEndDate": "2023-11-25 11:20:52",
+        "InterviewState": "Complete",
+        "Flight": "XQ 131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "24738",
+        "InterviewEndDate": "2023-11-25 11:30:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2066",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24739",
+        "InterviewEndDate": "2023-11-25 11:35:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 2066",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24740",
+        "InterviewEndDate": "2023-11-25 11:51:42",
+        "InterviewState": "Complete",
+        "Flight": "TK 7739",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "24741",
+        "InterviewEndDate": "2023-11-25 11:57:54",
+        "InterviewState": "Complete",
+        "Flight": "TK 7739",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "24742",
+        "InterviewEndDate": "2023-11-25 11:36:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 2066",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24743",
+        "InterviewEndDate": "2023-11-25 11:42:19",
+        "InterviewState": "Complete",
+        "Flight": "TK 7739",
+        "Dest": "SAW",
+        "AirlineCode": "TK"
     }
 ]    
 
