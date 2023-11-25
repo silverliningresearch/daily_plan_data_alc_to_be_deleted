@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "25-11-2023 16:23:19"
+        "download_time": "25-11-2023 17:28:18"
     },
     {
         "InterviewId": "7333",
@@ -38311,6 +38311,87 @@ let interview_data_raw = `[
         "Flight": "EY375",
         "Dest": "BAH",
         "AirlineCode": "EY375",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11857",
+        "InterviewEndDate": "2023-11-25 12:37:28",
+        "InterviewState": "Complete",
+        "Flight": "3L022",
+        "Dest": "KWI",
+        "AirlineCode": "3L022",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11858",
+        "InterviewEndDate": "2023-11-25 12:26:10",
+        "InterviewState": "Complete",
+        "Flight": "3L022",
+        "Dest": "KWI",
+        "AirlineCode": "3L022",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11859",
+        "InterviewEndDate": "2023-11-25 12:52:34",
+        "InterviewState": "Complete",
+        "Flight": "3L022",
+        "Dest": "KWI",
+        "AirlineCode": "3L022",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11860",
+        "InterviewEndDate": "2023-11-25 12:49:36",
+        "InterviewState": "Complete",
+        "Flight": "3L022",
+        "Dest": "KWI",
+        "AirlineCode": "3L022",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11861",
+        "InterviewEndDate": "2023-11-25 13:10:52",
+        "InterviewState": "Complete",
+        "Flight": "3L022",
+        "Dest": "KWI",
+        "AirlineCode": "3L022",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11862",
+        "InterviewEndDate": "2023-11-25 13:08:33",
+        "InterviewState": "Complete",
+        "Flight": "3L022",
+        "Dest": "KWI",
+        "AirlineCode": "3L022",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11863",
+        "InterviewEndDate": "2023-11-25 13:17:56",
+        "InterviewState": "Complete",
+        "Flight": "3L251",
+        "Dest": "MCT",
+        "AirlineCode": "3L251",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11864",
+        "InterviewEndDate": "2023-11-25 13:21:39",
+        "InterviewState": "Complete",
+        "Flight": "3L251",
+        "Dest": "MCT",
+        "AirlineCode": "3L251",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11865",
+        "InterviewEndDate": "2023-11-25 13:25:50",
+        "InterviewState": "Complete",
+        "Flight": "3L251",
+        "Dest": "MCT",
+        "AirlineCode": "3L251",
         "Terminal": "T"
     }
 ]    

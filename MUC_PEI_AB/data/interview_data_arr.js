@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "25-11-2023 13:18:37"
+        "download_time": "25-11-2023 14:23:45"
     },
     {
         "InterviewId": "5174",
@@ -18295,6 +18295,94 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "CGN",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7876",
+        "InterviewEndDate": "2023-11-25 13:04:47",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DXB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7877",
+        "InterviewEndDate": "2023-11-25 13:03:52",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DXB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7878",
+        "InterviewEndDate": "2023-11-25 13:11:09",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "7879",
+        "InterviewEndDate": "2023-11-25 13:12:50",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "7880",
+        "InterviewEndDate": "2023-11-25 13:17:01",
+        "InterviewState": "Complete",
+        "Flight": "EK - Emirates",
+        "Dest": "DXB",
+        "AirlineCode": "EK"
+    },
+    {
+        "InterviewId": "7881",
+        "InterviewEndDate": "2023-11-25 13:11:29",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7882",
+        "InterviewEndDate": "2023-11-25 13:12:30",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7883",
+        "InterviewEndDate": "2023-11-25 13:16:03",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "7884",
+        "InterviewEndDate": "2023-11-25 13:16:56",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "7885",
+        "InterviewEndDate": "2023-11-25 13:21:27",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "BRI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "7887",
+        "InterviewEndDate": "2023-11-25 13:22:00",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
     }
 ]    
 
