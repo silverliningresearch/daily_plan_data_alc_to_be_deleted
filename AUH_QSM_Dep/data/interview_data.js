@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "26-11-2023 17:18:37"
+        "download_time": "26-11-2023 18:23:21"
     },
     {
         "InterviewId": "7333",
@@ -39040,6 +39040,60 @@ let interview_data_raw = `[
         "Flight": "3l17",
         "Dest": "BAH",
         "AirlineCode": "3l17",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11939",
+        "InterviewEndDate": "2023-11-26 13:47:16",
+        "InterviewState": "Complete",
+        "Flight": "W6 1276",
+        "Dest": "KTW",
+        "AirlineCode": "W6",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11940",
+        "InterviewEndDate": "2023-11-26 13:44:56",
+        "InterviewState": "Complete",
+        "Flight": "W6 1276",
+        "Dest": "KTW",
+        "AirlineCode": "W6",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11941",
+        "InterviewEndDate": "2023-11-26 14:12:52",
+        "InterviewState": "Complete",
+        "Flight": "W61276",
+        "Dest": "KTW",
+        "AirlineCode": "W61276",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11942",
+        "InterviewEndDate": "2023-11-26 14:01:34",
+        "InterviewState": "Complete",
+        "Flight": "W61276",
+        "Dest": "KTW",
+        "AirlineCode": "W61276",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11943",
+        "InterviewEndDate": "2023-11-26 14:17:00",
+        "InterviewState": "Complete",
+        "Flight": "W61276",
+        "Dest": "KTW",
+        "AirlineCode": "W61276",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11946",
+        "InterviewEndDate": "2023-11-26 14:22:27",
+        "InterviewState": "Complete",
+        "Flight": "EY325",
+        "Dest": "DMM",
+        "AirlineCode": "EY325",
         "Terminal": "T"
     }
 ]    
