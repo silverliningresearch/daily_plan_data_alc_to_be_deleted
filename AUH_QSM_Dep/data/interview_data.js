@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "26-11-2023 14:03:29"
+        "download_time": "26-11-2023 15:08:18"
     },
     {
         "InterviewId": "7333",
@@ -38585,7 +38585,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "11887",
-        "InterviewEndDate": "2023-11-25 17:14:41",
+        "InterviewEndDate": "2023-11-26 10:21:21",
         "InterviewState": "Complete",
         "Flight": "Rj21",
         "Dest": "AMM",
@@ -38896,6 +38896,69 @@ let interview_data_raw = `[
         "Flight": "5w7199",
         "Dest": "MED",
         "AirlineCode": "5w7199",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11922",
+        "InterviewEndDate": "2023-11-26 10:23:56",
+        "InterviewState": "Complete",
+        "Flight": "EY655",
+        "Dest": "KHI",
+        "AirlineCode": "EY655",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11923",
+        "InterviewEndDate": "2023-11-26 10:23:54",
+        "InterviewState": "Complete",
+        "Flight": "EY200",
+        "Dest": "KHI",
+        "AirlineCode": "EY200",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11924",
+        "InterviewEndDate": "2023-11-26 10:48:14",
+        "InterviewState": "Complete",
+        "Flight": "SV571",
+        "Dest": "JED",
+        "AirlineCode": "SV571",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11925",
+        "InterviewEndDate": "2023-11-26 10:30:44",
+        "InterviewState": "Complete",
+        "Flight": "Ey200",
+        "Dest": "KHI",
+        "AirlineCode": "Ey200",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11926",
+        "InterviewEndDate": "2023-11-26 10:30:45",
+        "InterviewState": "Complete",
+        "Flight": "Ey200",
+        "Dest": "KHI",
+        "AirlineCode": "Ey200",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11928",
+        "InterviewEndDate": "2023-11-26 10:41:37",
+        "InterviewState": "Complete",
+        "Flight": "EY200",
+        "Dest": "KHI",
+        "AirlineCode": "EY200",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11929",
+        "InterviewEndDate": "2023-11-26 10:36:12",
+        "InterviewState": "Complete",
+        "Flight": "EY200",
+        "Dest": "KHI",
+        "AirlineCode": "EY200",
         "Terminal": "T"
     }
 ]    
