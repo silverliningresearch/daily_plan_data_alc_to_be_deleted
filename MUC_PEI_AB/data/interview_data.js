@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "26-11-2023 09:53:01"
+        "download_time": "26-11-2023 10:57:59"
     },
     {
         "InterviewId": "15848",
@@ -60609,12 +60609,68 @@ let interview_data_raw = `[
         "AirlineCode": "EI"
     },
     {
+        "InterviewId": "24771",
+        "InterviewEndDate": "2023-11-26 09:04:22",
+        "InterviewState": "Complete",
+        "Flight": "EI 353",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
         "InterviewId": "24772",
         "InterviewEndDate": "2023-11-26 08:37:03",
         "InterviewState": "Complete",
         "Flight": "EI 353",
         "Dest": "DUB",
         "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "24774",
+        "InterviewEndDate": "2023-11-26 09:17:31",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24775",
+        "InterviewEndDate": "2023-11-26 09:12:50",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24777",
+        "InterviewEndDate": "2023-11-26 09:30:31",
+        "InterviewState": "Complete",
+        "Flight": "UA 160",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24778",
+        "InterviewEndDate": "2023-11-26 09:30:54",
+        "InterviewState": "Complete",
+        "Flight": "UA 160",
+        "Dest": "IAH",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24781",
+        "InterviewEndDate": "2023-11-26 09:55:11",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "24782",
+        "InterviewEndDate": "2023-11-26 09:55:53",
+        "InterviewState": "Complete",
+        "Flight": "UA 195",
+        "Dest": "SFO",
+        "AirlineCode": "UA"
     }
 ]    
 
