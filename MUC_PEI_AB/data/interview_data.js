@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "26-11-2023 06:38:00"
+        "download_time": "26-11-2023 07:42:57"
     },
     {
         "InterviewId": "15848",
@@ -60471,6 +60471,62 @@ let interview_data_raw = `[
         "Flight": "AF 1123",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "24753",
+        "InterviewEndDate": "2023-11-26 05:44:25",
+        "InterviewState": "Complete",
+        "Flight": "X3 2238",
+        "Dest": "LPA",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "24754",
+        "InterviewEndDate": "2023-11-26 05:48:05",
+        "InterviewState": "Complete",
+        "Flight": "X3 2238",
+        "Dest": "LPA",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "24755",
+        "InterviewEndDate": "2023-11-26 05:44:31",
+        "InterviewState": "Complete",
+        "Flight": "X3 2238",
+        "Dest": "LPA",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "24756",
+        "InterviewEndDate": "2023-11-26 06:05:54",
+        "InterviewState": "Complete",
+        "Flight": "X3 2238",
+        "Dest": "LPA",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "24757",
+        "InterviewEndDate": "2023-11-26 06:27:49",
+        "InterviewState": "Complete",
+        "Flight": "DE 1522",
+        "Dest": "LPA",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "24758",
+        "InterviewEndDate": "2023-11-26 06:32:23",
+        "InterviewState": "Complete",
+        "Flight": "DE 1522",
+        "Dest": "LPA",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "24759",
+        "InterviewEndDate": "2023-11-26 06:27:30",
+        "InterviewState": "Complete",
+        "Flight": "DE 1522",
+        "Dest": "LPA",
+        "AirlineCode": "DE"
     }
 ]    
 

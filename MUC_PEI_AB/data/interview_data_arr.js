@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "26-11-2023 06:38:34"
+        "download_time": "26-11-2023 07:43:31"
     },
     {
         "InterviewId": "5174",
@@ -18535,6 +18535,62 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "DEL",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7910",
+        "InterviewEndDate": "2023-11-26 05:40:25",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7913",
+        "InterviewEndDate": "2023-11-26 05:48:00",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SIN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7914",
+        "InterviewEndDate": "2023-11-26 05:52:36",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SIN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7915",
+        "InterviewEndDate": "2023-11-26 05:48:09",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SIN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7916",
+        "InterviewEndDate": "2023-11-26 06:37:07",
+        "InterviewState": "Complete",
+        "Flight": "NH - ANA All Nippon Cargo",
+        "Dest": "HND",
+        "AirlineCode": "NH"
+    },
+    {
+        "InterviewId": "7917",
+        "InterviewEndDate": "2023-11-26 06:35:57",
+        "InterviewState": "Complete",
+        "Flight": "NH - ANA All Nippon Cargo",
+        "Dest": "HND",
+        "AirlineCode": "NH"
+    },
+    {
+        "InterviewId": "7918",
+        "InterviewEndDate": "2023-11-26 06:37:16",
+        "InterviewState": "Complete",
+        "Flight": "NH - ANA All Nippon Cargo",
+        "Dest": "HND",
+        "AirlineCode": "NH"
     }
 ]    
 
