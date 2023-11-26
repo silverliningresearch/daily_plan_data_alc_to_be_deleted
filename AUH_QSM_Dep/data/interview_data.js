@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "26-11-2023 18:23:21"
+        "download_time": "26-11-2023 19:28:38"
     },
     {
         "InterviewId": "7333",
@@ -39088,8 +39088,125 @@ let interview_data_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "11944",
+        "InterviewEndDate": "2023-11-26 14:24:03",
+        "InterviewState": "Complete",
+        "Flight": "W61276",
+        "Dest": "KTW",
+        "AirlineCode": "W61276",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11945",
+        "InterviewEndDate": "2023-11-26 14:26:32",
+        "InterviewState": "Complete",
+        "Flight": "EY327",
+        "Dest": "DMM",
+        "AirlineCode": "EY327",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "11946",
         "InterviewEndDate": "2023-11-26 14:22:27",
+        "InterviewState": "Complete",
+        "Flight": "EY325",
+        "Dest": "DMM",
+        "AirlineCode": "EY325",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11947",
+        "InterviewEndDate": "2023-11-26 14:37:37",
+        "InterviewState": "Complete",
+        "Flight": "W61276",
+        "Dest": "KTW",
+        "AirlineCode": "W61276",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11948",
+        "InterviewEndDate": "2023-11-26 14:33:18",
+        "InterviewState": "Complete",
+        "Flight": "W61276",
+        "Dest": "KTW",
+        "AirlineCode": "W61276",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11949",
+        "InterviewEndDate": "2023-11-26 14:37:27",
+        "InterviewState": "Complete",
+        "Flight": "EY325",
+        "Dest": "DMM",
+        "AirlineCode": "EY325",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11950",
+        "InterviewEndDate": "2023-11-26 14:38:02",
+        "InterviewState": "Complete",
+        "Flight": "EY325",
+        "Dest": "DMM",
+        "AirlineCode": "EY325",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11951",
+        "InterviewEndDate": "2023-11-26 14:47:07",
+        "InterviewState": "Complete",
+        "Flight": "EY325",
+        "Dest": "DMM",
+        "AirlineCode": "EY325",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11952",
+        "InterviewEndDate": "2023-11-26 14:45:53",
+        "InterviewState": "Complete",
+        "Flight": "EY325",
+        "Dest": "DMM",
+        "AirlineCode": "EY325",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11953",
+        "InterviewEndDate": "2023-11-26 14:47:31",
+        "InterviewState": "Complete",
+        "Flight": "EY325",
+        "Dest": "DMM",
+        "AirlineCode": "EY325",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11954",
+        "InterviewEndDate": "2023-11-26 14:52:02",
+        "InterviewState": "Complete",
+        "Flight": "Ey325",
+        "Dest": "DMM",
+        "AirlineCode": "Ey325",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11955",
+        "InterviewEndDate": "2023-11-26 14:54:49",
+        "InterviewState": "Complete",
+        "Flight": "EY325",
+        "Dest": "DMM",
+        "AirlineCode": "EY325",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11956",
+        "InterviewEndDate": "2023-11-26 14:55:56",
+        "InterviewState": "Complete",
+        "Flight": "EY351",
+        "Dest": "RUH",
+        "AirlineCode": "EY351",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11957",
+        "InterviewEndDate": "2023-11-26 15:20:08",
         "InterviewState": "Complete",
         "Flight": "EY325",
         "Dest": "DMM",
