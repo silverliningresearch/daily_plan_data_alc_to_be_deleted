@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "26-11-2023 16:13:43"
+        "download_time": "26-11-2023 17:19:03"
     },
     {
         "InterviewId": "4226",
@@ -18847,6 +18847,15 @@ let interview_data_arr_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "6404",
+        "InterviewEndDate": "2023-11-26 12:41:34",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "HYD",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "6406",
         "InterviewEndDate": "2023-11-23 18:57:32",
         "InterviewState": "Complete",
@@ -19114,6 +19123,51 @@ let interview_data_arr_raw = `[
         "Flight": "MS - Egyptair",
         "Dest": "CAI",
         "AirlineCode": "MS",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6440",
+        "InterviewEndDate": "2023-11-26 12:38:40",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "BOM",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6441",
+        "InterviewEndDate": "2023-11-26 12:44:56",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "BOM",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6442",
+        "InterviewEndDate": "2023-11-26 12:50:01",
+        "InterviewState": "Complete",
+        "Flight": "SV - Saudia",
+        "Dest": "JED",
+        "AirlineCode": "SV",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6443",
+        "InterviewEndDate": "2023-11-26 12:56:03",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6444",
+        "InterviewEndDate": "2023-11-26 13:06:23",
+        "InterviewState": "Complete",
+        "Flight": "QR - Qatar Airways",
+        "Dest": "DOH",
+        "AirlineCode": "QR",
         "Terminal": "T"
     }
 ]    
