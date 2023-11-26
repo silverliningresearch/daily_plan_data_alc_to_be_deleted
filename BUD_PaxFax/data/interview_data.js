@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "26-11-2023 12:07:23"
+        "download_time": "26-11-2023 13:12:21"
     },
     {
         "InterviewId": "7701",
@@ -20847,6 +20847,78 @@ let interview_data_raw = `[
         "Flight": "FR 1018",
         "Dest": "EDI",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10671",
+        "InterviewEndDate": "2023-11-26 11:12:54",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10672",
+        "InterviewEndDate": "2023-11-26 11:12:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10673",
+        "InterviewEndDate": "2023-11-26 11:12:11",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10674",
+        "InterviewEndDate": "2023-11-26 11:17:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10675",
+        "InterviewEndDate": "2023-11-26 11:17:55",
+        "InterviewState": "Complete",
+        "Flight": "FR 1018",
+        "Dest": "EDI",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10676",
+        "InterviewEndDate": "2023-11-26 11:53:00",
+        "InterviewState": "Complete",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "10677",
+        "InterviewEndDate": "2023-11-26 12:02:16",
+        "InterviewState": "Complete",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "10678",
+        "InterviewEndDate": "2023-11-26 11:55:16",
+        "InterviewState": "Complete",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "10679",
+        "InterviewEndDate": "2023-11-26 11:59:44",
+        "InterviewState": "Complete",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK"
     }
 ]    
 
