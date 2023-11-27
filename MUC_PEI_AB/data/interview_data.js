@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "27-11-2023 11:53:17"
+        "download_time": "27-11-2023 12:58:12"
     },
     {
         "InterviewId": "15848",
@@ -61183,6 +61183,70 @@ let interview_data_raw = `[
         "Flight": "BA  951",
         "Dest": "LHR",
         "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "24851",
+        "InterviewEndDate": "2023-11-27 11:01:46",
+        "InterviewState": "Complete",
+        "Flight": "BA  951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "24852",
+        "InterviewEndDate": "2023-11-27 10:59:09",
+        "InterviewState": "Complete",
+        "Flight": "BA  951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "24853",
+        "InterviewEndDate": "2023-11-27 10:57:49",
+        "InterviewState": "Complete",
+        "Flight": "BA  951",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "24854",
+        "InterviewEndDate": "2023-11-27 11:01:28",
+        "InterviewState": "Complete",
+        "Flight": "BA  951",
+        "Dest": "LGW",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "24855",
+        "InterviewEndDate": "2023-11-27 11:29:37",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24856",
+        "InterviewEndDate": "2023-11-27 11:21:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24857",
+        "InterviewEndDate": "2023-11-27 11:24:29",
+        "InterviewState": "Complete",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24858",
+        "InterviewEndDate": "2023-11-27 11:54:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 1940",
+        "Dest": "BER",
+        "AirlineCode": "LH"
     }
 ]    
 
