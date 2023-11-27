@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "27-11-2023 09:43:23"
+        "download_time": "27-11-2023 10:48:08"
     },
     {
         "InterviewId": "15848",
@@ -60961,12 +60961,28 @@ let interview_data_raw = `[
         "AirlineCode": "AA"
     },
     {
+        "InterviewId": "24821",
+        "InterviewEndDate": "2023-11-27 08:50:23",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
         "InterviewId": "24822",
         "InterviewEndDate": "2023-11-27 08:33:48",
         "InterviewState": "Complete",
         "Flight": "LH 2286",
         "Dest": "BRU",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24823",
+        "InterviewEndDate": "2023-11-27 08:47:28",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
     },
     {
         "InterviewId": "24824",
@@ -60985,12 +61001,124 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "24826",
+        "InterviewEndDate": "2023-11-27 08:46:30",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
         "InterviewId": "24828",
         "InterviewEndDate": "2023-11-27 08:41:34",
         "InterviewState": "Complete",
         "Flight": "LH 2286",
         "Dest": "BRU",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24829",
+        "InterviewEndDate": "2023-11-27 08:44:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 2286",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24830",
+        "InterviewEndDate": "2023-11-27 08:43:51",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "24831",
+        "InterviewEndDate": "2023-11-27 08:50:39",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "24832",
+        "InterviewEndDate": "2023-11-27 08:59:15",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "24833",
+        "InterviewEndDate": "2023-11-27 08:54:53",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "24835",
+        "InterviewEndDate": "2023-11-27 09:04:51",
+        "InterviewState": "Complete",
+        "Flight": "DL  131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "24836",
+        "InterviewEndDate": "2023-11-27 09:36:46",
+        "InterviewState": "Complete",
+        "Flight": "DE  024",
+        "Dest": "HRG",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "24837",
+        "InterviewEndDate": "2023-11-27 09:26:53",
+        "InterviewState": "Complete",
+        "Flight": "DE  024",
+        "Dest": "HRG",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "24838",
+        "InterviewEndDate": "2023-11-27 09:27:02",
+        "InterviewState": "Complete",
+        "Flight": "DE  024",
+        "Dest": "HRG",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "24839",
+        "InterviewEndDate": "2023-11-27 09:34:41",
+        "InterviewState": "Complete",
+        "Flight": "DE  024",
+        "Dest": "HRG",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "24840",
+        "InterviewEndDate": "2023-11-27 09:20:07",
+        "InterviewState": "Complete",
+        "Flight": "DE  024",
+        "Dest": "HRG",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "24842",
+        "InterviewEndDate": "2023-11-27 09:44:40",
+        "InterviewState": "Complete",
+        "Flight": "DE  024",
+        "Dest": "HRG",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "24843",
+        "InterviewEndDate": "2023-11-27 09:46:22",
+        "InterviewState": "Complete",
+        "Flight": "DE  024",
+        "Dest": "HRG",
+        "AirlineCode": "DE"
     }
 ]    
 

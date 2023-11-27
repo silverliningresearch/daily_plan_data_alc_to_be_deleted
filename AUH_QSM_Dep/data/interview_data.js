@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "27-11-2023 12:49:10"
+        "download_time": "27-11-2023 13:54:07"
     },
     {
         "InterviewId": "7333",
@@ -39445,6 +39445,96 @@ let interview_data_raw = `[
         "Flight": "Ey238",
         "Dest": "BLR",
         "AirlineCode": "Ey238",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11987",
+        "InterviewEndDate": "2023-11-27 08:53:23",
+        "InterviewState": "Complete",
+        "Flight": "Ey238",
+        "Dest": "BLR",
+        "AirlineCode": "Ey238",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11988",
+        "InterviewEndDate": "2023-11-27 08:55:06",
+        "InterviewState": "Complete",
+        "Flight": "Ey238",
+        "Dest": "BLR",
+        "AirlineCode": "Ey238",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11989",
+        "InterviewEndDate": "2023-11-27 09:01:17",
+        "InterviewState": "Complete",
+        "Flight": "Ey238",
+        "Dest": "BLR",
+        "AirlineCode": "Ey238",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11990",
+        "InterviewEndDate": "2023-11-27 09:02:23",
+        "InterviewState": "Complete",
+        "Flight": "Ey238",
+        "Dest": "BLR",
+        "AirlineCode": "Ey238",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11991",
+        "InterviewEndDate": "2023-11-27 09:16:46",
+        "InterviewState": "Complete",
+        "Flight": "Pa231",
+        "Dest": "ISB",
+        "AirlineCode": "Pa231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11992",
+        "InterviewEndDate": "2023-11-27 09:14:49",
+        "InterviewState": "Complete",
+        "Flight": "PA231",
+        "Dest": "ISB",
+        "AirlineCode": "PA231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11993",
+        "InterviewEndDate": "2023-11-27 09:28:18",
+        "InterviewState": "Complete",
+        "Flight": "PA231",
+        "Dest": "ISB",
+        "AirlineCode": "PA231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11994",
+        "InterviewEndDate": "2023-11-27 09:28:27",
+        "InterviewState": "Complete",
+        "Flight": "PA231",
+        "Dest": "ISB",
+        "AirlineCode": "PA231",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11995",
+        "InterviewEndDate": "2023-11-27 09:51:09",
+        "InterviewState": "Complete",
+        "Flight": "5w7157",
+        "Dest": "FRU",
+        "AirlineCode": "5w7157",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "11996",
+        "InterviewEndDate": "2023-11-27 09:47:18",
+        "InterviewState": "Complete",
+        "Flight": "5w7157",
+        "Dest": "FRU",
+        "AirlineCode": "5w7157",
         "Terminal": "T"
     }
 ]    
