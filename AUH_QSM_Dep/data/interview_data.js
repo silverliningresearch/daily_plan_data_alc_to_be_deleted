@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "27-11-2023 21:29:47"
+        "download_time": "27-11-2023 22:33:45"
     },
     {
         "InterviewId": "7333",
@@ -39688,6 +39688,114 @@ let interview_data_raw = `[
         "Flight": "Ey329",
         "Dest": "JED",
         "AirlineCode": "Ey329",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12018",
+        "InterviewEndDate": "2023-11-27 17:42:44",
+        "InterviewState": "Complete",
+        "Flight": "UL208",
+        "Dest": "CMB",
+        "AirlineCode": "UL208",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12019",
+        "InterviewEndDate": "2023-11-27 17:39:30",
+        "InterviewState": "Complete",
+        "Flight": "UL208",
+        "Dest": "CMB",
+        "AirlineCode": "UL208",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12020",
+        "InterviewEndDate": "2023-11-27 17:36:27",
+        "InterviewState": "Complete",
+        "Flight": "UL208",
+        "Dest": "CMB",
+        "AirlineCode": "UL208",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12021",
+        "InterviewEndDate": "2023-11-27 17:45:57",
+        "InterviewState": "Complete",
+        "Flight": "UL208",
+        "Dest": "CMB",
+        "AirlineCode": "UL208",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12022",
+        "InterviewEndDate": "2023-11-27 17:48:33",
+        "InterviewState": "Complete",
+        "Flight": "UL208",
+        "Dest": "CMB",
+        "AirlineCode": "UL208",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12023",
+        "InterviewEndDate": "2023-11-27 18:05:23",
+        "InterviewState": "Complete",
+        "Flight": "6E1025",
+        "Dest": "HYD",
+        "AirlineCode": "6E1025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12024",
+        "InterviewEndDate": "2023-11-27 18:08:13",
+        "InterviewState": "Complete",
+        "Flight": "6E1025",
+        "Dest": "HYD",
+        "AirlineCode": "6E1025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12025",
+        "InterviewEndDate": "2023-11-27 17:56:50",
+        "InterviewState": "Complete",
+        "Flight": "6E1025",
+        "Dest": "HYD",
+        "AirlineCode": "6E1025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12026",
+        "InterviewEndDate": "2023-11-27 18:11:02",
+        "InterviewState": "Complete",
+        "Flight": "6E1025",
+        "Dest": "HYD",
+        "AirlineCode": "6E1025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12027",
+        "InterviewEndDate": "2023-11-27 18:13:23",
+        "InterviewState": "Complete",
+        "Flight": "6E1025",
+        "Dest": "HYD",
+        "AirlineCode": "6E1025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12028",
+        "InterviewEndDate": "2023-11-27 18:19:12",
+        "InterviewState": "Complete",
+        "Flight": "6E1025",
+        "Dest": "HYD",
+        "AirlineCode": "6E1025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12030",
+        "InterviewEndDate": "2023-11-27 18:29:28",
+        "InterviewState": "Complete",
+        "Flight": "3L424",
+        "Dest": "CAI",
+        "AirlineCode": "3L424",
         "Terminal": "T"
     }
 ]    
