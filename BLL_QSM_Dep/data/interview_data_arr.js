@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "27-11-2023 19:29:16"
+        "download_time": "27-11-2023 20:34:14"
     },
     {
         "InterviewId": "2077",
@@ -10967,6 +10967,62 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "4848",
+        "InterviewEndDate": "2023-11-27",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "4849",
+        "InterviewEndDate": "2023-11-27",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "ARN",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "4855",
+        "InterviewEndDate": "2023-11-27",
+        "InterviewState": "Complete",
+        "Flight": "FR - Ryanair",
+        "Dest": "GDN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "4856",
+        "InterviewEndDate": "2023-11-27",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "FUE",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "4857",
+        "InterviewEndDate": "2023-11-27",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "FUE",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "4858",
+        "InterviewEndDate": "2023-11-27",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "FUE",
+        "AirlineCode": "JTD"
+    },
+    {
+        "InterviewId": "4862",
+        "InterviewEndDate": "2023-11-27",
+        "InterviewState": "Complete",
+        "Flight": "JTD - Jettime",
+        "Dest": "FUE",
+        "AirlineCode": "JTD"
     }
 ]    
 
