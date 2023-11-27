@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "LH 2500",
         "Dest": "MAN",
         "AirlineCode": "LH",
-        "download_time": "27-11-2023 08:38:19"
+        "download_time": "27-11-2023 09:43:23"
     },
     {
         "InterviewId": "15848",
@@ -60846,6 +60846,150 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 099",
         "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24806",
+        "InterviewEndDate": "2023-11-27 08:10:58",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "24807",
+        "InterviewEndDate": "2023-11-27 07:52:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 2060",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24808",
+        "InterviewEndDate": "2023-11-27 07:51:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 2060",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24809",
+        "InterviewEndDate": "2023-11-27 07:52:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 2060",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24810",
+        "InterviewEndDate": "2023-11-27 07:58:23",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "24811",
+        "InterviewEndDate": "2023-11-27 07:59:44",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "24812",
+        "InterviewEndDate": "2023-11-27 08:01:41",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "24813",
+        "InterviewEndDate": "2023-11-27 07:59:34",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "24814",
+        "InterviewEndDate": "2023-11-27 08:16:17",
+        "InterviewState": "Complete",
+        "Flight": "SK 662",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "24815",
+        "InterviewEndDate": "2023-11-27 08:13:59",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "24816",
+        "InterviewEndDate": "2023-11-27 08:09:47",
+        "InterviewState": "Complete",
+        "Flight": "SK 662",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "24817",
+        "InterviewEndDate": "2023-11-27 08:09:58",
+        "InterviewState": "Complete",
+        "Flight": "SK 662",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "24818",
+        "InterviewEndDate": "2023-11-27 08:12:03",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "24820",
+        "InterviewEndDate": "2023-11-27 08:23:13",
+        "InterviewState": "Complete",
+        "Flight": "AA  717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "24822",
+        "InterviewEndDate": "2023-11-27 08:33:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 2286",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24824",
+        "InterviewEndDate": "2023-11-27 08:27:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 2286",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24825",
+        "InterviewEndDate": "2023-11-27 08:23:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 2286",
+        "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "24828",
+        "InterviewEndDate": "2023-11-27 08:41:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 2286",
+        "Dest": "BRU",
         "AirlineCode": "LH"
     }
 ]    
