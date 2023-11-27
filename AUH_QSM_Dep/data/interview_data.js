@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "27-11-2023 19:19:23"
+        "download_time": "27-11-2023 20:24:10"
     },
     {
         "InterviewId": "7333",
@@ -39556,6 +39556,24 @@ let interview_data_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "11999",
+        "InterviewEndDate": "2023-11-27 16:04:28",
+        "InterviewState": "Complete",
+        "Flight": "EY268",
+        "Dest": "MAA",
+        "AirlineCode": "EY268",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12000",
+        "InterviewEndDate": "2023-11-27 15:55:21",
+        "InterviewState": "Complete",
+        "Flight": "EY268",
+        "Dest": "MAA",
+        "AirlineCode": "EY268",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "12001",
         "InterviewEndDate": "2023-11-27 15:09:12",
         "InterviewState": "Complete",
@@ -39571,6 +39589,60 @@ let interview_data_raw = `[
         "Flight": "EY280",
         "Dest": "COK",
         "AirlineCode": "EY280",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12003",
+        "InterviewEndDate": "2023-11-27 15:25:21",
+        "InterviewState": "Complete",
+        "Flight": "EY280",
+        "Dest": "COK",
+        "AirlineCode": "EY280",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12004",
+        "InterviewEndDate": "2023-11-27 15:47:12",
+        "InterviewState": "Complete",
+        "Flight": "EY280",
+        "Dest": "COK",
+        "AirlineCode": "EY280",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12005",
+        "InterviewEndDate": "2023-11-27 15:54:08",
+        "InterviewState": "Complete",
+        "Flight": "EY280",
+        "Dest": "COK",
+        "AirlineCode": "EY280",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12009",
+        "InterviewEndDate": "2023-11-27 16:10:44",
+        "InterviewState": "Complete",
+        "Flight": "EY268",
+        "Dest": "MAA",
+        "AirlineCode": "EY268",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12011",
+        "InterviewEndDate": "2023-11-27 16:17:40",
+        "InterviewState": "Complete",
+        "Flight": "EY268",
+        "Dest": "MAA",
+        "AirlineCode": "EY268",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12012",
+        "InterviewEndDate": "2023-11-27 16:18:40",
+        "InterviewState": "Complete",
+        "Flight": "EY268",
+        "Dest": "MAA",
+        "AirlineCode": "EY268",
         "Terminal": "T"
     }
 ]    
