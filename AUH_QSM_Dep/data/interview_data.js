@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "27-11-2023 23:38:45"
+        "download_time": "28-11-2023 00:43:46"
     },
     {
         "InterviewId": "7333",
@@ -39790,12 +39790,75 @@ let interview_data_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "12029",
+        "InterviewEndDate": "2023-11-27 19:39:37",
+        "InterviewState": "Complete",
+        "Flight": "3L424",
+        "Dest": "CAI",
+        "AirlineCode": "3L424",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "12030",
         "InterviewEndDate": "2023-11-27 18:29:28",
         "InterviewState": "Complete",
         "Flight": "3L424",
         "Dest": "CAI",
         "AirlineCode": "3L424",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12031",
+        "InterviewEndDate": "2023-11-27 19:48:38",
+        "InterviewState": "Complete",
+        "Flight": "3L424",
+        "Dest": "CAI",
+        "AirlineCode": "3L424",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12032",
+        "InterviewEndDate": "2023-11-27 20:18:38",
+        "InterviewState": "Complete",
+        "Flight": "AI946",
+        "Dest": "BOM",
+        "AirlineCode": "AI946",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12033",
+        "InterviewEndDate": "2023-11-27 20:09:48",
+        "InterviewState": "Complete",
+        "Flight": "AI946",
+        "Dest": "BOM",
+        "AirlineCode": "AI946",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12034",
+        "InterviewEndDate": "2023-11-27 20:18:43",
+        "InterviewState": "Complete",
+        "Flight": "AI946",
+        "Dest": "BOM",
+        "AirlineCode": "AI946",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12035",
+        "InterviewEndDate": "2023-11-27 20:30:50",
+        "InterviewState": "Complete",
+        "Flight": "AI946",
+        "Dest": "BOM",
+        "AirlineCode": "AI946",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12036",
+        "InterviewEndDate": "2023-11-27 20:30:54",
+        "InterviewState": "Complete",
+        "Flight": "AI946",
+        "Dest": "BOM",
+        "AirlineCode": "AI946",
         "Terminal": "T"
     }
 ]    
