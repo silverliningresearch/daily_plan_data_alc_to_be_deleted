@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "28-11-2023 00:43:46"
+        "download_time": "28-11-2023 01:48:31"
     },
     {
         "InterviewId": "7333",
@@ -39859,6 +39859,114 @@ let interview_data_raw = `[
         "Flight": "AI946",
         "Dest": "BOM",
         "AirlineCode": "AI946",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12037",
+        "InterviewEndDate": "2023-11-27 20:54:15",
+        "InterviewState": "Complete",
+        "Flight": "AI946",
+        "Dest": "BOM",
+        "AirlineCode": "AI946",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12038",
+        "InterviewEndDate": "2023-11-27 20:58:01",
+        "InterviewState": "Complete",
+        "Flight": "AI946",
+        "Dest": "BOM",
+        "AirlineCode": "AI946",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12039",
+        "InterviewEndDate": "2023-11-27 21:28:26",
+        "InterviewState": "Complete",
+        "Flight": "6E1412",
+        "Dest": "MAA",
+        "AirlineCode": "6E1412",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12040",
+        "InterviewEndDate": "2023-11-27 21:21:11",
+        "InterviewState": "Complete",
+        "Flight": "6E1412",
+        "Dest": "MAA",
+        "AirlineCode": "6E1412",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12041",
+        "InterviewEndDate": "2023-11-27 21:30:18",
+        "InterviewState": "Complete",
+        "Flight": "6E1412",
+        "Dest": "MAA",
+        "AirlineCode": "6E1412",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12042",
+        "InterviewEndDate": "2023-11-27 21:27:56",
+        "InterviewState": "Complete",
+        "Flight": "6E1412",
+        "Dest": "MAA",
+        "AirlineCode": "6E1412",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12043",
+        "InterviewEndDate": "2023-11-27 21:32:30",
+        "InterviewState": "Complete",
+        "Flight": "6E1412",
+        "Dest": "MAA",
+        "AirlineCode": "6E1412",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12044",
+        "InterviewEndDate": "2023-11-27 21:36:46",
+        "InterviewState": "Complete",
+        "Flight": "6E1412",
+        "Dest": "MAA",
+        "AirlineCode": "6E1412",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12045",
+        "InterviewEndDate": "2023-11-27 21:36:52",
+        "InterviewState": "Complete",
+        "Flight": "6e1412",
+        "Dest": "MAA",
+        "AirlineCode": "6e1412",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12046",
+        "InterviewEndDate": "2023-11-27 21:37:17",
+        "InterviewState": "Complete",
+        "Flight": "6E1412",
+        "Dest": "MAA",
+        "AirlineCode": "6E1412",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12047",
+        "InterviewEndDate": "2023-11-27 21:43:28",
+        "InterviewState": "Complete",
+        "Flight": "6E1412",
+        "Dest": "MAA",
+        "AirlineCode": "6E1412",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12048",
+        "InterviewEndDate": "2023-11-27 21:44:32",
+        "InterviewState": "Complete",
+        "Flight": "6E1412",
+        "Dest": "MAA",
+        "AirlineCode": "6E1412",
         "Terminal": "T"
     }
 ]    
