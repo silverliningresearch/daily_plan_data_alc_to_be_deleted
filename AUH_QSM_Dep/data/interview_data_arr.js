@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "28-11-2023 11:34:32"
+        "download_time": "28-11-2023 12:39:35"
     },
     {
         "InterviewId": "4226",
@@ -19500,6 +19500,33 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "3L - Air Arabia Abu Dhabi",
         "Dest": "TRV",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6492",
+        "InterviewEndDate": "2023-11-28 08:04:22",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "HBE",
+        "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6493",
+        "InterviewEndDate": "2023-11-28 08:17:45",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "DEL",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6494",
+        "InterviewEndDate": "2023-11-28 08:33:59",
+        "InterviewState": "Complete",
+        "Flight": "3L - Air Arabia Abu Dhabi",
+        "Dest": "BAH",
         "AirlineCode": "3L",
         "Terminal": "T"
     }
