@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "29-11-2023 00:34:14"
+        "download_time": "29-11-2023 01:39:21"
     },
     {
         "InterviewId": "4226",
@@ -19798,6 +19798,60 @@ let interview_data_arr_raw = `[
         "Flight": "3L - Air Arabia Abu Dhabi",
         "Dest": "COK",
         "AirlineCode": "3L",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6526",
+        "InterviewEndDate": "2023-11-28 20:33:09",
+        "InterviewState": "Complete",
+        "Flight": "6E - IndiGo",
+        "Dest": "BOM",
+        "AirlineCode": "6E",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6527",
+        "InterviewEndDate": "2023-11-28 20:41:17",
+        "InterviewState": "Complete",
+        "Flight": "6E - IndiGo",
+        "Dest": "BOM",
+        "AirlineCode": "6E",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6528",
+        "InterviewEndDate": "2023-11-28 21:05:46",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "GYD",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6529",
+        "InterviewEndDate": "2023-11-28 21:14:27",
+        "InterviewState": "Complete",
+        "Flight": "6E - IndiGo",
+        "Dest": "AMD",
+        "AirlineCode": "6E",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6530",
+        "InterviewEndDate": "2023-11-28 21:18:35",
+        "InterviewState": "Complete",
+        "Flight": "6E - IndiGo",
+        "Dest": "AMD",
+        "AirlineCode": "6E",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6531",
+        "InterviewEndDate": "2023-11-28 21:25:10",
+        "InterviewState": "Complete",
+        "Flight": "6E - IndiGo",
+        "Dest": "AMD",
+        "AirlineCode": "6E",
         "Terminal": "T"
     }
 ]    

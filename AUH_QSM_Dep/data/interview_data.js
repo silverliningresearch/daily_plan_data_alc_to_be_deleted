@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "29-11-2023 00:33:46"
+        "download_time": "29-11-2023 01:38:54"
     },
     {
         "InterviewId": "7333",
@@ -40165,6 +40165,60 @@ let interview_data_raw = `[
         "Flight": "UK256",
         "Dest": "BOM",
         "AirlineCode": "UK256",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12074",
+        "InterviewEndDate": "2023-11-28 20:37:28",
+        "InterviewState": "Complete",
+        "Flight": "IX348",
+        "Dest": "CCJ",
+        "AirlineCode": "IX348",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12075",
+        "InterviewEndDate": "2023-11-28 20:42:46",
+        "InterviewState": "Complete",
+        "Flight": "IX348",
+        "Dest": "CCJ",
+        "AirlineCode": "IX348",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12076",
+        "InterviewEndDate": "2023-11-28 21:05:15",
+        "InterviewState": "Complete",
+        "Flight": "IX348",
+        "Dest": "CCJ",
+        "AirlineCode": "IX348",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12077",
+        "InterviewEndDate": "2023-11-28 20:51:39",
+        "InterviewState": "Complete",
+        "Flight": "IX348",
+        "Dest": "IXE",
+        "AirlineCode": "IX348",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12078",
+        "InterviewEndDate": "2023-11-28 21:08:55",
+        "InterviewState": "Complete",
+        "Flight": "IX348",
+        "Dest": "CCJ",
+        "AirlineCode": "IX348",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12079",
+        "InterviewEndDate": "2023-11-28 21:19:04",
+        "InterviewState": "Complete",
+        "Flight": "IX348",
+        "Dest": "CCJ",
+        "AirlineCode": "IX348",
         "Terminal": "T"
     }
 ]    
