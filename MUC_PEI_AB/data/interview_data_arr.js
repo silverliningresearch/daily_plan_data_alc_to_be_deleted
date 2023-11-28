@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "28-11-2023 09:33:58"
+        "download_time": "28-11-2023 10:39:20"
     },
     {
         "InterviewId": "5174",
@@ -18982,6 +18982,102 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7983",
+        "InterviewEndDate": "2023-11-28 08:48:00",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7984",
+        "InterviewEndDate": "2023-11-28 08:35:02",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "TLL",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "7985",
+        "InterviewEndDate": "2023-11-28 08:41:49",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "TLL",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "7986",
+        "InterviewEndDate": "2023-11-28 08:45:23",
+        "InterviewState": "Complete",
+        "Flight": "Lh",
+        "Dest": "HAM",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "7987",
+        "InterviewEndDate": "2023-11-28 09:01:25",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7988",
+        "InterviewEndDate": "2023-11-28 08:57:22",
+        "InterviewState": "Complete",
+        "Flight": "Lh",
+        "Dest": "MAD",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "7989",
+        "InterviewEndDate": "2023-11-28 08:57:08",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7990",
+        "InterviewEndDate": "2023-11-28 09:04:31",
+        "InterviewState": "Complete",
+        "Flight": "Lh",
+        "Dest": "MAD",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "7992",
+        "InterviewEndDate": "2023-11-28 09:11:11",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "7993",
+        "InterviewEndDate": "2023-11-28 09:15:30",
+        "InterviewState": "Complete",
+        "Flight": "UA - United Airlines",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "7994",
+        "InterviewEndDate": "2023-11-28 09:15:11",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BIO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "7996",
+        "InterviewEndDate": "2023-11-28 09:25:33",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BCN",
         "AirlineCode": "LH"
     }
 ]    
