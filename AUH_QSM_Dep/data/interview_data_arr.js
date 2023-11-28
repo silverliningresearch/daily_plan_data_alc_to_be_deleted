@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "29-11-2023 02:43:51"
+        "download_time": "29-11-2023 03:48:55"
     },
     {
         "InterviewId": "4226",
@@ -19974,6 +19974,78 @@ let interview_data_arr_raw = `[
     {
         "InterviewId": "6546",
         "InterviewEndDate": "2023-11-28 22:43:17",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "BEG",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6547",
+        "InterviewEndDate": "2023-11-28 22:54:40",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "BEG",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6548",
+        "InterviewEndDate": "2023-11-28 23:01:19",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6550",
+        "InterviewEndDate": "2023-11-28 23:11:03",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6551",
+        "InterviewEndDate": "2023-11-28 23:17:01",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6552",
+        "InterviewEndDate": "2023-11-28 23:25:01",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6553",
+        "InterviewEndDate": "2023-11-28 23:28:28",
+        "InterviewState": "Complete",
+        "Flight": "PC - Pegasus Airlines",
+        "Dest": "SAW",
+        "AirlineCode": "PC",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6554",
+        "InterviewEndDate": "2023-11-28 23:30:53",
+        "InterviewState": "Complete",
+        "Flight": "6E - IndiGo",
+        "Dest": "MAA",
+        "AirlineCode": "6E",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6555",
+        "InterviewEndDate": "2023-11-28 23:34:49",
         "InterviewState": "Complete",
         "Flight": "5W - Wizz Air",
         "Dest": "BEG",
