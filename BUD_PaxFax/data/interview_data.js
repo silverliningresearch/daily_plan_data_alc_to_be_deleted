@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "28-11-2023 13:58:12"
+        "download_time": "28-11-2023 15:05:10"
     },
     {
         "InterviewId": "7701",
@@ -21039,6 +21039,54 @@ let interview_data_raw = `[
         "Flight": "LG 5808",
         "Dest": "LUX",
         "AirlineCode": "LG"
+    },
+    {
+        "InterviewId": "10699",
+        "InterviewEndDate": "2023-11-28 13:17:33",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "10700",
+        "InterviewEndDate": "2023-11-28 13:17:35",
+        "InterviewState": "Complete",
+        "Flight": "PC  332",
+        "Dest": "SAW",
+        "AirlineCode": "PC"
+    },
+    {
+        "InterviewId": "10701",
+        "InterviewEndDate": "2023-11-28 13:54:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2213",
+        "Dest": "HRG",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "10702",
+        "InterviewEndDate": "2023-11-28 13:55:41",
+        "InterviewState": "Complete",
+        "Flight": "W6 2213",
+        "Dest": "HRG",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "10703",
+        "InterviewEndDate": "2023-11-28 14:01:16",
+        "InterviewState": "Complete",
+        "Flight": "W6 2213",
+        "Dest": "HRG",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "10705",
+        "InterviewEndDate": "2023-11-28 14:02:35",
+        "InterviewState": "Complete",
+        "Flight": "FR 2515",
+        "Dest": "STN",
+        "AirlineCode": "FR"
     }
 ]    
 
