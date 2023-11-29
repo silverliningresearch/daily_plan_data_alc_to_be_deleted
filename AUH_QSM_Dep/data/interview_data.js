@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "29-11-2023 07:03:31"
+        "download_time": "29-11-2023 08:08:39"
     },
     {
         "InterviewId": "7333",
@@ -40417,6 +40417,51 @@ let interview_data_raw = `[
         "Flight": "Af639",
         "Dest": "CDG",
         "AirlineCode": "Af639",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12105",
+        "InterviewEndDate": "2023-11-29 03:08:44",
+        "InterviewState": "Complete",
+        "Flight": "Af639",
+        "Dest": "CDG",
+        "AirlineCode": "Af639",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12106",
+        "InterviewEndDate": "2023-11-29 03:07:26",
+        "InterviewState": "Complete",
+        "Flight": "Ey472",
+        "Dest": "CGK",
+        "AirlineCode": "Ey472",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12107",
+        "InterviewEndDate": "2023-11-29 03:12:53",
+        "InterviewState": "Complete",
+        "Flight": "Ey472",
+        "Dest": "CGK",
+        "AirlineCode": "Ey472",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12109",
+        "InterviewEndDate": "2023-11-29 03:56:55",
+        "InterviewState": "Complete",
+        "Flight": "EY653",
+        "Dest": "CAI",
+        "AirlineCode": "EY653",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12110",
+        "InterviewEndDate": "2023-11-29 04:06:57",
+        "InterviewState": "Complete",
+        "Flight": "Ey593",
+        "Dest": "TLV",
+        "AirlineCode": "Ey593",
         "Terminal": "T"
     }
 ]    
