@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "29-11-2023 11:24:12"
+        "download_time": "29-11-2023 12:29:25"
     },
     {
         "InterviewId": "7333",
@@ -40651,6 +40651,78 @@ let interview_data_raw = `[
         "Flight": "IX716",
         "Dest": "CNN",
         "AirlineCode": "IX716",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12138",
+        "InterviewEndDate": "2023-11-29 07:43:27",
+        "InterviewState": "Complete",
+        "Flight": "EY276",
+        "Dest": "HYD",
+        "AirlineCode": "EY276",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12139",
+        "InterviewEndDate": "2023-11-29 07:47:24",
+        "InterviewState": "Complete",
+        "Flight": "EY276",
+        "Dest": "HYD",
+        "AirlineCode": "EY276",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12140",
+        "InterviewEndDate": "2023-11-29 07:41:57",
+        "InterviewState": "Complete",
+        "Flight": "EY276",
+        "Dest": "HYD",
+        "AirlineCode": "EY276",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12141",
+        "InterviewEndDate": "2023-11-29 07:50:13",
+        "InterviewState": "Complete",
+        "Flight": "EY276",
+        "Dest": "HYD",
+        "AirlineCode": "EY276",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12142",
+        "InterviewEndDate": "2023-11-29 08:16:26",
+        "InterviewState": "Complete",
+        "Flight": "Ey65",
+        "Dest": "SVO",
+        "AirlineCode": "Ey65",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12143",
+        "InterviewEndDate": "2023-11-29 08:12:36",
+        "InterviewState": "Complete",
+        "Flight": "Ey65",
+        "Dest": "SVO",
+        "AirlineCode": "Ey65",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12144",
+        "InterviewEndDate": "2023-11-29 08:20:38",
+        "InterviewState": "Complete",
+        "Flight": "Ey65",
+        "Dest": "SVO",
+        "AirlineCode": "Ey65",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12145",
+        "InterviewEndDate": "2023-11-29 08:20:46",
+        "InterviewState": "Complete",
+        "Flight": "Ey65",
+        "Dest": "SVO",
+        "AirlineCode": "Ey65",
         "Terminal": "T"
     }
 ]    
