@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "DOH",
         "AirlineCode": "QR",
         "Terminal": "T1",
-        "download_time": "29-11-2023 21:09:52"
+        "download_time": "29-11-2023 22:15:56"
     },
     {
         "InterviewId": "4226",
@@ -20050,6 +20050,69 @@ let interview_data_arr_raw = `[
         "Flight": "5W - Wizz Air",
         "Dest": "BEG",
         "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6556",
+        "InterviewEndDate": "2023-11-29 17:32:12",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "CDG",
+        "AirlineCode": "EY",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6557",
+        "InterviewEndDate": "2023-11-29 17:38:52",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "CLJ",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6558",
+        "InterviewEndDate": "2023-11-29 17:44:23",
+        "InterviewState": "Complete",
+        "Flight": "W6 - Wizz Air",
+        "Dest": "CLJ",
+        "AirlineCode": "W6",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6559",
+        "InterviewEndDate": "2023-11-29 17:48:29",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "VIE",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6560",
+        "InterviewEndDate": "2023-11-29 17:53:27",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "VIE",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6561",
+        "InterviewEndDate": "2023-11-29 17:58:38",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "VIE",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6562",
+        "InterviewEndDate": "2023-11-29 18:12:41",
+        "InterviewState": "Complete",
+        "Flight": "EY - Etihad Airways",
+        "Dest": "KUL",
+        "AirlineCode": "EY",
         "Terminal": "T"
     }
 ]    
