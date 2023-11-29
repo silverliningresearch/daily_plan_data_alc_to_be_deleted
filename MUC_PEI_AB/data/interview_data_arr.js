@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "29-11-2023 20:13:52"
+        "download_time": "29-11-2023 21:18:50"
     },
     {
         "InterviewId": "5174",
@@ -19161,6 +19161,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "8010",
+        "InterviewEndDate": "2023-11-29 19:26:53",
+        "InterviewState": "Complete",
+        "Flight": "LO - LOT Polish Airlines",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
         "InterviewId": "8011",
         "InterviewEndDate": "2023-11-29 18:48:17",
         "InterviewState": "Complete",
@@ -19183,6 +19191,46 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "LIS",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8014",
+        "InterviewEndDate": "2023-11-29 19:24:25",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "KRK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8016",
+        "InterviewEndDate": "2023-11-29 19:58:18",
+        "InterviewState": "Complete",
+        "Flight": "BT - Air Baltic",
+        "Dest": "VNO",
+        "AirlineCode": "BT"
+    },
+    {
+        "InterviewId": "8018",
+        "InterviewEndDate": "2023-11-29 19:25:44",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8019",
+        "InterviewEndDate": "2023-11-29 19:35:58",
+        "InterviewState": "Complete",
+        "Flight": "SK - SAS-Scandinavian Airlines System",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "8020",
+        "InterviewEndDate": "2023-11-29 19:36:09",
+        "InterviewState": "Complete",
+        "Flight": "SK - SAS-Scandinavian Airlines System",
+        "Dest": "CPH",
+        "AirlineCode": "SK"
     }
 ]    
 

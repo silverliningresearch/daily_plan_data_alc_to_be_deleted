@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "29-11-2023 23:19:00"
+        "download_time": "30-11-2023 00:24:08"
     },
     {
         "InterviewId": "7333",
@@ -40930,6 +40930,78 @@ let interview_data_raw = `[
         "Flight": "UK256",
         "Dest": "BOM",
         "AirlineCode": "UK256",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12174",
+        "InterviewEndDate": "2023-11-29 19:25:46",
+        "InterviewState": "Complete",
+        "Flight": "3L424",
+        "Dest": "CAI",
+        "AirlineCode": "3L424",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12175",
+        "InterviewEndDate": "2023-11-29 19:45:41",
+        "InterviewState": "Complete",
+        "Flight": "3L111",
+        "Dest": "AMD",
+        "AirlineCode": "3L111",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12176",
+        "InterviewEndDate": "2023-11-29 19:45:39",
+        "InterviewState": "Complete",
+        "Flight": "3L111",
+        "Dest": "AMD",
+        "AirlineCode": "3L111",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12177",
+        "InterviewEndDate": "2023-11-29 20:05:23",
+        "InterviewState": "Complete",
+        "Flight": "3l111",
+        "Dest": "AMD",
+        "AirlineCode": "3l111",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12178",
+        "InterviewEndDate": "2023-11-29 20:06:00",
+        "InterviewState": "Complete",
+        "Flight": "3l111",
+        "Dest": "AMD",
+        "AirlineCode": "3l111",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12179",
+        "InterviewEndDate": "2023-11-29 20:01:13",
+        "InterviewState": "Complete",
+        "Flight": "3L111",
+        "Dest": "AMD",
+        "AirlineCode": "3L111",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12181",
+        "InterviewEndDate": "2023-11-29 20:17:06",
+        "InterviewState": "Complete",
+        "Flight": "3L111",
+        "Dest": "AMD",
+        "AirlineCode": "3L111",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12183",
+        "InterviewEndDate": "2023-11-29 20:10:54",
+        "InterviewState": "Complete",
+        "Flight": "3L111",
+        "Dest": "AMD",
+        "AirlineCode": "3L111",
         "Terminal": "T"
     }
 ]    
