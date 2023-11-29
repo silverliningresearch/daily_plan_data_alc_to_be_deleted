@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "29-11-2023 13:48:20"
+        "download_time": "29-11-2023 14:53:25"
     },
     {
         "InterviewId": "7701",
@@ -21335,6 +21335,78 @@ let interview_data_raw = `[
         "Flight": "LH 1337",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "10744",
+        "InterviewEndDate": "2023-11-29 12:55:32",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "10745",
+        "InterviewEndDate": "2023-11-29 12:55:50",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "10746",
+        "InterviewEndDate": "2023-11-29 12:55:58",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "10747",
+        "InterviewEndDate": "2023-11-29 13:00:20",
+        "InterviewState": "Complete",
+        "Flight": "FR 4229",
+        "Dest": "BVA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10748",
+        "InterviewEndDate": "2023-11-29 12:59:32",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "10749",
+        "InterviewEndDate": "2023-11-29 13:02:43",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "10750",
+        "InterviewEndDate": "2023-11-29 13:01:36",
+        "InterviewState": "Complete",
+        "Flight": "FR 4229",
+        "Dest": "BVA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10751",
+        "InterviewEndDate": "2023-11-29 13:07:48",
+        "InterviewState": "Complete",
+        "Flight": "FR 4229",
+        "Dest": "BVA",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10753",
+        "InterviewEndDate": "2023-11-29 13:10:53",
+        "InterviewState": "Complete",
+        "Flight": "FR 4229",
+        "Dest": "BVA",
+        "AirlineCode": "FR"
     }
 ]    
 
