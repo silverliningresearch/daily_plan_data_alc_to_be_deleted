@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "29-11-2023 08:08:39"
+        "download_time": "29-11-2023 09:13:53"
     },
     {
         "InterviewId": "7333",
@@ -40462,6 +40462,123 @@ let interview_data_raw = `[
         "Flight": "Ey593",
         "Dest": "TLV",
         "AirlineCode": "Ey593",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12112",
+        "InterviewEndDate": "2023-11-29 04:11:24",
+        "InterviewState": "Complete",
+        "Flight": "EY593",
+        "Dest": "TLV",
+        "AirlineCode": "EY593",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12113",
+        "InterviewEndDate": "2023-11-29 04:18:10",
+        "InterviewState": "Complete",
+        "Flight": "Ey593",
+        "Dest": "TLV",
+        "AirlineCode": "Ey593",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12114",
+        "InterviewEndDate": "2023-11-29 04:19:55",
+        "InterviewState": "Complete",
+        "Flight": "Ey593",
+        "Dest": "TLV",
+        "AirlineCode": "Ey593",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12117",
+        "InterviewEndDate": "2023-11-29 04:29:49",
+        "InterviewState": "Complete",
+        "Flight": "Ey593",
+        "Dest": "TLV",
+        "AirlineCode": "Ey593",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12118",
+        "InterviewEndDate": "2023-11-29 04:27:26",
+        "InterviewState": "Complete",
+        "Flight": "Ey593",
+        "Dest": "TLV",
+        "AirlineCode": "Ey593",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12119",
+        "InterviewEndDate": "2023-11-29 04:30:29",
+        "InterviewState": "Complete",
+        "Flight": "Ey593",
+        "Dest": "TLV",
+        "AirlineCode": "Ey593",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12120",
+        "InterviewEndDate": "2023-11-29 04:35:08",
+        "InterviewState": "Complete",
+        "Flight": "Ey593",
+        "Dest": "TLV",
+        "AirlineCode": "Ey593",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12121",
+        "InterviewEndDate": "2023-11-29 04:44:32",
+        "InterviewState": "Complete",
+        "Flight": "Ey593",
+        "Dest": "TLV",
+        "AirlineCode": "Ey593",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12122",
+        "InterviewEndDate": "2023-11-29 04:40:23",
+        "InterviewState": "Complete",
+        "Flight": "EY593",
+        "Dest": "TLV",
+        "AirlineCode": "EY593",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12123",
+        "InterviewEndDate": "2023-11-29 04:51:21",
+        "InterviewState": "Complete",
+        "Flight": "EY593",
+        "Dest": "TLV",
+        "AirlineCode": "EY593",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12125",
+        "InterviewEndDate": "2023-11-29 04:59:29",
+        "InterviewState": "Complete",
+        "Flight": "Pk118",
+        "Dest": "PEW",
+        "AirlineCode": "Pk118",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12126",
+        "InterviewEndDate": "2023-11-29 05:06:12",
+        "InterviewState": "Complete",
+        "Flight": "Pk118",
+        "Dest": "PEW",
+        "AirlineCode": "Pk118",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12127",
+        "InterviewEndDate": "2023-11-29 05:10:12",
+        "InterviewState": "Complete",
+        "Flight": "Pk118",
+        "Dest": "PEW",
+        "AirlineCode": "Pk118",
         "Terminal": "T"
     }
 ]    
