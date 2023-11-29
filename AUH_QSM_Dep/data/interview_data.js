@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "29-11-2023 05:58:17"
+        "download_time": "29-11-2023 07:03:31"
     },
     {
         "InterviewId": "7333",
@@ -40231,6 +40231,15 @@ let interview_data_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "12084",
+        "InterviewEndDate": "2023-11-29 02:04:54",
+        "InterviewState": "Complete",
+        "Flight": "EY019",
+        "Dest": "LHR",
+        "AirlineCode": "EY019",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "12085",
         "InterviewEndDate": "2023-11-28 21:48:29",
         "InterviewState": "Complete",
@@ -40327,6 +40336,87 @@ let interview_data_raw = `[
         "Flight": "TK867",
         "Dest": "IST",
         "AirlineCode": "TK867",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12096",
+        "InterviewEndDate": "2023-11-29 02:05:24",
+        "InterviewState": "Complete",
+        "Flight": "EY019",
+        "Dest": "LHR",
+        "AirlineCode": "EY019",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12097",
+        "InterviewEndDate": "2023-11-29 02:03:45",
+        "InterviewState": "Complete",
+        "Flight": "EY019",
+        "Dest": "LHR",
+        "AirlineCode": "EY019",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12098",
+        "InterviewEndDate": "2023-11-29 02:02:01",
+        "InterviewState": "Complete",
+        "Flight": "TK867",
+        "Dest": "IST",
+        "AirlineCode": "TK867",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12099",
+        "InterviewEndDate": "2023-11-29 02:32:31",
+        "InterviewState": "Complete",
+        "Flight": "EY208",
+        "Dest": "BOM",
+        "AirlineCode": "EY208",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12100",
+        "InterviewEndDate": "2023-11-29 02:29:44",
+        "InterviewState": "Complete",
+        "Flight": "EY208",
+        "Dest": "BOM",
+        "AirlineCode": "EY208",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12101",
+        "InterviewEndDate": "2023-11-29 02:50:50",
+        "InterviewState": "Complete",
+        "Flight": "Af639",
+        "Dest": "CDG",
+        "AirlineCode": "Af639",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12102",
+        "InterviewEndDate": "2023-11-29 02:45:35",
+        "InterviewState": "Complete",
+        "Flight": "Af639",
+        "Dest": "CDG",
+        "AirlineCode": "Af639",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12103",
+        "InterviewEndDate": "2023-11-29 02:53:35",
+        "InterviewState": "Complete",
+        "Flight": "Af639",
+        "Dest": "CDG",
+        "AirlineCode": "Af639",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12104",
+        "InterviewEndDate": "2023-11-29 03:01:03",
+        "InterviewState": "Complete",
+        "Flight": "Af639",
+        "Dest": "CDG",
+        "AirlineCode": "Af639",
         "Terminal": "T"
     }
 ]    
