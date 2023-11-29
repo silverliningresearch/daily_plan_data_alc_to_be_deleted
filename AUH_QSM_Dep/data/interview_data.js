@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "MS915",
         "Terminal": "T1",
-        "download_time": "29-11-2023 12:29:25"
+        "download_time": "29-11-2023 13:34:36"
     },
     {
         "InterviewId": "7333",
@@ -40723,6 +40723,87 @@ let interview_data_raw = `[
         "Flight": "Ey65",
         "Dest": "SVO",
         "AirlineCode": "Ey65",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12146",
+        "InterviewEndDate": "2023-11-29 08:49:07",
+        "InterviewState": "Complete",
+        "Flight": "5W7077",
+        "Dest": "ALA",
+        "AirlineCode": "5W7077",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12147",
+        "InterviewEndDate": "2023-11-29 08:47:25",
+        "InterviewState": "Complete",
+        "Flight": "5W7077",
+        "Dest": "ALA",
+        "AirlineCode": "5W7077",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12148",
+        "InterviewEndDate": "2023-11-29 08:45:08",
+        "InterviewState": "Complete",
+        "Flight": "5W7077",
+        "Dest": "ALA",
+        "AirlineCode": "5W7077",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12149",
+        "InterviewEndDate": "2023-11-29 08:50:59",
+        "InterviewState": "Complete",
+        "Flight": "5W7077",
+        "Dest": "ALA",
+        "AirlineCode": "5W7077",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12150",
+        "InterviewEndDate": "2023-11-29 08:52:35",
+        "InterviewState": "Complete",
+        "Flight": "5W7077",
+        "Dest": "ALA",
+        "AirlineCode": "5W7077",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12151",
+        "InterviewEndDate": "2023-11-29 09:24:59",
+        "InterviewState": "Complete",
+        "Flight": "Ey007",
+        "Dest": "FRA",
+        "AirlineCode": "Ey007",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12152",
+        "InterviewEndDate": "2023-11-29 09:21:32",
+        "InterviewState": "Complete",
+        "Flight": "Ey007",
+        "Dest": "FRA",
+        "AirlineCode": "Ey007",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12153",
+        "InterviewEndDate": "2023-11-29 09:20:58",
+        "InterviewState": "Complete",
+        "Flight": "Ey007",
+        "Dest": "FRA",
+        "AirlineCode": "Ey007",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12154",
+        "InterviewEndDate": "2023-11-29 09:25:29",
+        "InterviewState": "Complete",
+        "Flight": "Ey007",
+        "Dest": "FRA",
+        "AirlineCode": "Ey007",
         "Terminal": "T"
     }
 ]    
