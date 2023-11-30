@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "30-11-2023 15:41:27"
+        "download_time": "30-11-2023 16:46:24"
     },
     {
         "InterviewId": "5167",
@@ -19358,6 +19358,62 @@ let interview_data_arr_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "DUB",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8034",
+        "InterviewEndDate": "2023-11-30 14:47:01",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8035",
+        "InterviewEndDate": "2023-11-30 14:47:22",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SOF",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8036",
+        "InterviewEndDate": "2023-11-30 14:44:00",
+        "InterviewState": "Complete",
+        "Flight": "Lh",
+        "Dest": "SOF",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "8038",
+        "InterviewEndDate": "2023-11-30 14:53:41",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "8039",
+        "InterviewEndDate": "2023-11-30 14:52:53",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "8040",
+        "InterviewEndDate": "2023-11-30 14:54:29",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "VCE",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "8041",
+        "InterviewEndDate": "2023-11-30 14:58:23",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "GDN",
         "AirlineCode": "LH"
     }
 ]    
