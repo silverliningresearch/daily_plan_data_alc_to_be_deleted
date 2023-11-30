@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K25",
-        "download_time": "30-11-2023 22:10:48"
+        "download_time": "30-11-2023 23:15:47"
     },
     {
         "aodbUniqueId": "20231130487290",
@@ -3991,16 +3991,6 @@ let MUC_Gate_Info = `[
         "Gate": "K15"
     },
     {
-        "aodbUniqueId": "20231130486124",
-        "Date": "30-11-2023",
-        "Flight": "A3 1506",
-        "Dest": "LEJ",
-        "AirlineCode": "A3",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G70"
-    },
-    {
         "aodbUniqueId": "20231130486126",
         "Date": "30-11-2023",
         "Flight": "A3 1513",
@@ -6431,16 +6421,6 @@ let MUC_Gate_Info = `[
         "Gate": "G64"
     },
     {
-        "aodbUniqueId": "20231130486743",
-        "Date": "30-11-2023",
-        "Flight": "TP 7858",
-        "Dest": "LEJ",
-        "AirlineCode": "TP",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G70"
-    },
-    {
         "aodbUniqueId": "20231130486744",
         "Date": "30-11-2023",
         "Flight": "TP 7880",
@@ -7419,16 +7399,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G70"
-    },
-    {
-        "aodbUniqueId": "20231130486491",
-        "Date": "30-11-2023",
-        "Flight": "LO 4978",
-        "Dest": "POZ",
-        "AirlineCode": "LO",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G64"
     },
     {
         "aodbUniqueId": "20231130486492",
@@ -8899,16 +8869,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G70"
-    },
-    {
-        "aodbUniqueId": "20231130486575",
-        "Date": "30-11-2023",
-        "Flight": "OS 7495",
-        "Dest": "POZ",
-        "AirlineCode": "OS",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G64"
     },
     {
         "aodbUniqueId": "20231130486576",
