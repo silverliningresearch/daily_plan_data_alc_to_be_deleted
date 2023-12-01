@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "01-12-2023 16:35:43"
+        "download_time": "01-12-2023 17:40:41"
     },
     {
         "InterviewId": "15819",
@@ -62511,6 +62511,86 @@ let interview_data_raw = `[
         "Flight": "LH 2222",
         "Dest": "TLS",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25013",
+        "InterviewEndDate": "2023-12-01 15:50:38",
+        "InterviewState": "Complete",
+        "Flight": "KL 1798",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "25014",
+        "InterviewEndDate": "2023-12-01 15:53:00",
+        "InterviewState": "Complete",
+        "Flight": "KL 1798",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "25015",
+        "InterviewEndDate": "2023-12-01 15:49:43",
+        "InterviewState": "Complete",
+        "Flight": "KL 1798",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "25016",
+        "InterviewEndDate": "2023-12-01 15:49:33",
+        "InterviewState": "Complete",
+        "Flight": "KL 1798",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "25018",
+        "InterviewEndDate": "2023-12-01 15:46:18",
+        "InterviewState": "Complete",
+        "Flight": "EW 9087",
+        "Dest": "DUS",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "25019",
+        "InterviewEndDate": "2023-12-01 16:01:31",
+        "InterviewState": "Complete",
+        "Flight": "KL 1798",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "25020",
+        "InterviewEndDate": "2023-12-01 16:03:45",
+        "InterviewState": "Complete",
+        "Flight": "KL 1798",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "25023",
+        "InterviewEndDate": "2023-12-01 16:26:52",
+        "InterviewState": "Complete",
+        "Flight": "AF 1823",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "25024",
+        "InterviewEndDate": "2023-12-01 16:25:21",
+        "InterviewState": "Complete",
+        "Flight": "AF 1823",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "25025",
+        "InterviewEndDate": "2023-12-01 16:17:34",
+        "InterviewState": "Complete",
+        "Flight": "AF 1823",
+        "Dest": "CDG",
+        "AirlineCode": "AF"
     }
 ]    
 
