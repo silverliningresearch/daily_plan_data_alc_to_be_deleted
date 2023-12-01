@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "01-12-2023 18:46:22"
+        "download_time": "01-12-2023 19:51:35"
     },
     {
         "InterviewId": "5167",
@@ -19415,6 +19415,46 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "GDN",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8043",
+        "InterviewEndDate": "2023-12-01 18:31:23",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "8044",
+        "InterviewEndDate": "2023-12-01 18:34:31",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "8046",
+        "InterviewEndDate": "2023-12-01 18:35:56",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "8047",
+        "InterviewEndDate": "2023-12-01 18:40:23",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
+    },
+    {
+        "InterviewId": "8048",
+        "InterviewEndDate": "2023-12-01 18:44:45",
+        "InterviewState": "Complete",
+        "Flight": "AY - Finnair",
+        "Dest": "HEL",
+        "AirlineCode": "AY"
     }
 ]    
 
