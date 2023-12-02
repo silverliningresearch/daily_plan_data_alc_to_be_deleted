@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "02-12-2023 11:54:43"
+        "download_time": "02-12-2023 12:59:41"
     },
     {
         "InterviewId": "6722",
@@ -46465,6 +46465,60 @@ let interview_data_raw = `[
         "Flight": "3L131",
         "Dest": "TRV",
         "AirlineCode": "3L131",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12211",
+        "InterviewEndDate": "2023-12-02 08:15:20",
+        "InterviewState": "Complete",
+        "Flight": "GF543",
+        "Dest": "BAH",
+        "AirlineCode": "GF543",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12212",
+        "InterviewEndDate": "2023-12-02 08:08:34",
+        "InterviewState": "Complete",
+        "Flight": "GF543",
+        "Dest": "BAH",
+        "AirlineCode": "GF543",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12213",
+        "InterviewEndDate": "2023-12-02 08:23:13",
+        "InterviewState": "Complete",
+        "Flight": "3L063",
+        "Dest": "DAC",
+        "AirlineCode": "3L063",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12214",
+        "InterviewEndDate": "2023-12-02 08:24:17",
+        "InterviewState": "Complete",
+        "Flight": "3L063",
+        "Dest": "DAC",
+        "AirlineCode": "3L063",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12215",
+        "InterviewEndDate": "2023-12-02 08:36:37",
+        "InterviewState": "Complete",
+        "Flight": "3L121",
+        "Dest": "CCJ",
+        "AirlineCode": "3L121",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12216",
+        "InterviewEndDate": "2023-12-02 08:39:10",
+        "InterviewState": "Complete",
+        "Flight": "3L121",
+        "Dest": "CCJ",
+        "AirlineCode": "3L121",
         "Terminal": "T"
     }
 ]    
