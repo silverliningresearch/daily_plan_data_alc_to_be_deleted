@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K27",
-        "download_time": "02-12-2023 05:35:53"
+        "download_time": "02-12-2023 06:40:45"
     },
     {
         "aodbUniqueId": "20231202520001",
@@ -3191,16 +3191,6 @@ let MUC_Gate_Info = `[
         "Gate": "K20"
     },
     {
-        "aodbUniqueId": "20231202492231",
-        "Date": "02-12-2023",
-        "Flight": "UA 9494",
-        "Dest": "PAD",
-        "AirlineCode": "UA",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G13"
-    },
-    {
         "aodbUniqueId": "20231202491737",
         "Date": "02-12-2023",
         "Flight": "LH 2054",
@@ -3341,16 +3331,6 @@ let MUC_Gate_Info = `[
         "Gate": "D02"
     },
     {
-        "aodbUniqueId": "20231202491531",
-        "Date": "02-12-2023",
-        "Flight": "AA 7201",
-        "Dest": "LHR",
-        "AirlineCode": "AA",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C06"
-    },
-    {
         "aodbUniqueId": "20231202491823",
         "Date": "02-12-2023",
         "Flight": "LO 376",
@@ -3471,16 +3451,6 @@ let MUC_Gate_Info = `[
         "Gate": "B10"
     },
     {
-        "aodbUniqueId": "20231202491659",
-        "Date": "02-12-2023",
-        "Flight": "CX 7166",
-        "Dest": "LHR",
-        "AirlineCode": "CX",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C06"
-    },
-    {
         "aodbUniqueId": "20231202491663",
         "Date": "02-12-2023",
         "Flight": "DE 024",
@@ -3539,16 +3509,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D15"
-    },
-    {
-        "aodbUniqueId": "20231202491698",
-        "Date": "02-12-2023",
-        "Flight": "JL 7796",
-        "Dest": "LHR",
-        "AirlineCode": "JL",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C06"
     },
     {
         "aodbUniqueId": "20231202491703",
