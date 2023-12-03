@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "KL - KLM",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "03-12-2023 17:21:35"
+        "download_time": "03-12-2023 18:26:23"
     },
     {
         "InterviewId": "2077",
@@ -11266,7 +11266,7 @@ let interview_data_arr_raw = `[
     },
     {
         "InterviewId": "4912",
-        "InterviewEndDate": "2023-11-28",
+        "InterviewEndDate": "2023-12-03",
         "InterviewState": "Complete",
         "Flight": "AF - AIR FRANCE",
         "Dest": "CDG",
@@ -11287,6 +11287,70 @@ let interview_data_arr_raw = `[
         "Flight": "AF - AIR FRANCE",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewId": "4921",
+        "InterviewEndDate": "2023-12-03",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "4922",
+        "InterviewEndDate": "2023-12-03",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "4923",
+        "InterviewEndDate": "2023-12-03",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "4924",
+        "InterviewEndDate": "2023-12-03",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "4925",
+        "InterviewEndDate": "2023-12-03",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "4926",
+        "InterviewEndDate": "2023-12-03",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "4927",
+        "InterviewEndDate": "2023-12-03",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewId": "4928",
+        "InterviewEndDate": "2023-12-03",
+        "InterviewState": "Complete",
+        "Flight": "SK - Scandinavian Airlines System (SAS)",
+        "Dest": "OSL",
+        "AirlineCode": "SK"
     }
 ]    
 
