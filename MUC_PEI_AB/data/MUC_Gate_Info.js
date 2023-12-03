@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H18",
-        "download_time": "03-12-2023 22:45:46"
+        "download_time": "03-12-2023 23:50:54"
     },
     {
         "aodbUniqueId": "20231203520061",
@@ -4091,16 +4091,6 @@ let MUC_Gate_Info = `[
         "Gate": "G15"
     },
     {
-        "aodbUniqueId": "20231203495052",
-        "Date": "03-12-2023",
-        "Flight": "TP 7546",
-        "Dest": "SOF",
-        "AirlineCode": "TP",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E5",
-        "Gate": "L23"
-    },
-    {
         "aodbUniqueId": "20231203493647",
         "Date": "03-12-2023",
         "Flight": "SK 2658",
@@ -5099,16 +5089,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G15"
-    },
-    {
-        "aodbUniqueId": "20231203495190",
-        "Date": "03-12-2023",
-        "Flight": "UA 9320",
-        "Dest": "SOF",
-        "AirlineCode": "UA",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E5",
-        "Gate": "L23"
     },
     {
         "aodbUniqueId": "20231203493494",

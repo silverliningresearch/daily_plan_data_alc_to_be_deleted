@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "04-12-2023 01:49:47"
+        "download_time": "04-12-2023 02:55:03"
     },
     {
         "InterviewId": "3906",
@@ -23452,6 +23452,51 @@ let interview_data_arr_raw = `[
         "Flight": "RJ - Royal Jordanian",
         "Dest": "AMM",
         "AirlineCode": "RJ",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6633",
+        "InterviewEndDate": "2023-12-03 22:02:43",
+        "InterviewState": "Complete",
+        "Flight": "6E - IndiGo",
+        "Dest": "MAA",
+        "AirlineCode": "6E",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6634",
+        "InterviewEndDate": "2023-12-03 22:05:42",
+        "InterviewState": "Complete",
+        "Flight": "6E - IndiGo",
+        "Dest": "MAA",
+        "AirlineCode": "6E",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6635",
+        "InterviewEndDate": "2023-12-03 22:24:13",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "BEG",
+        "AirlineCode": "5W",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6636",
+        "InterviewEndDate": "2023-12-03 22:30:30",
+        "InterviewState": "Complete",
+        "Flight": "RJ - Royal Jordanian",
+        "Dest": "AMM",
+        "AirlineCode": "RJ",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "6637",
+        "InterviewEndDate": "2023-12-03 22:54:22",
+        "InterviewState": "Complete",
+        "Flight": "5W - Wizz Air",
+        "Dest": "BEG",
+        "AirlineCode": "5W",
         "Terminal": "T"
     }
 ]    
