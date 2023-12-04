@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "05-12-2023 01:39:37"
+        "download_time": "05-12-2023 02:44:29"
     },
     {
         "InterviewId": "6722",
@@ -46639,12 +46639,48 @@ let interview_data_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "12234",
+        "InterviewEndDate": "2023-12-04 21:40:20",
+        "InterviewState": "Complete",
+        "Flight": "EY131",
+        "Dest": "ORD",
+        "AirlineCode": "EY131",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "12235",
         "InterviewEndDate": "2023-12-04 21:37:42",
         "InterviewState": "Complete",
         "Flight": "EY131",
         "Dest": "ORD",
         "AirlineCode": "EY131",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12236",
+        "InterviewEndDate": "2023-12-04 21:55:04",
+        "InterviewState": "Complete",
+        "Flight": "EY103",
+        "Dest": "JFK",
+        "AirlineCode": "EY103",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12237",
+        "InterviewEndDate": "2023-12-04 22:00:26",
+        "InterviewState": "Complete",
+        "Flight": "EY103",
+        "Dest": "JFK",
+        "AirlineCode": "EY103",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12238",
+        "InterviewEndDate": "2023-12-04 22:05:49",
+        "InterviewState": "Complete",
+        "Flight": "EY103",
+        "Dest": "JFK",
+        "AirlineCode": "EY103",
         "Terminal": "T"
     }
 ]    
