@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "04-12-2023 17:11:25"
+        "download_time": "04-12-2023 18:16:21"
     },
     {
         "InterviewId": "5167",
@@ -19495,6 +19495,46 @@ let interview_data_arr_raw = `[
         "Flight": "Tap",
         "Dest": "LIS",
         "AirlineCode": "Tap"
+    },
+    {
+        "InterviewId": "8060",
+        "InterviewEndDate": "2023-12-04 16:17:05",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "8061",
+        "InterviewEndDate": "2023-12-04 16:17:42",
+        "InterviewState": "Complete",
+        "Flight": "TG - Thai Airways",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "8063",
+        "InterviewEndDate": "2023-12-04 16:26:47",
+        "InterviewState": "Complete",
+        "Flight": "Iufthansa",
+        "Dest": "LAX",
+        "AirlineCode": "Iufthansa"
+    },
+    {
+        "InterviewId": "8065",
+        "InterviewEndDate": "2023-12-04 16:34:58",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8066",
+        "InterviewEndDate": "2023-12-04 16:42:39",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DEN",
+        "AirlineCode": "LH"
     }
 ]    
 
