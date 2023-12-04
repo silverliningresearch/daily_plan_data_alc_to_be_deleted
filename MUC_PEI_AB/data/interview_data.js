@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "04-12-2023 19:20:43"
+        "download_time": "04-12-2023 20:25:42"
     },
     {
         "InterviewId": "15819",
@@ -62919,6 +62919,70 @@ let interview_data_raw = `[
         "Flight": "TK 1636",
         "Dest": "IST",
         "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "25078",
+        "InterviewEndDate": "2023-12-04 18:25:56",
+        "InterviewState": "Complete",
+        "Flight": "EY  006",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "25079",
+        "InterviewEndDate": "2023-12-04 18:28:04",
+        "InterviewState": "Complete",
+        "Flight": "EY  006",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "25081",
+        "InterviewEndDate": "2023-12-04 18:31:09",
+        "InterviewState": "Complete",
+        "Flight": "EY  006",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "25082",
+        "InterviewEndDate": "2023-12-04 18:40:26",
+        "InterviewState": "Complete",
+        "Flight": "EY  006",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "25083",
+        "InterviewEndDate": "2023-12-04 18:44:51",
+        "InterviewState": "Complete",
+        "Flight": "EY  006",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "25084",
+        "InterviewEndDate": "2023-12-04 18:55:37",
+        "InterviewState": "Complete",
+        "Flight": "EY  006",
+        "Dest": "AUH",
+        "AirlineCode": "EY"
+    },
+    {
+        "InterviewId": "25085",
+        "InterviewEndDate": "2023-12-04 19:20:13",
+        "InterviewState": "Complete",
+        "Flight": "EZY8642",
+        "Dest": "LGW",
+        "AirlineCode": "EZ"
+    },
+    {
+        "InterviewId": "25086",
+        "InterviewEndDate": "2023-12-04 19:09:36",
+        "InterviewState": "Complete",
+        "Flight": "WY 124",
+        "Dest": "MCT",
+        "AirlineCode": "WY"
     }
 ]    
 
