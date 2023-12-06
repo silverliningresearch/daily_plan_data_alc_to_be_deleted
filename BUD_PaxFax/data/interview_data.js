@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "06-12-2023 16:53:53"
+        "download_time": "06-12-2023 17:58:50"
     },
     {
         "InterviewId": "7701",
@@ -22117,6 +22117,62 @@ let interview_data_raw = `[
         "InterviewEndDate": "2023-12-06 10:47:40",
         "InterviewState": "Complete",
         "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "10848",
+        "InterviewEndDate": "2023-12-06 16:15:14",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10849",
+        "InterviewEndDate": "2023-12-06 16:15:14",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10850",
+        "InterviewEndDate": "2023-12-06 16:15:05",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "10851",
+        "InterviewEndDate": "2023-12-06 16:43:51",
+        "InterviewState": "Complete",
+        "Flight": "BA  867",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "10852",
+        "InterviewEndDate": "2023-12-06 16:44:48",
+        "InterviewState": "Complete",
+        "Flight": "BA  867",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "10853",
+        "InterviewEndDate": "2023-12-06 16:51:03",
+        "InterviewState": "Complete",
+        "Flight": "BA  867",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "10854",
+        "InterviewEndDate": "2023-12-06 16:49:14",
+        "InterviewState": "Complete",
+        "Flight": "BA  867",
         "Dest": "LHR",
         "AirlineCode": "BA"
     }

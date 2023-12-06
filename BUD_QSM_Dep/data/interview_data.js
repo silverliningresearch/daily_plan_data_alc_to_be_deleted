@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "06-12-2023 16:52:29"
+        "download_time": "06-12-2023 17:57:22"
     },
     {
         "InterviewId": "3965",
@@ -20005,6 +20005,94 @@ let interview_data_raw = `[
         "InterviewEndDate": "2023-12-06 10:54:28",
         "InterviewState": "Complete",
         "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "6625",
+        "InterviewEndDate": "2023-12-06 15:58:13",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6626",
+        "InterviewEndDate": "2023-12-06 15:57:13",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6627",
+        "InterviewEndDate": "2023-12-06 16:08:04",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6628",
+        "InterviewEndDate": "2023-12-06 16:00:18",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6629",
+        "InterviewEndDate": "2023-12-06 16:06:54",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6630",
+        "InterviewEndDate": "2023-12-06 16:06:50",
+        "InterviewState": "Complete",
+        "Flight": "FR 3330",
+        "Dest": "PFO",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "6632",
+        "InterviewEndDate": "2023-12-06 16:36:55",
+        "InterviewState": "Complete",
+        "Flight": "RO  238",
+        "Dest": "OTP",
+        "AirlineCode": "RO"
+    },
+    {
+        "InterviewId": "6633",
+        "InterviewEndDate": "2023-12-06 16:37:47",
+        "InterviewState": "Complete",
+        "Flight": "BA  867",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "6634",
+        "InterviewEndDate": "2023-12-06 16:41:39",
+        "InterviewState": "Complete",
+        "Flight": "BA  867",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "6635",
+        "InterviewEndDate": "2023-12-06 16:41:33",
+        "InterviewState": "Complete",
+        "Flight": "BA  867",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "6636",
+        "InterviewEndDate": "2023-12-06 16:36:57",
+        "InterviewState": "Complete",
+        "Flight": "BA  867",
         "Dest": "LHR",
         "AirlineCode": "BA"
     }
