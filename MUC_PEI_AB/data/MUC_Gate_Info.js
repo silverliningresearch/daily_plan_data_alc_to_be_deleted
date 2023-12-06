@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1B",
         "Gate": "B10",
-        "download_time": "06-12-2023 08:10:47"
+        "download_time": "06-12-2023 09:15:47"
     },
     {
         "aodbUniqueId": "20231206501268",
@@ -178,7 +178,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K09"
+        "Gate": "K04"
     },
     {
         "aodbUniqueId": "20231206501770",
@@ -308,7 +308,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "AY",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D03"
+        "Gate": "D16"
     },
     {
         "aodbUniqueId": "20231206501452",
@@ -578,7 +578,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "IB",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D11"
+        "Gate": "D22"
     },
     {
         "aodbUniqueId": "20231206501575",
@@ -808,7 +808,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "KL",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D02"
+        "Gate": "D03"
     },
     {
         "aodbUniqueId": "20231206501671",
@@ -818,7 +818,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "KL",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D15"
+        "Gate": "D16"
     },
     {
         "aodbUniqueId": "20231206501673",
@@ -2148,7 +2148,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K04"
+        "Gate": "K09"
     },
     {
         "aodbUniqueId": "20231206502410",
@@ -2348,7 +2348,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "UX",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D15"
+        "Gate": "D05"
     },
     {
         "aodbUniqueId": "20231206502747",
@@ -2358,7 +2358,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "UX",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D16"
+        "Gate": "D14"
     },
     {
         "aodbUniqueId": "20231206502749",
@@ -2378,7 +2378,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VY",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D22"
+        "Gate": "D15"
     },
     {
         "aodbUniqueId": "20231206503011",
@@ -2648,7 +2648,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "X3",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D16"
+        "Gate": "D11"
     },
     {
         "aodbUniqueId": "20231206502786",
