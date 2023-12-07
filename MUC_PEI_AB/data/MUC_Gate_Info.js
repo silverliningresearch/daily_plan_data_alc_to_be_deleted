@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H28",
-        "download_time": "07-12-2023 23:10:48"
+        "download_time": "08-12-2023 00:15:48"
     },
     {
         "aodbUniqueId": "20231207504447",
@@ -539,6 +539,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G14"
+    },
+    {
+        "aodbUniqueId": "20231207504547",
+        "Date": "07-12-2023",
+        "Flight": "LH 2558",
+        "Dest": "TBS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H28"
     },
     {
         "aodbUniqueId": "20231207504441",
@@ -1291,16 +1301,6 @@ let MUC_Gate_Info = `[
         "Gate": "K23"
     },
     {
-        "aodbUniqueId": "20231207504547",
-        "Date": "07-12-2023",
-        "Flight": "LH 2558",
-        "Dest": "TBS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H28"
-    },
-    {
         "aodbUniqueId": "20231207504549",
         "Date": "07-12-2023",
         "Flight": "LH 2484",
@@ -1418,7 +1418,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
-        "Gate": "L07"
+        "Gate": "L28"
     },
     {
         "aodbUniqueId": "20231207504445",
@@ -1991,6 +1991,16 @@ let MUC_Gate_Info = `[
         "Gate": "G82"
     },
     {
+        "aodbUniqueId": "20231207504687",
+        "Date": "07-12-2023",
+        "Flight": "LH 1682",
+        "Dest": "BUD",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K09"
+    },
+    {
         "aodbUniqueId": "20231207504629",
         "Date": "07-12-2023",
         "Flight": "LH 1816",
@@ -2015,16 +2025,6 @@ let MUC_Gate_Info = `[
         "Date": "07-12-2023",
         "Flight": "LH 2228",
         "Dest": "CDG",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K09"
-    },
-    {
-        "aodbUniqueId": "20231207504687",
-        "Date": "07-12-2023",
-        "Flight": "LH 1682",
-        "Dest": "BUD",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
