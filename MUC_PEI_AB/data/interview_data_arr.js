@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "09-12-2023 05:31:17"
+        "download_time": "09-12-2023 06:36:26"
     },
     {
         "InterviewId": "5167",
@@ -19583,6 +19583,46 @@ let interview_data_arr_raw = `[
         "Flight": "TP - TAP Air Portugal",
         "Dest": "LIS",
         "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "8079",
+        "InterviewEndDate": "2023-12-09 05:26:13",
+        "InterviewState": "Complete",
+        "Flight": "NH - ANA All Nippon Cargo",
+        "Dest": "HND",
+        "AirlineCode": "NH"
+    },
+    {
+        "InterviewId": "8080",
+        "InterviewEndDate": "2023-12-09 05:28:09",
+        "InterviewState": "Complete",
+        "Flight": "NH - ANA All Nippon Cargo",
+        "Dest": "HND",
+        "AirlineCode": "NH"
+    },
+    {
+        "InterviewId": "8081",
+        "InterviewEndDate": "2023-12-09 05:29:39",
+        "InterviewState": "Complete",
+        "Flight": "NH - ANA All Nippon Cargo",
+        "Dest": "HND",
+        "AirlineCode": "NH"
+    },
+    {
+        "InterviewId": "8082",
+        "InterviewEndDate": "2023-12-09 05:35:18",
+        "InterviewState": "Complete",
+        "Flight": "NH - ANA All Nippon Cargo",
+        "Dest": "HND",
+        "AirlineCode": "NH"
+    },
+    {
+        "InterviewId": "8083",
+        "InterviewEndDate": "2023-12-09 05:35:27",
+        "InterviewState": "Complete",
+        "Flight": "NH - ANA All Nippon Cargo",
+        "Dest": "HND",
+        "AirlineCode": "NH"
     }
 ]    
 
