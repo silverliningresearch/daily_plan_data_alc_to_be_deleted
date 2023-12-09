@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "09-12-2023 06:36:26"
+        "download_time": "09-12-2023 07:41:56"
     },
     {
         "InterviewId": "5167",
@@ -19623,6 +19623,54 @@ let interview_data_arr_raw = `[
         "Flight": "NH - ANA All Nippon Cargo",
         "Dest": "HND",
         "AirlineCode": "NH"
+    },
+    {
+        "InterviewId": "8086",
+        "InterviewEndDate": "2023-12-09 06:00:09",
+        "InterviewState": "Complete",
+        "Flight": "CA - Air China",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "8087",
+        "InterviewEndDate": "2023-12-09 05:59:49",
+        "InterviewState": "Complete",
+        "Flight": "CA - Air China",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "8088",
+        "InterviewEndDate": "2023-12-09 06:06:08",
+        "InterviewState": "Complete",
+        "Flight": "CA - Air China",
+        "Dest": "PEK",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "8089",
+        "InterviewEndDate": "2023-12-09 06:09:14",
+        "InterviewState": "Complete",
+        "Flight": "CA - Air China",
+        "Dest": "PKX",
+        "AirlineCode": "CA"
+    },
+    {
+        "InterviewId": "8094",
+        "InterviewEndDate": "2023-12-09 06:26:18",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8095",
+        "InterviewEndDate": "2023-12-09 06:23:26",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DEL",
+        "AirlineCode": "LH"
     }
 ]    
 
