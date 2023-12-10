@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "10-12-2023 17:16:22"
+        "download_time": "10-12-2023 18:22:25"
     },
     {
         "InterviewId": "5167",
@@ -19915,6 +19915,54 @@ let interview_data_arr_raw = `[
     {
         "InterviewId": "8137",
         "InterviewEndDate": "2023-12-10 16:14:35",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8138",
+        "InterviewEndDate": "2023-12-10 16:17:22",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8139",
+        "InterviewEndDate": "2023-12-10 16:20:24",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8140",
+        "InterviewEndDate": "2023-12-10 16:27:01",
+        "InterviewState": "Complete",
+        "Flight": "Lh",
+        "Dest": "SFO",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "8141",
+        "InterviewEndDate": "2023-12-10 16:25:57",
+        "InterviewState": "Complete",
+        "Flight": "Lh",
+        "Dest": "SFO",
+        "AirlineCode": "Lh"
+    },
+    {
+        "InterviewId": "8142",
+        "InterviewEndDate": "2023-12-10 16:27:16",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "SFO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8143",
+        "InterviewEndDate": "2023-12-10 16:35:26",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "SFO",
