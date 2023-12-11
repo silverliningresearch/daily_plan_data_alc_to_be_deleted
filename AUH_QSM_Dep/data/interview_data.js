@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "11-12-2023 08:14:47"
+        "download_time": "11-12-2023 09:19:56"
     },
     {
         "InterviewId": "6722",
@@ -47068,6 +47068,69 @@ let interview_data_raw = `[
         "Flight": "EY321",
         "Dest": "DMM",
         "AirlineCode": "EY321",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12284",
+        "InterviewEndDate": "2023-12-11 04:23:30",
+        "InterviewState": "Complete",
+        "Flight": "EY321",
+        "Dest": "DMM",
+        "AirlineCode": "EY321",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12285",
+        "InterviewEndDate": "2023-12-11 04:27:16",
+        "InterviewState": "Complete",
+        "Flight": "EY321",
+        "Dest": "DMM",
+        "AirlineCode": "EY321",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12286",
+        "InterviewEndDate": "2023-12-11 04:43:27",
+        "InterviewState": "Complete",
+        "Flight": "EY393",
+        "Dest": "DOH",
+        "AirlineCode": "EY393",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12287",
+        "InterviewEndDate": "2023-12-11 04:56:07",
+        "InterviewState": "Complete",
+        "Flight": "EY393",
+        "Dest": "DOH",
+        "AirlineCode": "EY393",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12288",
+        "InterviewEndDate": "2023-12-11 04:52:50",
+        "InterviewState": "Complete",
+        "Flight": "EY393",
+        "Dest": "DOH",
+        "AirlineCode": "EY393",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12289",
+        "InterviewEndDate": "2023-12-11 05:15:41",
+        "InterviewState": "Complete",
+        "Flight": "5W7037",
+        "Dest": "MCT",
+        "AirlineCode": "5W7037",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12290",
+        "InterviewEndDate": "2023-12-11 05:18:24",
+        "InterviewState": "Complete",
+        "Flight": "5W7037",
+        "Dest": "MCT",
+        "AirlineCode": "5W7037",
         "Terminal": "T"
     }
 ]    
