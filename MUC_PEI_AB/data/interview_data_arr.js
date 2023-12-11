@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "11-12-2023 18:11:29"
+        "download_time": "11-12-2023 19:16:41"
     },
     {
         "InterviewId": "5167",
@@ -19967,6 +19967,54 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "SFO",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8147",
+        "InterviewEndDate": "2023-12-11 18:03:13",
+        "InterviewState": "Complete",
+        "Flight": "WY - Oman Air",
+        "Dest": "MCT",
+        "AirlineCode": "WY"
+    },
+    {
+        "InterviewId": "8148",
+        "InterviewEndDate": "2023-12-11 18:08:12",
+        "InterviewState": "Complete",
+        "Flight": "WY - Oman Air",
+        "Dest": "MCT",
+        "AirlineCode": "WY"
+    },
+    {
+        "InterviewId": "8149",
+        "InterviewEndDate": "2023-12-11 18:13:08",
+        "InterviewState": "Complete",
+        "Flight": "WY - Oman Air",
+        "Dest": "MCT",
+        "AirlineCode": "WY"
+    },
+    {
+        "InterviewId": "8150",
+        "InterviewEndDate": "2023-12-11 18:09:13",
+        "InterviewState": "Complete",
+        "Flight": "WY - Oman Air",
+        "Dest": "MCT",
+        "AirlineCode": "WY"
+    },
+    {
+        "InterviewId": "8151",
+        "InterviewEndDate": "2023-12-11 18:13:25",
+        "InterviewState": "Complete",
+        "Flight": "WY - Oman Air",
+        "Dest": "MCT",
+        "AirlineCode": "WY"
+    },
+    {
+        "InterviewId": "8152",
+        "InterviewEndDate": "2023-12-11 18:13:56",
+        "InterviewState": "Complete",
+        "Flight": "WY - Oman Air",
+        "Dest": "MCT",
+        "AirlineCode": "WY"
     }
 ]    
 
