@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "11-12-2023 08:27:30"
+        "download_time": "11-12-2023 09:32:29"
     },
     {
         "InterviewId": "3965",
@@ -20577,12 +20577,68 @@ let interview_data_raw = `[
         "AirlineCode": "W6"
     },
     {
+        "InterviewId": "6697",
+        "InterviewEndDate": "2023-12-11 07:28:54",
+        "InterviewState": "Complete",
+        "Flight": "EW 7781",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "6698",
+        "InterviewEndDate": "2023-12-11 07:25:26",
+        "InterviewState": "Complete",
+        "Flight": "EW 7781",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
         "InterviewId": "6699",
         "InterviewEndDate": "2023-12-11 07:25:19",
         "InterviewState": "Complete",
         "Flight": "EW 7781",
         "Dest": "HAM",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "6700",
+        "InterviewEndDate": "2023-12-11 08:13:40",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6701",
+        "InterviewEndDate": "2023-12-11 08:15:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6702",
+        "InterviewEndDate": "2023-12-11 08:14:38",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6703",
+        "InterviewEndDate": "2023-12-11 08:08:44",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6704",
+        "InterviewEndDate": "2023-12-11 08:17:14",
+        "InterviewState": "Complete",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6"
     }
 ]    
 
