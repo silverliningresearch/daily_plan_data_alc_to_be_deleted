@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "11-12-2023 17:05:58"
+        "download_time": "11-12-2023 18:10:46"
     },
     {
         "InterviewId": "15819",
@@ -64447,6 +64447,86 @@ let interview_data_raw = `[
         "Flight": "LH 1870",
         "Dest": "FCO",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25300",
+        "InterviewEndDate": "2023-12-11 16:11:41",
+        "InterviewState": "Complete",
+        "Flight": "BA 955",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "25301",
+        "InterviewEndDate": "2023-12-11 16:17:29",
+        "InterviewState": "Complete",
+        "Flight": "BA 955",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "25302",
+        "InterviewEndDate": "2023-12-11 16:21:47",
+        "InterviewState": "Complete",
+        "Flight": "BA 955",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "25303",
+        "InterviewEndDate": "2023-12-11 16:29:06",
+        "InterviewState": "Complete",
+        "Flight": "BA 955",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "25304",
+        "InterviewEndDate": "2023-12-11 16:28:16",
+        "InterviewState": "Complete",
+        "Flight": "WY 124",
+        "Dest": "MCT",
+        "AirlineCode": "WY"
+    },
+    {
+        "InterviewId": "25306",
+        "InterviewEndDate": "2023-12-11 16:47:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 2482",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25307",
+        "InterviewEndDate": "2023-12-11 16:47:52",
+        "InterviewState": "Complete",
+        "Flight": "BA 961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "25309",
+        "InterviewEndDate": "2023-12-11 16:50:22",
+        "InterviewState": "Complete",
+        "Flight": "WY 124",
+        "Dest": "MCT",
+        "AirlineCode": "WY"
+    },
+    {
+        "InterviewId": "25310",
+        "InterviewEndDate": "2023-12-11 16:54:14",
+        "InterviewState": "Complete",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "25311",
+        "InterviewEndDate": "2023-12-11 16:58:22",
+        "InterviewState": "Complete",
+        "Flight": "BA 961",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
     }
 ]    
 
