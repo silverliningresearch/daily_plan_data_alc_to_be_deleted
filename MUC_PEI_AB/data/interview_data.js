@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "12-12-2023 20:10:47"
+        "download_time": "12-12-2023 21:15:46"
     },
     {
         "InterviewId": "15819",
@@ -64862,6 +64862,86 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1958",
         "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25356",
+        "InterviewEndDate": "2023-12-12 19:22:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 1958",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25357",
+        "InterviewEndDate": "2023-12-12 19:15:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 1958",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25358",
+        "InterviewEndDate": "2023-12-12 19:13:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25359",
+        "InterviewEndDate": "2023-12-12 19:13:32",
+        "InterviewState": "Complete",
+        "Flight": "LH 1806",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25361",
+        "InterviewEndDate": "2023-12-12 19:30:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 1958",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25362",
+        "InterviewEndDate": "2023-12-12 19:25:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 1958",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25363",
+        "InterviewEndDate": "2023-12-12 19:43:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 1958",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25364",
+        "InterviewEndDate": "2023-12-12 19:38:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 1958",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25365",
+        "InterviewEndDate": "2023-12-12 19:56:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 1958",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25367",
+        "InterviewEndDate": "2023-12-12 20:13:59",
+        "InterviewState": "Complete",
+        "Flight": "LH 1682",
+        "Dest": "BUD",
         "AirlineCode": "LH"
     }
 ]    
