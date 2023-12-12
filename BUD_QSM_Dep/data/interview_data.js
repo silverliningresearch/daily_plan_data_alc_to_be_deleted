@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "12-12-2023 05:02:21"
+        "download_time": "12-12-2023 06:07:30"
     },
     {
         "InterviewId": "3965",
@@ -20751,6 +20751,70 @@ let interview_data_raw = `[
         "Flight": "EZS1212",
         "Dest": "BSL",
         "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "6719",
+        "InterviewEndDate": "2023-12-12 04:12:56",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6720",
+        "InterviewEndDate": "2023-12-12 04:14:04",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6721",
+        "InterviewEndDate": "2023-12-12 04:05:08",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6723",
+        "InterviewEndDate": "2023-12-12 04:05:00",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6724",
+        "InterviewEndDate": "2023-12-12 04:06:10",
+        "InterviewState": "Complete",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6725",
+        "InterviewEndDate": "2023-12-12 04:33:57",
+        "InterviewState": "Complete",
+        "Flight": "W6 2447",
+        "Dest": "SKG",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6726",
+        "InterviewEndDate": "2023-12-12 04:32:34",
+        "InterviewState": "Complete",
+        "Flight": "W6 2447",
+        "Dest": "SKG",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "6727",
+        "InterviewEndDate": "2023-12-12 04:31:59",
+        "InterviewState": "Complete",
+        "Flight": "W6 2447",
+        "Dest": "SKG",
+        "AirlineCode": "W6"
     }
 ]    
 
