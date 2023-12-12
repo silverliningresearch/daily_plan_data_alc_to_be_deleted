@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "12-12-2023 20:00:21"
+        "download_time": "12-12-2023 21:05:25"
     },
     {
         "InterviewId": "6722",
@@ -47176,6 +47176,60 @@ let interview_data_raw = `[
         "Flight": "EY270",
         "Dest": "MAA",
         "AirlineCode": "EY270",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12297",
+        "InterviewEndDate": "2023-12-12 16:25:30",
+        "InterviewState": "Complete",
+        "Flight": "W47049",
+        "Dest": "FCO",
+        "AirlineCode": "W47049",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12298",
+        "InterviewEndDate": "2023-12-12 16:20:25",
+        "InterviewState": "Complete",
+        "Flight": "W47049",
+        "Dest": "FCO",
+        "AirlineCode": "W47049",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12299",
+        "InterviewEndDate": "2023-12-12 16:28:04",
+        "InterviewState": "Complete",
+        "Flight": "W47049",
+        "Dest": "FCO",
+        "AirlineCode": "W47049",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12300",
+        "InterviewEndDate": "2023-12-12 16:38:45",
+        "InterviewState": "Complete",
+        "Flight": "EY216",
+        "Dest": "BLR",
+        "AirlineCode": "EY216",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12301",
+        "InterviewEndDate": "2023-12-12 16:42:08",
+        "InterviewState": "Complete",
+        "Flight": "EY216",
+        "Dest": "BLR",
+        "AirlineCode": "EY216",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12302",
+        "InterviewEndDate": "2023-12-12 16:45:23",
+        "InterviewState": "Complete",
+        "Flight": "EY216",
+        "Dest": "BLR",
+        "AirlineCode": "EY216",
         "Terminal": "T"
     }
 ]    
