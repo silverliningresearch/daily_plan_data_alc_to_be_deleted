@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "13-12-2023 17:51:35"
+        "download_time": "13-12-2023 18:56:28"
     },
     {
         "InterviewId": "5167",
@@ -20353,6 +20353,14 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "8210",
+        "InterviewEndDate": "2023-12-13 16:56:49",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "8211",
         "InterviewEndDate": "2023-12-13 16:31:52",
         "InterviewState": "Complete",
@@ -20369,11 +20377,51 @@ let interview_data_arr_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "8213",
+        "InterviewEndDate": "2023-12-13 16:58:12",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "8214",
         "InterviewEndDate": "2023-12-13 16:47:31",
         "InterviewState": "Complete",
         "Flight": "LH - Lufthansa",
         "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8215",
+        "InterviewEndDate": "2023-12-13 16:48:49",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CGN",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8216",
+        "InterviewEndDate": "2023-12-13 17:43:02",
+        "InterviewState": "Complete",
+        "Flight": "A3 - Aegean Airlines",
+        "Dest": "ATH",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "8217",
+        "InterviewEndDate": "2023-12-13 17:09:45",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HND",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8218",
+        "InterviewEndDate": "2023-12-13 17:24:09",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "CGN",
         "AirlineCode": "LH"
     }
 ]    
