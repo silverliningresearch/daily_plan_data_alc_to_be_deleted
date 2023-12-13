@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "13-12-2023 11:20:51"
+        "download_time": "13-12-2023 12:25:48"
     },
     {
         "InterviewId": "15819",
@@ -65063,6 +65063,78 @@ let interview_data_raw = `[
         "Flight": "LH 460",
         "Dest": "MIA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25388",
+        "InterviewEndDate": "2023-12-13 10:21:13",
+        "InterviewState": "Complete",
+        "Flight": "LH 762",
+        "Dest": "DEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25389",
+        "InterviewEndDate": "2023-12-13 10:21:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 762",
+        "Dest": "DEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25390",
+        "InterviewEndDate": "2023-12-13 10:24:03",
+        "InterviewState": "Complete",
+        "Flight": "LH 762",
+        "Dest": "DEL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25391",
+        "InterviewEndDate": "2023-12-13 10:33:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25392",
+        "InterviewEndDate": "2023-12-13 10:37:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25393",
+        "InterviewEndDate": "2023-12-13 10:34:28",
+        "InterviewState": "Complete",
+        "Flight": "LH 410",
+        "Dest": "JFK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25394",
+        "InterviewEndDate": "2023-12-13 11:11:18",
+        "InterviewState": "Complete",
+        "Flight": "TP 553",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "25395",
+        "InterviewEndDate": "2023-12-13 11:14:09",
+        "InterviewState": "Complete",
+        "Flight": "TP 553",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "25396",
+        "InterviewEndDate": "2023-12-13 11:05:30",
+        "InterviewState": "Complete",
+        "Flight": "TP 553",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
     }
 ]    
 
