@@ -7,7 +7,7 @@ let interview_data_arr_raw = `[
         "Dest": "BOM",
         "AirlineCode": "EY",
         "Terminal": "T3",
-        "download_time": "13-12-2023 16:35:57"
+        "download_time": "13-12-2023 17:41:02"
     },
     {
         "InterviewId": "3906",
@@ -21049,7 +21049,7 @@ let interview_data_arr_raw = `[
         "Flight": "5W - Wizz Air",
         "Dest": "FCO",
         "AirlineCode": "5W",
-        "Terminal": "T4"
+        "Terminal": "T6"
     },
     {
         "InterviewId": "6335",
@@ -21058,7 +21058,7 @@ let interview_data_arr_raw = `[
         "Flight": "5W - Wizz Air",
         "Dest": "FCO",
         "AirlineCode": "5W",
-        "Terminal": "T4"
+        "Terminal": "T6"
     },
     {
         "InterviewId": "6336",
@@ -21067,7 +21067,7 @@ let interview_data_arr_raw = `[
         "Flight": "AI - Air India",
         "Dest": "BOM",
         "AirlineCode": "AI",
-        "Terminal": "T4"
+        "Terminal": "T6"
     },
     {
         "InterviewId": "6338",
@@ -21076,7 +21076,7 @@ let interview_data_arr_raw = `[
         "Flight": "AI - Air India",
         "Dest": "BOM",
         "AirlineCode": "AI",
-        "Terminal": "T4"
+        "Terminal": "T6"
     },
     {
         "InterviewId": "6339",
@@ -21085,7 +21085,7 @@ let interview_data_arr_raw = `[
         "Flight": "AI - Air India",
         "Dest": "BOM",
         "AirlineCode": "AI",
-        "Terminal": "T4"
+        "Terminal": "T6"
     },
     {
         "InterviewId": "6341",
@@ -21094,7 +21094,7 @@ let interview_data_arr_raw = `[
         "Flight": "AI - Air India",
         "Dest": "BOM",
         "AirlineCode": "AI",
-        "Terminal": "T4"
+        "Terminal": "T6"
     },
     {
         "InterviewId": "6342",
@@ -21103,7 +21103,7 @@ let interview_data_arr_raw = `[
         "Flight": "AI - Air India",
         "Dest": "BOM",
         "AirlineCode": "AI",
-        "Terminal": "T4"
+        "Terminal": "T6"
     },
     {
         "InterviewId": "6343",
@@ -21112,7 +21112,7 @@ let interview_data_arr_raw = `[
         "Flight": "PK - Pakistan International Airlines",
         "Dest": "ISB",
         "AirlineCode": "PK",
-        "Terminal": "T4"
+        "Terminal": "T6"
     },
     {
         "InterviewId": "6344",
@@ -21121,7 +21121,7 @@ let interview_data_arr_raw = `[
         "Flight": "5W - Wizz Air",
         "Dest": "HBE",
         "AirlineCode": "5W",
-        "Terminal": "T4"
+        "Terminal": "T6"
     },
     {
         "InterviewId": "6345",
@@ -21130,7 +21130,7 @@ let interview_data_arr_raw = `[
         "Flight": "IX - Air India Express",
         "Dest": "TRV",
         "AirlineCode": "IX",
-        "Terminal": "T4"
+        "Terminal": "T6"
     },
     {
         "InterviewId": "6346",
@@ -21139,7 +21139,7 @@ let interview_data_arr_raw = `[
         "Flight": "IX - Air India Express",
         "Dest": "TRV",
         "AirlineCode": "IX",
-        "Terminal": "T4"
+        "Terminal": "T6"
     },
     {
         "InterviewId": "6350",
@@ -21148,7 +21148,7 @@ let interview_data_arr_raw = `[
         "Flight": "6E - IndiGo",
         "Dest": "COK",
         "AirlineCode": "6E",
-        "Terminal": "T4"
+        "Terminal": "T6"
     },
     {
         "InterviewId": "6351",
@@ -21157,7 +21157,7 @@ let interview_data_arr_raw = `[
         "Flight": "6E - IndiGo",
         "Dest": "COK",
         "AirlineCode": "6E",
-        "Terminal": "T4"
+        "Terminal": "T6"
     },
     {
         "InterviewId": "6352",
@@ -21166,7 +21166,7 @@ let interview_data_arr_raw = `[
         "Flight": "AI - Air India",
         "Dest": "BOM",
         "AirlineCode": "AI",
-        "Terminal": "T4"
+        "Terminal": "T6"
     },
     {
         "InterviewId": "6354",
@@ -21175,7 +21175,7 @@ let interview_data_arr_raw = `[
         "Flight": "EY - Etihad Airways",
         "Dest": "COK",
         "AirlineCode": "EY",
-        "Terminal": "T4"
+        "Terminal": "T6"
     },
     {
         "InterviewId": "6355",
@@ -21184,7 +21184,7 @@ let interview_data_arr_raw = `[
         "Flight": "EY - Etihad Airways",
         "Dest": "BAH",
         "AirlineCode": "EY",
-        "Terminal": "T4"
+        "Terminal": "T6"
     },
     {
         "InterviewId": "6356",
@@ -21193,7 +21193,7 @@ let interview_data_arr_raw = `[
         "Flight": "EY - Etihad Airways",
         "Dest": "BOM",
         "AirlineCode": "EY",
-        "Terminal": "T4"
+        "Terminal": "T6"
     },
     {
         "InterviewId": "6357",
@@ -21202,7 +21202,7 @@ let interview_data_arr_raw = `[
         "Flight": "EY - Etihad Airways",
         "Dest": "BOM",
         "AirlineCode": "EY",
-        "Terminal": "T4"
+        "Terminal": "T6"
     },
     {
         "InterviewId": "6361",
