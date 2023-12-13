@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "13-12-2023 10:05:09"
+        "download_time": "13-12-2023 11:10:34"
     },
     {
         "InterviewId": "6722",
@@ -47230,6 +47230,69 @@ let interview_data_raw = `[
         "Flight": "EY216",
         "Dest": "BLR",
         "AirlineCode": "EY216",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12303",
+        "InterviewEndDate": "2023-12-13 06:08:43",
+        "InterviewState": "Complete",
+        "Flight": "5W7105",
+        "Dest": "MLE",
+        "AirlineCode": "5W7105",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12304",
+        "InterviewEndDate": "2023-12-13 06:13:28",
+        "InterviewState": "Complete",
+        "Flight": "5W7105",
+        "Dest": "MLE",
+        "AirlineCode": "5W7105",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12305",
+        "InterviewEndDate": "2023-12-13 06:29:54",
+        "InterviewState": "Complete",
+        "Flight": "QR1045",
+        "Dest": "DOH",
+        "AirlineCode": "QR1045",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12306",
+        "InterviewEndDate": "2023-12-13 06:37:36",
+        "InterviewState": "Complete",
+        "Flight": "QR1045",
+        "Dest": "DOH",
+        "AirlineCode": "QR1045",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12307",
+        "InterviewEndDate": "2023-12-13 06:42:58",
+        "InterviewState": "Complete",
+        "Flight": "QR1045",
+        "Dest": "DOH",
+        "AirlineCode": "QR1045",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12308",
+        "InterviewEndDate": "2023-12-13 06:53:45",
+        "InterviewState": "Complete",
+        "Flight": "EY303",
+        "Dest": "KWI",
+        "AirlineCode": "EY303",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12309",
+        "InterviewEndDate": "2023-12-13 07:00:58",
+        "InterviewState": "Complete",
+        "Flight": "EY303",
+        "Dest": "KWI",
+        "AirlineCode": "EY303",
         "Terminal": "T"
     }
 ]    
