@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "14-12-2023 20:47:08"
+        "download_time": "14-12-2023 21:50:11"
     },
     {
         "InterviewId": "6722",
@@ -47359,12 +47359,84 @@ let interview_data_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "12317",
+        "InterviewEndDate": "2023-12-14 16:49:19",
+        "InterviewState": "Complete",
+        "Flight": "EY391",
+        "Dest": "DOH",
+        "AirlineCode": "EY391",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "12318",
         "InterviewEndDate": "2023-12-14 16:45:48",
         "InterviewState": "Complete",
         "Flight": "EY391",
         "Dest": "DOH",
         "AirlineCode": "EY391",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12319",
+        "InterviewEndDate": "2023-12-14 16:58:08",
+        "InterviewState": "Complete",
+        "Flight": "EY391",
+        "Dest": "DOH",
+        "AirlineCode": "EY391",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12320",
+        "InterviewEndDate": "2023-12-14 16:55:52",
+        "InterviewState": "Complete",
+        "Flight": "EY391",
+        "Dest": "DOH",
+        "AirlineCode": "EY391",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12321",
+        "InterviewEndDate": "2023-12-14 17:10:30",
+        "InterviewState": "Complete",
+        "Flight": "EY470",
+        "Dest": "SIN",
+        "AirlineCode": "EY470",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12322",
+        "InterviewEndDate": "2023-12-14 17:16:36",
+        "InterviewState": "Complete",
+        "Flight": "EY470",
+        "Dest": "SIN",
+        "AirlineCode": "EY470",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12323",
+        "InterviewEndDate": "2023-12-14 17:19:36",
+        "InterviewState": "Complete",
+        "Flight": "EY470",
+        "Dest": "SIN",
+        "AirlineCode": "EY470",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12324",
+        "InterviewEndDate": "2023-12-14 17:46:28",
+        "InterviewState": "Complete",
+        "Flight": "3l127",
+        "Dest": "COK",
+        "AirlineCode": "3l127",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12325",
+        "InterviewEndDate": "2023-12-14 17:43:08",
+        "InterviewState": "Complete",
+        "Flight": "3L127",
+        "Dest": "COK",
+        "AirlineCode": "3L127",
         "Terminal": "T"
     }
 ]    
