@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "15-12-2023 15:10:35"
+        "download_time": "15-12-2023 16:15:26"
     },
     {
         "InterviewId": "6722",
@@ -47500,6 +47500,69 @@ let interview_data_raw = `[
         "Flight": "5w7187",
         "Dest": "EVN",
         "AirlineCode": "5w7187",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12333",
+        "InterviewEndDate": "2023-12-15 11:30:27",
+        "InterviewState": "Complete",
+        "Flight": "EY395",
+        "Dest": "DOH",
+        "AirlineCode": "EY395",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12334",
+        "InterviewEndDate": "2023-12-15 11:30:24",
+        "InterviewState": "Complete",
+        "Flight": "EY395",
+        "Dest": "DOH",
+        "AirlineCode": "EY395",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12335",
+        "InterviewEndDate": "2023-12-15 11:31:47",
+        "InterviewState": "Complete",
+        "Flight": "EY395",
+        "Dest": "DOH",
+        "AirlineCode": "EY395",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12338",
+        "InterviewEndDate": "2023-12-15 11:37:20",
+        "InterviewState": "Complete",
+        "Flight": "EY395",
+        "Dest": "DOH",
+        "AirlineCode": "EY395",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12339",
+        "InterviewEndDate": "2023-12-15 11:50:36",
+        "InterviewState": "Complete",
+        "Flight": "EY395",
+        "Dest": "DOH",
+        "AirlineCode": "EY395",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12340",
+        "InterviewEndDate": "2023-12-15 11:50:27",
+        "InterviewState": "Complete",
+        "Flight": "EY395",
+        "Dest": "DOH",
+        "AirlineCode": "EY395",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12341",
+        "InterviewEndDate": "2023-12-15 11:52:53",
+        "InterviewState": "Complete",
+        "Flight": "EY395",
+        "Dest": "DOH",
+        "AirlineCode": "EY395",
         "Terminal": "T"
     }
 ]    
