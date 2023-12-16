@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "16-12-2023 08:42:19"
+        "download_time": "16-12-2023 09:47:19"
     },
     {
         "InterviewId": "3965",
@@ -20951,6 +20951,46 @@ let interview_data_raw = `[
         "Flight": "TK 1036",
         "Dest": "IST",
         "AirlineCode": "TK"
+    },
+    {
+        "InterviewId": "6747",
+        "InterviewEndDate": "2023-12-16 08:03:31",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "6748",
+        "InterviewEndDate": "2023-12-16 07:59:34",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "6749",
+        "InterviewEndDate": "2023-12-16 07:59:32",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "6750",
+        "InterviewEndDate": "2023-12-16 07:55:45",
+        "InterviewState": "Complete",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "6751",
+        "InterviewEndDate": "2023-12-16 08:39:58",
+        "InterviewState": "Complete",
+        "Flight": "XQ  521",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
     }
 ]    
 

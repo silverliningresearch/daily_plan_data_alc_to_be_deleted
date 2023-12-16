@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "16-12-2023 08:40:49"
+        "download_time": "16-12-2023 09:45:49"
     },
     {
         "InterviewId": "15819",
@@ -66105,6 +66105,14 @@ let interview_data_raw = `[
         "AirlineCode": "XQ"
     },
     {
+        "InterviewId": "25538",
+        "InterviewEndDate": "2023-12-16 07:48:54",
+        "InterviewState": "Complete",
+        "Flight": "XQ 133",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
         "InterviewId": "25539",
         "InterviewEndDate": "2023-12-16 07:39:17",
         "InterviewState": "Complete",
@@ -66121,12 +66129,68 @@ let interview_data_raw = `[
         "AirlineCode": "UA"
     },
     {
+        "InterviewId": "25542",
+        "InterviewEndDate": "2023-12-16 07:46:48",
+        "InterviewState": "Complete",
+        "Flight": "UA 952",
+        "Dest": "ORD",
+        "AirlineCode": "UA"
+    },
+    {
         "InterviewId": "25543",
         "InterviewEndDate": "2023-12-16 07:33:24",
         "InterviewState": "Complete",
         "Flight": "UA 952",
         "Dest": "ORD",
         "AirlineCode": "UA"
+    },
+    {
+        "InterviewId": "25544",
+        "InterviewEndDate": "2023-12-16 08:03:46",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "25545",
+        "InterviewEndDate": "2023-12-16 07:57:40",
+        "InterviewState": "Complete",
+        "Flight": "NH 218",
+        "Dest": "HND",
+        "AirlineCode": "NH"
+    },
+    {
+        "InterviewId": "25546",
+        "InterviewEndDate": "2023-12-16 08:25:47",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "25547",
+        "InterviewEndDate": "2023-12-16 08:01:13",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "25548",
+        "InterviewEndDate": "2023-12-16 08:02:26",
+        "InterviewState": "Complete",
+        "Flight": "NH 218",
+        "Dest": "HND",
+        "AirlineCode": "NH"
+    },
+    {
+        "InterviewId": "25550",
+        "InterviewEndDate": "2023-12-16 08:23:53",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
     }
 ]    
 
