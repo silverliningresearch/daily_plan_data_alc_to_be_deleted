@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "16-12-2023 14:59:55"
+        "download_time": "16-12-2023 16:05:10"
     },
     {
         "InterviewId": "6722",
@@ -47611,6 +47611,15 @@ let interview_data_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "12347",
+        "InterviewEndDate": "2023-12-16 11:17:37",
+        "InterviewState": "Complete",
+        "Flight": "3l422",
+        "Dest": "CAI",
+        "AirlineCode": "3l422",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "12348",
         "InterviewEndDate": "2023-12-16 07:12:44",
         "InterviewState": "Complete",
@@ -47761,6 +47770,69 @@ let interview_data_raw = `[
         "Flight": "EY282",
         "Dest": "COK",
         "AirlineCode": "EY282",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12367",
+        "InterviewEndDate": "2023-12-16 11:49:59",
+        "InterviewState": "Complete",
+        "Flight": "3l422",
+        "Dest": "CAI",
+        "AirlineCode": "3l422",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12368",
+        "InterviewEndDate": "2023-12-16 11:17:08",
+        "InterviewState": "Complete",
+        "Flight": "3l422",
+        "Dest": "CAI",
+        "AirlineCode": "3l422",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12369",
+        "InterviewEndDate": "2023-12-16 11:19:20",
+        "InterviewState": "Complete",
+        "Flight": "3l422",
+        "Dest": "CAI",
+        "AirlineCode": "3l422",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12370",
+        "InterviewEndDate": "2023-12-16 11:29:40",
+        "InterviewState": "Complete",
+        "Flight": "3l422",
+        "Dest": "CAI",
+        "AirlineCode": "3l422",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12371",
+        "InterviewEndDate": "2023-12-16 11:39:16",
+        "InterviewState": "Complete",
+        "Flight": "3l422",
+        "Dest": "CAI",
+        "AirlineCode": "3l422",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12372",
+        "InterviewEndDate": "2023-12-16 11:36:23",
+        "InterviewState": "Complete",
+        "Flight": "3l422",
+        "Dest": "CAI",
+        "AirlineCode": "3l422",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12373",
+        "InterviewEndDate": "2023-12-16 11:44:31",
+        "InterviewState": "Complete",
+        "Flight": "EY386",
+        "Dest": "MCT",
+        "AirlineCode": "EY386",
         "Terminal": "T"
     }
 ]    

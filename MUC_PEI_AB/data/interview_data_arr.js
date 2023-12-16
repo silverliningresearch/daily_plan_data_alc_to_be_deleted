@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "16-12-2023 11:56:27"
+        "download_time": "16-12-2023 13:01:30"
     },
     {
         "InterviewId": "5167",
@@ -20751,6 +20751,102 @@ let interview_data_arr_raw = `[
         "Flight": "KU - Kuwait Airways",
         "Dest": "KWI",
         "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "8267",
+        "InterviewEndDate": "2023-12-16 11:19:01",
+        "InterviewState": "Complete",
+        "Flight": "KU - Kuwait Airways",
+        "Dest": "KWI",
+        "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "8268",
+        "InterviewEndDate": "2023-12-16 11:47:16",
+        "InterviewState": "Complete",
+        "Flight": "KU - Kuwait Airways",
+        "Dest": "KWI",
+        "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "8269",
+        "InterviewEndDate": "2023-12-16 11:17:42",
+        "InterviewState": "Complete",
+        "Flight": "KU - Kuwait Airways",
+        "Dest": "KWI",
+        "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "8270",
+        "InterviewEndDate": "2023-12-16 11:18:10",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "DUS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8271",
+        "InterviewEndDate": "2023-12-16 11:22:49",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "8272",
+        "InterviewEndDate": "2023-12-16 11:41:43",
+        "InterviewState": "Complete",
+        "Flight": "KU - Kuwait Airways",
+        "Dest": "KWI",
+        "AirlineCode": "KU"
+    },
+    {
+        "InterviewId": "8273",
+        "InterviewEndDate": "2023-12-16 11:26:28",
+        "InterviewState": "Complete",
+        "Flight": "KM - Air Malta",
+        "Dest": "MLA",
+        "AirlineCode": "KM"
+    },
+    {
+        "InterviewId": "8275",
+        "InterviewEndDate": "2023-12-16 11:33:21",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8276",
+        "InterviewEndDate": "2023-12-16 11:44:12",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8278",
+        "InterviewEndDate": "2023-12-16 11:54:13",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "8279",
+        "InterviewEndDate": "2023-12-16 11:54:27",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "8280",
+        "InterviewEndDate": "2023-12-16 11:51:37",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "AYT",
+        "AirlineCode": "XQ"
     }
 ]    
 
