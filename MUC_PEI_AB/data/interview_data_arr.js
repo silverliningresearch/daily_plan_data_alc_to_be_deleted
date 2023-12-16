@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "16-12-2023 13:01:30"
+        "download_time": "16-12-2023 14:06:39"
     },
     {
         "InterviewId": "5167",
@@ -20847,6 +20847,70 @@ let interview_data_arr_raw = `[
         "Flight": "XQ - Sun Express",
         "Dest": "AYT",
         "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "8281",
+        "InterviewEndDate": "2023-12-16 12:09:50",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sun Express",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "8282",
+        "InterviewEndDate": "2023-12-16 12:02:24",
+        "InterviewState": "Complete",
+        "Flight": "TP - TAP Air Portugal",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "8283",
+        "InterviewEndDate": "2023-12-16 12:07:59",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sunexpress",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "8285",
+        "InterviewEndDate": "2023-12-16 12:18:59",
+        "InterviewState": "Complete",
+        "Flight": "XQ - Sunexpress",
+        "Dest": "ADB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "8286",
+        "InterviewEndDate": "2023-12-16 12:09:09",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8287",
+        "InterviewEndDate": "2023-12-16 12:08:17",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8289",
+        "InterviewEndDate": "2023-12-16 12:14:50",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8291",
+        "InterviewEndDate": "2023-12-16 12:23:51",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "HAM",
+        "AirlineCode": "LH"
     }
 ]    
 
