@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "16-12-2023 09:45:49"
+        "download_time": "16-12-2023 10:50:52"
     },
     {
         "InterviewId": "15819",
@@ -66191,6 +66191,94 @@ let interview_data_raw = `[
         "Flight": "AA 717",
         "Dest": "CLT",
         "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "25554",
+        "InterviewEndDate": "2023-12-16 09:07:59",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "25555",
+        "InterviewEndDate": "2023-12-16 09:10:06",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "25556",
+        "InterviewEndDate": "2023-12-16 09:05:56",
+        "InterviewState": "Complete",
+        "Flight": "DL 131",
+        "Dest": "ATL",
+        "AirlineCode": "DL"
+    },
+    {
+        "InterviewId": "25557",
+        "InterviewEndDate": "2023-12-16 08:58:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 2492",
+        "Dest": "EDI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25558",
+        "InterviewEndDate": "2023-12-16 08:59:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 2492",
+        "Dest": "EDI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25559",
+        "InterviewEndDate": "2023-12-16 08:57:07",
+        "InterviewState": "Complete",
+        "Flight": "LH 2492",
+        "Dest": "EDI",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25560",
+        "InterviewEndDate": "2023-12-16 09:11:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25561",
+        "InterviewEndDate": "2023-12-16 09:14:10",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25562",
+        "InterviewEndDate": "2023-12-16 09:13:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25563",
+        "InterviewEndDate": "2023-12-16 09:31:21",
+        "InterviewState": "Complete",
+        "Flight": "XQ 715",
+        "Dest": "ESB",
+        "AirlineCode": "XQ"
+    },
+    {
+        "InterviewId": "25564",
+        "InterviewEndDate": "2023-12-16 09:31:01",
+        "InterviewState": "Complete",
+        "Flight": "XQ 715",
+        "Dest": "ESB",
+        "AirlineCode": "XQ"
     }
 ]    
 
