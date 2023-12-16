@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "16-12-2023 10:40:21"
+        "download_time": "16-12-2023 11:44:55"
     },
     {
         "InterviewId": "6722",
@@ -47608,6 +47608,51 @@ let interview_data_raw = `[
         "Flight": "5w7179",
         "Dest": "GYD",
         "AirlineCode": "5w7179",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12348",
+        "InterviewEndDate": "2023-12-16 07:12:44",
+        "InterviewState": "Complete",
+        "Flight": "GF543",
+        "Dest": "BAH",
+        "AirlineCode": "GF543",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12349",
+        "InterviewEndDate": "2023-12-16 07:09:28",
+        "InterviewState": "Complete",
+        "Flight": "GF543",
+        "Dest": "BAH",
+        "AirlineCode": "GF543",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12350",
+        "InterviewEndDate": "2023-12-16 07:15:18",
+        "InterviewState": "Complete",
+        "Flight": "GF543",
+        "Dest": "BAH",
+        "AirlineCode": "GF543",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12351",
+        "InterviewEndDate": "2023-12-16 07:19:23",
+        "InterviewState": "Complete",
+        "Flight": "GF543",
+        "Dest": "BAH",
+        "AirlineCode": "GF543",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12352",
+        "InterviewEndDate": "2023-12-16 07:21:27",
+        "InterviewState": "Complete",
+        "Flight": "GF543",
+        "Dest": "BAH",
+        "AirlineCode": "GF543",
         "Terminal": "T"
     }
 ]    
