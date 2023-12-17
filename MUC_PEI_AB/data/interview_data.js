@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "17-12-2023 08:30:50"
+        "download_time": "17-12-2023 09:35:53"
     },
     {
         "InterviewId": "15819",
@@ -66385,12 +66385,68 @@ let interview_data_raw = `[
         "AirlineCode": "LH"
     },
     {
+        "InterviewId": "25580",
+        "InterviewEndDate": "2023-12-17 07:32:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 2414",
+        "Dest": "ARN",
+        "AirlineCode": "LH"
+    },
+    {
         "InterviewId": "25581",
         "InterviewEndDate": "2023-12-17 07:26:46",
         "InterviewState": "Complete",
         "Flight": "LH 2414",
         "Dest": "ARN",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25582",
+        "InterviewEndDate": "2023-12-17 07:44:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25583",
+        "InterviewEndDate": "2023-12-17 08:00:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25584",
+        "InterviewEndDate": "2023-12-17 07:59:55",
+        "InterviewState": "Complete",
+        "Flight": "LH 2228",
+        "Dest": "CDG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25585",
+        "InterviewEndDate": "2023-12-17 08:26:17",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "25586",
+        "InterviewEndDate": "2023-12-17 08:24:11",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
+    },
+    {
+        "InterviewId": "25587",
+        "InterviewEndDate": "2023-12-17 08:27:31",
+        "InterviewState": "Complete",
+        "Flight": "A3 501",
+        "Dest": "SKG",
+        "AirlineCode": "A3"
     }
 ]    
 
