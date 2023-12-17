@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "17-12-2023 17:00:05"
+        "download_time": "17-12-2023 18:05:15"
     },
     {
         "InterviewId": "6722",
@@ -47863,6 +47863,15 @@ let interview_data_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "12379",
+        "InterviewEndDate": "2023-12-17 13:25:54",
+        "InterviewState": "Complete",
+        "Flight": "3l017",
+        "Dest": "BAH",
+        "AirlineCode": "3l017",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "12380",
         "InterviewEndDate": "2023-12-17 11:43:42",
         "InterviewState": "Complete",
@@ -47914,6 +47923,42 @@ let interview_data_raw = `[
         "Flight": "3L452",
         "Dest": "BEY",
         "AirlineCode": "3L452",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12386",
+        "InterviewEndDate": "2023-12-17 13:02:12",
+        "InterviewState": "Complete",
+        "Flight": "3L452",
+        "Dest": "BEY",
+        "AirlineCode": "3L452",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12387",
+        "InterviewEndDate": "2023-12-17 13:29:21",
+        "InterviewState": "Complete",
+        "Flight": "3l017",
+        "Dest": "BAH",
+        "AirlineCode": "3l017",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12388",
+        "InterviewEndDate": "2023-12-17 13:15:51",
+        "InterviewState": "Complete",
+        "Flight": "3l017",
+        "Dest": "BAH",
+        "AirlineCode": "3l017",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12390",
+        "InterviewEndDate": "2023-12-17 13:35:04",
+        "InterviewState": "Complete",
+        "Flight": "3l017",
+        "Dest": "BAH",
+        "AirlineCode": "3l017",
         "Terminal": "T"
     }
 ]    
