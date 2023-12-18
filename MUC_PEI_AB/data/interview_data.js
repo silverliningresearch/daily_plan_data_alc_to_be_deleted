@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "18-12-2023 17:00:51"
+        "download_time": "18-12-2023 18:05:56"
     },
     {
         "InterviewId": "15819",
@@ -66487,6 +66487,86 @@ let interview_data_raw = `[
         "Flight": "EN 8194",
         "Dest": "FLR",
         "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "25594",
+        "InterviewEndDate": "2023-12-18 16:18:27",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25596",
+        "InterviewEndDate": "2023-12-18 16:15:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25597",
+        "InterviewEndDate": "2023-12-18 16:14:20",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25598",
+        "InterviewEndDate": "2023-12-18 16:13:48",
+        "InterviewState": "Complete",
+        "Flight": "LH 2198",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25599",
+        "InterviewEndDate": "2023-12-18 16:25:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 1956",
+        "Dest": "BER",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25601",
+        "InterviewEndDate": "2023-12-18 16:26:49",
+        "InterviewState": "Complete",
+        "Flight": "LH 117",
+        "Dest": "FRA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25602",
+        "InterviewEndDate": "2023-12-18 16:29:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 2198",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25603",
+        "InterviewEndDate": "2023-12-18 16:52:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 2400",
+        "Dest": "BSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25605",
+        "InterviewEndDate": "2023-12-18 16:47:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 2400",
+        "Dest": "BSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25606",
+        "InterviewEndDate": "2023-12-18 16:49:06",
+        "InterviewState": "Complete",
+        "Flight": "LH 2400",
+        "Dest": "BSL",
+        "AirlineCode": "LH"
     }
 ]    
 

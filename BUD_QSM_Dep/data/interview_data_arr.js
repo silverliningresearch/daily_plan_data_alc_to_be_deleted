@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "W6 - Wizzair",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "download_time": "18-12-2023 17:02:53"
+        "download_time": "18-12-2023 18:08:01"
     },
     {
         "InterviewId": "1224",
@@ -6799,6 +6799,54 @@ let interview_data_arr_raw = `[
         "Flight": "FR 1023",
         "Dest": "DUB",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "2080",
+        "InterviewEndDate": "2023-12-18 16:28:23",
+        "InterviewState": "Complete",
+        "Flight": "BA  866",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "2081",
+        "InterviewEndDate": "2023-12-18 16:31:07",
+        "InterviewState": "Complete",
+        "Flight": "BA  866",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "2082",
+        "InterviewEndDate": "2023-12-18 16:35:25",
+        "InterviewState": "Complete",
+        "Flight": "BA  866",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "2083",
+        "InterviewEndDate": "2023-12-18 16:41:53",
+        "InterviewState": "Complete",
+        "Flight": "BA  866",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "2084",
+        "InterviewEndDate": "2023-12-18 16:47:40",
+        "InterviewState": "Complete",
+        "Flight": "W6 2222",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "2085",
+        "InterviewEndDate": "2023-12-18 16:51:27",
+        "InterviewState": "Complete",
+        "Flight": "W6 2222",
+        "Dest": "LGW",
+        "AirlineCode": "W6"
     }
 ]    
 
