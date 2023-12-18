@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "18-12-2023 19:14:36"
+        "download_time": "18-12-2023 20:19:10"
     },
     {
         "InterviewId": "7701",
@@ -22822,6 +22822,62 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "W6 2317",
         "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "10945",
+        "InterviewEndDate": "2023-12-18 18:15:26",
+        "InterviewState": "Complete",
+        "Flight": "W6 2317",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "10946",
+        "InterviewEndDate": "2023-12-18 18:15:26",
+        "InterviewState": "Complete",
+        "Flight": "W6 2317",
+        "Dest": "BER",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "10947",
+        "InterviewEndDate": "2023-12-18 18:33:59",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "10949",
+        "InterviewEndDate": "2023-12-18 18:51:51",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "10950",
+        "InterviewEndDate": "2023-12-18 18:40:29",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "10951",
+        "InterviewEndDate": "2023-12-18 18:38:42",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
+        "AirlineCode": "W6"
+    },
+    {
+        "InterviewId": "10953",
+        "InterviewEndDate": "2023-12-18 18:41:37",
+        "InterviewState": "Complete",
+        "Flight": "W6 2341",
+        "Dest": "FCO",
         "AirlineCode": "W6"
     }
 ]    
