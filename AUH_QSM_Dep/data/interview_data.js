@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "18-12-2023 09:15:22"
+        "download_time": "18-12-2023 10:22:27"
     },
     {
         "InterviewId": "6722",
@@ -48013,6 +48013,78 @@ let interview_data_raw = `[
         "Flight": "EY472",
         "Dest": "CGK",
         "AirlineCode": "EY472",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12396",
+        "InterviewEndDate": "2023-12-18 05:16:42",
+        "InterviewState": "Complete",
+        "Flight": "EY472",
+        "Dest": "CGK",
+        "AirlineCode": "EY472",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12397",
+        "InterviewEndDate": "2023-12-18 05:24:46",
+        "InterviewState": "Complete",
+        "Flight": "EY404",
+        "Dest": "BKK",
+        "AirlineCode": "EY404",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12398",
+        "InterviewEndDate": "2023-12-18 05:25:20",
+        "InterviewState": "Complete",
+        "Flight": "EY404",
+        "Dest": "BKK",
+        "AirlineCode": "EY404",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12399",
+        "InterviewEndDate": "2023-12-18 05:32:25",
+        "InterviewState": "Complete",
+        "Flight": "EY404",
+        "Dest": "BKK",
+        "AirlineCode": "EY404",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12400",
+        "InterviewEndDate": "2023-12-18 05:35:25",
+        "InterviewState": "Complete",
+        "Flight": "EY404",
+        "Dest": "BKK",
+        "AirlineCode": "EY404",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12401",
+        "InterviewEndDate": "2023-12-18 06:06:13",
+        "InterviewState": "Complete",
+        "Flight": "5W7105",
+        "Dest": "MLE",
+        "AirlineCode": "5W7105",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12402",
+        "InterviewEndDate": "2023-12-18 06:09:12",
+        "InterviewState": "Complete",
+        "Flight": "5W7105",
+        "Dest": "MLE",
+        "AirlineCode": "5W7105",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12403",
+        "InterviewEndDate": "2023-12-18 06:13:09",
+        "InterviewState": "Complete",
+        "Flight": "5W7105",
+        "Dest": "MLE",
+        "AirlineCode": "5W7105",
         "Terminal": "T"
     }
 ]    
