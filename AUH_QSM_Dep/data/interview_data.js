@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "18-12-2023 08:11:06"
+        "download_time": "18-12-2023 09:15:22"
     },
     {
         "InterviewId": "6722",
@@ -47845,6 +47845,15 @@ let interview_data_raw = `[
         "Terminal": "T"
     },
     {
+        "InterviewId": "12375",
+        "InterviewEndDate": "2023-12-18 04:50:57",
+        "InterviewState": "Complete",
+        "Flight": "3l422",
+        "Dest": "CAI",
+        "AirlineCode": "3l422",
+        "Terminal": "T"
+    },
+    {
         "InterviewId": "12376",
         "InterviewEndDate": "2023-12-16 12:31:44",
         "InterviewState": "Complete",
@@ -47959,6 +47968,51 @@ let interview_data_raw = `[
         "Flight": "3l017",
         "Dest": "BAH",
         "AirlineCode": "3l017",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12391",
+        "InterviewEndDate": "2023-12-18 04:47:37",
+        "InterviewState": "Complete",
+        "Flight": "EY472",
+        "Dest": "CGK",
+        "AirlineCode": "EY472",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12392",
+        "InterviewEndDate": "2023-12-18 04:50:50",
+        "InterviewState": "Complete",
+        "Flight": "EY472",
+        "Dest": "CGK",
+        "AirlineCode": "EY472",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12393",
+        "InterviewEndDate": "2023-12-18 04:57:36",
+        "InterviewState": "Complete",
+        "Flight": "ET472",
+        "Dest": "CGK",
+        "AirlineCode": "ET472",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12394",
+        "InterviewEndDate": "2023-12-18 05:06:37",
+        "InterviewState": "Complete",
+        "Flight": "EY472",
+        "Dest": "CGK",
+        "AirlineCode": "EY472",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12395",
+        "InterviewEndDate": "2023-12-18 05:09:55",
+        "InterviewState": "Complete",
+        "Flight": "EY472",
+        "Dest": "CGK",
+        "AirlineCode": "EY472",
         "Terminal": "T"
     }
 ]    
