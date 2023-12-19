@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "20-12-2023 01:20:13"
+        "download_time": "20-12-2023 02:25:25"
     },
     {
         "InterviewId": "6722",
@@ -48269,11 +48269,65 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "12426",
-        "InterviewEndDate": "2023-12-19 21:17:57",
+        "InterviewEndDate": "2023-12-19 21:22:18",
         "InterviewState": "Complete",
         "Flight": "EY015",
         "Dest": "MAN",
         "AirlineCode": "EY015",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12427",
+        "InterviewEndDate": "2023-12-19 21:34:58",
+        "InterviewState": "Complete",
+        "Flight": "EY424",
+        "Dest": "MNL",
+        "AirlineCode": "EY424",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12428",
+        "InterviewEndDate": "2023-12-19 21:35:17",
+        "InterviewState": "Complete",
+        "Flight": "EY424",
+        "Dest": "MNL",
+        "AirlineCode": "EY424",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12429",
+        "InterviewEndDate": "2023-12-19 21:34:26",
+        "InterviewState": "Complete",
+        "Flight": "EY424",
+        "Dest": "MNL",
+        "AirlineCode": "EY424",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12430",
+        "InterviewEndDate": "2023-12-19 21:47:22",
+        "InterviewState": "Complete",
+        "Flight": "EY005",
+        "Dest": "MUC",
+        "AirlineCode": "EY005",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12431",
+        "InterviewEndDate": "2023-12-19 21:47:12",
+        "InterviewState": "Complete",
+        "Flight": "EY005",
+        "Dest": "MUC",
+        "AirlineCode": "EY005",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12432",
+        "InterviewEndDate": "2023-12-19 21:50:11",
+        "InterviewState": "Complete",
+        "Flight": "EY005",
+        "Dest": "MUC",
+        "AirlineCode": "EY005",
         "Terminal": "T"
     }
 ]    
