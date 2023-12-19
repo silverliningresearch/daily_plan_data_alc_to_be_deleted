@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "EW  789",
         "Dest": "CGN",
         "AirlineCode": "EW",
-        "download_time": "19-12-2023 14:42:38"
+        "download_time": "19-12-2023 15:47:40"
     },
     {
         "InterviewId": "3965",
@@ -21219,6 +21219,54 @@ let interview_data_raw = `[
     {
         "InterviewId": "6781",
         "InterviewEndDate": "2023-12-19 13:41:57",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "6782",
+        "InterviewEndDate": "2023-12-19 13:43:18",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "6783",
+        "InterviewEndDate": "2023-12-19 13:48:09",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "6784",
+        "InterviewEndDate": "2023-12-19 13:42:53",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "6785",
+        "InterviewEndDate": "2023-12-19 13:51:47",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "6786",
+        "InterviewEndDate": "2023-12-19 13:53:24",
+        "InterviewState": "Complete",
+        "Flight": "LX 2255",
+        "Dest": "ZRH",
+        "AirlineCode": "LX"
+    },
+    {
+        "InterviewId": "6787",
+        "InterviewEndDate": "2023-12-19 13:57:49",
         "InterviewState": "Complete",
         "Flight": "LX 2255",
         "Dest": "ZRH",
