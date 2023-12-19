@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "19-12-2023 21:10:52"
+        "download_time": "19-12-2023 22:15:52"
     },
     {
         "InterviewId": "15819",
@@ -67031,6 +67031,102 @@ let interview_data_raw = `[
         "Flight": "Os118",
         "Dest": "VIE",
         "AirlineCode": "Os"
+    },
+    {
+        "InterviewId": "25675",
+        "InterviewEndDate": "2023-12-19 20:14:53",
+        "InterviewState": "Complete",
+        "Flight": "LH 2200",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25676",
+        "InterviewEndDate": "2023-12-19 20:10:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 2200",
+        "Dest": "BRE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25677",
+        "InterviewEndDate": "2023-12-19 20:35:57",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25678",
+        "InterviewEndDate": "2023-12-19 21:11:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25679",
+        "InterviewEndDate": "2023-12-19 20:31:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25680",
+        "InterviewEndDate": "2023-12-19 20:46:51",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25681",
+        "InterviewEndDate": "2023-12-19 20:54:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25682",
+        "InterviewEndDate": "2023-12-19 21:01:00",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25683",
+        "InterviewEndDate": "2023-12-19 20:51:00",
+        "InterviewState": "Complete",
+        "Flight": "LH2142",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25684",
+        "InterviewEndDate": "2023-12-19 20:46:37",
+        "InterviewState": "Complete",
+        "Flight": "LH2142",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25686",
+        "InterviewEndDate": "2023-12-19 20:39:56",
+        "InterviewState": "Complete",
+        "Flight": "LH 772",
+        "Dest": "BKK",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25687",
+        "InterviewEndDate": "2023-12-19 20:51:36",
+        "InterviewState": "Complete",
+        "Flight": "LH2142",
+        "Dest": "FMO",
+        "AirlineCode": "LH"
     }
 ]    
 
