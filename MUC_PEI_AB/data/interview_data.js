@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "20-12-2023 17:45:53"
+        "download_time": "20-12-2023 18:50:58"
     },
     {
         "InterviewId": "15819",
@@ -67263,6 +67263,70 @@ let interview_data_raw = `[
         "Flight": "IB 3191",
         "Dest": "MAD",
         "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "25707",
+        "InterviewEndDate": "2023-12-20 17:00:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 2150",
+        "Dest": "STR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25708",
+        "InterviewEndDate": "2023-12-20 16:53:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 2150",
+        "Dest": "STR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25710",
+        "InterviewEndDate": "2023-12-20 16:58:19",
+        "InterviewState": "Complete",
+        "Flight": "LH 2150",
+        "Dest": "STR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25711",
+        "InterviewEndDate": "2023-12-20 16:59:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 2150",
+        "Dest": "STR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25712",
+        "InterviewEndDate": "2023-12-20 17:24:11",
+        "InterviewState": "Complete",
+        "Flight": "LH 2150",
+        "Dest": "STR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25713",
+        "InterviewEndDate": "2023-12-20 17:21:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 2150",
+        "Dest": "STR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25714",
+        "InterviewEndDate": "2023-12-20 17:17:12",
+        "InterviewState": "Complete",
+        "Flight": "LH 2150",
+        "Dest": "STR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25715",
+        "InterviewEndDate": "2023-12-20 17:22:17",
+        "InterviewState": "Complete",
+        "Flight": "LH 2150",
+        "Dest": "STR",
+        "AirlineCode": "LH"
     }
 ]    
 
