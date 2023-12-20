@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "20-12-2023 08:01:33"
+        "download_time": "20-12-2023 09:07:55"
     },
     {
         "InterviewId": "5167",
@@ -21319,6 +21319,62 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "WAW",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8351",
+        "InterviewEndDate": "2023-12-20 07:11:36",
+        "InterviewState": "Complete",
+        "Flight": "EC - Easyjet",
+        "Dest": "MXP",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "8352",
+        "InterviewEndDate": "2023-12-20 07:13:04",
+        "InterviewState": "Complete",
+        "Flight": "EC - Easyjet",
+        "Dest": "MXP",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "8353",
+        "InterviewEndDate": "2023-12-20 07:17:58",
+        "InterviewState": "Complete",
+        "Flight": "EC - Easyjet",
+        "Dest": "MXP",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "8355",
+        "InterviewEndDate": "2023-12-20 07:18:34",
+        "InterviewState": "Complete",
+        "Flight": "EC - Easyjet",
+        "Dest": "MXP",
+        "AirlineCode": "EC"
+    },
+    {
+        "InterviewId": "8356",
+        "InterviewEndDate": "2023-12-20 07:51:34",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8357",
+        "InterviewEndDate": "2023-12-20 07:54:29",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8358",
+        "InterviewEndDate": "2023-12-20 07:56:14",
+        "InterviewState": "Complete",
+        "Flight": "EW - Eurowings",
+        "Dest": "HAM",
+        "AirlineCode": "EW"
     }
 ]    
 
