@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "20-12-2023 09:07:55"
+        "download_time": "20-12-2023 10:11:38"
     },
     {
         "InterviewId": "5167",
@@ -21375,6 +21375,62 @@ let interview_data_arr_raw = `[
         "Flight": "EW - Eurowings",
         "Dest": "HAM",
         "AirlineCode": "EW"
+    },
+    {
+        "InterviewId": "8359",
+        "InterviewEndDate": "2023-12-20 08:28:04",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "8360",
+        "InterviewEndDate": "2023-12-20 08:22:27",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "8361",
+        "InterviewEndDate": "2023-12-20 08:23:28",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "8362",
+        "InterviewEndDate": "2023-12-20 08:30:44",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "8363",
+        "InterviewEndDate": "2023-12-20 08:35:00",
+        "InterviewState": "Complete",
+        "Flight": "KL - KLM Royal Dutch Airlines",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewId": "8364",
+        "InterviewEndDate": "2023-12-20 08:35:35",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
+    },
+    {
+        "InterviewId": "8365",
+        "InterviewEndDate": "2023-12-20 08:40:38",
+        "InterviewState": "Complete",
+        "Flight": "VY - Vueling",
+        "Dest": "BCN",
+        "AirlineCode": "VY"
     }
 ]    
 
