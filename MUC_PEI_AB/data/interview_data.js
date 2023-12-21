@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "21-12-2023 10:00:56"
+        "download_time": "21-12-2023 11:07:03"
     },
     {
         "InterviewId": "15819",
@@ -67598,6 +67598,102 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 1734",
         "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25756",
+        "InterviewEndDate": "2023-12-21 09:02:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 2270",
+        "Dest": "NCE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25757",
+        "InterviewEndDate": "2023-12-21 09:09:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 2270",
+        "Dest": "NCE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25758",
+        "InterviewEndDate": "2023-12-21 09:09:14",
+        "InterviewState": "Complete",
+        "Flight": "LH 2270",
+        "Dest": "NCE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25759",
+        "InterviewEndDate": "2023-12-21 09:20:26",
+        "InterviewState": "Complete",
+        "Flight": "LH 1778",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25760",
+        "InterviewEndDate": "2023-12-21 09:23:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 1778",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25761",
+        "InterviewEndDate": "2023-12-21 09:24:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 1778",
+        "Dest": "LIS",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25762",
+        "InterviewEndDate": "2023-12-21 09:47:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25763",
+        "InterviewEndDate": "2023-12-21 09:50:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25764",
+        "InterviewEndDate": "2023-12-21 09:47:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25765",
+        "InterviewEndDate": "2023-12-21 10:01:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25766",
+        "InterviewEndDate": "2023-12-21 09:58:01",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25767",
+        "InterviewEndDate": "2023-12-21 10:00:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 452",
+        "Dest": "LAX",
         "AirlineCode": "LH"
     }
 ]    
