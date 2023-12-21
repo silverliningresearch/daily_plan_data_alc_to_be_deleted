@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "22-12-2023 02:05:29"
+        "download_time": "22-12-2023 03:10:39"
     },
     {
         "InterviewId": "6722",
@@ -48481,6 +48481,87 @@ let interview_data_raw = `[
         "Flight": "EY099",
         "Dest": "IST",
         "AirlineCode": "EY099",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12452",
+        "InterviewEndDate": "2023-12-21 22:14:25",
+        "InterviewState": "Complete",
+        "Flight": "EY288",
+        "Dest": "COK",
+        "AirlineCode": "EY288",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12453",
+        "InterviewEndDate": "2023-12-21 22:15:37",
+        "InterviewState": "Complete",
+        "Flight": "EY288",
+        "Dest": "COK",
+        "AirlineCode": "EY288",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12454",
+        "InterviewEndDate": "2023-12-21 22:23:45",
+        "InterviewState": "Complete",
+        "Flight": "EY288",
+        "Dest": "COK",
+        "AirlineCode": "EY288",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12455",
+        "InterviewEndDate": "2023-12-21 22:23:03",
+        "InterviewState": "Complete",
+        "Flight": "EY288",
+        "Dest": "COK",
+        "AirlineCode": "EY288",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12456",
+        "InterviewEndDate": "2023-12-21 22:32:52",
+        "InterviewState": "Complete",
+        "Flight": "EY288",
+        "Dest": "COK",
+        "AirlineCode": "EY288",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12457",
+        "InterviewEndDate": "2023-12-21 22:27:50",
+        "InterviewState": "Complete",
+        "Flight": "EY288",
+        "Dest": "COK",
+        "AirlineCode": "EY288",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12458",
+        "InterviewEndDate": "2023-12-21 22:50:00",
+        "InterviewState": "Complete",
+        "Flight": "EY053",
+        "Dest": "VIE",
+        "AirlineCode": "EY053",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12459",
+        "InterviewEndDate": "2023-12-21 22:51:55",
+        "InterviewState": "Complete",
+        "Flight": "EY053",
+        "Dest": "VIE",
+        "AirlineCode": "EY053",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12460",
+        "InterviewEndDate": "2023-12-21 22:55:44",
+        "InterviewState": "Complete",
+        "Flight": "EY053",
+        "Dest": "VIE",
+        "AirlineCode": "EY053",
         "Terminal": "T"
     }
 ]    
