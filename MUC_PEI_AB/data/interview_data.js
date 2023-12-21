@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "21-12-2023 08:55:54"
+        "download_time": "21-12-2023 10:00:56"
     },
     {
         "InterviewId": "15819",
@@ -67534,6 +67534,70 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2472",
         "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25747",
+        "InterviewEndDate": "2023-12-21 08:07:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25748",
+        "InterviewEndDate": "2023-12-21 08:10:23",
+        "InterviewState": "Complete",
+        "Flight": "LH 766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25749",
+        "InterviewEndDate": "2023-12-21 08:15:46",
+        "InterviewState": "Complete",
+        "Flight": "LH 766",
+        "Dest": "BOM",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25751",
+        "InterviewEndDate": "2023-12-21 08:28:22",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "25752",
+        "InterviewEndDate": "2023-12-21 08:29:15",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "25753",
+        "InterviewEndDate": "2023-12-21 08:30:43",
+        "InterviewState": "Complete",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC"
+    },
+    {
+        "InterviewId": "25754",
+        "InterviewEndDate": "2023-12-21 08:39:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25755",
+        "InterviewEndDate": "2023-12-21 08:43:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
         "AirlineCode": "LH"
     }
 ]    
