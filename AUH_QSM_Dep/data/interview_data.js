@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "23-12-2023 01:55:34"
+        "download_time": "23-12-2023 03:00:21"
     },
     {
         "InterviewId": "6722",
@@ -48562,6 +48562,78 @@ let interview_data_raw = `[
         "Flight": "EY053",
         "Dest": "VIE",
         "AirlineCode": "EY053",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12461",
+        "InterviewEndDate": "2023-12-22 21:58:27",
+        "InterviewState": "Complete",
+        "Flight": "EY196",
+        "Dest": "BOM",
+        "AirlineCode": "EY196",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12462",
+        "InterviewEndDate": "2023-12-22 22:01:33",
+        "InterviewState": "Complete",
+        "Flight": "EY196",
+        "Dest": "BOM",
+        "AirlineCode": "EY196",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12463",
+        "InterviewEndDate": "2023-12-22 22:04:50",
+        "InterviewState": "Complete",
+        "Flight": "EY196",
+        "Dest": "BOM",
+        "AirlineCode": "EY196",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12464",
+        "InterviewEndDate": "2023-12-22 22:16:19",
+        "InterviewState": "Complete",
+        "Flight": "EY196",
+        "Dest": "BOM",
+        "AirlineCode": "EY196",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12465",
+        "InterviewEndDate": "2023-12-22 22:22:29",
+        "InterviewState": "Complete",
+        "Flight": "EY196",
+        "Dest": "BOM",
+        "AirlineCode": "EY196",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12466",
+        "InterviewEndDate": "2023-12-22 22:19:37",
+        "InterviewState": "Complete",
+        "Flight": "EY196",
+        "Dest": "BOM",
+        "AirlineCode": "EY196",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12467",
+        "InterviewEndDate": "2023-12-22 22:52:28",
+        "InterviewState": "Complete",
+        "Flight": "EY081",
+        "Dest": "MXP",
+        "AirlineCode": "EY081",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12468",
+        "InterviewEndDate": "2023-12-22 22:49:39",
+        "InterviewState": "Complete",
+        "Flight": "EY081",
+        "Dest": "MXP",
+        "AirlineCode": "EY081",
         "Terminal": "T"
     }
 ]    
