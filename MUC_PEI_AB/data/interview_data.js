@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "22-12-2023 18:30:54"
+        "download_time": "22-12-2023 19:35:56"
     },
     {
         "InterviewId": "15819",
@@ -67963,6 +67963,54 @@ let interview_data_raw = `[
     {
         "InterviewId": "25804",
         "InterviewEndDate": "2023-12-22 17:30:18",
+        "InterviewState": "Complete",
+        "Flight": "EZY8646",
+        "Dest": "LGW",
+        "AirlineCode": "EZ"
+    },
+    {
+        "InterviewId": "25805",
+        "InterviewEndDate": "2023-12-22 17:48:32",
+        "InterviewState": "Complete",
+        "Flight": "EI 357",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "25806",
+        "InterviewEndDate": "2023-12-22 17:55:31",
+        "InterviewState": "Complete",
+        "Flight": "EI 357",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "25807",
+        "InterviewEndDate": "2023-12-22 17:48:53",
+        "InterviewState": "Complete",
+        "Flight": "EI 357",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "25808",
+        "InterviewEndDate": "2023-12-22 18:03:45",
+        "InterviewState": "Complete",
+        "Flight": "EI 357",
+        "Dest": "DUB",
+        "AirlineCode": "EI"
+    },
+    {
+        "InterviewId": "25809",
+        "InterviewEndDate": "2023-12-22 18:20:41",
+        "InterviewState": "Complete",
+        "Flight": "EZY8646",
+        "Dest": "LGW",
+        "AirlineCode": "EZ"
+    },
+    {
+        "InterviewId": "25810",
+        "InterviewEndDate": "2023-12-22 18:20:15",
         "InterviewState": "Complete",
         "Flight": "EZY8646",
         "Dest": "LGW",
