@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "KL1342",
         "Dest": "AMS",
         "AirlineCode": "KL1342",
-        "download_time": "23-12-2023 14:01:44"
+        "download_time": "23-12-2023 15:07:45"
     },
     {
         "InterviewId": "6093",
@@ -37601,7 +37601,31 @@ let interview_data_raw = `[
         "AirlineCode": "LH839"
     },
     {
+        "InterviewId": "13635",
+        "InterviewEndDate": "2023-12-23",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "13637",
+        "InterviewEndDate": "2023-12-23",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
         "InterviewId": "13638",
+        "InterviewEndDate": "2023-12-23",
+        "InterviewState": "Complete",
+        "Flight": "LH839",
+        "Dest": "FRA",
+        "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "13639",
         "InterviewEndDate": "2023-12-23",
         "InterviewState": "Complete",
         "Flight": "LH839",
@@ -37625,12 +37649,44 @@ let interview_data_raw = `[
         "AirlineCode": "LH839"
     },
     {
+        "InterviewId": "13642",
+        "InterviewEndDate": "2023-12-23",
+        "InterviewState": "Complete",
+        "Flight": "LH837",
+        "Dest": "FRA",
+        "AirlineCode": "LH837"
+    },
+    {
         "InterviewId": "13643",
         "InterviewEndDate": "2023-12-23",
         "InterviewState": "Complete",
         "Flight": "LH839",
         "Dest": "FRA",
         "AirlineCode": "LH839"
+    },
+    {
+        "InterviewId": "13644",
+        "InterviewEndDate": "2023-12-23",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "13645",
+        "InterviewEndDate": "2023-12-23",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
+    },
+    {
+        "InterviewId": "13647",
+        "InterviewEndDate": "2023-12-23",
+        "InterviewState": "Complete",
+        "Flight": "FR3687",
+        "Dest": "GDN",
+        "AirlineCode": "FR3687"
     }
 ]    
 
