@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "24-12-2023 20:11:50"
+        "download_time": "24-12-2023 21:15:39"
     },
     {
         "InterviewId": "6722",
@@ -48679,6 +48679,105 @@ let interview_data_raw = `[
         "Flight": "EY305",
         "Dest": "KWI",
         "AirlineCode": "EY305",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12478",
+        "InterviewEndDate": "2023-12-24 16:14:36",
+        "InterviewState": "Complete",
+        "Flight": "EY268",
+        "Dest": "MAA",
+        "AirlineCode": "EY268",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12479",
+        "InterviewEndDate": "2023-12-24 16:20:30",
+        "InterviewState": "Complete",
+        "Flight": "EY268",
+        "Dest": "MAA",
+        "AirlineCode": "EY268",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12480",
+        "InterviewEndDate": "2023-12-24 16:23:47",
+        "InterviewState": "Complete",
+        "Flight": "EY268",
+        "Dest": "MAA",
+        "AirlineCode": "EY268",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12481",
+        "InterviewEndDate": "2023-12-24 16:33:13",
+        "InterviewState": "Complete",
+        "Flight": "EY268",
+        "Dest": "MAA",
+        "AirlineCode": "EY268",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12482",
+        "InterviewEndDate": "2023-12-24 16:40:52",
+        "InterviewState": "Complete",
+        "Flight": "EY268",
+        "Dest": "MAA",
+        "AirlineCode": "EY268",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12483",
+        "InterviewEndDate": "2023-12-24 16:41:58",
+        "InterviewState": "Complete",
+        "Flight": "EY268",
+        "Dest": "MAA",
+        "AirlineCode": "EY268",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12484",
+        "InterviewEndDate": "2023-12-24 16:50:05",
+        "InterviewState": "Complete",
+        "Flight": "EY206",
+        "Dest": "BOM",
+        "AirlineCode": "EY206",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12485",
+        "InterviewEndDate": "2023-12-24 16:55:40",
+        "InterviewState": "Complete",
+        "Flight": "EY206",
+        "Dest": "BOM",
+        "AirlineCode": "EY206",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12486",
+        "InterviewEndDate": "2023-12-24 17:01:18",
+        "InterviewState": "Complete",
+        "Flight": "EY206",
+        "Dest": "BOM",
+        "AirlineCode": "EY206",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12487",
+        "InterviewEndDate": "2023-12-24 17:08:11",
+        "InterviewState": "Complete",
+        "Flight": "EY206",
+        "Dest": "BOM",
+        "AirlineCode": "EY206",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12488",
+        "InterviewEndDate": "2023-12-24 17:10:17",
+        "InterviewState": "Complete",
+        "Flight": "EY206",
+        "Dest": "BOM",
+        "AirlineCode": "EY206",
         "Terminal": "T"
     }
 ]    
