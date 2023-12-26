@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "26-12-2023 09:11:33"
+        "download_time": "26-12-2023 10:16:35"
     },
     {
         "InterviewId": "5167",
@@ -21583,6 +21583,46 @@ let interview_data_arr_raw = `[
         "Flight": "BJ - Nouvelair",
         "Dest": "TUN",
         "AirlineCode": "BJ"
+    },
+    {
+        "InterviewId": "8385",
+        "InterviewEndDate": "2023-12-26 08:57:57",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "8386",
+        "InterviewEndDate": "2023-12-26 08:52:36",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "8387",
+        "InterviewEndDate": "2023-12-26 08:55:11",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "8388",
+        "InterviewEndDate": "2023-12-26 08:57:15",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
+    },
+    {
+        "InterviewId": "8389",
+        "InterviewEndDate": "2023-12-26 08:59:55",
+        "InterviewState": "Complete",
+        "Flight": "BA - British Airways",
+        "Dest": "LHR",
+        "AirlineCode": "BA"
     }
 ]    
 

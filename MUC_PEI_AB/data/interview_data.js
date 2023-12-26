@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "26-12-2023 09:10:55"
+        "download_time": "26-12-2023 10:15:56"
     },
     {
         "InterviewId": "15819",
@@ -68543,6 +68543,86 @@ let interview_data_raw = `[
         "Flight": "AA 717",
         "Dest": "CLT",
         "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "25886",
+        "InterviewEndDate": "2023-12-26 08:11:33",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "25887",
+        "InterviewEndDate": "2023-12-26 08:19:21",
+        "InterviewState": "Complete",
+        "Flight": "EN 8218",
+        "Dest": "BRI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "25889",
+        "InterviewEndDate": "2023-12-26 08:18:44",
+        "InterviewState": "Complete",
+        "Flight": "EN 8218",
+        "Dest": "BRI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "25890",
+        "InterviewEndDate": "2023-12-26 08:15:32",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "25891",
+        "InterviewEndDate": "2023-12-26 08:18:31",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "25892",
+        "InterviewEndDate": "2023-12-26 08:22:13",
+        "InterviewState": "Complete",
+        "Flight": "EN 8218",
+        "Dest": "BRI",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "25894",
+        "InterviewEndDate": "2023-12-26 08:37:30",
+        "InterviewState": "Complete",
+        "Flight": "AA 717",
+        "Dest": "CLT",
+        "AirlineCode": "AA"
+    },
+    {
+        "InterviewId": "25896",
+        "InterviewEndDate": "2023-12-26 08:42:54",
+        "InterviewState": "Complete",
+        "Flight": "LH 2434",
+        "Dest": "BLL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25897",
+        "InterviewEndDate": "2023-12-26 08:47:34",
+        "InterviewState": "Complete",
+        "Flight": "LH 2434",
+        "Dest": "BLL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25900",
+        "InterviewEndDate": "2023-12-26 08:59:30",
+        "InterviewState": "Complete",
+        "Flight": "LH 2166",
+        "Dest": "LEJ",
+        "AirlineCode": "LH"
     }
 ]    
 
