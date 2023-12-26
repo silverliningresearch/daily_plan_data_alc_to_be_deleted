@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "26-12-2023 11:20:58"
+        "download_time": "26-12-2023 12:25:57"
     },
     {
         "InterviewId": "15819",
@@ -68719,6 +68719,54 @@ let interview_data_raw = `[
         "Flight": "LH 2178",
         "Dest": "PAD",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25919",
+        "InterviewEndDate": "2023-12-26 10:46:14",
+        "InterviewState": "Complete",
+        "Flight": "TP 553",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "25920",
+        "InterviewEndDate": "2023-12-26 10:46:34",
+        "InterviewState": "Complete",
+        "Flight": "TP 553",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "25921",
+        "InterviewEndDate": "2023-12-26 10:41:01",
+        "InterviewState": "Complete",
+        "Flight": "TP 553",
+        "Dest": "LIS",
+        "AirlineCode": "TP"
+    },
+    {
+        "InterviewId": "25922",
+        "InterviewEndDate": "2023-12-26 11:15:17",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "25923",
+        "InterviewEndDate": "2023-12-26 11:15:44",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
+    },
+    {
+        "InterviewId": "25924",
+        "InterviewEndDate": "2023-12-26 11:22:25",
+        "InterviewState": "Complete",
+        "Flight": "TG 925",
+        "Dest": "BKK",
+        "AirlineCode": "TG"
     }
 ]    
 
