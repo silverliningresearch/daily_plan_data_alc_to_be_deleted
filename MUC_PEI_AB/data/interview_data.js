@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "26-12-2023 07:00:57"
+        "download_time": "26-12-2023 08:05:58"
     },
     {
         "InterviewId": "15819",
@@ -68431,6 +68431,54 @@ let interview_data_raw = `[
         "Flight": "OU 4437",
         "Dest": "ZAG",
         "AirlineCode": "OU"
+    },
+    {
+        "InterviewId": "25871",
+        "InterviewEndDate": "2023-12-26 06:27:01",
+        "InterviewState": "Complete",
+        "Flight": "DE 1412",
+        "Dest": "FUE",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "25872",
+        "InterviewEndDate": "2023-12-26 06:35:52",
+        "InterviewState": "Complete",
+        "Flight": "DE 1412",
+        "Dest": "FUE",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "25873",
+        "InterviewEndDate": "2023-12-26 06:32:48",
+        "InterviewState": "Complete",
+        "Flight": "DE 1412",
+        "Dest": "FUE",
+        "AirlineCode": "DE"
+    },
+    {
+        "InterviewId": "25874",
+        "InterviewEndDate": "2023-12-26 06:55:57",
+        "InterviewState": "Complete",
+        "Flight": "X3 6682",
+        "Dest": "HRG",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "25875",
+        "InterviewEndDate": "2023-12-26 06:48:28",
+        "InterviewState": "Complete",
+        "Flight": "X3 6682",
+        "Dest": "HRG",
+        "AirlineCode": "X3"
+    },
+    {
+        "InterviewId": "25876",
+        "InterviewEndDate": "2023-12-26 06:51:24",
+        "InterviewState": "Complete",
+        "Flight": "X3 6682",
+        "Dest": "HRG",
+        "AirlineCode": "X3"
     }
 ]    
 
