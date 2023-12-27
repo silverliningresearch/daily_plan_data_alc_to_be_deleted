@@ -6,7 +6,7 @@ let interview_data_arr_raw = `[
         "Flight": "AA - American Airlines",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "download_time": "27-12-2023 14:26:42"
+        "download_time": "27-12-2023 15:31:39"
     },
     {
         "InterviewId": "5167",
@@ -21783,6 +21783,70 @@ let interview_data_arr_raw = `[
         "Flight": "LH - Lufthansa",
         "Dest": "FRA",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8416",
+        "InterviewEndDate": "2023-12-27 13:40:04",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BHX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8417",
+        "InterviewEndDate": "2023-12-27 13:31:38",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BHX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8418",
+        "InterviewEndDate": "2023-12-27 13:31:55",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "BHX",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8419",
+        "InterviewEndDate": "2023-12-27 14:09:45",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8420",
+        "InterviewEndDate": "2023-12-27 14:04:40",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8421",
+        "InterviewEndDate": "2023-12-27 14:01:48",
+        "InterviewState": "Complete",
+        "Flight": "LH - Lufthansa",
+        "Dest": "LHR",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "8422",
+        "InterviewEndDate": "2023-12-27 14:27:48",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
+    },
+    {
+        "InterviewId": "8423",
+        "InterviewEndDate": "2023-12-27 14:27:39",
+        "InterviewState": "Complete",
+        "Flight": "EN - AirDolomiti",
+        "Dest": "FLR",
+        "AirlineCode": "EN"
     }
 ]    
 
