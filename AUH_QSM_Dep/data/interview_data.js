@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "27-12-2023 13:11:04"
+        "download_time": "27-12-2023 14:15:55"
     },
     {
         "InterviewId": "6722",
@@ -48913,6 +48913,69 @@ let interview_data_raw = `[
         "Flight": "EY025",
         "Dest": "LHR",
         "AirlineCode": "EY025",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12505",
+        "InterviewEndDate": "2023-12-27 09:24:41",
+        "InterviewState": "Complete",
+        "Flight": "EY286",
+        "Dest": "AMD",
+        "AirlineCode": "EY286",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12506",
+        "InterviewEndDate": "2023-12-27 09:28:05",
+        "InterviewState": "Complete",
+        "Flight": "EY286",
+        "Dest": "AMD",
+        "AirlineCode": "EY286",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12507",
+        "InterviewEndDate": "2023-12-27 09:34:18",
+        "InterviewState": "Complete",
+        "Flight": "EY286",
+        "Dest": "AMD",
+        "AirlineCode": "EY286",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12508",
+        "InterviewEndDate": "2023-12-27 09:40:11",
+        "InterviewState": "Complete",
+        "Flight": "EY286",
+        "Dest": "AMD",
+        "AirlineCode": "EY286",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12509",
+        "InterviewEndDate": "2023-12-27 09:50:37",
+        "InterviewState": "Complete",
+        "Flight": "EY286",
+        "Dest": "AMD",
+        "AirlineCode": "EY286",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12510",
+        "InterviewEndDate": "2023-12-27 10:00:44",
+        "InterviewState": "Complete",
+        "Flight": "EY007",
+        "Dest": "FRA",
+        "AirlineCode": "EY007",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12511",
+        "InterviewEndDate": "2023-12-27 10:06:37",
+        "InterviewState": "Complete",
+        "Flight": "EY007",
+        "Dest": "FRA",
+        "AirlineCode": "EY007",
         "Terminal": "T"
     }
 ]    

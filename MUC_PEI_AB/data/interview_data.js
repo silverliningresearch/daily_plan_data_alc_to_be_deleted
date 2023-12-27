@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "27-12-2023 10:05:59"
+        "download_time": "27-12-2023 11:10:56"
     },
     {
         "InterviewId": "15819",
@@ -68935,6 +68935,78 @@ let interview_data_raw = `[
         "Flight": "LH 2220",
         "Dest": "TLS",
         "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25948",
+        "InterviewEndDate": "2023-12-27 09:21:40",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25949",
+        "InterviewEndDate": "2023-12-27 09:14:15",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25950",
+        "InterviewEndDate": "2023-12-27 09:14:09",
+        "InterviewState": "Complete",
+        "Flight": "LH 1734",
+        "Dest": "BEG",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25951",
+        "InterviewEndDate": "2023-12-27 09:34:02",
+        "InterviewState": "Complete",
+        "Flight": "LH 1768",
+        "Dest": "LCA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25952",
+        "InterviewEndDate": "2023-12-27 09:35:22",
+        "InterviewState": "Complete",
+        "Flight": "LH 1768",
+        "Dest": "LCA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25953",
+        "InterviewEndDate": "2023-12-27 09:47:05",
+        "InterviewState": "Complete",
+        "Flight": "LH 1768",
+        "Dest": "LCA",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "25954",
+        "InterviewEndDate": "2023-12-27 09:59:23",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "25955",
+        "InterviewEndDate": "2023-12-27 10:02:16",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
+    },
+    {
+        "InterviewId": "25956",
+        "InterviewEndDate": "2023-12-27 09:56:31",
+        "InterviewState": "Complete",
+        "Flight": "SQ 327",
+        "Dest": "SIN",
+        "AirlineCode": "SQ"
     }
 ]    
 
