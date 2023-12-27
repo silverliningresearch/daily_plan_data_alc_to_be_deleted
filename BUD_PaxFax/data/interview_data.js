@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "W6 2335",
         "Dest": "MXP",
         "AirlineCode": "W6",
-        "download_time": "27-12-2023 16:39:38"
+        "download_time": "27-12-2023 17:45:10"
     },
     {
         "InterviewId": "7701",
@@ -23534,6 +23534,78 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "FR 1243",
         "Dest": "ATH",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11044",
+        "InterviewEndDate": "2023-12-27 16:08:28",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "11045",
+        "InterviewEndDate": "2023-12-27 16:17:22",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "11046",
+        "InterviewEndDate": "2023-12-27 16:16:44",
+        "InterviewState": "Complete",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO"
+    },
+    {
+        "InterviewId": "11047",
+        "InterviewEndDate": "2023-12-27 16:35:08",
+        "InterviewState": "Complete",
+        "Flight": "FR  054",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11048",
+        "InterviewEndDate": "2023-12-27 16:36:49",
+        "InterviewState": "Complete",
+        "Flight": "FR  054",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11049",
+        "InterviewEndDate": "2023-12-27 16:36:54",
+        "InterviewState": "Complete",
+        "Flight": "FR  054",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11050",
+        "InterviewEndDate": "2023-12-27 16:39:30",
+        "InterviewState": "Complete",
+        "Flight": "FR  054",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11051",
+        "InterviewEndDate": "2023-12-27 16:39:32",
+        "InterviewState": "Complete",
+        "Flight": "FR  054",
+        "Dest": "CRL",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewId": "11053",
+        "InterviewEndDate": "2023-12-27 16:43:00",
+        "InterviewState": "Complete",
+        "Flight": "FR  054",
+        "Dest": "CRL",
         "AirlineCode": "FR"
     }
 ]    
