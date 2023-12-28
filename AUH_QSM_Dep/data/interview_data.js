@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "SLL",
         "AirlineCode": "3L263",
         "Terminal": "T1",
-        "download_time": "28-12-2023 07:35:18"
+        "download_time": "28-12-2023 08:41:11"
     },
     {
         "InterviewId": "6722",
@@ -49039,6 +49039,60 @@ let interview_data_raw = `[
         "Flight": "5W7011",
         "Dest": "KUT",
         "AirlineCode": "5W7011",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12519",
+        "InterviewEndDate": "2023-12-28 03:35:46",
+        "InterviewState": "Complete",
+        "Flight": "EY208",
+        "Dest": "BOM",
+        "AirlineCode": "EY208",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12520",
+        "InterviewEndDate": "2023-12-28 03:46:33",
+        "InterviewState": "Complete",
+        "Flight": "EY301",
+        "Dest": "KWI",
+        "AirlineCode": "EY301",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12521",
+        "InterviewEndDate": "2023-12-28 03:47:36",
+        "InterviewState": "Complete",
+        "Flight": "EY301",
+        "Dest": "KWI",
+        "AirlineCode": "EY301",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12522",
+        "InterviewEndDate": "2023-12-28 03:53:51",
+        "InterviewState": "Complete",
+        "Flight": "EY301",
+        "Dest": "KWI",
+        "AirlineCode": "EY301",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12523",
+        "InterviewEndDate": "2023-12-28 04:09:00",
+        "InterviewState": "Complete",
+        "Flight": "EY141",
+        "Dest": "YYZ",
+        "AirlineCode": "EY141",
+        "Terminal": "T"
+    },
+    {
+        "InterviewId": "12524",
+        "InterviewEndDate": "2023-12-28 04:25:20",
+        "InterviewState": "Complete",
+        "Flight": "EY141",
+        "Dest": "YYZ",
+        "AirlineCode": "EY141",
         "Terminal": "T"
     }
 ]    
