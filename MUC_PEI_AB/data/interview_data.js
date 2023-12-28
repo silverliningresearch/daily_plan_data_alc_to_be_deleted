@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "AF 1823",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "download_time": "28-12-2023 06:40:57"
+        "download_time": "28-12-2023 07:45:57"
     },
     {
         "InterviewId": "15819",
@@ -69574,6 +69574,182 @@ let interview_data_raw = `[
         "InterviewState": "Complete",
         "Flight": "LH 2282",
         "Dest": "BRU",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26035",
+        "InterviewEndDate": "2023-12-28 05:42:42",
+        "InterviewState": "Complete",
+        "Flight": "IB 3195",
+        "Dest": "MAD",
+        "AirlineCode": "IB"
+    },
+    {
+        "InterviewId": "26036",
+        "InterviewEndDate": "2023-12-28 05:44:35",
+        "InterviewState": "Complete",
+        "Flight": "LH 2324",
+        "Dest": "VIE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26037",
+        "InterviewEndDate": "2023-12-28 05:41:41",
+        "InterviewState": "Complete",
+        "Flight": "LH 2324",
+        "Dest": "VIE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26038",
+        "InterviewEndDate": "2023-12-28 05:44:47",
+        "InterviewState": "Complete",
+        "Flight": "LH 2324",
+        "Dest": "VIE",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26039",
+        "InterviewEndDate": "2023-12-28 05:56:09",
+        "InterviewState": "Complete",
+        "Flight": "SM 2999",
+        "Dest": "RMF",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "26040",
+        "InterviewEndDate": "2023-12-28 06:06:06",
+        "InterviewState": "Complete",
+        "Flight": "SM 2999",
+        "Dest": "RMF",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "26041",
+        "InterviewEndDate": "2023-12-28 06:00:38",
+        "InterviewState": "Complete",
+        "Flight": "SM 2999",
+        "Dest": "RMF",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "26042",
+        "InterviewEndDate": "2023-12-28 06:01:50",
+        "InterviewState": "Complete",
+        "Flight": "LH 2366",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26043",
+        "InterviewEndDate": "2023-12-28 06:01:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 2366",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26044",
+        "InterviewEndDate": "2023-12-28 06:06:08",
+        "InterviewState": "Complete",
+        "Flight": "LH 2366",
+        "Dest": "ZRH",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26045",
+        "InterviewEndDate": "2023-12-28 06:16:59",
+        "InterviewState": "Complete",
+        "Flight": "SM 2931",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "26046",
+        "InterviewEndDate": "2023-12-28 06:28:07",
+        "InterviewState": "Complete",
+        "Flight": "SM 2931",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "26047",
+        "InterviewEndDate": "2023-12-28 06:27:56",
+        "InterviewState": "Complete",
+        "Flight": "SM 2931",
+        "Dest": "HRG",
+        "AirlineCode": "SM"
+    },
+    {
+        "InterviewId": "26048",
+        "InterviewEndDate": "2023-12-28 06:24:38",
+        "InterviewState": "Complete",
+        "Flight": "LH 2452",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26049",
+        "InterviewEndDate": "2023-12-28 06:22:52",
+        "InterviewState": "Complete",
+        "Flight": "LH 2452",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26050",
+        "InterviewEndDate": "2023-12-28 06:27:36",
+        "InterviewState": "Complete",
+        "Flight": "LH 2452",
+        "Dest": "OSL",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26053",
+        "InterviewEndDate": "2023-12-28 06:41:35",
+        "InterviewState": "Complete",
+        "Flight": "QR 060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "26054",
+        "InterviewEndDate": "2023-12-28 06:37:43",
+        "InterviewState": "Complete",
+        "Flight": "QR 060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "26055",
+        "InterviewEndDate": "2023-12-28 06:37:15",
+        "InterviewState": "Complete",
+        "Flight": "QR 060",
+        "Dest": "DOH",
+        "AirlineCode": "QR"
+    },
+    {
+        "InterviewId": "26056",
+        "InterviewEndDate": "2023-12-28 06:43:18",
+        "InterviewState": "Complete",
+        "Flight": "LH 1800",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26057",
+        "InterviewEndDate": "2023-12-28 06:41:42",
+        "InterviewState": "Complete",
+        "Flight": "LH 1800",
+        "Dest": "MAD",
+        "AirlineCode": "LH"
+    },
+    {
+        "InterviewId": "26058",
+        "InterviewEndDate": "2023-12-28 06:40:33",
+        "InterviewState": "Complete",
+        "Flight": "LH 1800",
+        "Dest": "MAD",
         "AirlineCode": "LH"
     }
 ]    
